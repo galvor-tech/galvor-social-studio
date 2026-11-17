@@ -164,7 +164,7 @@ def main():
             continue
         short, url, day, _ = chain[n]
         p = nls.get(n) if nls.get(n) and nls[n]["date"] == day else None
-        p = p or blank_post("newsletter", day, time="08:30", voice="raj", pillar="Newsletter", job="Educate", format="issue",
+        p = p or blank_post("newsletter", day, time="08:30", voice="company", pillar="Newsletter", job="Educate", format="issue",
                             series="Decoded", title=f"Decoded #{n}: {short}", hook=short, status=status)
         p = save_post(p)
         md = decoded.import_html(src.read_text(encoding="utf-8"), folder_of(p) / "images")
@@ -190,7 +190,7 @@ def main():
         nxt = chain.get(new + 1, ("", "", "", ""))
         md = md_from_draft(nl.get("draft_markdown") or "", new, title, chain[new - 1][:2], (nxt[0], nxt[3]), nl.get("data_needed"))
         nl.update(issue=new, markup=md, next_issue=nxt[0], url=chain[new][1], previous_studio_issue=old)
-        p.update(date=day, time="08:30", title=title, newsletter=nl, status="draft", voice="raj")
+        p.update(date=day, time="08:30", title=title, newsletter=nl, status="draft", voice="company")
         p["notes"] = (f"Was planned as #{old} (fortnightly). Now #{new}, Wednesday {day}. Draft converted to Decoded markup — "
                       "edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\n" + (p.get("notes") or ""))
         save_post(p, note=f"Decoded goes weekly: #{old} → #{new} on {day}")
@@ -201,7 +201,7 @@ def main():
         if any((q.get("newsletter") or {}).get("issue") == n for q in all_posts("newsletter")):
             continue
         nxt = chain.get(n + 1, ("", "", "", ""))
-        p = blank_post("newsletter", day, time="08:30", voice="raj", pillar="Newsletter", job="Educate", format="issue",
+        p = blank_post("newsletter", day, time="08:30", voice="company", pillar="Newsletter", job="Educate", format="issue",
                        series="Decoded", title=title, hook=short, status="idea",
                        caption=f"Decoded by Galvor, Issue #{n}: {short}\n\n{dek}\n\nSubscribe to get it every Wednesday.")
         p["newsletter"] = {"issue": n, "markup": md_skeleton(n, title, dek, takeaways, sections, chain[n - 1][:2], (nxt[0], nxt[3])),

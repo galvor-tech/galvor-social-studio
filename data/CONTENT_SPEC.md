@@ -153,6 +153,8 @@ saved analysis; otherwise [DATA NEEDED]. No client names.
   - The Galvor page follows **1–2 days later** (Thu 12:30) with the link, report, launch or carousel, and on Fri 12:30
     reshares the week's best personal post with its own line.
   - Links help reach on the company page and hurt it on personal profiles: story on the person, link on the page.
+  - **Decoded is the exception: the Galvor page posts it first** (Wed 08:30, voice `company`, never Raj's handle). The
+    byline can stay "By Raj Dhakad"; the team reposts it with their own line or comments in the first hour.
   - Same news, different angle: Sunil money/risk/CMO worries; Raj product and data; Shrutik marketing craft and behind the scenes.
   - Every personal post still closes with Follow Galvor / @galvor.ai (rule 14), so personal reach builds page followers.
   - Weekly LinkedIn rhythm: Mon 12:30 Shrutik · Tue 09:00 Sunil · Wed 08:30 Decoded (page) · Wed 09:00 Raj ·

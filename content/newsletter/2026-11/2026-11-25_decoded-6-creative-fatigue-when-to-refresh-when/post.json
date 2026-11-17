@@ -4,7 +4,7 @@
   "platform": "newsletter",
   "date": "2026-11-25",
   "time": "08:30",
-  "voice": "raj",
+  "voice": "company",
   "pillar": "Newsletter",
   "job": "Educate",
   "format": "issue",
@@ -40,6 +40,10 @@
     {
       "at": "2026-11-11T01:58:27",
       "action": "Decoded goes weekly: #5 → #6 on 2026-11-25"
+    },
+    {
+      "at": "2026-11-17T23:33:48",
+      "action": "Posted from the Galvor page, not Raj (17 Nov 2026)"
     }
   ],
   "metrics": {},
@@ -47,7 +51,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:25:13",
-  "updated_at": "2026-11-11T02:10:34",
+  "updated_at": "2026-11-17T23:33:48",
   "topic_ref": "NL-5",
   "newsletter": {
     "issue": 6,

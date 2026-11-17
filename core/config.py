@@ -150,6 +150,7 @@ DISTRIBUTION = [
     "The Galvor page follows 1-2 days later with the link, report, launch or carousel, or reshares the personal post with its own line.",
     "Links never go in a personal post's body (they cut reach). Put them in the first comment, or point to the Galvor page post.",
     "Links, Decoded, reports, launches and carousels belong on the Galvor page (links help reach there).",
+    "Decoded is always posted from the Galvor page (Wed 08:30), never from Raj's handle. Raj, Sunil and Shrutik repost it with their own line or comment in the first hour.",
     "Every personal post still closes with Follow Galvor / @galvor.ai, so the founders' reach builds page followers.",
     "Same news, different angle per person: Sunil money and risk, Raj product and data, Shrutik marketing craft and behind the scenes.",
     "The other team members leave a real comment in the first hour; the author replies to every comment.",
