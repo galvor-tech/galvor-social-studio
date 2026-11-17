@@ -1,0 +1,23 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}{{ platform|capitalize }} · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.create_tabs(platform) }}
+<div class="row"><h1 class="grow">{{ {'linkedin':'LinkedIn','instagram':'Instagram','newsletter':'Newsletter — Decoded by Galvor'}[platform] }}</h1>
+  <a class="btn soft" href="{{ url_for('new_post', platform=platform) }}">+ New {{ platform }} post</a></div>
+<p class="sub">{{ total }} items · saved on disk in <code>{{ folder }}</code> — one folder per post (post.json, caption.txt, first_comment.txt, script.md, images/).</p>
+<form class="row" style="margin-bottom:8px">
+  <select class="in" name="status" style="width:auto"><option value="">All statuses</option>{% for s in STATUSES %}<option value="{{ s }}" {{ 'selected' if st==s }}>{{ STATUS_LABEL[s] }}</option>{% endfor %}</select>
+  <select class="in" name="month" style="width:auto"><option value="">All months</option>{% for mm in months %}<option value="{{ mm }}" {{ 'selected' if mm==mo }}>{{ (mm ~ '-01')|d('%B %Y') }}</option>{% endfor %}</select>
+  <select class="in" name="format" style="width:auto"><option value="">All formats</option>{% for f in formats %}<option {{ 'selected' if fm==f }}>{{ f }}</option>{% endfor %}</select>
+  <button class="btn">Filter</button>{% if st or mo or fm %}<a class="btn" href="?">Clear</a>{% endif %}
+</form>
+{% for month, posts in groups.items() %}
+<div class="panel">
+  <div class="panel-h plain"><h3>{{ (month ~ '-01')|d('%B %Y') }}</h3><span class="count">{{ posts|length }}</span><small>📁 content/{{ platform }}/{{ month }}/</small></div>
+  {% for p in posts %}
+  {% set ls = lint_summary(p) %}
+  {{ m.row(p, true, ('<span class="pill err">' ~ ls.errors ~ ' blocking</span>') if ls.errors else '') }}
+  {% endfor %}
+</div>
+{% else %}<div class="panel"><div class="empty">Nothing here yet.</div></div>{% endfor %}
+{% endblock %}

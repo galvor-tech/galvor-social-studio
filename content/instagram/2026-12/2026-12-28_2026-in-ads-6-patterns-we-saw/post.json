@@ -1,0 +1,119 @@
+{
+  "id": "ig-2026-12-28-2026-in-ads-6-patterns-we-saw",
+  "slug": "2026-in-ads-6-patterns-we-saw",
+  "platform": "instagram",
+  "date": "2026-12-28",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Data Drop",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "2026 in ads: four changes on Meta and what they ask of your creative",
+  "hook": "In 2026 Meta put a “Creative diversity” column in Ads Manager. It sums up the year.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "In 2026 Meta put a “Creative diversity” column in Ads Manager. It sums up the year.\n\nBy Meta's public statements, Andromeda now scores over a billion ads a second, 100× the 2024 system. GEM reads twice as long a history per person.\n\nOur reading: a system that sharp notices when your ads look alike.\n\nOne brand we work with took its creative diversity score from 63 to 92 out of 100, two months after our recommended changes.\n\nFor 2027, brief for variety on purpose. Save the last slide and follow @galvor.ai.",
+  "first_comment": "Read Decoded #9 on galvor.ai.",
+  "hashtags": [
+    "#metaads",
+    "#adcreative",
+    "#performancemarketing",
+    "#digitalmarketingindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: 2026 in ads, the year Meta began measuring sameness. Slide 2: Andromeda scores over a billion ads a second, 100× the 2024 system. Slide 3: GEM reads twice as long a history per person, with about 19% more conversions since last year. Slide 4: the Creative diversity column appeared in late August and reached most accounts in the last week of October. Slide 5: one brand's diversity score went from 63 to 92 out of 100. Slide 6: four things these changes ask of you in 2027. Slide 7: follow @galvor.ai.",
+  "cta": "Save the 2027 list; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Data drop",
+        "headline": "2026 in ads: the year Meta began *measuring sameness*",
+        "sub": "Four changes, and what they ask of your creative in 2027."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Change 1 · the system",
+        "stat": "100×",
+        "headline": "the 2024 system: Andromeda now scores *over a billion ads a second*",
+        "source": "Source: Meta public statements, as cited in Decoded #3"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Change 2 · the memory",
+        "stat": "Twice",
+        "headline": "as long a history per person, read by GEM. About *19% more conversions* since last year",
+        "source": "Source: Meta public statements, as cited in Decoded #3"
+      },
+      {
+        "layout": "text",
+        "kicker": "Change 3 · the column",
+        "headline": "“*Creative diversity*” became a column in Ads Manager",
+        "body": "It started appearing in late August and reached most accounts in the last week of October.\n\nHow different your ads are from each other is now something you can see."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Change 4 · what one team did",
+        "stat": "63 → 92",
+        "headline": "One brand's *creative diversity score* out of 100, two months after our recommended changes",
+        "source": "Source: Galvor · anonymised client, as published in Decoded #3"
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this for 2027",
+        "headline": "What these changes *ask of you*",
+        "items": [
+          "Make ads that differ in the first shot, not only the script",
+          "Count how many truly different looks you run",
+          "Check the diversity column every month",
+          "Brief for variety on purpose"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Meta got better at *telling ads apart*. Give it different ads.",
+        "sub": "Save this before you brief January.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the 2027 list",
+          "Share with your creative team"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a performance lead who wants the year in one swipe. One argument: the 2026 changes on Meta all point one way, so variety across ads is now something to brief for. Numbers used, all from the facts bank: Andromeda scores over a billion ads a second, 100× the 2024 system; GEM reads twice as long a history per person, about 19% more conversions since last year (Meta public statements, as cited in Decoded #3); Creative diversity column from late August 2026, most accounts by the last week of October; one brand's creative diversity score 63 to 92 out of 100 two months after Galvor's recommended changes. The line 'a system that sharp notices when your ads look alike' is marked as our reading. Topic sharpened from 'six patterns we saw' to four sourced changes, because the facts bank supports four. First comment points to Decoded #9 (2026 in Creative, published 16 Dec).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:55:17",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-28 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:58",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-109",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

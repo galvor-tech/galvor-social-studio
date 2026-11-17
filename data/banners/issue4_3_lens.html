@@ -1,0 +1,60 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Jakarta;src:url("file:///D:/galvor_linkedin/studio/static/fonts/PlusJakartaSans.ttf");font-weight:200 800}
+@font-face{font-family:Inter;src:url("file:///D:/galvor_linkedin/studio/static/fonts/Inter.ttf");font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#0A0A14}
+.stage{position:relative;width:1920px;height:1080px;overflow:hidden;
+  background:radial-gradient(900px 800px at 1420px 540px, rgba(110,60,230,.30), transparent 70%),#0A0A14}
+.copy{position:absolute;left:100px;top:0;height:1080px;width:900px;display:flex;flex-direction:column;justify-content:center;z-index:8}
+.kicker{display:flex;align-items:center;gap:18px;font-family:Consolas,monospace;font-size:28px;letter-spacing:.24em;color:#A685FF;text-transform:uppercase;margin-bottom:54px}
+.kicker img{width:44px;height:44px}
+h1{font-family:Jakarta,sans-serif;font-weight:800;font-size:106px;line-height:1.03;letter-spacing:-.03em;color:#fff}
+h1 .p{color:#A47BFF}
+.fs{margin-left:-.07em}
+.sub{margin-top:48px;font-family:Inter,sans-serif;font-size:29px;color:#BDB6D6}
+.sub b{color:#fff;font-weight:600}
+/* avatar grid */
+.grid{position:absolute;left:1060px;top:170px;display:grid;grid-template-columns:repeat(5,150px);gap:34px 22px}
+.av{width:150px;height:150px;border-radius:50%;position:relative;overflow:hidden;background:#1C1A2E;border:2px solid rgba(255,255,255,.07)}
+.av svg{position:absolute;left:50%;bottom:-6px;width:104%;transform:translateX(-50%)}
+.av.dim{filter:grayscale(1) brightness(.55);opacity:.55}
+.lbl{width:150px;margin-top:-20px;text-align:center}
+/* lens */
+.lens{position:absolute;left:1324px;top:274px;width:310px;height:310px;border-radius:50%;z-index:10;
+  border:14px solid #C9B2FF;box-shadow:0 0 0 4px rgba(10,10,20,.9),0 0 70px rgba(164,123,255,.9),inset 0 0 50px rgba(255,255,255,.18);
+  background:radial-gradient(circle at 35% 30%,rgba(255,255,255,.14),rgba(255,255,255,0) 45%)}
+.handle{position:absolute;left:1588px;top:544px;width:56px;height:230px;border-radius:28px;z-index:9;transform:rotate(-40deg);transform-origin:top center;
+  background:linear-gradient(90deg,#6B3FD8,#A47BFF 50%,#6B3FD8);box-shadow:0 10px 40px rgba(0,0,0,.6)}
+.found{position:absolute;left:1389px;top:339px;width:180px;height:180px;border-radius:50%;overflow:hidden;z-index:11;
+  background:linear-gradient(165deg,#FFB86B,#F0609E 50%,#7C3AED);box-shadow:0 0 40px rgba(255,180,90,.5)}
+.found svg{position:absolute;left:50%;bottom:-8px;width:104%;transform:translateX(-50%)}
+.chk{position:absolute;z-index:12;display:flex;align-items:center;gap:12px;font-family:Inter,sans-serif;font-weight:600;font-size:24px;color:#F4EEFF;
+  padding:12px 20px 12px 14px;border-radius:999px;background:rgba(22,18,40,.92);border:1.5px solid rgba(180,150,255,.5);box-shadow:0 10px 30px rgba(0,0,0,.5);white-space:nowrap}
+.chk i{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(180deg,#FFD27A,#F0A92E);font-style:normal;color:#3A2400;font-size:18px;font-weight:800}
+.c1{left:1640px;top:250px}.c2{left:1672px;top:352px}.c3{left:1640px;top:454px}
+.line{position:absolute;z-index:11;height:2px;background:linear-gradient(90deg,rgba(201,178,255,.9),rgba(201,178,255,0))}
+</style></head>
+<body><div class="stage">
+  <div class="grid" id="g"></div>
+  <div class="handle"></div>
+  <div class="lens"></div>
+  <div class="found"><svg viewBox="0 0 100 100"><circle cx="50" cy="40" r="18" fill="rgba(255,255,255,.95)"/><path d="M12 104c0-24 17-38 38-38s38 14 38 38z" fill="rgba(255,255,255,.95)"/></svg></div>
+  <div class="chk c1"><i>✓</i>Reels watched</div>
+  <div class="chk c2"><i>✓</i>Comments read</div>
+  <div class="chk c3"><i>✓</i>Fits the brief</div>
+  <div class="copy">
+    <div class="kicker"><img src="mark.png" alt="">Decoded by Galvor <span>•</span> Issue #4</div>
+    <h1>We Shortlisted<br>20 Creators<span class="fs">.</span><br><span class="p">The Brand<br>Picked One<span class="fs">.</span></span></h1>
+    <div class="sub">How <b>Galvor Scout</b> finds the one, by Raj Dhakad</div>
+  </div>
+</div>
+<script>
+const g=document.getElementById('g'); const hues=[262,320,200,25,170,285,345,220,40,150,300,190,10,250,60,330,210,275,120,350];
+for(let i=0;i<20;i++){const d=document.createElement('div');d.className='av'+(i===7?'':' dim');const h=hues[i];
+ d.style.background=`linear-gradient(165deg,hsl(${h} 60% 58%),hsl(${(h+40)%360} 60% 34%))`;
+ d.innerHTML='<svg viewBox="0 0 100 100"><circle cx="50" cy="40" r="18" fill="rgba(255,255,255,.85)"/><path d="M12 104c0-24 17-38 38-38s38 14 38 38z" fill="rgba(255,255,255,.85)"/></svg>';
+ if(i===7)d.style.visibility='hidden'; g.appendChild(d);}
+</script>
+</body></html>

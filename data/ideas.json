@@ -1,0 +1,112 @@
+{
+ "ideas": [
+  {
+   "id": "idea-09213e5c99",
+   "created_at": "2026-11-10T19:38:57+00:00",
+   "origin": "discover",
+   "source_item_ids": [
+    "89acc23f409b",
+    "982dcd3ce69e"
+   ],
+   "title": "How to QC creator video drafts before they go live",
+   "hook": "Most creator videos fail on WhatsApp three days before launch, not inside Ads Manager.",
+   "angle": "Brands spend lakhs on creators but only review drafts for visual polish, missing whether the hook and message actually deliver on the brief. At Galvor, client servicing reviews creator footage against historical creative attributes before media budget touches it. We share the practical 4-step checklist Indian performance teams can use to catch duds before paying creators.",
+   "outline": [
+    "The WhatsApp trap: reviewing creator videos for aesthetic vibes instead of message retention.",
+    "Step 1: Check the first 3 seconds against the brief's primary hook angle, not just creator energy.",
+    "Step 2: Verify the problem statement appears before second 6 in regional language formats.",
+    "Step 3: Confirm the creator addressed the specific friction point rather than giving generic praise.",
+    "Step 4: Reject generic unboxing edits before releasing creator milestone payouts.",
+    "Follow Galvor for actionable D2C creative workflows and creator briefs."
+   ],
+   "why_now": "Citing 89acc23f409b on why repeating one message fails the Rule of 7, and 982dcd3ce69e on extreme hooks missing the core product delivery.",
+   "numbers": [],
+   "status": "new",
+   "post_id": null,
+   "numbers_dropped": 0,
+   "platform": "linkedin",
+   "format": "carousel",
+   "pillar": "Creator Ops India",
+   "voice": "shrutik",
+   "job": "Educate",
+   "flags": []
+  },
+  {
+   "id": "idea-58161cb7fb",
+   "created_at": "2026-11-10T19:38:57+00:00",
+   "origin": "discover",
+   "source_item_ids": [
+    "e3298bfd5ff1",
+    "805be1b33ee7",
+    "9e7c9d79e363"
+   ],
+   "title": "Why Andromeda 2.0 flags your look-alike creator ads",
+   "hook": "When performance dips, media buyers blame the algorithm, but Meta's Andromeda update is just reading your lack of creative diversity.",
+   "angle": "Raj breaks down how Meta's ranking architecture evaluates creative pools across brand accounts. Andromeda scores ads across real attribute signals, meaning six minor variations of the same creator hook dilute your spend. Instead of testing media buying hacks, teams need genuine diversity in messaging and format.",
+   "outline": [
+    "Blaming algorithm shifts masks the real problem: your account is running duplicate angles.",
+    "Meta's upgraded retrieval systems evaluate ads across genuine attribute variations.",
+    "Launching look-alike creatives within days cuts first-month spend distribution drastically.",
+    "Fixing creative fatigue requires testing contrasting hooks, settings, and problem framings.",
+    "Follow Galvor for engineering teardowns of ad delivery and creative intelligence."
+   ],
+   "why_now": "Citing e3298bfd5ff1 on Andromeda retrieval driving conversion lift, 805be1b33ee7 on agency excuses, and 9e7c9d79e363 on why better AI cannot save bad creatives.",
+   "numbers": [
+    {
+     "value": "2.4%",
+     "source_item_id": "e3298bfd5ff1",
+     "quote": "Meta says it's driven a 2.4% conversion lift since 2025.",
+     "label": "conversion lift reported by Meta from upgraded retrieval",
+     "url": "https://www.linkedin.com/posts/anand-tuli_meta-andromeda-what-the-october-28-update-activity-7525372800962990080-kl74"
+    },
+    {
+     "value": "2",
+     "source_item_id": "805be1b33ee7",
+     "quote": "Meanwhile, the client is checking ROAS every 2 hours.",
+     "label": "hours between client ROAS checks during performance panics",
+     "url": "https://www.instagram.com/reel/DfEOoqByVEZ/"
+    }
+   ],
+   "status": "used",
+   "post_id": "li-2026-11-11-why-andromeda-reads-look-alike-creator-ads-as-on",
+   "numbers_dropped": 0,
+   "platform": "linkedin",
+   "format": "text",
+   "pillar": "Public Data",
+   "voice": "raj",
+   "job": "De-risk",
+   "flags": [],
+   "updated_at": "2026-11-11T09:59:35+00:00"
+  },
+  {
+   "id": "idea-455126a306",
+   "created_at": "2026-11-10T19:38:57+00:00",
+   "origin": "discover",
+   "source_item_ids": [
+    "805be1b33ee7",
+    "982dcd3ce69e"
+   ],
+   "title": "3 vetting filters before paying an Indian D2C creator",
+   "hook": "Stop shortlisting creators based on follower counts and aesthetic grids.",
+   "angle": "D2C founders and influencer managers waste budget booking creators who make visually polished content that never converts. Galvor tracks why creator assets succeed by decoding retention patterns across hundreds of Indian D2C ads. Here is the 3-point vetting framework to evaluate creator profiles before sending brief agreements.",
+   "outline": [
+    "The follower count trap: why high engagement often generates zero conversion hold rate.",
+    "Filter 1: Audit past sponsored reels for clear problem articulation in the opening seconds.",
+    "Filter 2: Check delivery naturalness in Hindi or regional formats over scripted English lines.",
+    "Filter 3: Demand proof of retention past the first 3 seconds from their raw reel analytics.",
+    "Follow @galvor.ai for daily creative intelligence and performance marketing breakdowns."
+   ],
+   "why_now": "Citing 805be1b33ee7 on media buyer excuse culture and 982dcd3ce69e on breaking down hook mechanics that actually drive intent.",
+   "numbers": [],
+   "status": "new",
+   "post_id": null,
+   "numbers_dropped": 0,
+   "platform": "instagram",
+   "format": "reel",
+   "pillar": "Framework",
+   "voice": "company",
+   "job": "Attract",
+   "flags": []
+  }
+ ]
+}

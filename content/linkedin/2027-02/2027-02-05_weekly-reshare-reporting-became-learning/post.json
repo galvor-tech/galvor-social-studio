@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-02-05-weekly-reshare-reporting-became-learning",
+  "slug": "weekly-reshare-reporting-became-learning",
+  "platform": "linkedin",
+  "date": "2027-02-05",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Brand Memory / POV",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "From reporting to learning: every row of the report ends in a verb",
+  "hook": "A report that ends without a decision is a receipt.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "A report that ends without a decision is a receipt.\nIt proves the money was spent and says nothing about Monday.\n\nMost weekly ad reports carry the same columns: spend, impressions, clicks, cost per order, return. All of them describe what happened.\n\nOne change turns the same report into something a team can act on. Every row must end in one of four verbs.\n\nScale. It is working and has room.\nCut. It has had a fair run and is not paying.\nRefresh. The message sells and the look is tired.\nTest. We do not know yet, and here is the ad that will tell us.\n\nA row that cannot take a verb does not belong in the report. That alone shortens most decks.\n\nThen add one line under the table: what we learned this fortnight that changes the next brief. If that line is blank two reports running, the team is reporting and has stopped learning.\n\nAgencies and in-house teams can make this change without new data or new tools. The numbers stay the same and the last column is new.\n\nFrom dashboards to decisions is a short trip once every row has a verb.",
+  "first_comment": "Follow Galvor for one usable method a week.",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#MarketingAnalytics",
+    "#D2C"
+  ],
+  "alt_text": "",
+  "cta": "Soft: follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: single-line bomb. Reader: an agency account lead or in-house performance marketer who builds the weekly report. Standalone method on the week's theme (reporting became learning); it does not quote a personal post or describe a client meeting. No numbers used. Scale, cut, refresh, test is the phrase from the spec.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-05 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:01",
+  "updated_at": "2026-11-16T21:22:01",
+  "topic_ref": "Reshare: S16",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

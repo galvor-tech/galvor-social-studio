@@ -1,0 +1,20 @@
+Our AI co-worker can recommend a budget move. It cannot make one.
+That was a design choice, and I would make it again.
+
+The fair doubt about any agent in a marketing team is simple: what happens when it is wrong?
+
+My answer is to decide, before building anything, where a person stands. Three questions sort it.
+
+Can the mistake be undone for free? A wrong tag on an ad can. Let the system act, and review in bulk.
+
+Does the mistake spend money? A budget shift does. The system shows its reasoning and a person approves. Galvor never touches the media budget.
+
+Could the mistake hurt the brand? A claim in a script could. A person reads it before it goes anywhere.
+
+The engineering work is making that review quick: the recommendation, the evidence and the expected result in one place. Someone who can see why can say yes or no in a couple of minutes.
+
+If you are evaluating an agent this quarter, ask the vendor to draw this map. Where does it act alone, and where does it wait?
+
+An agent you can overrule is one you can let near real money.
+
+#AIinMarketing #PerformanceMarketing #D2C

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Post kit · {{ p.title }}</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+<script>try{var t=localStorage.getItem('gss-theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
+</head>
+<body>
+<div class="kit">
+  <div class="row small muted"><img src="{{ url_for('static', filename='brand/galvor-mark.png') }}" alt="" style="width:22px;height:22px">
+    <span class="grow">Galvor post kit</span><span>{{ p.date|d }} · {{ p.time }}</span></div>
+  <h1>{{ p.title }}</h1>
+  <div class="row small" style="gap:6px;flex-wrap:wrap">
+    <span class="pill {{ {'linkedin':'li','instagram':'ig','newsletter':'nl'}[p.platform] }}">{{ {'linkedin':'LinkedIn','instagram':'Instagram','newsletter':'Newsletter'}[p.platform] }}</span>
+    <span class="pill ghost">{{ p.format }}</span>
+    <span class="pill s-{{ p.status }}">{{ STATUS_LABEL.get(p.status, p.status) }}</span>
+    {% if p.platform == 'linkedin' and p.voice != 'company' %}<span class="pill">Post from {{ VOICES[p.voice].name }}'s profile</span>{% elif p.platform == 'linkedin' %}<span class="pill">Post as the Galvor page</span>{% endif %}
+  </div>
+  {% if p.status not in ['approved','scheduled','published'] %}<div class="flash warn" style="margin-top:10px">Not approved yet. Get sign-off before posting.</div>{% endif %}
+  {% if p.notes %}<p class="small muted" style="margin-top:10px"><b>Note:</b> {{ p.notes }}</p>{% endif %}
+
+  <h4>1 · Caption</h4>
+  <button class="btn primary big" onclick='copyText({{ caption|tojson }}, "Caption copied")'>Copy caption{{ ' + hashtags' if p.hashtags }}</button>
+  <div class="cap">{{ caption }}</div>
+  {% if p.first_comment %}
+  <h4>First comment</h4>
+  <button class="btn big" onclick='copyText({{ p.first_comment|tojson }}, "First comment copied")'>Copy first comment</button>
+  <div class="cap">{{ p.first_comment }}</div>
+  {% endif %}
+  {% if p.poll %}<h4>Poll</h4><div class="cap">{{ p.poll.question }}
+{% for o in p.poll.options %}• {{ o }}
+{% endfor %}Duration: {{ p.poll.duration }}</div>{% endif %}
+
+  {% if p.video and p.video.files %}
+  <h4>2 · Video</h4>
+  {% for f in p.video.files %}<video src="/media/{{ p.id }}/{{ f }}" controls playsinline preload="metadata" style="width:100%;border-radius:12px;margin-bottom:8px"></video>
+  <a class="btn primary big" href="/media/{{ p.id }}/{{ f }}" download="{{ p.slug }}-{{ f }}">Download {{ '9:16 (Reels)' if 'reels' in f else '4:5 (feed)' }} video</a>{% endfor %}
+  {% if p.video.srt %}<a class="btn big" href="/media/{{ p.id }}/{{ p.video.srt }}" download>Download captions (.srt)</a>{% endif %}
+  {% endif %}
+  {% if imgs or pdf %}
+  <h4>2 · Images {% if imgs|length > 1 %}({{ imgs|length }} — keep this order){% endif %}</h4>
+  <p class="small muted">Tap and hold an image → Save to Photos / Download. Or download them all at once.</p>
+  {% if pdf and p.platform == 'linkedin' %}<a class="btn big" href="/media/{{ p.id }}/carousel.pdf" download>Download carousel PDF (LinkedIn document post)</a>{% endif %}
+  <a class="btn big" href="/kit/{{ p.id }}/zip?k={{ k }}">Download all (zip)</a>
+  <div class="imgs">{% for f in imgs %}<a href="/media/{{ p.id }}/{{ f }}" download="{{ p.slug }}_{{ f }}"><img src="/media/{{ p.id }}/{{ f }}" alt="{{ p.alt_text if loop.first else '' }}" loading="lazy"></a>{% endfor %}</div>
+  {% if p.alt_text %}<h4>Alt text</h4><button class="btn big" onclick='copyText({{ p.alt_text|tojson }}, "Alt text copied")'>Copy alt text</button>{% endif %}
+  {% endif %}
+  {% if p.script %}<h4>Script</h4><div class="cap">{% for sc in p.script.scenes or [] %}{{ sc.time }} — {{ sc.voiceover or '' }}{% if sc.on_screen %} [{{ sc.on_screen }}]{% endif %}
+{% endfor %}</div>{% endif %}
+
+  <h4>Tracked link (story sticker / DM / comment)</h4>
+  <button class="btn big" onclick='copyText({{ utm|tojson }}, "Tracked link copied")'>Copy tracked galvor.ai link</button>
+
+  <div class="stick">
+    {% if p.status != 'published' %}
+    <input class="in" id="url" placeholder="Paste the live post link (optional)" style="width:100%;box-sizing:border-box">
+    <button class="btn primary big" onclick="posted()">3 · I posted it</button>
+    {% else %}<div class="flash ok">Marked posted {{ (p.published_at or '')[:16]|replace('T',' ') }}. Reply to comments in the first hour.</div>{% endif %}
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+<script>
+async function posted() {
+  const r = await fetch('/api/kit/{{ p.id }}/posted?k={{ k }}', {method: 'POST', headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({url: document.getElementById('url').value.trim()})});
+  const j = await r.json().catch(() => ({ok: false}));
+  if (j.ok) { toast('Marked posted ✓'); setTimeout(() => location.reload(), 800); } else toast(j.error || 'Failed', 5000);
+}
+</script>
+</body>
+</html>

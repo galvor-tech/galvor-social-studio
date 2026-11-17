@@ -1,0 +1,222 @@
+{
+ "posts": [
+  {
+   "id": "li-2026-11-24-poll-would-you-let-an-ai-agent-move-20-of-your-b",
+   "title": "Poll: would you let an AI agent move 20% of your ad budget?",
+   "hook": "Would you let an AI agent move 20% of your ad budget without your sign-off?",
+   "caption": "Would you let an AI agent move 20% of your ad budget without your sign-off?\n\nMost people answer this on instinct, as a question about the technology. I think the answer says more about the team than the tool.\n\nTo hand over a budget decision, you have to be able to state the rule behind it. When do we cut an ad. When do we put more money behind one.\n\nA team that has those rules written down can give them to a new hire, an agency or an agent, and check the work afterwards. A team that carries them in two people's heads cannot hand them to anyone.\n\nSo before you vote, try writing your cut rule in one sentence. If that takes more than a minute, you have found something more useful than the poll result.",
+   "first_comment": "Follow Galvor for the result and what we make of it.",
+   "hashtags": ["#AIinMarketing", "#PerformanceMarketing", "#D2CIndia"],
+   "alt_text": "",
+   "cta": "none (vote in the poll)",
+   "script": null,
+   "poll": {
+    "question": "Would you let an AI agent move 20% of your ad budget without your sign-off?",
+    "options": ["Yes, inside written limits", "Only with my sign-off", "It can suggest, never move", "No, not at any size"],
+    "duration": "1 week"
+   },
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: the poll question itself opens the post (polls need the question first). Reader: a D2C founder or CMO who signs off budget moves. Argument: you can only delegate a budget decision whose rule you can write down. Numbers: 20% is the hypothetical in the poll question, not a statistic. The old opening ('a question I ask every CMO I meet') was removed because it could not be verified. LinkedIn polls cannot carry an image. Optional: screenshot the result on day 7 for a follow-up; nothing in this post promises one."
+  },
+  {
+   "id": "li-2026-12-01-10-things-your-brand-should-know-after-12-months",
+   "title": "The memory test: ten questions after 12 months of ads",
+   "hook": "A year of ads is research you have already paid for.",
+   "caption": "A year of ads is research you have already paid for.\n\nMost teams can quote last month's RoAS. Fewer can say why their strongest ad did well, or which ads they would never run again.\n\nHere is a test for your next review. Ten questions, laptops closed, 30 minutes. Each person writes their answers alone, then the room compares.\n\nSeven or more answers that everyone agrees on: your brand remembers. Fewer than that: the learning is sitting in the ad account and in one or two heads.\n\nThe ten questions are in the slides. The December review is a good time to run it, while the sale is still fresh.",
+   "first_comment": "Decoded #7 is out tomorrow on galvor.ai: The Sale Is Over. What Did Your Ads Learn?",
+   "hashtags": ["#BrandMemory", "#PerformanceMarketing", "#D2CIndia"],
+   "alt_text": "Seven-slide carousel. A memory test for marketing teams: ten questions about a year of ads to answer without a dashboard, how to run the test in 30 minutes, and how to read the score.",
+   "cta": "Soft: save the ten questions; follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {"layout": "cover", "kicker": "The memory test", "headline": "A year of ads. *Ten questions* your team should answer without a dashboard.", "sub": "30 minutes in your next review."},
+     {"layout": "text", "kicker": "How to run it", "headline": "Laptops closed. *Write alone.* Then compare.", "body": "Give everyone the ten questions on paper.\n\nTen minutes to write. Twenty to compare.\n\nAn answer counts only when the room agrees on it and someone can name the ads behind it."},
+     {"layout": "list", "kicker": "Questions 1 to 5", "headline": "What *worked*, and for whom", "items": ["Which opening shots held attention longest this year?", "Which buyer was each of our strongest ads speaking to?", "How many weeks does a strong ad last before it tires?", "Which format suits which product in our range?", "Which offer brought buyers back for a second order?"]},
+     {"layout": "list", "kicker": "Questions 6 to 10", "headline": "What to *stop*, and what comes next", "items": ["Which ads only did well during a sale?", "What do creator videos do for us that studio shoots do not?", "Which message have we repeated most, and is it still paying?", "Which ads would we never run again, and why?", "What is the first thing we test next quarter?"]},
+     {"layout": "compare", "kicker": "Read your score", "headline": "What the score *tells you*", "left_title": "7 or more agreed", "left": ["Your brand remembers", "Put the answers in every brief", "Run the test again each quarter"], "right_title": "Fewer than 7", "right": ["The learning lives in a few heads", "It leaves when they leave", "Start where the room disagreed"]},
+     {"layout": "statement", "headline": "Plenty of data. *No memory.*", "sub": "The questions your team disagrees on are your test plan for next quarter."},
+     {"layout": "cta", "headline": "Take the ten questions into your *next review*", "sub": "Save this post so you have them in the room.", "actions": ["Follow Galvor", "Save the ten questions"]}
+    ]
+   },
+   "notes": "Hook shape: punchy plus context. Reader: a D2C founder or CMO running the December review after the sale season. Argument: test whether your team can recall what a year of ads taught it, without a dashboard. No statistics used; '30 minutes', 'ten questions' and 'seven' are the test's own rules. First comment points to Decoded #7, which goes out the day after this post (2 Dec), so it says 'out tomorrow'. If the post moves to 2 Dec or later, change it to 'Read Decoded #7 on galvor.ai'."
+  },
+  {
+   "id": "li-2026-12-08-agents-not-headcount",
+   "title": "Agents, not headcount: the two-column test before a hire",
+   "hook": "Most marketing headcount requests are requests for more hands.",
+   "caption": "Most marketing headcount requests are requests for more hands.\n\nHands to move information from one place to another, which is the work software agents now do well.\n\nBefore I would approve another hire on a D2C marketing team, I would ask for one page: last week's hours, split into two columns.\n\nColumn one is moving information. Pulling reports, tagging creatives, rebuilding the review deck, chasing files and approvals.\n\nColumn two is deciding. What to make next, what to scale, what to stop, which risk is worth taking this quarter.\n\nI expect the first column to be the longer one on most teams. That column is where agents belong. They do not tire on the fortieth creative.\n\nThe second column is where people belong, and it rarely gets a full day of anyone's week.\n\nSo the planning question for 2027 changes. Start with the decisions you want made better. Then ask whether each one needs a person or an agent.\n\nHire for the second column. Automate the first.",
+   "first_comment": "Decoded #8 is out tomorrow on galvor.ai: Agents, Not Headcount: What an AI Co-worker Should Decide.",
+   "hashtags": ["#AIinMarketing", "#D2CIndia", "#GrowthMarketing"],
+   "alt_text": "",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: single-line bomb. Reader: a founder or CMO about to approve 2027 headcount. Argument: split the team's week into moving information and deciding; automate the first, hire for the second. No numbers used. 'I expect the first column to be the longer one' is written as an expectation, not a measured finding; Sunil can replace it with a real count if he has one. First comment points to Decoded #8, out the day after this post (9 Dec)."
+  },
+  {
+   "id": "li-2026-12-15-a-pilot-without-a-business-question-is-just-a-lo",
+   "title": "A pilot without a business question is just a longer demo",
+   "hook": "A pilot without a business question is just a longer demo.",
+   "caption": "A pilot without a business question is just a longer demo.\n\nIt runs for six weeks, everyone finds it interesting, and nobody can say what to do next.\n\nThat is an avoidable way for a software pilot to die. So here is the one-page note I would want written before any pilot starts, including a pilot with Galvor.\n\nLine one: the question, in money terms. 'Which creative choices are raising our cost per order?' is a question. 'Let us see what the tool can do' is a tour.\n\nLine two: the decision the answer will change, and the name of the person who will make it. If no budget or brief moves either way, do not run the pilot.\n\nLine three: the result that would make us stop. Agree it on day one, while nobody has anything to defend.\n\nThen put the review date in the calendar before the kick-off.\n\nA vendor who resists that page is telling you something. A buyer who cannot fill it in is not ready yet, and it is kinder to say so early.\n\nThe page takes twenty minutes. It protects the six weeks.",
+   "first_comment": "Follow Galvor for more notes from the buying side of marketing software.",
+   "hashtags": ["#D2C", "#MarketingAnalytics", "#AIinMarketing"],
+   "alt_text": "",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "CONFIRM WITH Sunil: this is in the 'What I Heard in the Room' series but is written as a method, with no meeting or quote in it. If he has a real pilot conversation he is allowed to describe (anonymised), add two lines after the second paragraph. Also confirm he is happy to say Galvor pilots should start with this page. Hook shape: single-line bomb. Reader: a CMO or founder about to agree to a martech pilot. Argument: write the question, the decision and the stop rule before a pilot starts. No statistics; 'six weeks' and 'twenty minutes' are illustrative lengths, change them if Galvor pilots run to a different length."
+  },
+  {
+   "id": "li-2026-12-22-what-i-got-wrong-about-ai-in-marketing-in-year-o",
+   "title": "Why Galvor never touches the media budget",
+   "hook": "We built Galvor so it never touches your media budget.",
+   "caption": "We built Galvor so it never touches your media budget.\n\nThis year many tools in our category went the other way and now launch and manage ads themselves. Here is why we have not.\n\nThe first reason is checking. When the same system recommends a move, makes the move and reports the result, nobody outside it can test the advice. We would rather give the reasoning to your team and let them argue with it.\n\nThe second is accountability. A founder answers for the marketing budget to a board and to a bank balance. That answer should not be 'the tool decided'.\n\nSo we stop at the recommendation: scale this, cut that, shift this much, and here is why. Your team or your agency moves the money.\n\nThis costs us something. A tool that acts looks faster in a demo than a tool that explains.\n\nI accept that trade. Speed is easy to buy. An explanation your team can check is harder to find, and it is what makes the next decision better.",
+   "first_comment": "Follow Galvor for how we build, and what we choose not to build.",
+   "hashtags": ["#AIinMarketing", "#PerformanceMarketing", "#D2C"],
+   "alt_text": "",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "CONFIRM WITH Sunil: topic replaced. The old post ('What I got wrong about AI in marketing in year one') needs a real personal admission that only he can supply, so it was not written. This post takes Galvor's published line 'We never touch the media budget' and gives two reasons for it (checkable advice, accountability stays with the budget owner). He must confirm these are his reasons and that this is still the product position. If he does have a real year-one mistake to tell, that would be a stronger post for this slot. Hook shape: punchy plus context. Reader: a founder comparing AI ad tools. The line about other tools launching and managing ads is from public product pages; no competitor is named and no spend is stated. No numbers used. topic_ref left as S41."
+  },
+  {
+   "id": "li-2026-12-29-where-i-would-never-let-ai-make-the-final-market",
+   "title": "Where I would never let AI make the final marketing call",
+   "hook": "We build AI for marketing teams. Some calls I would keep away from it.",
+   "caption": "We build AI for marketing teams.\nSome calls I would keep away from it.\n\nThe way I sort them is two questions.\n\nCan we undo this within a week? And if it was wrong, would the numbers tell us?\n\nWhen both answers are yes, let the agent do the reading and propose the move. Which ad is tiring. Which opening shot to test next. A mistake there shows up in the next report and gets corrected.\n\nWhen either answer is no, a person makes the final call. Four examples from a D2C brand's week:\n\nA health or results claim in an ad. Once it is seen, it cannot be withdrawn.\n\nThe price and the offer. Buyers remember a discount long after the campaign ends.\n\nThe face of the brand. Which creator or founder story stands for you is a question of trust.\n\nAnything tied to a festival or a sensitive moment.\n\nIn each of these, the cost of being wrong does not appear on a dashboard.\n\nA useful hour in the last week of the year: list ten decisions your team made this quarter and sort them with those two questions.",
+   "first_comment": "Read Decoded #8 on galvor.ai",
+   "hashtags": ["#AIinMarketing", "#D2CIndia", "#CreativeStrategy"],
+   "alt_text": "",
+   "cta": "Read Decoded #8 (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: stacked. Reader: a CMO or founder deciding what to hand to AI tools in 2027. Argument: a two-question test (can we undo it in a week, would the numbers show the mistake) sorts agent calls from human calls. No statistics; 'ten decisions' and 'a week' are the exercise's own terms. Optional for Sunil: one real decision he kept with a person, added after the four examples. First comment points to Decoded #8 (9 Dec), which covers what an AI co-worker should decide."
+  },
+  {
+   "id": "li-2027-01-05-ai-content-at-scale-needs-a-control-layer",
+   "title": "AI content at scale: five checks before anything goes live",
+   "hook": "AI made it cheap to produce a hundred ads. Checking them is still your job.",
+   "caption": "AI made it cheap to produce a hundred ads.\nChecking them is still your job.\n\nWhen making an ad costs almost nothing, the limit on a team moves from production to control. Without checks, a team launches many ads that look alike, and the ads compete with each other.\n\nIn Galvor's analysis of new video ads launched from May to September 2026, when six or more look-alikes launched within three days, each got 48% less first-month spend.\n\nThe slides have five checks to set up before the first batch of the year, and the one step most teams skip after the ads have run.\n\nNone of them needs new software. They need a rule and a name against it.",
+   "first_comment": "Follow Galvor for more working methods like this one.",
+   "hashtags": ["#AIinMarketing", "#AdCreative", "#D2CIndia"],
+   "alt_text": "Six-slide carousel. Five checks for AI-made ads before they go live: a reason for each ad, one change at a time, a person reading every claim, a cap on look-alike ads, and one named approver. A stat slide shows look-alike ads launched together each got 48% less first-month spend. A final step: write down what each ad taught you.",
+   "cta": "Soft: save the checklist; follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {"layout": "cover", "kicker": "AI content at scale", "headline": "Making more ads is easy now. *Five checks* before any of them go live.", "sub": "A control layer your team can set up this week."},
+     {"layout": "stat", "kicker": "Why volume alone fails", "stat": "48%", "headline": "less first-month spend per ad when *six or more look-alikes* launched within three days", "sub": "Ads that look alike compete with each other.", "source": "Source: Galvor analysis · ads launched May–Sep 2026"},
+     {"layout": "list", "kicker": "Before it is made", "headline": "Give every ad *a reason to exist*", "items": [{"title": "1. A reason", "detail": "Each ad names the earlier ad it learns from"}, {"title": "2. One change", "detail": "Change the message or the look, never both at once"}]},
+     {"layout": "list", "kicker": "Before it goes live", "headline": "Put *a person* at the gate", "items": [{"title": "3. Claims", "detail": "A person reads every product and health claim"}, {"title": "4. Look-alikes", "detail": "Cap how many similar ads launch in one week"}, {"title": "5. A name", "detail": "One person signs off and owns the result"}]},
+     {"layout": "text", "kicker": "The step most teams skip", "headline": "Write down what each ad *taught you*", "body": "Two weeks after launch, log one line per ad: what we changed, what happened, what we do next.\n\nWithout that line, the next batch starts from zero, however fast it was made."},
+     {"layout": "cta", "headline": "Set the five checks *before* the next batch", "sub": "Save this for your first planning meeting of the year.", "actions": ["Follow Galvor", "Save the checklist"]}
+    ]
+   },
+   "notes": "Hook shape: stacked. Reader: a head of growth or CMO whose team started using AI tools to make ads in 2026. Argument: when production is cheap, the team needs five written checks and a learning log. Number used: 48% less first-month spend when six or more look-alikes launched within three days (Decoded #3, Galvor analysis of new video ads launched May to Sep 2026). First of two possible uses in this group; it is not used again. No matching Decoded issue, so the first comment is a follow ask only."
+  },
+  {
+   "id": "li-2027-01-12-the-cmo-of-2028-runs-people-agencies-and-agents",
+   "title": "The CMO of 2028 runs people, agencies and agents in one rhythm",
+   "hook": "By 2028 a CMO will run people, agencies and agents together.",
+   "caption": "By 2028 a CMO will run people, agencies and agents together.\n\nToday most teams run them on separate calendars, and that is where the learning gets lost.\n\nThe in-house team has a Monday review. The agency sends a monthly deck. Creators work to a campaign plan. AI tools produce whenever someone asks. Each one learns something, and none of it reaches the others in time to matter.\n\nYou do not have to wait for 2028 to fix this. Put everyone on one two-week cycle.\n\nBefore the meeting, agents do the reading: what ran, what it cost per order, what looked different about the ads that did well.\n\nIn the meeting, people decide. What to scale, what to cut, what to test next.\n\nWithin two days, those decisions go into the briefs for the agency and the creators, in the same words.\n\nTwo weeks later the cycle opens with one question: what did the last one teach us?\n\nTwo weeks is long enough for an ad to show a result and short enough that the lesson is still usable.\n\nThe CMO's job in that system is to keep the rhythm, and to make sure nothing learned in one corner stays there.",
+   "first_comment": "Read Decoded #12 on galvor.ai",
+   "hashtags": ["#AIinMarketing", "#GrowthMarketing", "#D2CIndia"],
+   "alt_text": "",
+   "cta": "Read Decoded #12 (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: punchy plus context. Reader: a CMO or founder running an in-house team, an agency, creators and AI tools at once. Argument: put all of them on one two-week cycle with fixed roles (agents read, people decide, briefs carry the decisions). Numbers: none from the facts bank as statistics; 'two-week cycle' matches Galvor's published loop, which runs every two weeks. 2028 is a forecast and is written as Sunil's view. First comment points to Decoded #12 (6 Jan), the fortnightly creative cycle issue."
+  },
+  {
+   "id": "li-2027-01-19-ai-generated-vs-ai-informed-creative",
+   "title": "AI-generated vs AI-informed creative",
+   "hook": "Making ads got cheap. Knowing which ad to make did not.",
+   "caption": "Making ads got cheap.\nKnowing which ad to make did not.\n\nThose are two different uses of AI, and brand teams tend to buy the first one.\n\nAI-generated creative means using a tool to produce more ads, faster. AI-informed creative means using it to read what your past ads taught you, and then writing the brief.\n\nThe second is the better bet, and here is the evidence I would put in front of a founder.\n\nIn Galvor's analysis of new video ads launched from May to September 2026, a proven message shown in a new look got 47% more first-month spend. A new message over a familiar first shot got less than average.\n\nSo the most valuable brief is short: keep this message, change how it looks. You can only write it if you know which of your messages is proven.\n\nA check for your next batch. For every ad, fill in two blanks. The message is kept from which earlier ad? What will look different?\n\nIf the first blank stays empty, you are generating blind, whichever tool you use.\n\nDecide what to make first. After that, the tool matters much less.",
+   "first_comment": "Follow Galvor for more findings from our ad analysis.",
+   "hashtags": ["#CreativeStrategy", "#AIinMarketing", "#MetaAds"],
+   "alt_text": "",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: stacked. Reader: a founder or head of growth choosing between AI ad-making tools and analysis. Argument: AI used to decide what to make is worth more than AI used to make more, because a proven message in a new look is what gets spend. Number used: 47% more first-month spend for a proven message in a new look (Decoded #3, Galvor analysis of new video ads launched May to Sep 2026); used once in this group. 'Less than average' refers to the 16% less figure for a new message over a familiar first shot, stated without the number to keep the post to one statistic."
+  },
+  {
+   "id": "li-2027-01-26-five-questions-to-ask-any-ai-marketing-vendor-in",
+   "title": "Five questions to ask any AI marketing vendor, including us",
+   "hook": "Five questions to ask any AI marketing vendor. Ask us too.",
+   "caption": "Five questions to ask any AI marketing vendor. Ask us too.\n\nA demo shows a product on its best day. These questions show the other days.\n\nThey cover what the vendor refuses to do, whether the product can explain itself, where it goes wrong, what you keep if you leave, and whose working week has to change.\n\nSend them before the demo and ask for the answers in writing. A written answer gets checked by more people than a spoken one, and you can hold it against the contract later.\n\nThe five are in the slides. I would want Galvor held to the same list.",
+   "first_comment": "Follow Galvor for more buyer-side checklists.",
+   "hashtags": ["#AIinMarketing", "#D2C", "#MarketingAnalytics"],
+   "alt_text": "Seven-slide carousel. Five questions for any AI marketing vendor: what do you refuse to do, can it show why, what does it get wrong, what do we keep if we leave, and whose week changes. Each slide says what a good answer sounds like.",
+   "cta": "Soft: save the five questions; follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {"layout": "cover", "kicker": "Before the demo", "headline": "*Five questions* to ask any AI marketing vendor. Including us.", "sub": "Send them first. Ask for the answers in writing."},
+     {"layout": "text", "kicker": "Question 1", "headline": "What do you *refuse* to do?", "body": "Clear limits tell you what a product is for.\n\nA good answer names something the vendor has chosen not to build. 'We do everything' is a warning."},
+     {"layout": "text", "kicker": "Question 2", "headline": "Can it show *why*, in words my team can check?", "body": "Ask to see the reasoning behind one recommendation.\n\nIf your growth lead cannot argue with it, they cannot trust it either."},
+     {"layout": "text", "kicker": "Question 3", "headline": "What does it *get wrong*, and how would we know?", "body": "Every system has blind spots.\n\nA vendor who knows theirs can tell you where a person still has to check the work."},
+     {"layout": "text", "kicker": "Question 4", "headline": "What do we *keep* if we leave?", "body": "Your ads taught the system something.\n\nAsk what you can take with you: the tags, the findings, the history. Get it in writing."},
+     {"layout": "text", "kicker": "Question 5", "headline": "Whose *week* changes, and how?", "body": "A tool that changes nobody's routine changes nothing.\n\nAsk which meeting, which report and which person will work differently in the first month."},
+     {"layout": "cta", "headline": "Send these *before* your next demo", "sub": "Save the list. Ask for written answers.", "actions": ["Follow Galvor", "Save the five questions"]}
+    ]
+   },
+   "notes": "CONFIRM WITH Sunil: the post says 'ask us too' and 'I would want Galvor held to the same list'. Before it goes out he should have Galvor's own answers ready, above all to question 4 (what a client can export if they leave), because people will ask in the comments. If he wants, the answers can go in as a second comment. Hook shape: punchy plus context. Reader: a founder or CMO shortlisting AI marketing tools for the new financial year. Argument: five written questions expose what a demo hides. No numbers used. The slot falls on Republic Day (festival field is empty, so no greeting was added); expect lower reach on a holiday."
+  },
+  {
+   "id": "li-2027-02-02-the-real-risk-ai-making-average-marketing-look-b",
+   "title": "AI can make average marketing look busy",
+   "hook": "AI can make an average marketing team look very productive.",
+   "caption": "AI can make an average marketing team look very productive.\n\nThe output goes up. What the team knows about its buyers stays where it was.\n\nThis is the risk I would watch in 2027, more than any risk to jobs. If your weekly report counts creatives shipped, posts published and decks sent, AI will improve every line on it. The report will look better while the business stays the same.\n\nThe fix is one change to that report.\n\nRemove the line that counts what was made. Add a line that counts questions answered.\n\nA question is answered when a test ends in a decision: scale it, cut it, or change the brief. A test that ends in 'interesting' counts as zero.\n\nThen read the number every fortnight. A team that ships forty ads and answers one question has had a slow fortnight. A team that ships eight and answers four has had a good one.\n\nOutput is what you paid for. A decision is what you got for the money.\n\nCount the second one, and AI becomes useful for the right reason.",
+   "first_comment": "Read Decoded #11 on galvor.ai",
+   "hashtags": ["#AIinMarketing", "#PerformanceMarketing", "#D2CIndia"],
+   "alt_text": "",
+   "cta": "Read Decoded #11 (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: single-line bomb. Reader: a founder or CMO who reads a weekly marketing report. Argument: replace the output count in the weekly report with a count of tests that ended in a decision. No statistics; 'forty ads and one question' and 'eight and four' are a made-up illustration of the scoring, clearly hypothetical, not results. The old hook used the 'the risk is not X, it is Y' shape and was rewritten. First comment points to Decoded #11 (30 Dec), the test calendar issue."
+  },
+  {
+   "id": "li-2027-02-09-before-approving-januarys-budget-what-did-decemb",
+   "title": "Before approving next year's budget: the one-page learning note",
+   "hook": "Before you approve next year's marketing budget, ask for one page.",
+   "caption": "Before you approve next year's marketing budget, ask for one page.\n\nIt answers one question: what did this year's ads teach us, in rupees?\n\nFebruary is when most plans for the new financial year get drafted. The usual draft is last year's number plus a percentage, split by channel. It says where the money will go. It does not say what the last twelve months of spend found out.\n\nSo ask the marketing team for three lines.\n\nWhat will we stop paying for, and which ads showed us that?\n\nWhat will we pay more for, and which ads showed us that?\n\nWhat do we still not know, and how much are we setting aside to find out?\n\nThe third line matters most to a finance head. It turns 'testing' from a habit into a named amount with a question attached, and a named amount can be reviewed.\n\nIf the team cannot fill in the first two lines, last year's budget bought sales and no knowledge. Next year's plan is then the same bet at a higher price.\n\nA budget that starts from what was learned is easier to defend, and easier to cut well.",
+   "first_comment": "Read Decoded #13 on galvor.ai",
+   "hashtags": ["#D2CIndia", "#PerformanceMarketing", "#MarketingAnalytics"],
+   "alt_text": "",
+   "cta": "Read Decoded #13 (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: punchy plus context. Reader: a founder, CFO or CMO signing off the marketing budget for the financial year starting April 2027. Argument: ask for three lines (stop, pay more, still unknown) before approving the number. No numbers used. The old post was written for a January budget and December's ads; it was re-pointed to new financial year planning because the slot is 9 Feb. First comment points to Decoded #13 (13 Jan), the budget season issue."
+  },
+  {
+   "id": "li-2027-02-16-human-judgement-is-the-product-agents-are-the-le",
+   "title": "Human judgement is the product. So who is training it?",
+   "hook": "Agents are taking the work junior marketers used to learn on.",
+   "caption": "Agents are taking the work junior marketers used to learn on.\n\nSo judgement, which used to build up by itself, now has to be taught on purpose.\n\nPulling reports and tagging ads by hand was dull work. It was also how a new marketer saw hundreds of ads next to their numbers and slowly learned what good looks like. When an agent does that work, the senior people keep their judgement and the next group never forms theirs.\n\nTwo habits a team can start this week.\n\nCall first, then look. Before anyone opens the agent's recommendation, each person writes their own call on the ad in one line: scale, cut or test, and why. Then compare. The gaps are the lesson.\n\nReview one miss a fortnight. Take a decision that went wrong and trace what was known on the day it was made. The aim is to find the reasoning that failed, never to find a person to blame.\n\nBoth take under an hour, and neither needs a new tool.\n\nHuman judgement is the product. Agents are the leverage. Leverage on untrained judgement only gets a team to the wrong answer sooner.",
+   "first_comment": "Follow Galvor for more on how marketing teams work with agents.",
+   "hashtags": ["#AIinMarketing", "#GrowthMarketing", "#D2C"],
+   "alt_text": "",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: punchy plus context. Reader: a CMO or head of growth with juniors on the team and agents doing the reporting. Argument: when agents do the routine work, teams must train judgement deliberately; two habits to do it. This is kept apart from the 8 Dec post (which is about what to hire for). No numbers used. Optional for Sunil: one line on how the Galvor team does this internally, if it does."
+  }
+ ]
+}

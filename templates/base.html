@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Galvor Social Studio{% endblock %}</title>
+<link rel="icon" href="{{ url_for('static', filename='brand/galvor-mark.png') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+<script>try{var t=localStorage.getItem('gss-theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
+</head>
+<body>
+{% import "_macros.html" as m with context %}
+{% set icon = m.icon %}
+<div class="app" id="app">
+  <aside class="side">
+    <div class="brand"><div class="g"><img src="{{ url_for('static', filename='brand/galvor-mark.png') }}" alt=""></div><span>Social Studio</span></div>
+    <form class="search" action="{{ url_for('search') }}">{{ icon('search') }}<input name="q" id="q" placeholder="Search posts" value="{{ req_args.get('q','') }}"><kbd>Ctrl K</kbd></form>
+    <a class="newbtn" href="{{ url_for('new_post') }}">{{ icon('plus') }}<span>New post</span></a>
+    <nav class="nav">
+      {% set ep = endpoint or '' %}
+      <a href="{{ url_for('today_page') }}" class="{{ 'on' if ep in ('today_page',) }}">{{ icon('today') }}<span>Today</span>{% if nav_counts.due %}<b class="n hot">{{ nav_counts.due }}</b>{% endif %}</a>
+      <a href="/scripts" class="{{ 'on' if ep=='scripts_page' }}">{{ icon('check') }}<span>Scripts</span>{% if scripts_waiting %}<b class="n hot">{{ scripts_waiting }}</b>{% endif %}</a>
+      <a href="/discover" class="{{ 'on' if ep=='discover_page' }}">{{ icon('search') }}<span>Research</span></a>
+      <a href="/competitors" class="{{ 'on' if ep=='competitors_page' }}">{{ icon('flag') }}<span>Competitors</span></a>
+      <a href="/ideas" class="{{ 'on' if ep in ('ideas_page','topics_page') }}">{{ icon('bulb') }}<span>Ideas</span>{% if nav_counts.ideas %}<b class="n">{{ nav_counts.ideas }}</b>{% endif %}</a>
+      <a href="{{ url_for('approvals') }}" class="{{ 'on' if ep in ('approvals','content_list','new_post','post_page','overview','search','decoded_page','decoded_editor') }}">{{ icon('spark') }}<span>Create</span>{% if nav_counts.review %}<b class="n hot">{{ nav_counts.review }}</b>{% endif %}</a>
+      <a href="{{ url_for('calendar_page') }}" class="{{ 'on' if ep in ('calendar_page','planner') }}">{{ icon('cal') }}<span>Calendar</span></a>
+      <a href="/results" class="{{ 'on' if ep in ('results_page','analytics') }}">{{ icon('chart') }}<span>Results</span></a>
+      <a href="/costs" class="{{ 'on' if ep=='costs_page' }}">{{ icon('list') }}<span>Costs</span></a>
+      <h6>Reference</h6>
+      <a href="/references" class="{{ 'on' if ep=='references_page' }}">{{ icon('folder') }}<span>References</span>{% if refs_to_read %}<b class="n">{{ refs_to_read }}</b>{% endif %}</a>
+      <a href="/voices" class="{{ 'on' if ep in ('voices_page','prompts_page') }}">{{ icon('palette') }}<span>Voices &amp; prompts</span></a>
+      <a href="{{ url_for('strategy') }}" class="{{ 'on' if ep in ('strategy','brand','festivals_page','gaps') }}">{{ icon('compass') }}<span>Playbook</span></a>
+    </nav>
+    <div class="side-foot">
+      {% if me.role == 'admin' %}<a href="{{ url_for('team_page') }}">{{ icon('list') }}<span>Team</span></a>
+      <a href="{{ url_for('settings') }}">{{ icon('gear') }}<span>Settings</span></a>{% endif %}
+      <button onclick="toggleTheme()">{{ icon('sun') }}<span>Theme</span></button>
+      <button onclick="document.getElementById('app').classList.toggle('collapsed')">{{ icon('side') }}<span>Collapse</span></button>
+    </div>
+  </aside>
+
+  <div class="main">
+    <header class="topbar">
+      <div class="meta">
+        <span title="Background scheduler"><i class="dot {{ 'ok' if hb.get('at') else 'warn' }}"></i> Scheduler {{ ('· ' ~ hb.get('at','')[11:16]) if hb.get('at') else 'starting' }}</span>
+        <span title="AI copywriter"><i class="dot {{ 'ok' if ai_status.ready else 'warn' }}"></i> AI {{ ai_status.provider if ai_status.ready else 'not set' }}</span>
+        <span title="Sign-in"><i class="dot {{ 'ok' if auth_on else 'warn' }}"></i> {{ 'Team sign-in on' if auth_on else 'This laptop only' }}</span>
+      </div>
+      <a href="{{ url_for('notifications_page') }}" class="btn sm" title="Notifications" style="position:relative">🔔{% if unread %}<b style="position:absolute;top:-6px;right:-6px;background:#9F1D1D;color:#fff;border-radius:999px;font-size:11px;padding:0 6px">{{ unread }}</b>{% endif %}</a>
+      <span class="small" title="{{ me.email }}"><b>{{ me.name or me.email }}</b> <span class="muted">· {{ me.role }}</span></span>
+      {% if auth_on %}<a class="btn sm" href="{{ url_for('logout') }}">Sign out</a>{% endif %}
+      <div class="seg">
+        {% for v, label in [('all','All'),('sunil','Sunil'),('raj','Raj'),('shrutik','Shrutik'),('company','Company')] %}
+        <form method="post" action="{{ url_for('set_voice', v=v) }}"><button class="{{ 'on' if voice_sel==v }}">{{ label }}</button></form>
+        {% endfor %}
+      </div>
+    </header>
+    <main class="page">
+      {% with msgs = get_flashed_messages(with_categories=true) %}{% for c, m in msgs %}<div class="flash {{ c }}">{{ m }}</div>{% endfor %}{% endwith %}
+      {% block body %}{% endblock %}
+    </main>
+  </div>
+</div>
+
+<div class="ask" onclick="openAsk()">{{ icon('spark') }} Ask the Studio <kbd>Ctrl J</kbd></div>
+<div class="modal" id="askm" onclick="if(event.target===this)this.classList.remove('on')">
+  <div class="box">
+    <div class="row"><b class="grow">Ask the Studio</b><span class="muted small">{{ ai_status.provider if ai_status.ready else 'Add an AI key in Settings' }}</span></div>
+    <form onsubmit="return askGo(event)" class="row" style="margin-top:12px">
+      <input class="in grow" id="askq" placeholder="e.g. What's going out next week? Which festivals need a post this month?">
+      <button class="btn primary">Ask</button>
+    </form>
+    <div class="ans" id="aska"></div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,70 @@
+{
+  "id": "li-2026-12-02-poll-guess-which-new-ad-won",
+  "slug": "poll-guess-which-new-ad-won",
+  "platform": "linkedin",
+  "date": "2026-12-02",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Creators & Testing",
+  "job": "Attract",
+  "format": "poll",
+  "series": "",
+  "title": "Poll: which kind of new ad got more first-month spend",
+  "hook": "Three kinds of new ad. Only one got more spend.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Three kinds of new ad. Only one got more spend.\nYour next brief probably contains all three.\n\nWe took every new video ad launched from May to September 2026 across the brands we work with, and looked at how much spend each one got in its first month.\n\nThen we sorted them into three kinds.\n\nA. A proven message, shot in a new look.\nB. A new message, over a familiar first shot.\nC. A new ad that looks like many ads already running.\n\nOne kind got clearly more first-month spend. The other two got less.\n\nIt matters this week because sale season has just ended, and December briefs tend to be written from the looks that are already in the account.\n\nVote below. I will post the answer, with the numbers, in the comments tomorrow.",
+  "first_comment": "",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#MetaAds",
+    "#PerformanceMarketing"
+  ],
+  "alt_text": "",
+  "cta": "Vote in the poll; answer posted as a comment the next day",
+  "script": null,
+  "poll": {
+    "question": "Which kind of new ad got more first-month spend?",
+    "options": [
+      "Proven message, new look",
+      "New message, familiar shot",
+      "Looks like running ads"
+    ],
+    "duration": "1 week"
+  },
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: stacked.\nPost the answer as a comment the next day (Thu 3 Dec), from Raj's profile:\n'Answer: A. A proven message in a new look got 47% more first-month spend. A new message over a familiar first shot got 16% less: the script changed, but the ad still looked like one already running. New ads that looked like many running ads got 36% less. A new reason to buy needs a new first shot. Source: Galvor analysis of new video ads launched May to Sep 2026. Read Decoded #3 on galvor.ai'\nNumbers: none in the caption or poll. The answer comment uses 47%, 16% and 36% (facts bank, Decoded #3).\nFirst comment is left empty on purpose so the answer is not given away. Decoded #7 goes out the same day but is on a different topic, so it is not linked here.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-02 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:15",
+  "updated_at": "2026-11-16T21:20:00",
+  "topic_ref": "R8",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

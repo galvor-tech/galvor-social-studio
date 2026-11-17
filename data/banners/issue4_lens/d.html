@@ -1,0 +1,21 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="base.css"><script src="common.js"></script>
+<style>.stage{background:radial-gradient(1000px 900px at 1400px 520px,rgba(110,60,230,.30),transparent 70%),#0A0A14}
+.ghost{position:absolute;border-radius:50%;border:6px solid rgba(201,178,255,.18);z-index:15}
+.br{position:absolute;z-index:22;width:46px;height:46px;border:6px solid #FFD27A;filter:drop-shadow(0 0 8px rgba(255,200,90,.9))}</style></head>
+<body><div class="stage" id="s"><div class="copy" id="c"></div>
+<svg style="position:absolute;left:0;top:0;z-index:14" width="1920" height="1080"><path d="M1120 930 C1210 720 1040 580 1225 440 S1610 300 1500 520" fill="none" stroke="rgba(201,178,255,.55)" stroke-width="4" stroke-dasharray="4 16" stroke-linecap="round"/></svg></div><script>
+const s=document.getElementById('s');document.getElementById('c').innerHTML=COPY;
+function r(a){let x=Math.sin(a*12.9898)*43758.5453;return x-Math.floor(x)}
+const pts=[];let t=0;
+while(pts.length<19&&t<6000){t++;const x=1030+r(t)*860,y=70+r(t+.5)*940,z=60+r(t+.3)*95;
+  if(Math.hypot(x-1500,y-520)<250)continue; if(y>700&&x>1300&&x<1800)continue;
+  if(pts.some(p=>Math.hypot(p[0]-x,p[1]-y)<(p[2]+z)/2+22))continue; pts.push([x,y,z]);}
+pts.forEach((p,j)=>av(s,p[0],p[1],p[2],j,{css:'filter:grayscale(1) brightness(.5) blur('+(p[2]<90?1.5:0)+'px);opacity:'+(.3+p[2]/300).toFixed(2)}));
+[[1120,930,62],[1225,440,88]].forEach(g0=>{const g=document.createElement('div');g.className='ghost';
+  g.style.cssText='left:'+(g0[0]-g0[2])+'px;top:'+(g0[1]-g0[2])+'px;width:'+(2*g0[2])+'px;height:'+(2*g0[2])+'px';s.appendChild(g);});
+const cx=1500,cy=520; lens(s,cx,cy,165,-40,230); av(s,cx,cy,200,0,{hero:true,css:'z-index:21'});
+[[-1,-1],[1,-1],[-1,1],[1,1]].forEach(b=>{const e=document.createElement('div');e.className='br';
+  e.style.left=(cx+b[0]*112-23)+'px';e.style.top=(cy+b[1]*112-23)+'px';
+  if(b[0]<0)e.style.borderRight='none';else e.style.borderLeft='none';if(b[1]<0)e.style.borderBottom='none';else e.style.borderTop='none';s.appendChild(e);});
+chk(s,1350,760,'Watches the reels');chk(s,1390,828,'Reads the comments');chk(s,1350,896,'Judges fit with the brief');
+</script></body></html>

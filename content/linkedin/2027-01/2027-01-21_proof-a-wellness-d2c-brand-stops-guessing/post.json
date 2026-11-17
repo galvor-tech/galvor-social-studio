@@ -1,0 +1,111 @@
+{
+  "id": "li-2027-01-21-proof-a-wellness-d2c-brand-stops-guessing",
+  "slug": "proof-a-wellness-d2c-brand-stops-guessing",
+  "platform": "linkedin",
+  "date": "2027-01-21",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Proof / Case Study",
+  "job": "Convert",
+  "format": "carousel",
+  "series": "",
+  "title": "Proof (wellness): testing the category's default style, and how to set the test up",
+  "hook": "In wellness, aspirational content is the default. One brand tested it.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "In wellness, aspirational content is the default. One brand tested it.\nThe result is published, and the test design is yours to copy.\n\nThe numbers for this Ayurvedic supplements D2C brand (anonymised, on galvor.ai): a 2.6× uplift versus aspirational content, +135% hold rate and +91% RoAS.\n\nThis does not mean aspirational content is bad. It means every category has a default style that nobody questions, and the default deserves one fair test.\n\nThe slides show how to set that test up on your own account.\n\nIf you would like us to find the default in your category, we will decode it free. Details are in the first comment.",
+  "first_comment": "The published results: https://galvor.ai/results/\n\nComment “decode” or book a time at talk.galvor.ai and we will decode your category, free.",
+  "hashtags": [
+    "#D2CIndia",
+    "#CreativeStrategy",
+    "#PerformanceMarketing"
+  ],
+  "alt_text": "Seven-slide Galvor carousel. Slide 1: a supplements brand tested its category's default style. Slide 2: 2.6× uplift versus aspirational content for an anonymised Ayurvedic supplements D2C brand. Slide 3: +135% hold rate alongside +91% RoAS. Slide 4: name your category's default style by looking at ten brands. Slide 5: make its opposite with the same message. Slide 6: run both for a fortnight and price the difference in cost per order. Slide 7: follow Galvor, comment decode for a free category decode. Source: galvor.ai/results.",
+  "cta": "Direct: comment “decode” or book at talk.galvor.ai for a free category decode",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Proof · Wellness D2C",
+        "headline": "A supplements brand tested its category's *default style*",
+        "sub": "Anonymised client · results published on galvor.ai"
+      },
+      {
+        "layout": "stat",
+        "kicker": "The test",
+        "stat": "2.6×",
+        "headline": "uplift versus *aspirational* content",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Hold rate",
+        "stat": "+135%",
+        "headline": "hold rate, alongside *+91% RoAS*",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "text",
+        "kicker": "Step 1",
+        "headline": "Name your category's *default*",
+        "body": "Open the ad libraries of ten brands in your category and note the style most of them share.\n\nIn wellness it is often the calm, aspirational lifestyle shot. In yours it may be the founder story or the before and after."
+      },
+      {
+        "layout": "text",
+        "kicker": "Step 2",
+        "headline": "Make its *opposite*, with the same message",
+        "body": "Keep the promise, the offer and the product identical.\n\nChange only the style. If the default is polished, shoot plain. If it is aspirational, show the routine as it really looks."
+      },
+      {
+        "layout": "text",
+        "kicker": "Step 3",
+        "headline": "Price the *difference*",
+        "body": "Run both for a full fortnight at similar spend.\n\nCompare hold rate and cost per order. Then write one line: in our category, this style costs this much more or less per order."
+      },
+      {
+        "layout": "cta",
+        "headline": "Want your category's default *found and tested*?",
+        "sub": "We will decode your category, free.",
+        "actions": [
+          "Follow Galvor",
+          "Comment “decode”",
+          "Link in the first comment"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil: what kind of content was compared against aspirational content for the 2.6× figure, and the period. The post avoids describing the other content because the facts bank does not say. Do not add the client name. Hook shape: punchy plus context. Reader: a D2C founder or growth lead ready to talk (job: Convert). Proof plus a test design to copy. Numbers: 2.6× uplift vs aspirational content, +135% hold rate, +91% RoAS (galvor.ai/results, anonymised wellness client); used only in this post. 'Ten brands' and 'a fortnight' are suggested working rules.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:57:13",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-21 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:51",
+  "updated_at": "2026-11-16T21:22:01",
+  "topic_ref": "Proof: Wellness (galvor.ai results)",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

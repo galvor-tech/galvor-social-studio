@@ -1,0 +1,66 @@
+{
+  "id": "li-2026-12-25-christmas-greeting-the-best-gifts-come-from-some",
+  "slug": "christmas-greeting-the-best-gifts-come-from-some",
+  "platform": "linkedin",
+  "date": "2026-12-25",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Christmas greeting: the best gifts come from someone who paid attention",
+  "hook": "Merry Christmas from all of us at Galvor.",
+  "status": "draft",
+  "festival": "Christmas 2026",
+  "theme": "People + agents",
+  "caption": "Merry Christmas from all of us at Galvor.\n\nThe gifts people remember are usually the ones that show someone was paying attention. We hope today brings you a few of those, and some proper rest.\n\nThe dashboards will keep until Monday.",
+  "first_comment": "",
+  "hashtags": [
+    "#MerryChristmas",
+    "#D2CIndia"
+  ],
+  "alt_text": "Festive greeting on a violet background with a Christmas tree: Merry Christmas. The best gifts come from someone who paid attention. Warm wishes from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🎄",
+        "kicker": "Christmas 2026",
+        "greeting": "Merry Christmas",
+        "headline": "The best gifts come from someone who *paid attention.*",
+        "sub": "Warm wishes from all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No product mention, no numbers.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-25 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:14",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-christmas",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

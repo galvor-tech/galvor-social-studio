@@ -1,0 +1,100 @@
+[
+ {
+  "id": "a8e4cdbbe3",
+  "kind": "instagram_hashtag",
+  "value": "metaads",
+  "label": "#metaads",
+  "enabled": true
+ },
+ {
+  "id": "8e2460a02b",
+  "kind": "instagram_hashtag",
+  "value": "facebookads",
+  "label": "#facebookads",
+  "enabled": true
+ },
+ {
+  "id": "4465ba27e8",
+  "kind": "instagram_hashtag",
+  "value": "performancemarketing",
+  "label": "#performancemarketing",
+  "enabled": true
+ },
+ {
+  "id": "9e732756fe",
+  "kind": "instagram_hashtag",
+  "value": "influencermarketing",
+  "label": "#influencermarketing",
+  "enabled": true
+ },
+ {
+  "id": "115a516132",
+  "kind": "instagram_hashtag",
+  "value": "ugcads",
+  "label": "#ugcads",
+  "enabled": true
+ },
+ {
+  "id": "d633cd6f4f",
+  "kind": "instagram_hashtag",
+  "value": "creativestrategy",
+  "label": "#creativestrategy",
+  "enabled": true
+ },
+ {
+  "id": "406176036e",
+  "kind": "instagram_hashtag",
+  "value": "d2cbrands",
+  "label": "#d2cbrands",
+  "enabled": true
+ },
+ {
+  "id": "2e67a33743",
+  "kind": "google",
+  "value": "Meta ads update",
+  "label": "Meta ads update",
+  "enabled": true
+ },
+ {
+  "id": "6c6bc2f274",
+  "kind": "google",
+  "value": "Meta Andromeda creative",
+  "label": "Meta Andromeda creative",
+  "enabled": true
+ },
+ {
+  "id": "ebf1d780d5",
+  "kind": "google",
+  "value": "influencer marketing India D2C",
+  "label": "Influencer marketing India D2C",
+  "enabled": true
+ },
+ {
+  "id": "f12326d03a",
+  "kind": "google",
+  "value": "creator marketing ROI brands",
+  "label": "Creator marketing ROI",
+  "enabled": true
+ },
+ {
+  "id": "1459a2cda9",
+  "kind": "x",
+  "value": "meta ads creative min_faves:50",
+  "label": "Meta ads creative (50+ likes)",
+  "enabled": true
+ },
+ {
+  "id": "ed6068dfa8",
+  "kind": "x",
+  "value": "ugc creators ads min_faves:50",
+  "label": "UGC creator ads (50+ likes)",
+  "enabled": true
+ },
+ {
+  "id": "361c132eee",
+  "kind": "x",
+  "value": "creative strategy dtc min_faves:30",
+  "label": "DTC creative strategy (30+ likes)",
+  "enabled": true
+ }
+]

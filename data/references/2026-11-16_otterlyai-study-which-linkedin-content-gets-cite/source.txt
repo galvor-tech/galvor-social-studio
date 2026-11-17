@@ -1,0 +1,63 @@
+**Text in the Image:**
+
+Followed by Daivik Loh
+
+Klaus-M. Schremser [in] • 2nd  
++ Follow  
+OtterlyAI 🦦 (Co-Founder) | GEO, AIO, GAIO, AEO, AI, Ex-SEO ...  
+1d  
+
+Everyone says LinkedIn is the next big channel for AI search visibility.  
+
+We published 240 pieces of content in 30 days to find out. 🧪  
+
+**Regular LinkedIn posts earned 2 AI citations. Out of 107 total.**  
+
+Pulse articles got the other 105.  
+
+Here's what 179 tracked prompts across 7 AI engines showed us:  
+1/ Personal Pulse articles earned 2.9x more citations than company page articles.  
+2/ Copilot and Perplexity delivered 99.1% of citations. Google's AI engines gave us almost zero.  
+3/ Engagement didn't predict citations. The two cited posts ranked 23rd and 57th by impressions.  
+
+If you're posting on LinkedIn for AI search visibility, you're probably invisible.  
+
+Pulse articles from a personal profile are the only format that consistently gets cited.  
+
+Otterly.AI  
+**Social Media Domains over time**  
+Daily share of all citations in the United States.  
+
+* reddit.com  
+* youtube.com  
+* linkedin.com  
+* facebook.com  
+* instagram.com  
+* tiktok.com  
+* x.com  
+
+7 Aug  
+7 Oct  
+
+3.0%  
+2.0%  
+1.0%  
+0%  
+
+2 Jul  
+13 Jul  
+24 Jul  
+5 Aug  
+16 Aug  
+27 Aug  
+7 Sep  
+18 Sep  
+29 Sep  
+13 Oct  
+
+Source: The AI Search Index: Industry Report by OtterlyAI • otterly.ai  
+
+***
+
+**Chart Description:**  
+The area chart tracks the daily percentage share of U.S. citations captured by major social media platforms from July 2 through October 13. Reddit and YouTube consistently account for the vast majority of citations, peaking between roughly 2.0% and 3.0%, while domains such as LinkedIn, Facebook, Instagram, TikTok, and X remain near or below 0.5%.

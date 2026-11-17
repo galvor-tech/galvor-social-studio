@@ -1,0 +1,336 @@
+{
+ "entries": [
+  {
+   "at": "2026-11-11T01:07:33",
+   "day": "2026-11-11",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-11T01:07:59",
+   "day": "2026-11-11",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-11T01:08:57",
+   "day": "2026-11-11",
+   "provider": "gemini",
+   "what": "3 ideas from 16 posts",
+   "usd": 0.00496
+  },
+  {
+   "at": "2026-11-13T09:48:59",
+   "day": "2026-11-13",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-13T09:48:59",
+   "day": "2026-11-13",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-13T09:48:59",
+   "day": "2026-11-13",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-13T09:48:59",
+   "day": "2026-11-13",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-13T09:48:59",
+   "day": "2026-11-13",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-13T09:48:59",
+   "day": "2026-11-13",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-13T09:48:59",
+   "day": "2026-11-13",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-13T09:49:04",
+   "day": "2026-11-13",
+   "provider": "apify",
+   "what": "apidojo~tweet-scraper",
+   "usd": 0.006
+  },
+  {
+   "at": "2026-11-13T09:49:08",
+   "day": "2026-11-13",
+   "provider": "apify",
+   "what": "apidojo~tweet-scraper",
+   "usd": 0.006
+  },
+  {
+   "at": "2026-11-13T09:49:08",
+   "day": "2026-11-13",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-13T09:49:09",
+   "day": "2026-11-13",
+   "provider": "apify",
+   "what": "apidojo~tweet-scraper",
+   "usd": 0.0056
+  },
+  {
+   "at": "2026-11-13T09:49:10",
+   "day": "2026-11-13",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-13T09:49:26",
+   "day": "2026-11-13",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-13T09:49:59",
+   "day": "2026-11-13",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:28:40",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:28:40",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:28:40",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:28:40",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:28:40",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:28:40",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:28:41",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v2/hashtag/medias/top",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:28:45",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apidojo~tweet-scraper",
+   "usd": 0.006
+  },
+  {
+   "at": "2026-11-16T17:28:47",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apidojo~tweet-scraper",
+   "usd": 0.006
+  },
+  {
+   "at": "2026-11-16T17:28:51",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apidojo~tweet-scraper",
+   "usd": 0.006
+  },
+  {
+   "at": "2026-11-16T17:44:57",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "harvestapi~linkedin-company-posts",
+   "usd": 0.074
+  },
+  {
+   "at": "2026-11-16T17:44:57",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v1/user/by/username",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:44:59",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/g2/user/medias",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:45:01",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/v1/user/by/username",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:45:02",
+   "day": "2026-11-16",
+   "provider": "hiker",
+   "what": "/g2/user/medias",
+   "usd": 0.001
+  },
+  {
+   "at": "2026-11-16T17:45:33",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:47:50",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:49:24",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:49:50",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:51:40",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:53:13",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:54:42",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:56:09",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:56:19",
+   "day": "2026-11-16",
+   "provider": "apify",
+   "what": "apify~google-search-scraper",
+   "usd": 0.0035
+  },
+  {
+   "at": "2026-11-16T17:59:17",
+   "day": "2026-11-16",
+   "provider": "gemini",
+   "what": "Read an image reference",
+   "usd": 0.0,
+   "kind": "ai",
+   "cap": false,
+   "model": "gemini-3.8-flash",
+   "tokens": {
+    "in": 1159,
+    "out": 528
+   },
+   "note": "Gemini price not in the table; see your Google bill"
+  },
+  {
+   "at": "2026-11-16T18:00:03",
+   "day": "2026-11-16",
+   "provider": "gemini",
+   "what": "Competitor read: what is working (Gemini: Claude out of credit)",
+   "usd": 0.0,
+   "kind": "ai",
+   "cap": false,
+   "model": "gemini-3.8-flash",
+   "tokens": {
+    "in": 19649,
+    "out": 902
+   },
+   "note": "Gemini text price not in the table; see your Google bill"
+  },
+  {
+   "at": "2026-11-16T18:01:16",
+   "day": "2026-11-16",
+   "provider": "gemini",
+   "what": "Competitor read: what is working (Gemini: Claude out of credit)",
+   "usd": 0.0,
+   "kind": "ai",
+   "cap": false,
+   "model": "gemini-3.8-flash",
+   "tokens": {
+    "in": 19703,
+    "out": 758
+   },
+   "note": "Gemini text price not in the table; see your Google bill"
+  }
+ ]
+}

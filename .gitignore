@@ -1,0 +1,8 @@
+.env
+staging/
+exports/
+logs/
+__pycache__/
+*.pyc
+.env.*
+*.log

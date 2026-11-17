@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&family=JetBrains+Mono:wght@500&family=Instrument+Serif:ital@0;1&display=block" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden}
+:root{--v:#7C3AED;--vp:#C9A6FF;--gold:#FFC43D}
+.s{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:Inter,sans-serif;color:#fff;
+  background:radial-gradient(75% 48% at 50% 50%,#2C1650 0%,#140a26 60%,#0B0716 100%)}
+.serif{font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;color:var(--vp);letter-spacing:0}
+.h{position:absolute;left:0;right:0;text-align:center;font-weight:750;letter-spacing:-.045em;line-height:1}
+.kick{position:absolute;left:0;right:0;display:flex;justify-content:center;align-items:center;gap:16px;font-family:'JetBrains Mono',monospace;font-weight:500;font-size:28px;letter-spacing:.22em;color:#A685FF;text-transform:uppercase}
+.kick img{width:40px;height:40px}
+.logo{position:absolute;left:60px;top:262px;display:flex;align-items:center;gap:14px;font-weight:700;font-size:38px;letter-spacing:-.04em}
+.logo img{width:52px;height:52px}
+.ring{position:absolute;border-radius:50%;border-style:solid;border-color:var(--vp);box-shadow:0 0 90px rgba(167,112,255,.95),inset 0 0 50px rgba(167,112,255,.45)}
+.handle{position:absolute;border-radius:999px;background:var(--vp);box-shadow:0 0 70px rgba(167,112,255,.95);transform:rotate(-45deg);transform-origin:top center}
+.photo{position:absolute;overflow:hidden;background:#222}
+.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.bub{position:absolute;background:#F4F0FF;color:#1D1830;border-radius:26px;padding:14px 26px;box-shadow:0 14px 34px rgba(0,0,0,.45);white-space:nowrap}
+.bub small{display:block;font-size:17px;font-weight:700;letter-spacing:.08em;color:#7A7396;margin-bottom:2px}
+.bub b{font-size:32px;font-weight:560}
+.chk{position:absolute;display:flex;align-items:center;gap:14px;padding:12px 26px 12px 12px;border-radius:999px;background:rgba(22,18,40,.92);border:2px solid rgba(180,150,255,.5);font-size:32px;font-weight:650;white-space:nowrap}
+.chk i{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(180deg,#FFD27A,#F0A92E);color:#3A2400;font-style:normal;font-weight:800;font-size:24px}
+.how{position:absolute;left:0;right:0;margin:auto;width:max-content;display:flex;align-items:center;gap:16px;font-size:36px;font-weight:500;color:#E9E3FF;padding:16px 32px 16px 16px;border-radius:999px;background:rgba(124,58,237,.18);border:2px solid rgba(164,123,255,.5)}
+.how .ic{width:52px;height:52px;border-radius:50%;background:linear-gradient(180deg,#B48EFF,#7C3AED);display:grid;place-items:center;box-shadow:0 0 24px rgba(164,123,255,.7)}
+.how b{color:#fff;font-weight:700}.how em{font-style:normal;color:var(--gold);font-weight:700}
+.av{position:absolute;border-radius:50%;overflow:hidden;opacity:.28;filter:grayscale(1)}
+.av img{width:100%;height:100%;object-fit:cover}
+</style></head><body><div class="s" id="s"></div>
+<script>
+const v=new URLSearchParams(location.search).get('v')||'1', s=document.getElementById('s');
+const IMG='file:///D:/galvor_linkedin/videos/decoded4-scout-reel-v2/assets/gen/';
+const MARK='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark.png', MARKW='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark-white.png';
+const kick=y=>`<div class="kick" style="top:${y}px"><img src="${MARK}">Decoded by Galvor <span>•</span> Issue #4</div>`;
+const logo=()=>`<div class="logo"><img src="${MARKW}"><span>Galvor</span></div>`;
+const lens=(cx,cy,r,bw=28)=>`<div class="ring" style="left:${cx-r}px;top:${cy-r}px;width:${2*r}px;height:${2*r}px;border-width:${bw}px"></div><div class="handle" style="left:${cx+r*0.7-bw}px;top:${cy+r*0.7}px;width:${bw*2}px;height:${r*0.95}px"></div>`;
+const inLens=(img,cx,cy,r)=>`<div class="photo" style="left:${cx-r}px;top:${cy-r}px;width:${2*r}px;height:${2*r}px;border-radius:50%"><img src="${IMG}${img}.png" style="object-position:50% 25%"></div>`;
+const card=(img,x,y,w,h,ex='')=>`<div class="photo" style="left:${x}px;top:${y}px;width:${w}px;height:${h}px;border-radius:30px;border:3px solid rgba(255,236,190,.8);box-shadow:0 30px 80px rgba(0,0,0,.55),0 0 80px rgba(124,58,237,.45);${ex}"><img src="${IMG}${img}.png"></div>`;
+const bub=(t,x,y)=>`<div class="bub" style="left:${x}px;top:${y}px"><small>COMMENT</small><b>${t}</b></div>`;
+const chk=(t,x,y)=>`<div class="chk" style="left:${x}px;top:${y}px"><i>✓</i>${t}</div>`;
+const how=y=>`<div class="how" style="top:${y}px"><span class="ic"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></span>How <b>Galvor Scout</b> finds <em>the one</em></div>`;
+const crowd=(y0,rows)=>{ const ims=['c1','c2','c3','c4','c5','like1','like2','like3']; let o=''; for(let r=0;r<rows;r++) for(let c=0;c<6;c++) o+=`<div class="av" style="left:${-20+c*190}px;top:${y0+r*190}px;width:140px;height:140px"><img src="${IMG}${ims[(r*6+c)%8]}.png"></div>`; return o; };
+const meet=(y,size=136)=>`<div class="h" style="top:${y}px;font-size:${size}px">Meet Galvor <span class="serif" style="font-size:${size*1.25}px">Scout.</span></div>`;
+let h='';
+if(v==='1'){  // 1 · the full mix: dark lens with her photo magnified inside, comments + gold checks, Decoded kicker, How pill
+  h=crowd(760,4)+kick(330)+meet(410)+inLens('hero',360,1010,215)+lens(360,1010,230,30)+
+    bub('Where can I buy this? 😍',600,800)+bub('Tried it, it actually works',630,910)+
+    chk('Reads the comments',610,1050)+chk('Audience trusts them',610,1130)+chk('Fits the brief',610,1210)+how(1440);
+}
+if(v==='2'){  // 2 · reveal + proof: the mark in the lens on top, her reel card with comments below
+  h=kick(330)+`<img src="${MARKW}" style="position:absolute;left:430px;top:430px;width:220px;height:220px">`+lens(540,540,170,26)+
+    meet(770,118)+card('hero',90,960,360,450)+bub('Where can I buy this? 😍',480,990)+bub('Ordered after your last reel',480,1105)+
+    chk('Reads the comments',480,1250)+how(1490);
+}
+if(v==='3'){  // 3 · cover 1 on dark: big photo card, lens on its corner, gold checks, Decoded kicker
+  h=kick(330)+meet(410)+card('hero',260,700,560,700)+lens(770,1300,140,26)+
+    chk('Reads the comments',90,1460)+chk('Fits the brief',560,1460)+
+    `<div class="h" style="top:1580px;font-size:44px;font-weight:600;color:rgba(255,255,255,.72)">Finds the one creator that fits.</div>`;
+}
+if(v==='4'){  // 4 · cover 2 hero: the mark in a huge lens over the faded crowd, one real face beside it
+  h=crowd(560,5)+kick(330)+`<img src="${MARKW}" style="position:absolute;left:370px;top:600px;width:340px;height:340px">`+lens(540,770,260,34)+
+    `<div class="h" style="top:1150px;font-size:150px">Galvor <span class="serif" style="font-size:188px">Scout</span></div>`+
+    `<div class="h" style="top:1385px;font-size:46px;font-weight:600;color:rgba(255,255,255,.75)">Finds the one creator that fits.</div>`+how(1490);
+}
+if(v==='5'){  // 5 · the scan: the lens magnifies her face inside the crowd, comments float out of it
+  h=crowd(420,7)+kick(330)+meet(410,104)+
+    `<div style="position:absolute;left:0;right:0;top:700px;height:820px;background:radial-gradient(45% 45% at 50% 50%,rgba(20,10,38,.0),rgba(11,7,22,.55))"></div>`+
+    inLens('hero',540,1000,250)+lens(540,1000,265,32)+
+    bub('nice pic dear 😍',90,760)+bub('Tried it, it actually works',560,1290)+
+    chk('Reads the comments',80,1360)+how(1500);
+}
+s.innerHTML=h;
+</script></body></html>

@@ -1,0 +1,135 @@
+{
+  "id": "li-2027-02-03-hook-teardown-why-this-opening-earns-the-next-th",
+  "slug": "hook-teardown-why-this-opening-earns-the-next-th",
+  "platform": "linkedin",
+  "date": "2027-02-03",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Educate",
+  "format": "video",
+  "series": "",
+  "title": "Hook teardown: the delete test",
+  "hook": "A hook that stops the scroll can still lose the sale.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "A hook that stops the scroll can still lose the sale.\nIts second job is to set up the next shot, and that job is easy to skip.\n\nThere is a quick test for it. Delete the first three seconds of your ad and play the rest. If the ad still makes complete sense, nothing after the hook needed it. The hook was decoration.\n\nIn your numbers this can show up as a healthy hook rate with a weak hold rate. People stop, then leave.\n\nThe fix in the video is small. Write the hook as a question that the second shot has to answer, with the product in the answer.\n\nThe example is a made-up ad, drawn as a storyboard. No real brand.\n\nVideo below, 43 seconds.",
+  "first_comment": "We tag the hook on its own, apart from pacing, cast and call to action, on every ad we decode: https://galvor.ai/platform/decode/\n\nFollow Galvor for more teardowns.",
+  "hashtags": [
+    "#AdCreative",
+    "#CreativeStrategy",
+    "#PerformanceMarketing"
+  ],
+  "alt_text": "Vertical video cover: Good hook. Why do they leave? One test for the first three seconds, with a Watch the test button.",
+  "cta": "Follow Galvor (closing line of the video)",
+  "script": {
+    "duration": "43s",
+    "setup": "Idea: a growth lead whose ads stop the scroll but lose people a few seconds later gets one test that shows why. On-screen title (first frame): 'Good hook. Why do they leave?' Expectation the title sets: one clear reason and something to try today. The script gives the reason in the first ten seconds, then beats it with a test that takes a minute and a fix for the hook itself. The example ad is made up (a protein bar) and drawn as a simple storyboard of panels. No real brand, no real ad, no results.",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "Title text over a six-panel storyboard of a made-up protein bar ad. The first panel glows, the others are dim.",
+        "voiceover": "Your hook stops people. Then they leave at second five. Here's why.",
+        "on_screen": "Good hook. Why do they leave?"
+      },
+      {
+        "time": "4–8s",
+        "visual": "A thumb scrolling a phone feed stops on the first panel.",
+        "voiceover": "Most teams think a hook has one job. Stop the scroll.",
+        "on_screen": "The belief: stop the scroll"
+      },
+      {
+        "time": "8–13s",
+        "visual": "An arrow draws from panel one to panel two. Panel two lights up.",
+        "voiceover": "It has two. Stop them, and set up the very next shot.",
+        "on_screen": "A hook has two jobs"
+      },
+      {
+        "time": "13–18s",
+        "visual": "A short tag list appears beside the storyboard: hook, pacing, cast, call to action. The word hook is circled.",
+        "voiceover": "We tag the hook on its own, on every ad we decode. So here's one test.",
+        "on_screen": "One test"
+      },
+      {
+        "time": "18–23s",
+        "visual": "Panel one is crossed out and slides away. The remaining five panels play in order.",
+        "voiceover": "Delete the first three seconds. Play the rest. Does the ad still make sense?",
+        "on_screen": "Delete the first three seconds"
+      },
+      {
+        "time": "23–28s",
+        "visual": "The five panels sit complete without the first. The removed panel greys out at the side.",
+        "voiceover": "If yes, your hook was decoration. Nothing after it needed it.",
+        "on_screen": "Still makes sense? Decoration."
+      },
+      {
+        "time": "28–33s",
+        "visual": "The greyed panel is wiped clean and a question mark is drawn on it.",
+        "voiceover": "That only finds the gap. To close it, write the hook as a question.",
+        "on_screen": "Write the hook as a question"
+      },
+      {
+        "time": "33–38s",
+        "visual": "New panel one: a person at a desk, clock at four, text of the question. New panel two: the bar being unwrapped at the same desk.",
+        "voiceover": "'Why am I hungry by four?' Then shot two answers it, with the product.",
+        "on_screen": "Shot two answers it"
+      },
+      {
+        "time": "38–43s",
+        "visual": "Panels one and two join with a line. Galvor logo end card.",
+        "voiceover": "A hook is a promise. The next shot pays it. Follow Galvor for more.",
+        "on_screen": "Follow Galvor"
+      }
+    ],
+    "music": "No music, or a very low instrumental bed under the voice.",
+    "notes": "Native LinkedIn upload, vertical, under 60 seconds. Burn in subtitles. Use the cover slide as the thumbnail. Numbers used: none. The storyboard is a drawn, made-up ad, so no real brand appears. About 100 spoken words."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Hook teardown",
+        "headline": "Good hook. *Why do they leave?*",
+        "sub": "One test for the first three seconds.",
+        "play": "Watch the test"
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: (1) the delete test and 'write the hook as a question' are written as your method. Confirm you would say them on camera. (2) The line 'we tag the hook on its own, on every ad we decode' follows from Decode's attribute list (hook, cast, pacing, CTA, setting). Confirm. (3) The script needs proof of what we looked at. No sample is claimed, because none is in the facts bank. If you have a real count of decoded ads where the hook did not connect to the second shot, add it in scene 4.\nTopic sharpened. The old script walked through one public ad frame by frame. This one teaches a test on a made-up storyboard, so no real brand's ad is torn down, and it no longer repeats the 30 Dec carousel on the first three seconds.\nHook shape: single-line bomb, with a second line of context.\nNumbers: none.\nReader: a growth lead with a good hook rate and a weak hold rate.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-03 09:00)"
+    },
+    {
+      "at": "2026-11-11T03:32:57",
+      "action": "Script CTA fixed: 'Follow for…' → 'Follow Galvor for…' (house rule)"
+    },
+    {
+      "at": "2026-11-16T21:19:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:11",
+  "updated_at": "2026-11-16T21:20:01",
+  "topic_ref": "R2",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "li-2027-04-23-weekly-reshare-read-competitor-ads-honestly",
+  "slug": "weekly-reshare-read-competitor-ads-honestly",
+  "platform": "linkedin",
+  "date": "2027-04-23",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Brand Memory / POV",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Weekly reshare: read competitor ads honestly",
+  "hook": "Sunil's post this week is a good one to save before your next competitor review: your competitors' ads are a free research report, if you read them honestly.",
+  "status": "draft",
+  "festival": null,
+  "theme": "New FY, new creative system",
+  "caption": "Sunil's post this week is a good one to save before your next competitor review: your competitors' ads are a free research report, if you read them honestly.\n\nThree ways to read them better, from his post.\n\nSee what's visible, and only that. You can see what's running, how often it changes and what it says. You can't see budget, results or why it was made.\n\nLook for movement, not snapshots. What did a competitor stop doing? What did they test three versions of? Iteration shows where they're paying attention.\n\nRead for the buyer. Who is each ad for, and what reason to buy does it give? Gaps show up as buyers nobody in your category is talking to.\n\nWe never claim a competitor's spend or results from public data. A careful read tells you which questions to test on your own ads.\n\nThe full post is below.",
+  "first_comment": "",
+  "hashtags": [
+    "#MetaAds",
+    "#CreativeStrategy",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Quote card on a violet background: Read competitor ads for the buyer, not the look.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "Read competitor ads for *the buyer*, not the look.",
+        "sub": "From Sunil's post this week."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reshare Sunil's 28 Jan post (S19). If another team post did better this week, reshare that one instead and rewrite.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:23",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-04-23 12:30)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:45",
+  "updated_at": "2026-11-11T01:04:23",
+  "topic_ref": "Reshare: S19"
+}

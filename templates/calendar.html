@@ -1,0 +1,31 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Calendar · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="row">
+  <h1 class="grow">{{ title }}</h1>
+  <div class="seg">
+    {% for k, label in [('all','All'),('linkedin','LinkedIn'),('instagram','Instagram'),('newsletter','Newsletter')] %}
+    <form method="get"><input type="hidden" name="m" value="{{ cur_month }}"><button name="p" value="{{ k }}" class="{{ 'on' if plat==k }}">{{ label }}</button></form>
+    {% endfor %}
+  </div>
+  <a class="btn" href="?m={{ prev_m }}&p={{ plat }}">←</a><a class="btn" href="?p={{ plat }}">Today</a><a class="btn" href="?m={{ next_m }}&p={{ plat }}">→</a>
+</div>
+<p class="sub">{% if theme %}Theme: <b>{{ theme }}</b> · {% endif %}Click a day's <b>+</b> to add a post. Festival chips come from the verified Indian festival calendar.</p>
+<div class="legend" style="margin-bottom:12px">
+  <span><i style="background:var(--li)"></i>LinkedIn</span><span><i style="background:var(--ig)"></i>Instagram</span><span><i style="background:var(--nl)"></i>Newsletter</span>
+  <span><i style="background:#E8B04A"></i>Festival · gazetted holiday</span><span><i style="background:#F2DDA6"></i>Festival · restricted holiday</span><span><i style="background:var(--line-2)"></i>Festival · observance</span>
+</div>
+<div class="cal">
+  {% for d in ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'] %}<div class="h">{{ d }}</div>{% endfor %}
+  {% for week in weeks %}{% for day in week %}
+  {% set ds = day.isoformat() %}
+  <div class="c {{ 'out' if day.month != month_num }} {{ 'today' if day == today }}">
+    <div class="dn"><span>{{ day.day }}</span><a class="add" href="{{ url_for('new_post', date=ds, platform=(plat if plat in ['linkedin','instagram'] else 'linkedin')) }}" title="Add post">+</a></div>
+    {% for f in fest.get(ds, []) %}<div class="fest h-{{ f.holiday or 'none' }}" title="{{ f.notes }}">{{ f.name }}{% if f.confidence != 'confirmed' %} ·{{ f.confidence[:3] }}{% endif %}</div>{% endfor %}
+    {% for p in by_day.get(ds, []) %}
+    <a class="ev {{ p.platform }} {{ p.status }}" href="/post/{{ p.id }}" title="{{ p.title }}"><span class="m">{{ p.time }} · {{ VOICES[p.voice].name.split(' ')[0] }} · {{ p.format }}</span><br><b>{{ (p.title or p.hook)[:58] }}</b><br><span class="m">{% if p.platform != 'newsletter' and p.status in ['idea','draft'] %}{{ 'Script chosen · media next' if (p.script_decision or {}).choice == 'use' else 'Script to read' }}{% else %}{{ STATUS_LABEL[p.status] }}{% endif %}</span></a>
+    {% endfor %}
+  </div>
+  {% endfor %}{% endfor %}
+</div>
+{% endblock %}

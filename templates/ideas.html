@@ -1,0 +1,50 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Ideas · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="row"><h1 class="grow">Ideas</h1>
+  <a class="btn" href="{{ url_for('topics_page') }}">Topic bank (150 hooks)</a>
+  <button class="btn soft" onclick="gen('topics')">+ From the topic bank</button>
+  <a class="btn primary" href="/discover">+ From Discover</a></div>
+<p class="sub">Hooks and angles ready to write. <b>Shortlist</b> the good ones; <b>Write it</b> drafts the post with AI in the next free slot on the calendar, in the right voice, then it goes through the usual check and approval.
+Numbers shown are only ones found word-for-word in the source post.</p>
+<div class="tabs hub">
+  {% for v, l in [('','To do'),('shortlisted','Shortlisted'),('used','Written'),('dropped','Dropped')] %}<a href="?status={{ v }}" class="{{ 'on' if st==v }}">{{ l }} <b>{{ (counts.get('new',0)+counts.get('shortlisted',0)) if v=='' else counts.get(v,0) }}</b></a>{% endfor %}
+</div>
+<div class="grid g2">
+{% for i in ideas %}
+  <div class="card" id="id_{{ i.id }}">
+    <div class="row small" style="gap:6px;flex-wrap:wrap">
+      {% if i.platform in ['linkedin','instagram'] %}{{ m.plat(i.platform) }}{% else %}<span class="pill">LinkedIn + Instagram</span>{% endif %}
+      <span class="pill ghost">{{ i.format }}</span>{% if i.platform != 'instagram' and i.voice %}{{ m.vchip(i.voice) }}{% endif %}
+      <span class="pill">{{ i.pillar }}</span>{% if i.status=='shortlisted' %}<span class="pill s-approved">Shortlisted</span>{% endif %}
+      <span class="muted grow" style="text-align:right">{{ 'from Discover' if i.origin=='discover' else 'topic bank ' ~ (i.topic_ref or '') }}</span></div>
+    <h3 style="margin:10px 0 6px">{{ i.hook }}</h3>
+    {% if i.angle %}<p class="small">{{ i.angle }}</p>{% endif %}
+    {% if i.outline %}<details class="small"><summary>Outline ({{ i.outline|length }})</summary><ol>{% for o in i.outline %}<li>{{ o }}</li>{% endfor %}</ol></details>{% endif %}
+    {% if i.numbers %}<div class="small" style="margin-top:6px">{% for n in i.numbers %}<div>🔢 <b>{{ n.value }}</b> — “{{ n.quote }}” {% if n.url %}<a href="{{ n.url }}" target="_blank" style="color:var(--accent)">source</a>{% endif %}</div>{% endfor %}</div>{% endif %}
+    {% for f in i.guard or i.flags or [] %}<div class="small lvl-warn">⚠ {{ f.message }}</div>{% endfor %}
+    {% if i.why_now %}<p class="small muted">Why now: {{ i.why_now }}</p>{% endif %}
+    <div class="row" style="margin-top:10px;gap:6px">
+      {% if i.status == 'used' and i.post_id %}<a class="btn sm" href="/post/{{ i.post_id }}">Open post</a>{% else %}
+      {% if i.platform in ['both', none, ''] %}<button class="btn sm primary" onclick="write('{{ i.id }}','linkedin')">Write for LinkedIn</button><button class="btn sm primary" onclick="write('{{ i.id }}','instagram')">Write for Instagram</button>
+      {% else %}<button class="btn sm primary" onclick="write('{{ i.id }}')">Write it</button>{% endif %}
+      {% if i.status != 'shortlisted' %}<button class="btn sm soft" onclick="setIdea('{{ i.id }}','shortlisted')">Shortlist</button>{% endif %}
+      <button class="btn sm" onclick="setIdea('{{ i.id }}','dropped')">Drop</button>{% endif %}
+    </div>
+  </div>
+{% else %}<div class="empty">No ideas here. Make some from <a href="/discover">Discover</a> or the topic bank.</div>{% endfor %}
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+async function setIdea(id, status) { await api('/api/ideas/' + id, {status}); document.getElementById('id_' + id).remove(); toast(status === 'dropped' ? 'Dropped' : 'Shortlisted ✓'); }
+async function gen(from) { toast('Pulling hooks…'); const j = await api('/api/ideas/generate', {from, n: 6}); if (!j.ok) return toast(j.error, 6000); location.reload(); }
+async function write(id, platform) {
+  toast('Writing the draft with AI… (20–40 s)', 40000);
+  const j = await api('/api/ideas/' + id + '/to-post', platform ? {platform} : {});
+  if (!j.ok) return toast(j.error || 'Failed', 6000);
+  if (j.message) alert(j.message);
+  location.href = '/post/' + encodeURIComponent(j.id);
+}
+</script>
+{% endblock %}

@@ -1,0 +1,795 @@
+[
+  {
+    "date": "2026-11-27",
+    "end_date": null,
+    "name": "Black Friday 2026",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "E-commerce, electronics, SaaS, fashion, D2C brands",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2026-12-25",
+    "end_date": null,
+    "name": "Christmas 2026",
+    "category": "festival",
+    "religion": "Christian",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+      "https://www.calendarlabs.com/holidays/india/2026"
+    ],
+    "notes": "Central govt gazetted holiday (Fri). Holiday in every state list (MH, KA, DL, TN, WB, KL).",
+    "why": "Retail, gifting, travel, food and beverage, fashion, decor",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2026-12-31",
+    "end_date": null,
+    "name": "New Year's Eve 2026",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "Hospitality, spirits, fashion, events, resolutions-themed content",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-01-14",
+    "end_date": null,
+    "name": "Lohri 2027",
+    "category": "festival",
+    "religion": "Regional",
+    "region": "North",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.bhaktibharat.com/festival/lohri",
+      "https://astroyogi.com/festival/lohri",
+      "https://www.drikpanchang.com/sankranti/makar-sankranti-date-time.html?year=2027"
+    ],
+    "notes": "CONFLICT RESOLVED: Hindu Blog/Bhakti Bharat/days.to give Wed 13 Jan (habitual fixed date); Drik gives Thu 14 Jan. Rule: Lohri is the eve of Makar Sankranti; the Sankranti moment is 9:14 PM on 14 Jan (after sunset), so Sankranti is observed 15 Jan and Lohri on the night of 14 Jan. Some Punjabi families may still light the fire on 13 Jan.",
+    "why": "FMCG, food, ethnic wear, real estate (strong in North India)",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-01-14",
+    "end_date": "2027-01-15",
+    "name": "Makar Sankranti / Uttarayan 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "restricted",
+    "state_holidays": "Karnataka",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+      "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+    ],
+    "notes": "Sources disagree on the single day: DoPT RH list and CalendarLabs give Thu 14 Jan; Drik Panchang gives Fri 15 Jan (Sankranti moment 9:14 PM on 14 Jan, so Punya Kaal on 15 Jan). Treat 14-15 Jan as the window; rituals mostly on 15 Jan. DoPT RH is 14 Jan. Karnataka (2026 list) gives Makara Sankranti a general holiday; Gujarat celebrates Uttarayan kite festival 14-15 Jan. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "Agriculture, food, kites, ethnic wear, electronics (pan-India)",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-01-15",
+    "end_date": "2027-01-17",
+    "name": "Pongal 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Tamil Nadu",
+    "holiday": "restricted",
+    "state_holidays": "Tamil Nadu",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+    ],
+    "notes": "CalendarLabs lists Makar Sankranti/Pongal on 14 Jan; majority (DoPT, Drik, Hindu Blog) say 15 Jan. Bhogi ~14 Jan, Mattu Pongal ~16 Jan. Tamil Nadu 2027 holidays: Pongal 15 Jan, Thiruvalluvar Day (Mattu Pongal) 16 Jan, Uzhavar Thirunal 17 Jan. DoPT RH 15 Jan. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "Agriculture, food, ethnic wear, electronics (Tamil Nadu)",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-01-26",
+    "end_date": null,
+    "name": "Republic Day 2027",
+    "category": "festival",
+    "religion": "National",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Gazetted holiday (Tue). National festival; holiday in all states.",
+    "why": "All brands: patriotic creatives, sales, government and CSR",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-02-14",
+    "end_date": null,
+    "name": "Valentine's Day 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "Gifting, flowers, jewellery, restaurants, travel, fashion, dating apps",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-03-08",
+    "end_date": null,
+    "name": "International Women's Day 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "All brands: empowerment campaigns, D2C, beauty, wellness",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-03-10",
+    "end_date": null,
+    "name": "Eid ul-Fitr 2027",
+    "category": "festival",
+    "religion": "Muslim",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "moon_sighting",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/indian/muslim-festivals/eid-al-fitr/eid-al-fitr-date-time.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+      "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+    ],
+    "notes": "Expected Wed 10 Mar (DoPT gazetted, Drik, CalendarLabs). Subject to moon sighting; some sources/states show Tue 9 Mar. Holiday in all major states (TN and Kerala 2027 lists: 10 Mar). Tamil Nadu/West Bengal may add an adjacent day.",
+    "why": "Ramadan and Eid shopping season: fashion, food, gifting (not on the reference page; kept as a major festival)",
+    "use": "Campaign and greeting",
+    "reference": ""
+  },
+  {
+    "date": "2027-03-22",
+    "end_date": null,
+    "name": "Holi 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/festivals/holi/festivals-holika-dahan-timings.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://hindutone.com/festivals/holi-2027/",
+      "https://www.punenow.com/?p=52110"
+    ],
+    "notes": "CONFLICT RESOLVED: Drik Panchang, Hindu Blog, Hindutone and CalendarLabs give Mon 22 Mar for colours (the morning after Holika Dahan of 21 Mar); DoPT's gazetted Holi holiday is Tue 23 Mar (it treats 22 Mar as Dol Purnima and puts Holi on Chaitra Krishna Pratipada at sunrise, 23 Mar). Recommendation: post on 22 Mar; central offices are closed 23 Mar. Maharashtra (Dhulivandan) and Delhi give Holi a state holiday - check their 2027 GRs for 22 vs 23 Mar.",
+    "why": "FMCG, colours, food and beverage, fashion, skincare, organic products",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-03-28",
+    "end_date": null,
+    "name": "Easter Sunday 2027",
+    "category": "festival",
+    "religion": "Christian",
+    "region": "Pan-India",
+    "holiday": "restricted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://publicholidays.com/easter/",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+      "https://www.catholicchurchtimes.com/calendar/easter/2027"
+    ],
+    "notes": "Western Easter. DoPT RH. Palm Sunday 21 Mar.",
+    "why": "Bakeries, gifting, chocolates, fashion retail",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-04-07",
+    "end_date": null,
+    "name": "Gudi Padwa / Ugadi 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Maharashtra",
+    "holiday": "restricted",
+    "state_holidays": "Maharashtra, Karnataka, Tamil Nadu",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+      "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+      "https://www.punenow.com/?p=52110",
+      "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+    ],
+    "notes": "CalendarLabs lists Thu 8 Apr (disagrees); Drik, DoPT and Hindu Blog give Wed 7 Apr. Also Cheti Chand. DoPT RH (Chaitra Sukladi/Gudi Padava/Ugadi). State holiday in Maharashtra and Karnataka (2026 pattern) and Tamil Nadu (Telugu New Year, 2027 list). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "Real estate, auto, gold, new-beginnings campaigns (West and South India)",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-04-14",
+    "end_date": null,
+    "name": "Baisakhi / Vaisakhi 2027",
+    "category": "festival",
+    "religion": "Sikh",
+    "region": "Punjab",
+    "holiday": "restricted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/festivals/vaisakhi/vaisakhi-date-time.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://templesinindiainfo.com/?p=28870",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+    ],
+    "notes": "CORRECTED: seed note said Mesha Sankranti 3:03 AM; Drik's Vaisakhi page gives 03:33 PM on Wed 14 Apr (New Delhi). Vaisakhi is 14 Apr (DoPT RH 'Vaisakhi/Vishu/Meshadi'). Because the Sankranti is in the afternoon, Vishu, Pohela Boishakh and Bohag Bihu shift to 15 Apr (separate entries); Puthandu stays 14 Apr.",
+    "why": "FMCG, agriculture, ethnic wear, food and beverage",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-04-15",
+    "end_date": null,
+    "name": "Ram Navami 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Thu. Maharashtra and West Bengal holiday (2026 pattern).",
+    "why": "Ethnic wear, spiritual products, FMCG, sweets",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-05-09",
+    "end_date": null,
+    "name": "Akshaya Tritiya 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "Karnataka (Basava Jayanti)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://hindutone.com/festivals/akshaya-tritiya-2027/",
+      "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+    ],
+    "notes": "Sun. Big gold/jewellery and auspicious-purchase moment for D2C. Basava Jayanti (Karnataka holiday) falls on Akshaya Tritiya (Vaishakha Shukla Tritiya); in 2027 that is Sunday 9 May. Parashurama Jayanti 8 May. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "Jewellery, gold, real estate, financial services",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-05-09",
+    "end_date": null,
+    "name": "Mother's Day 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "Gifting, jewellery, flowers, spa and wellness, electronics",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-05-17",
+    "end_date": null,
+    "name": "Eid al-Adha (Bakrid) 2027",
+    "category": "festival",
+    "religion": "Muslim",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "moon_sighting",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.officeholidays.com/holidays/india/eid-al-adha",
+      "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+      "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+    ],
+    "notes": "Expected Mon 17 May; subject to moon sighting (some sources show 16 or 18 May). Holiday in all major states (TN, Kerala 2027 lists: 17 May).",
+    "why": "Fashion, ethnic wear, food, gifting, e-commerce",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-05-20",
+    "end_date": null,
+    "name": "Buddha Purnima 2027",
+    "category": "festival",
+    "religion": "Buddhist",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Thu. Maharashtra, Delhi, West Bengal holiday (2026 pattern).",
+    "why": "Wellness, spiritual products, travel and tourism",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-06-20",
+    "end_date": null,
+    "name": "Father's Day 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "Gifting, grooming, electronics, fashion, spirits",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-06-21",
+    "end_date": null,
+    "name": "International Yoga Day 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "Health and wellness, fitness, athleisure, organic products",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-07-18",
+    "end_date": null,
+    "name": "Guru Purnima 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Ashadha Purnima (Vyasa Purnima), Sun 18 Jul. Also Buddhist Dharma Chakra Pravartana Day.",
+    "why": "EdTech, books, spiritual products, gifting for teachers",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-07-26",
+    "end_date": null,
+    "name": "Kargil Vijay Diwas 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "Patriotic branding, CSR campaigns, defence-adjacent brands",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-08-15",
+    "end_date": null,
+    "name": "Independence Day 2027",
+    "category": "festival",
+    "religion": "National",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Sun. Same day: Milad-un-Nabi (expected, moon sighting) and Parsi New Year (Navroz) per DoPT lists. National festival; holiday in all states.",
+    "why": "All brands: patriotic creatives, sales, CSR content",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-08-17",
+    "end_date": null,
+    "name": "Raksha Bandhan 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "restricted",
+    "state_holidays": "West Bengal (2026 pattern)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+      "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+    ],
+    "notes": "Tue. Major gifting moment for D2C. DoPT RH. Same day: Narali Purnima (Mumbai Koli fishing community). West Bengal List II holiday (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "Gifting, sweets, ethnic wear, jewellery, e-commerce",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-08-25",
+    "end_date": null,
+    "name": "Janmashtami 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+      "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+    ],
+    "notes": "Wed. Hindu Blog notes 24/25 Aug (Smarta vs Vaishnava); gazetted holiday 25 Aug. Midnight puja 12:01-12:45 AM 26 Aug. Kerala list has Sreekrishna Jayanthi on 24 Aug (Malayalam calendar).",
+    "why": "Sweets, dairy, ethnic wear, home decor, FMCG",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-09-04",
+    "end_date": null,
+    "name": "Ganesh Chaturthi 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Maharashtra",
+    "holiday": "restricted",
+    "state_holidays": "Maharashtra, Karnataka, Tamil Nadu",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+      "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+      "https://www.punenow.com/?p=52110",
+      "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+    ],
+    "notes": "Sat. 10-day Ganeshotsav; Anant Chaturdashi (visarjan) date not separately verified. Huge in Mumbai. DoPT RH. State holiday in Maharashtra and Karnataka (2026 pattern) and Tamil Nadu (2027 list). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "Home decor, sweets, eco-friendly products, FMCG, fashion",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-09-05",
+    "end_date": null,
+    "name": "Teachers' Day 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "EdTech, stationery, books, gifting, coaching",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-09-12",
+    "end_date": null,
+    "name": "Onam (Thiruvonam) 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Kerala",
+    "holiday": "restricted",
+    "state_holidays": "Kerala",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.drikpanchang.com/festivals/onam/onam-thiruvonam-date.html?year=2027",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+      "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+    ],
+    "notes": "CONFLICT RESOLVED: CalendarLabs says Sat 11 Sep and AstroSage 13 Sep; Drik, DoPT RH and Hindu Blog give Sun 12 Sep. Rule: Thiruvonam nakshatra runs ~2:58 AM 12 Sep to 6:04 AM 13 Sep, so it prevails through the day on 12 Sep. 11 Sep is First Onam (Uthradom). Kerala holiday (falls on a Sunday in the 2027 list). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "E-commerce, electronics, fashion, gold (strong in Kerala)",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-09-30",
+    "end_date": "2027-10-08",
+    "name": "Sharad Navratri 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/navratri/ashwin-shardiya-navratri-dates.html?year=2027",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://templesinindiainfo.com/2027-shardiya-navratri-dates-navratri-festival-dates-2027",
+      "https://www.drikpanchang.com/navratri/shardiya-navratri-ghatasthapana.html?year=2027"
+    ],
+    "notes": "CONFLICT RESOLVED: Hindu Blog says 1 Oct in some regions; Drik gives Thu 30 Sep (Ghatasthapana 8:05-10:12 AM). Rule: Pratipada runs 8:05 AM 30 Sep to 5:34 AM 1 Oct and touches no sunrise; Ghatasthapana needs Pratipada in the first third of the day, which exists only on 30 Sep. Garba/Dandiya nights 30 Sep-8 Oct (big in Mumbai/Gujarat).",
+    "why": "Ethnic wear, jewellery, dandiya events, FMCG, auto (auspicious purchases)",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-10-06",
+    "end_date": "2027-10-10",
+    "name": "Durga Puja 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "West Bengal",
+    "holiday": "restricted",
+    "state_holidays": "West Bengal",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+      "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+    ],
+    "notes": "Maha Saptami 6 Oct, Ashtami 7 Oct, Navami 8 Oct per DoPT RH (Dussehra Saptami/Mahashtami/Mahanavami) and Drik; Hindu Blog has puja from Shashthi 5 Oct. Drik's Bengal listing puts Bengal Maha Navami on 9 Oct and Vijayadashami/visarjan (Bijoya) on 10 Oct, so end_date is 10 Oct. West Bengal gives multiple Puja holidays (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "Fashion, pandal sponsorships, food, e-commerce (strong in East India)",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-10-09",
+    "end_date": null,
+    "name": "Dussehra (Vijaya Dashami) 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Sat. CalendarLabs lists Sun 10 Oct (disagrees); DoPT/Drik/Hindu Blog give 9 Oct. Holiday in all major states.",
+    "why": "Auto, real estate, electronics, gold: a major purchase day",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-10-18",
+    "end_date": null,
+    "name": "Karva Chauth 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "North",
+    "holiday": "restricted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+    ],
+    "notes": "Mon. DoPT RH (Karaka Chaturthi).",
+    "why": "Jewellery, cosmetics, ethnic wear, gifting, salons",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-10-27",
+    "end_date": null,
+    "name": "Dhanteras 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/festivals/dhanteras/festivals-dhanteras-puja-timings.html?year=2027",
+      "https://dekhopanchang.com/en/festivals/dhanteras/2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Wed (Drik New Delhi: Trayodashi 1:03 AM-10:49 PM 27 Oct). A Drik US-location page shows 26 Oct - not applicable to India. Peak gold/utensils buying day.",
+    "why": "Gold, electronics, utensils, auto: the highest spending day of the year",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-10-29",
+    "end_date": null,
+    "name": "Diwali (Lakshmi Puja) 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Fri. Same day: Bandi Chhor Divas (Sikh) and Mahavir Nirvan (Jain; Vira Nirvana new year next day). Tamil Nadu/Kerala observe Deepavali on 28 Oct.",
+    "why": "Every brand: gifting, sweets, electronics, fashion, home decor, fintech",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-10-31",
+    "end_date": null,
+    "name": "Bhai Dooj 2027",
+    "category": "festival",
+    "religion": "Hindu",
+    "region": "Pan-India",
+    "holiday": "restricted",
+    "state_holidays": "Maharashtra, West Bengal (2026 pattern)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+      "https://www.punenow.com/?p=52110",
+      "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+    ],
+    "notes": "Sun. DoPT RH (31 Oct, Sunday). Maharashtra (Bhau Beej) and West Bengal (Bhai Phonta) holiday per 2026 pattern. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec).",
+    "why": "Gifting, sweets, personal care, sibling-themed campaigns",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-11-26",
+    "end_date": null,
+    "name": "Black Friday 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "E-commerce, electronics, SaaS, fashion, D2C brands",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-12-25",
+    "end_date": null,
+    "name": "Christmas 2027",
+    "category": "festival",
+    "religion": "Christian",
+    "region": "Pan-India",
+    "holiday": "gazetted",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+      "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+    ],
+    "notes": "Sat. Holiday in all major states.",
+    "why": "Retail, gifting, travel, food and beverage, fashion, decor",
+    "use": "Campaign and greeting",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  },
+  {
+    "date": "2027-12-31",
+    "end_date": null,
+    "name": "New Year's Eve 2027",
+    "category": "marketing day",
+    "religion": null,
+    "region": "Pan-India",
+    "holiday": "none",
+    "state_holidays": "",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+    ],
+    "notes": "A marketing occasion, not a festival. Fixed calendar date.",
+    "why": "Hospitality, spirits, fashion, events, resolutions-themed content",
+    "use": "Campaign",
+    "reference": "https://www.salesbond.in/blog/festival-marketing-calendar-india-2026"
+  }
+]

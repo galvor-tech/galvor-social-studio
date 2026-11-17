@@ -1,0 +1,545 @@
+{
+ "posts": [
+  {
+   "id": "li-2026-11-23-i-dont-like-it-is-a-feeling",
+   "title": "“I don't like it”: three questions that turn it into a change",
+   "hook": "“I don't like it” is a feeling, and nobody can edit a feeling.",
+   "caption": "“I don't like it” is a feeling, and nobody can edit a feeling.\nWhoever carries feedback from a brand to a creator has to turn it into a change first.\n\nPassed on as it is, that line costs a full round. The creator guesses, changes four things, and the one thing that bothered the reviewer is still in the cut.\n\nSo before feedback leaves my desk, I put three questions to it.\n\nWhere? The exact seconds. “The opening” is too loose. “0:02 to 0:05” is usable.\n\nWhat? The thing on screen or in the audio at that moment. A line, a shot, the music, the pace.\n\nCompared to what? Every “I don't like it” has a picture behind it of what the person expected. Ask for that picture: an older ad, a reference, a line in the brief.\n\nThen write the note as an instruction. “At 0:03, swap the product shot for the line to camera, like the reference in the brief.”\n\nIf I cannot write it that way, the feedback is not ready to send. I go back to the reviewer, not forward to the creator.\n\nA creator can act on a timestamp. A mood only gets a guess.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#CreatorMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Follow Galvor (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Shrutik: that these three questions (where, what, compared to what) are how he handles vague feedback, and whether he can add one real, anonymised note he has rewritten this way. The example instruction in the post is illustrative.\nReader: a brand or creative manager who passes client feedback to creators. Shape: how-to. Hook shape: punchy plus context. Numbers used: none (0:02, 0:03, 0:05 are example timestamps)."
+  },
+  {
+   "id": "li-2026-11-30-creator-work-happens-on-whatsapp",
+   "title": "Creator work runs on WhatsApp: four habits that make the chat a workflow",
+   "hook": "Creator work in India runs on WhatsApp. No tool will change that.",
+   "caption": "Creator work in India runs on WhatsApp. No tool will change that.\nSo the useful question for a brand team is how to make a chat behave like a workflow.\n\nThe usual advice is to move creators into your project tool. A creator working with several brands will not keep a separate login for each one. They will reply where they already are.\n\nFour habits make the chat do most of a tracker's work.\n\n1. One group per campaign. Put the brand and the go-live date in the group name.\n\n2. The brief is one pinned message. Must-haves first, as a numbered list, so a creator can reply “point 3 is not clear”.\n\n3. One ask per message. Three asks in one paragraph get one answer.\n\n4. Voice notes are fine for talking. Every decision gets typed back in one line: “Confirming: shoot on Thursday, opening option 2.”\n\nThen the step that happens outside the chat. At the end of each day, every decision and every date moves into one tracker the brand can open.\n\nThe chat is where the work gets done. The tracker is where the client reads it.\n\nMeet creators where they already work, and keep the record where the brand can find it.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#CreatorMarketing",
+    "#D2CIndia",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Follow Galvor (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Shrutik: that he runs creator campaigns this way (one group per campaign, pinned numbered brief, one ask per message, decisions typed back, end-of-day tracker update). He can swap in his own habits if they differ.\nReader: a brand manager or agency lead running creator campaigns in India. Shape: a belief we hold against the usual process advice, then a checklist. Hook shape: single-line bomb. Numbers used: none."
+  },
+  {
+   "id": "li-2026-12-07-ai-is-fast-approvals-context-and-judgement-still",
+   "title": "AI made the draft fast. The wait has moved to approvals",
+   "hook": "AI can make a first cut in minutes.",
+   "caption": "AI can make a first cut in minutes.\nThe approval still needs the same people and the same days.\n\nFor a brand team wondering what AI changes in creative work, this is the part to plan for: the making got shorter, so the waiting is now the longest stage.\n\nWhen a video took a week to make, two days in someone's inbox went unnoticed. When it takes a morning, those two days are most of the timeline.\n\nThree things are worth agreeing before anyone generates anything.\n\nOne named person per approval stage. A team inbox does not say yes. A person does.\n\nWhat each person is reading for. Legal reads the claim. The brand lead reads the tone. Nobody reopens what someone else has cleared.\n\nA reply-by time, and what happens when it passes.\n\nSome of the work stays with people for a plain reason. The context that decides an approval is often written nowhere a model can read it: a claim that was pulled last quarter, a word the founder never wants on screen. A person has to carry that into the review.\n\nA fast draft only helps if the yes can keep up with it.",
+   "first_comment": "Decoded #8 goes out this Wednesday on this exact question: what an AI co-worker should decide. Read it on galvor.ai.",
+   "hashtags": [
+    "#AIinMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Read Decoded #8 on galvor.ai (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "Reader: a brand lead or founder asking what AI really changes in creative production (De-risk). Shape: observation, then a three-point setup. Hook shape: stacked (two short lines, then the claim). Written as an argument with no personal anecdote; the 'claim pulled last quarter' and 'word the founder never wants' lines are generic examples of unwritten context, not real cases. Numbers used: none.\nFirst comment points to Decoded #8, which goes out two days after this post (9 Dec). If the issue slips, change the first comment to a plain Follow Galvor line."
+  },
+  {
+   "id": "li-2026-12-14-a-day-running-a-creator-campaign-in-60-seconds",
+   "title": "Brief to Live: a creator campaign day in under a minute",
+   "hook": "A creator campaign day is four check-ins around the shoot.",
+   "caption": "A creator campaign day is four check-ins around the shoot.\n\nMorning: the brief goes out with the must-haves at the top.\n\nMidday: questions come back. If two creators ask the same thing, the brief has a hole, so the brief gets fixed and then the replies go out.\n\nAfternoon: first cuts. Claim, product and ask get checked before the brand sees anything.\n\nEvening: a follow-up by voice note, and every decision from the chat goes into one tracker.\n\nThe one to copy tomorrow is the midday rule. The same question twice is a note about your brief.\n\nThis is Brief to Live, a series on what happens between the brief and the ad going live.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#CreatorMarketing",
+    "#D2CIndia",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "Vertical video cover. Brief to Live. Headline: A creator campaign day, in under a minute. Sub line: four check-ins that get a campaign live on time.",
+   "cta": "Follow Galvor (end of video and first comment)",
+   "script": {
+    "duration": "45s",
+    "setup": "Idea: a brand or creative manager thinks a creator campaign is won on the shoot; the day is really run by four check-ins around it. On-screen title (first frame): 'A creator campaign day'. Expectation it sets: a quick look at what the day involves. The first line meets it; the video beats it with one rule the viewer can copy (the same question twice means fix the brief). Points are kept in the order of the day so the viewer can follow the clock; the strongest point sits second. Shot vertically on a phone with burned-in subtitles. Blur creator names, client names and chat contents.",
+    "scenes": [
+     {
+      "time": "0–5s",
+      "visual": "Shrutik to camera at his desk, phone in hand. Title text sits on the first frame.",
+      "voiceover": "This is a creator campaign day, in under a minute.",
+      "on_screen": "A creator campaign day"
+     },
+     {
+      "time": "5–10s",
+      "visual": "A ring light and tripod standing unused in a corner, then a wall clock.",
+      "voiceover": "People think the work is the shoot. Most of it is four check-ins.",
+      "on_screen": "Four check-ins, not the shoot"
+     },
+     {
+      "time": "10–15s",
+      "visual": "Phone screen: one long message being sent, the top lines numbered. Details blurred.",
+      "voiceover": "Morning. The brief goes out, must-haves at the top.",
+      "on_screen": "Morning: must-haves on top"
+     },
+     {
+      "time": "15–20s",
+      "visual": "Phone face up on the desk, screen lighting up with replies.",
+      "voiceover": "Then I wait for questions. They test the brief.",
+      "on_screen": "Questions test the brief"
+     },
+     {
+      "time": "20–25s",
+      "visual": "Two chat bubbles side by side with the same question (blurred). Cut to the brief being edited.",
+      "voiceover": "Midday. Two creators ask the same thing. That is a hole in the brief. Fix the brief.",
+      "on_screen": "Same question twice? Fix brief"
+     },
+     {
+      "time": "25–30s",
+      "visual": "Laptop with a first cut paused. A hand ticks three boxes on a printed sheet.",
+      "voiceover": "Afternoon. First cuts. I check claim, product and ask before the brand sees them.",
+      "on_screen": "Check claim, product, ask"
+     },
+     {
+      "time": "30–35s",
+      "visual": "Shrutik walking, recording a voice note on his phone.",
+      "voiceover": "Evening. Someone has gone quiet. I send a voice note.",
+      "on_screen": "Evening: follow up by voice"
+     },
+     {
+      "time": "35–40s",
+      "visual": "Laptop: a simple tracker sheet, one row being filled in. Details blurred.",
+      "voiceover": "Last, every decision in the chat goes into one tracker.",
+      "on_screen": "Decisions go in one tracker"
+     },
+     {
+      "time": "40–45s",
+      "visual": "Shrutik to camera, closing the laptop. Galvor logo end card.",
+      "voiceover": "Boring check-ins get a campaign live on time. Follow Galvor for more.",
+      "on_screen": "Follow Galvor"
+     }
+    ],
+    "music": "Light, low instrumental, kept under the voice.",
+    "notes": "No numbers from the facts bank are used. Spoken at about 2.3 words a second for 45 seconds. Add a captions file for muted autoplay. Use the cover as the thumbnail."
+   },
+   "poll": null,
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Brief to Live",
+      "headline": "A creator campaign day, *in under a minute*",
+      "sub": "Four check-ins that get a campaign live on time.",
+      "play": "Watch the day"
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Shrutik: that the four check-ins (brief out in the morning, questions at midday, first cuts in the afternoon, follow-up and tracker in the evening) match how he runs a real campaign day, and that he can film it during a live campaign with creator and client details blurred. Nothing in the script describes a specific real day; he should adjust any step that is not true for him.\nReader: a brand or creative manager who has never seen the servicing side. Shape: a day in sequence with one rule to copy. Numbers used: none. Title changed from '60 seconds' to 'under a minute' because the script is 45 seconds."
+  },
+  {
+   "id": "li-2026-12-21-ai-made-it-is-never-a-reason-to-lower-the-bar",
+   "title": "Myth and fact: “AI made it” does not lower the QC bar",
+   "hook": "“AI made it” is never a reason to lower the bar.",
+   "caption": "“AI made it” is never a reason to lower the bar.\nThe person scrolling past your ad has no idea how it was made, and would not care if they did.\n\nThe myth is that an AI video deserves a lighter check because it was quick and cheap. The fact runs the other way. It needs the same check as any creator video, and three more.\n\nThe same for every video, whoever made it:\nIs the claim the approved claim, word for word?\nIs the product shown the way it really looks?\nIs the ask clear in the last seconds?\n\nExtra for AI:\nThe pack. Letters on the label, the logo shape and the pack colour drift in generated footage. Pause on every frame where the product is close.\nHands, faces and on-screen text, at the moments they move.\nThe voice. Listen to how it says the brand name and any Indian word.\n\nIf a video fails one line, it goes back. No discount for the tool.\n\nHere is what AI does change. A remake is quick. That is a reason to reject more often, since saying no now costs an hour and not a week.\n\nThe bar belongs to the brand, and the tool does not get a vote.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#AIinMarketing",
+    "#AdCreative",
+    "#D2CIndia"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Follow Galvor (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "Reader: a brand manager worried that AI creative will quietly lower quality (De-risk). Shape: a myth and the fact, with a checklist. Hook shape: single-line bomb. Written as a method, with no personal anecdote. 'An hour and not a week' is a figure of speech, not a measured time; change it if it reads as a promise. Numbers used: none.\nOptional: Shrutik can add one real, anonymised example of an AI cut that failed the pack check."
+  },
+  {
+   "id": "li-2026-12-28-brief-to-live-a-creator-shoot-day-in-under-a-min",
+   "title": "Brief to Live: four extra takes that save a reshoot",
+   "hook": "Most people see the ad. Almost nobody sees the shoot day.",
+   "caption": "Most people see the ad. Almost nobody sees the shoot day.\n\nA reshoot is usually decided on the shoot itself, by what did not get filmed.\n\nSo the plan for the day carries four extra takes besides the main one:\n\n1. Three openings for the same script, because the opening is the first thing to test.\n2. The product up close, label readable, held still.\n3. The approved claim, word for word, in one clean take. An edit cannot repair a paraphrased claim.\n4. Ten seconds of the room with nobody talking, to cover cuts.\n\nTick all four before the creator packs up. After that, each missing one is a second shoot day.\n\nBrief to Live is a series on what happens between the brief and the ad going live.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#CreatorMarketing",
+    "#AdCreative",
+    "#D2CIndia"
+   ],
+   "alt_text": "Vertical video cover. Brief to Live. Headline: The shoot day nobody sees. Sub line: four extra takes that save a reshoot.",
+   "cta": "Follow Galvor (end of video and first comment)",
+   "script": {
+    "duration": "45s",
+    "setup": "Idea: a brand or creative manager loses days to reshoots because the shoot captured only the main take. On-screen title (first frame): 'The shoot day nobody sees'. Expectation it sets: a look behind a creator shoot. The first line meets it; the video beats it with four extra takes to film so the edit rarely needs a reshoot. Order: two easy takes first, then a re-hook, then the claim take, which matters most. Shot vertically on a phone during a real creator shoot, with permission. Blur faces, product names and brand names unless cleared.",
+    "scenes": [
+     {
+      "time": "0–5s",
+      "visual": "A creator setting up a phone on a tripod at home. Title text sits on the first frame.",
+      "voiceover": "Everybody sees the ad. Here is the shoot day behind it.",
+      "on_screen": "The shoot day nobody sees"
+     },
+     {
+      "time": "5–10s",
+      "visual": "A printed shot list on a table with four lines under the main take.",
+      "voiceover": "Most plan for one good take. Plan four extra ones and you rarely need a reshoot.",
+      "on_screen": "Four extra takes"
+     },
+     {
+      "time": "10–15s",
+      "visual": "The creator says a first line to camera three different ways, shown as three quick cuts.",
+      "voiceover": "One. Three openings for the same script. The opening is what gets tested first.",
+      "on_screen": "Three openings, one script"
+     },
+     {
+      "time": "15–20s",
+      "visual": "Close shot of a product held still in a hand, label facing the camera (blurred if not cleared).",
+      "voiceover": "Two. The product up close, label readable, held still.",
+      "on_screen": "Product close, label readable"
+     },
+     {
+      "time": "20–25s",
+      "visual": "Shrutik to camera, holding the shot list.",
+      "voiceover": "Those are easy. The next one saves the most trouble.",
+      "on_screen": "Next: the important one"
+     },
+     {
+      "time": "25–30s",
+      "visual": "The brief on a phone with one line highlighted. The creator reads it, then says it to camera.",
+      "voiceover": "Three. The approved claim, word for word. An edit cannot fix a paraphrase.",
+      "on_screen": "The claim, word for word"
+     },
+     {
+      "time": "30–35s",
+      "visual": "The empty room, camera still rolling, nobody speaking.",
+      "voiceover": "Four. Ten seconds of the room, nobody talking. It covers every cut.",
+      "on_screen": "Ten seconds of quiet room"
+     },
+     {
+      "time": "35–40s",
+      "visual": "A hand ticks four boxes on the shot list while the tripod is folded in the background.",
+      "voiceover": "Tick all four before the creator packs up.",
+      "on_screen": "Tick four before pack-up"
+     },
+     {
+      "time": "40–45s",
+      "visual": "Shrutik to camera. Galvor logo end card.",
+      "voiceover": "A good shoot leaves the edit with choices. Follow Galvor for more.",
+      "on_screen": "Follow Galvor"
+     }
+    ],
+    "music": "Light, low instrumental, kept under the voice.",
+    "notes": "No numbers from the facts bank are used. 'Three openings', 'four extra takes' and 'ten seconds' are instructions, not statistics. Spoken at about 2.3 words a second for 45 seconds. Add a captions file for muted autoplay."
+   },
+   "poll": null,
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Brief to Live",
+      "headline": "The shoot day *nobody sees*",
+      "sub": "Four extra takes that save a reshoot.",
+      "play": "Watch the shoot day"
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Shrutik: that he asks for these four extra takes on creator shoots (three openings, product close-up, the claim word for word, ten seconds of quiet room), and that there is a real shoot he can film with the creator's and the client's permission. If he has not run a shoot day this way yet, he should say which takes he does ask for and the script changes to match.\nReader: a brand or creative manager who briefs creators. Shape: checklist. Numbers used: none. The current hook line is kept because it is strong; the body is new."
+  },
+  {
+   "id": "li-2027-01-04-setting-client-expectations-when-ai-output-needs",
+   "title": "AI output needs rounds: what to say on the first call",
+   "hook": "AI creative needs a few rounds. Say so on the first call.",
+   "caption": "AI creative needs a few rounds. Say so on the first call.\nA client who expects a finished film in round one will read every later round as a failure.\n\nWith the first briefs of the year going out this week, here is how I set it up on that call. Each round gets a name and one job.\n\nRound one is direction. One question only: is this the right idea, look and voice? Small flaws are expected here and nobody lists them.\n\nRound two is accuracy. Product, pack, claim and on-screen text.\n\nRound three is polish. Timing, sound and subtitles.\n\nThen the rule that protects the dates. A note belongs to its round. A change of idea in round three sends us back to round one, and the go-live date moves with it. Said on day one, that is a plan. Said in week three, it sounds like an excuse.\n\nAfter the call, it goes in writing: the rounds, what each is for, and who replies by when.\n\nThis matters more with AI because round one arrives so fast. People then expect the final cut at the same speed.\n\nRounds stop feeling like rework when everyone was told they were coming.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#AIinMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Follow Galvor (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Shrutik: that this three-round setup (direction, accuracy, polish) is what he tells clients on a first call for AI creative work, and that Galvor's delivery really runs in about three rounds. If the real number of rounds differs, change the post to match.\nReader: an agency or brand lead about to commission AI creative (De-risk). Shape: how-to script for one call. Hook shape: punchy plus context. Numbers used: none."
+  },
+  {
+   "id": "li-2027-01-11-one-script-five-variations-each-tests-one-thing",
+   "title": "One script, five variations: each changes one thing",
+   "hook": "One script, five variations. Each variation changes exactly one thing.",
+   "caption": "One script, five variations. Each variation changes exactly one thing.\n\nThe easy way to brief variations is to change everything at once: new opening, new creator, new music, new ask. Five ads come back, one does better, and nobody can say which change did it.\n\nKeep the script fixed. Change one of five things per variation: the opening, the person, the setting, the format or the ask. Name each variation in the brief and use the same name on the file and the ad.\n\nOne caution. The variations have to look different at a glance, or they compete with each other.\n\nThe next step is to put these on a calendar. Decoded #11 shows how.",
+   "first_comment": "Read Decoded #11 on galvor.ai",
+   "hashtags": [
+    "#CreativeStrategy",
+    "#AdCreative",
+    "#D2CIndia"
+   ],
+   "alt_text": "Eight-slide carousel in Shrutik Rathod's Brief to Live series. One script, five variations, each changing one thing: the opening, the person, the setting, the format or the ask. One slide shows a Galvor finding: a proven message in a new look got 47% more first-month spend. Other slides compare changing everything with changing one thing, explain naming each variation in the brief, and warn that variations must look different. Last slide asks readers to follow Galvor and read Decoded #11.",
+   "cta": "Read Decoded #11 on galvor.ai (first comment); Follow Galvor on the last slide",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Brief to Live",
+      "headline": "One script, *five variations.* Each one changes one thing.",
+      "sub": "How to brief variations you can learn from."
+     },
+     {
+      "layout": "text",
+      "kicker": "The problem",
+      "headline": "Change everything and you learn *nothing*",
+      "body": "New opening, new creator, new music, new ask. Five ads come back and one does better.\n\nNobody can say which change did it, so the next brief starts from a guess."
+     },
+     {
+      "layout": "list",
+      "kicker": "The method",
+      "headline": "Keep the script. Change *one* thing.",
+      "items": [
+       "Opening — a new first three seconds",
+       "Person — a different face says the same lines",
+       "Setting — a kitchen instead of a studio",
+       "Format — talking to camera instead of a demo",
+       "Ask — a different last line"
+      ]
+     },
+     {
+      "layout": "stat",
+      "kicker": "Why keep the script",
+      "stat": "47%",
+      "headline": "more first-month spend for a *proven message in a new look*",
+      "sub": "The message stays. The look changes.",
+      "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+     },
+     {
+      "layout": "compare",
+      "headline": "Five edits or *five tests*",
+      "left_title": "Changed everything",
+      "left": [
+       "No clean comparison",
+       "The result is a guess",
+       "Next brief starts cold"
+      ],
+      "right_title": "Changed one thing",
+      "right": [
+       "One variable each",
+       "You see what moved",
+       "Next brief starts from a fact"
+      ]
+     },
+     {
+      "layout": "text",
+      "kicker": "Before the shoot",
+      "headline": "Name every variation *in the brief*",
+      "body": "Opening-problem. Person-commuter. Setting-kitchen.\n\nUse the same name on the file and on the ad, so anyone can read the results without asking what was what."
+     },
+     {
+      "layout": "text",
+      "kicker": "One caution",
+      "headline": "Variations must *look* different",
+      "body": "Near-copies launched together compete with each other.\n\nIf two variations look the same at a glance, merge them and make one bolder change."
+     },
+     {
+      "layout": "cta",
+      "headline": "Brief *one change* at a time",
+      "sub": "Decoded #11 shows how to turn tests like these into a calendar.",
+      "actions": [
+       "Follow Galvor",
+       "Read Decoded #11",
+       "Save for your next brief"
+      ]
+     }
+    ]
+   },
+   "notes": "Reader: a creative or brand manager briefing creator variations (Convert: the next step is Decoded #11, Build a Test Calendar). Shape: how-to. Hook shape: punchy plus context. Written as a method with no personal anecdote, so nothing to confirm beyond Shrutik being happy to put his name to it.\nNumbers used: 47% (proven message in a new look got 47% more first-month spend; Galvor analysis of video ads launched May to Sep 2026, Decoded #3), used once in this group. The 'one caution' slide rests on the same analysis (look-alike ads got less first-month spend) and uses no number.\nThe earlier draft offered a one-page variation brief by comment. That offer is removed because the first comment now points only to Decoded #11. List items use the ' — ' separator the slide template needs."
+  },
+  {
+   "id": "li-2027-01-18-feedback-that-repeats-should-become-a-rule",
+   "title": "Feedback that repeats should become a rule in the brief",
+   "hook": "The second time you give the same feedback, stop giving it.",
+   "caption": "The second time you give the same feedback, stop giving it.\nWrite it down as a rule and put it at the top of the next brief.\n\nEvery brand has notes that come back campaign after campaign. Show the logo early. Product in the hand, never on a table. Each time one returns as feedback, the team pays for a round the last campaign already paid for.\n\nHere is the method for anyone who reviews creator work.\n\nKeep one running list per brand and call it Rules.\n\nWhen a note shows up a second time, move it from the feedback thread into that list. Use the reviewer's own words and add the date.\n\nPaste the list at the top of every new brief. Check a first cut against it before anyone gives an opinion.\n\nOnce a quarter, ask the brand which rules no longer hold and delete them. A list that only grows stops getting read.\n\nThis is the small, manual version of what we call Brand Memory at Galvor. Plenty of data, no memory is how one note ends up written six times.\n\nEvery ad should make the next one better. So should every round of feedback.",
+   "first_comment": "Read Decoded #12 on galvor.ai",
+   "hashtags": [
+    "#CreativeStrategy",
+    "#BrandMemory",
+    "#D2CIndia"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Read Decoded #12 on galvor.ai (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Shrutik: that he keeps (or is willing to start keeping) a per-brand rules list like this, and whether he can name one real, anonymised note that became a rule. The two example notes (logo early, product in hand) are illustrative.\nReader: a brand or creative manager who reviews creator cuts. Shape: one rule with the method behind it. Hook shape: stacked. Numbers used: none ('six times' is a figure of speech). Brand Memory is mentioned once, after the method. First comment points only to Decoded #12 (the learning loop)."
+  },
+  {
+   "id": "li-2027-01-25-five-questions-i-ask-before-any-campaign-starts",
+   "title": "Five questions before any campaign starts",
+   "hook": "Before any campaign starts, I ask five questions.",
+   "caption": "Before any campaign starts, I ask five questions.\n\nIf one of them has no answer, the brief is not ready.\n\n1. Who exactly is this for?\n2. What is the one thing they should do?\n3. What did the last campaign teach us?\n4. What must be said, and what must never be?\n5. Who says yes, and by when?\n\nThe third one gets skipped most easily, and it is the one that makes this campaign better than the last.\n\nWith Republic Day sales closing and new financial year plans opening, this is a good week to run your next brief past all five. The slides have what a good answer looks like for each.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#CreativeStrategy",
+    "#CreatorMarketing",
+    "#D2CIndia"
+   ],
+   "alt_text": "Eight-slide carousel in Shrutik Rathod's Brief to Live series: five questions to ask before any campaign starts. Who exactly is this for; what is the one thing they should do; what did the last campaign teach us; what must be said and what must never be; who says yes and by when. A recap slide lists all five on one page. Last slide asks readers to follow Galvor.",
+   "cta": "Follow Galvor (last slide and first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Brief to Live",
+      "headline": "Five questions before *any* campaign starts",
+      "sub": "If one has no answer, the brief is not ready."
+     },
+     {
+      "layout": "text",
+      "kicker": "Question 1",
+      "headline": "Who *exactly* is this for?",
+      "body": "One person, in one line.\n\n“Women 25 to 40” is a media setting. “A new mother buying her first baby sunscreen” is someone a creator can talk to."
+     },
+     {
+      "layout": "text",
+      "kicker": "Question 2",
+      "headline": "What is the *one thing* they should do?",
+      "body": "Buy, try a sample, save the video, visit the store. Pick one.\n\nThe end of a video has room for one ask, so the brief should carry one too."
+     },
+     {
+      "layout": "text",
+      "kicker": "Question 3",
+      "headline": "What did the *last campaign* teach us?",
+      "body": "Name one thing to repeat and one thing to drop.\n\nIf nobody can answer, finding out is the first job. Every ad should make the next one better."
+     },
+     {
+      "layout": "text",
+      "kicker": "Question 4",
+      "headline": "What must be said, and what must *never* be?",
+      "body": "The approved claim, word for word. The words and visuals the brand has ruled out.\n\nWritten before the shoot, this is a checklist. Found after the shoot, it is a reshoot."
+     },
+     {
+      "layout": "text",
+      "kicker": "Question 5",
+      "headline": "Who says yes, and *by when*?",
+      "body": "A name for each approval stage and a reply-by date.\n\nAgree both now, while nobody is late and nobody is upset."
+     },
+     {
+      "layout": "list",
+      "kicker": "Copy this",
+      "headline": "The five, on *one page*",
+      "items": [
+       "Who — one person, in one line",
+       "Action — one ask, and only one",
+       "Lesson — one thing to repeat, one to drop",
+       "Rules — must say, must never say",
+       "Yes — who approves, and by when"
+      ]
+     },
+     {
+      "layout": "cta",
+      "headline": "Ask five. *Then* write the brief.",
+      "sub": "More from Brief to Live every Monday.",
+      "actions": [
+       "Follow Galvor",
+       "Save for your next kickoff"
+      ]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Shrutik: that these are the five questions he asks before a campaign starts, in this order. Two changed from the earlier draft: 'what did the last campaign teach us' and 'what must be said and never said' replace the placement question, which now has its own post on 8 Feb. The 'new mother buying her first baby sunscreen' line is an illustrative persona, not a client.\nReader: a brand manager or agency lead about to kick off a campaign. Shape: checklist. Hook shape: punchy plus context. Numbers used: none ('25 to 40' is an example age band). Date note: Republic Day is 26 Jan, the day after this post. List items use the ' — ' separator the slide template needs."
+  },
+  {
+   "id": "li-2027-02-01-must-fix-vs-preference",
+   "title": "Must-fix vs preference: sort feedback before it goes to the creator",
+   "hook": "Every round of feedback needs two columns: must-fix and preference.",
+   "caption": "Every round of feedback needs two columns: must-fix and preference.\nWithout them, a creator treats a passing thought and a legal problem as the same size.\n\nFeedback usually arrives as one long list. The reviewer knows which lines are serious. The creator does not, so they either change everything or pick the easy ones.\n\nThe test I use to sort a note:\n\nMust-fix means it breaks the brief, the brand rules or the law. A changed claim. The product not visible. The wrong pack. A missing paid partnership label.\n\nPreference means “I would have done it differently”. The music, a word, the colour of a shirt.\n\nThen three steps before anything is sent.\n\nMust-fix notes go first, numbered, each with a timestamp.\n\nPreferences go below, marked “only if it is easy”.\n\nWhen notes arrive mixed, I ask the reviewer one question: which of these stops us from going live?\n\nThat question does most of the sorting. Most lists have fewer must-fix lines than their length suggests.\n\nShare the two columns with the brand as well. It heads off the late “but I asked for that”.\n\nA creator who knows what has to change can change it in one pass.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#CreatorMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Follow Galvor (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Shrutik: that he sorts feedback into must-fix and preference before sending it to creators, and that the test (breaks the brief, the brand rules or the law) is how he draws the line. 'Most lists have fewer must-fix lines than their length suggests' is an observation with no data behind it; he should cut it if it does not match what he sees.\nReader: a brand manager who gives feedback on creator cuts. Shape: checklist with one question to copy. Hook shape: punchy plus context. Numbers used: none."
+  },
+  {
+   "id": "li-2027-02-08-we-need-ai-videos-where-will-they-run",
+   "title": "“We need AI videos”: three questions that turn it into a brief",
+   "hook": "“We need AI videos” is a request about the tool.",
+   "caption": "“We need AI videos” is a request about the tool.\nIt says how you want the videos made and leaves out what to make.\n\nThree questions turn that sentence into a brief a team can work from. The first is where the videos will run.\n\n1. Where will it run? Name the placement, since a platform name is too wide. A Reels ad, a product page video and a marketplace listing video are three different films. Length, shape and how early the product must appear all follow from the answer.\n\n2. What must it do there? One job. Stop a new buyer mid-scroll, answer a doubt for someone comparing, or bring a past buyer back.\n\n3. What will it run next to? This one gets skipped. If the new video looks like the ads already running, it competes with your own work. In Galvor's analysis of video ads launched May to Sep 2026, new ads that looked like many running ads got 36% less first-month spend.\n\nOnly after these three does the making question come up. Sometimes AI is the right way to make it. Sometimes a creator in her own kitchen is.\n\nDecide the job first. How it gets made is the last line of the brief.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#AIinMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Follow Galvor (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "Reader: a founder or brand lead about to ask an agency or team for 'AI videos'. Shape: a question worth answering, then three questions to copy. Hook shape: punchy plus context. Written as a method with no personal anecdote, so nothing to confirm beyond Shrutik's sign-off.\nNumbers used: 36% (new ads that looked like many running ads got 36% less first-month spend; Galvor analysis of video ads launched May to Sep 2026, Decoded #3), used once in this group."
+  },
+  {
+   "id": "li-2027-02-15-bad-news-early-is-cheaper-the-no-surprise-rule",
+   "title": "The no-surprise rule: a five-line message for bad news",
+   "hook": "Bad news costs least on the day you find it.",
+   "caption": "Bad news costs least on the day you find it.\nMy rule in client servicing is that a client should never learn about a delay from the deadline.\n\nA creator falls ill. A first cut fails the check. A date starts to slip. The pull is to fix it quietly and report afterwards. If the fix works, nobody knows. If it does not, the client has less time and less reason to trust the next update.\n\nSo the message goes the same day, in writing, and it has five lines.\n\nWhat happened. One sentence, no cushioning.\n\nWhat it affects. The date, the deliverable, or nothing yet.\n\nWhat I have already done about it.\n\nWhat I need from you, if anything.\n\nWhen you will hear from me next.\n\nThe third and fifth lines carry the most weight. They tell the client that someone is already on it and that they do not need to chase.\n\nWrite it even when the fix is already under way. An update that turns out to be unnecessary costs two minutes.\n\nA problem the client heard about early is one you solve together. A problem they find on their own is one they hold against you.",
+   "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+   "hashtags": [
+    "#CreatorMarketing",
+    "#D2CIndia",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "Text-only post, no image.",
+   "cta": "Follow Galvor (first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Shrutik: that the no-surprise rule and this five-line message are how he reports problems to clients, and whether he can add one real, anonymised time when telling a client early helped. The three examples (creator ill, cut fails, date slips) are generic, not real cases.\nReader: an account or brand manager who owns delivery dates. Shape: one rule with a template to copy. Hook shape: punchy plus context. Numbers used: none ('two minutes' is a figure of speech). topic_ref corrected to Sh49 (the no-surprise rule in the topic bank; the slot carried Sh48).",
+   "topic_ref": "Sh49"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Writing prompts · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="tabs hub"><a href="/voices">Voices</a><a href="/prompts" class="on">Writing prompts</a></div>
+<h1>Writing prompts</h1>
+<p class="sub">These are the instructions the writer follows for a LinkedIn post, a reel script, and the brief the Claude terminal follows to make a video. They were written on 16 Nov 2026 from the five videos saved under References. Edit them here; the next draft uses your version. The brand guide and the person's voice are added on top each time.</p>
+
+{% for key, p in prompts.items() %}
+<div class="panel">
+  <div class="panel-h {{ {'linkedin':'blue','reel':'lav','video':'mint'}[key] }}"><h3>{{ p.label }}</h3>
+    <small>{{ p.used }}{% if p.edited %} · <b>edited by you</b>{% endif %}</small></div>
+  <div style="padding:14px 18px">
+    <textarea class="in" id="p-{{ key }}" style="min-height:420px;font-family:Consolas,monospace;font-size:13px;line-height:1.5">{{ p.text }}</textarea>
+    <div class="row" style="margin-top:10px;gap:8px"><button class="btn primary" onclick="savePrompt('{{ key }}')">Save</button>
+      {% if p.edited %}<button class="btn" onclick="if(confirm('Go back to the original prompt?'))api('/prompts',{reset:'{{ key }}'}).then(()=>location.reload())">Back to the original</button>{% endif %}
+      <button class="btn" onclick="copyText(document.getElementById('p-{{ key }}').value,'Prompt')">Copy</button></div>
+  </div>
+</div>
+{% endfor %}
+
+<script>
+async function savePrompt(key) {
+  const body = {}; body[key] = document.getElementById('p-' + key).value;
+  const j = await api('/prompts', body);
+  toast(j.ok ? 'Saved. The next draft uses it.' : (j.error || 'Failed'), 4000);
+}
+</script>
+{% endblock %}

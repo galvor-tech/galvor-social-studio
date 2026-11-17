@@ -1,0 +1,58 @@
+{
+  "id": "li-2026-11-20-weekly-reshare-festive-season-maths",
+  "slug": "weekly-reshare-festive-season-maths",
+  "platform": "linkedin",
+  "date": "2026-11-20",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Brand Memory / POV",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Festive-season maths: count your look-alikes before sale week",
+  "hook": "Six look-alike ads in three days: each got 48% less spend.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Six look-alike ads in three days: each got 48% less spend.\nThat is the festive-season habit most D2C teams are about to repeat next week.\n\nSale weeks push teams to launch more. More sizes, more cuts, more versions of the ad that worked in October.\n\nOur analysis of new video ads launched from May to September 2026 says the extra versions pay back poorly.\n\nNew ads that looked like many ads already running got 36% less first-month spend.\n\nWhen six or more look-alikes went live within three days, each one got 48% less.\n\nOur reading: near-copies end up sharing one budget. You pay to make six ads and get the reach of far fewer.\n\nA count you can do before Black Friday week:\n\nLay every planned ad side by side as thumbnails.\nGroup the ones a stranger would call the same ad.\nKeep the strongest one from each group and hold the rest back.\nPut the saved production time into one ad that looks different.\n\nA short launch list where every ad has a reason to exist will teach you more than a full folder.",
+  "first_comment": "Read Decoded #3 on galvor.ai",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#D2CIndia",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "",
+  "cta": "none (Decoded #3 in first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: dense. Reader: a D2C growth lead planning the Black Friday launch list. Written as a standalone post that sums up the week's theme (from dashboards to decisions); it does not depend on any other post existing. Numbers: 48% less first-month spend each for six or more look-alikes within three days; 36% less for new ads that looked like many running ads (Galvor analysis, Decoded #3, ads launched May to Sep 2026). First use of both figures in this group. 'Near-copies share one budget' is marked as our reading, not a measured mechanism.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-20 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:50",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:14:57",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "Reshare-W2",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

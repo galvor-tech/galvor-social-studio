@@ -1,0 +1,100 @@
+{
+  "id": "ig-2026-12-08-story-quiz-which-ad-would-meta-treat-as-new",
+  "slug": "story-quiz-which-ad-would-meta-treat-as-new",
+  "platform": "instagram",
+  "date": "2026-12-08",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Myth vs Fact",
+  "job": "Educate",
+  "format": "story",
+  "series": "",
+  "title": "Story quiz: your best ad worked, what do you copy?",
+  "hook": "Your best ad told a founder story. What goes in the next brief?",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Story pack (no feed caption).\n\nA one-question quiz on what to copy from a winning ad. Frame 2 is the quiz. Frame 3 gives the six parts of an ad. Frame 4 is the exercise to do today. Frame 5 points to Decoded #5.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Five vertical story frames. Frame 1: Your best ad worked. What do you copy? Frame 2 is a quiz: the winner told a founder story, next brief? Frame 3 lists six parts of an ad: hook, cast, setting, pacing, proof and CTA. Frame 4: write the six parts for your last three winners. Frame 5: copy the part that worked, with a pointer to Decoded #5.",
+  "cta": "Answer the quiz; read Decoded #5, link in bio",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Quick quiz",
+        "headline": "Your best ad worked. *What do you copy?*",
+        "sub": "One question. Tap through."
+      },
+      {
+        "layout": "poll",
+        "kicker": "Pick one",
+        "headline": "The winner told a founder story. *Next brief?*",
+        "options": [
+          "Another founder story",
+          "Same opening, new story",
+          "Find what it had first"
+        ],
+        "sub": "Answer with the quiz sticker."
+      },
+      {
+        "layout": "list",
+        "kicker": "The answer",
+        "headline": "A story has *six parts.* Any one could be the reason",
+        "items": [
+          "Hook: the first three seconds",
+          "Cast: who is on screen",
+          "Setting: where it happens",
+          "Pacing: how fast it moves",
+          "Proof: why to believe it",
+          "CTA: what it asks for"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Try it today",
+        "headline": "Write the six parts for your *last three winners*",
+        "body": "What repeats across them is your best guess at why they worked.\n\nBrief the next ad from that, and leave the story free to change."
+      },
+      {
+        "layout": "cta",
+        "headline": "Copy the *part* that worked.",
+        "sub": "Decoded #5 walks through all six.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Read Decoded #5, link in bio"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Topic replaced: the old quiz (which ad would Meta treat as new) repeated the 25 Nov reel. New argument: copy the parts of a winner, since the story alone does not tell you why it worked (from Decoded #5). Interactive ask: quiz sticker on frame 2, correct answer is the third option. No numbers used. To confirm: the six parts match the final text of Decoded #5.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:52:30",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-08 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:23:57",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:48",
+  "updated_at": "2026-11-16T21:23:57",
+  "topic_ref": "IG-14",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

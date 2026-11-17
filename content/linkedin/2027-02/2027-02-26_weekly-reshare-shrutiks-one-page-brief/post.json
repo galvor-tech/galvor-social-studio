@@ -1,0 +1,53 @@
+{
+  "id": "li-2027-02-26-weekly-reshare-shrutiks-one-page-brief",
+  "slug": "weekly-reshare-shrutiks-one-page-brief",
+  "platform": "linkedin",
+  "date": "2027-02-26",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Better Briefs",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Weekly reshare: Shrutik's one-page brief",
+  "hook": "If you write briefs for creators, agencies or your in-house team, Shrutik's one-page template from this week is worth saving.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "If you write briefs for creators, agencies or your in-house team, Shrutik's one-page template from this week is worth saving.\n\nNine fields. One page. Nothing a creator won't read.\n\nThe field we'd point to is the seventh: what the last campaign taught us. One line, taken from the data, written into every new brief. It's the difference between a campaign that starts from zero and one that starts ahead.\n\nA few of the other fields that do a lot of work:\n→ the moment: when the buyer would see this and what they're doing\n→ the objection: what stops them, and how the ad answers it\n→ done looks like: what we'll judge, and when\n\nShrutik is sending the editable version to anyone who comments \"brief\" on the original post, below.\n\nA good brief removes ambiguity. It doesn't add pages.",
+  "first_comment": "",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#CreatorMarketing",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Quote card on a violet background: Field 7 — what the last campaign taught us.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "Field 7: what the last campaign *taught us*.",
+        "sub": "From Shrutik's one-page brief template."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reshare Shrutik's 18 Jan post (Sh5). If another team post did better this week, reshare that one instead and rewrite.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-26 12:30)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:11",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "Reshare: Sh5"
+}

@@ -1,0 +1,68 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Decoded · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.create_tabs('newsletter') }}
+<div class="row"><h1 class="grow">Decoded by Galvor</h1>
+  <button class="btn soft" onclick="genIdeas()">Suggest issue ideas</button></div>
+<p class="sub">Every <b>Wednesday at 08:30</b>, posted as a LinkedIn newsletter from the Galvor page and sent by email. Every issue uses the
+exact format of Issues #3–#4 (checked automatically), and export gives you the same email-ready HTML. Write by hand in the editor, or
+let the AI suggest ideas and a first draft; any number it can't prove is marked <code>[DATA NEEDED]</code> and blocks export.</p>
+
+<div class="panel">
+  <div class="panel-h"><h3>Issues</h3><span class="count">{{ rows|length }}</span><small>Errors block export. [DATA NEEDED] markers count as errors.</small></div>
+  <table class="tbl" style="width:100%">
+    <tr><th>#</th><th>Wednesday</th><th>Title</th><th>Status</th><th class="num">Words</th><th>Checks</th><th></th></tr>
+    {% for r in rows %}
+    <tr>
+      <td><b>{{ r.n }}</b></td><td class="small">{{ r.p.date|d('%a %d %b') }}</td>
+      <td style="max-width:420px">{{ r.p.title }}</td>
+      <td>{{ m.status(r.p.status) }}</td>
+      <td class="num">{{ '{:,}'.format(r.words) }}</td>
+      <td class="small">{% if r.errors %}<span class="pill err">{{ r.errors }} to fix</span>{% else %}<span class="pill s-approved">ready</span>{% endif %}
+        {% if r.data_needed %} <span class="muted">{{ r.data_needed }} data needed</span>{% endif %}</td>
+      <td><a class="btn sm primary" href="/decoded/{{ r.p.id }}">Open editor</a></td>
+    </tr>{% endfor %}
+  </table>
+</div>
+
+<div class="panel">
+  <div class="panel-h lav"><h3>Issue ideas</h3><span class="count">{{ ideas|length }}</span>
+    <small>From the topics planned so far, Discover and your facts bank. Pick one and drop it into an open Wednesday.</small></div>
+  <div class="row" style="padding:10px 16px;gap:8px"><input class="in grow" id="steer" placeholder="Optional steer, e.g. 'something on regional-language creative' or 'tie to Republic Day sales'"></div>
+  <div class="grid g2" style="padding:0 16px 16px">
+  {% for i in ideas %}
+    <div class="card" id="di_{{ i.id }}">
+      <h3 style="margin:0 0 6px">{{ i.title }}</h3>
+      <p class="small" style="font-style:italic">{{ i.dek }}</p>
+      <p class="small"><b>Cold open:</b> {{ i.cold_open }}</p>
+      <p class="small"><b>Why now:</b> {{ i.why_now }} · <b>Why people share it:</b> {{ i.awareness_angle }}</p>
+      <details class="small"><summary>Sections, data to pull, sources</summary>
+        <ol>{% for s in i.sections or [] %}<li>{{ s }}</li>{% endfor %}</ol>
+        {% if i.galvor_data_needed %}<b>Galvor data to pull</b><ul>{% for s in i.galvor_data_needed %}<li>{{ s }}</li>{% endfor %}</ul>{% endif %}
+        {% if i.sources %}<b>Sources</b><ul>{% for s in i.sources %}<li><a href="{{ s.url }}" target="_blank" style="color:var(--accent)">{{ s.title or s.url }}</a></li>{% endfor %}</ul>{% endif %}
+        <b>Offer:</b> {{ i.cta }}</details>
+      <div class="row" style="margin-top:10px;gap:6px">
+        <select class="in" id="use_{{ i.id }}">{% for r in open_issues %}<option value="{{ r.p.id }}">#{{ r.n }} · {{ r.p.date|d('%d %b') }}{{ ' (has text)' if r.words > 400 else '' }}</option>{% endfor %}</select>
+        <button class="btn sm primary" onclick="useIdea('{{ i.id }}')">Use for this issue</button>
+        <button class="btn sm" onclick="dropIdea('{{ i.id }}')">Drop</button></div>
+    </div>
+  {% else %}<div class="empty">No ideas yet. Click <b>Suggest issue ideas</b>.</div>{% endfor %}
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+async function genIdeas() {
+  toast('Thinking up issues… (20–40 s)', 40000);
+  const j = await api('/api/decoded/ideas', {n: 5, steer: document.getElementById('steer').value});
+  if (!j.ok) return toast(j.error, 7000); location.reload();
+}
+async function useIdea(id) {
+  const target = document.getElementById('use_' + id).value;
+  if (document.getElementById('use_' + id).selectedOptions[0].text.includes('has text') && !confirm('That issue already has text. Replace its body with this idea\'s outline? (the old version is kept in history)')) return;
+  const j = await api('/api/decoded/ideas/' + id, {use_in: target});
+  if (!j.ok) return toast(j.error, 6000); location.href = '/decoded/' + encodeURIComponent(j.id);
+}
+async function dropIdea(id) { await api('/api/decoded/ideas/' + id, {status: 'dropped'}); document.getElementById('di_' + id).remove(); }
+</script>
+{% endblock %}

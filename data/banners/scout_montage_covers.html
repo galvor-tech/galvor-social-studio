@@ -1,0 +1,80 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&family=JetBrains+Mono:wght@500&family=Instrument+Serif:ital@0;1&display=block" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden}
+:root{--bg:#EFEEE9;--ink:#111;--pink:#F4B6DA;--v:#7C3AED;--vp:#C9A6FF}
+.s{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:Inter,sans-serif;background:var(--bg);color:var(--ink)}
+.s.dark{background:#0B0B0C;color:#fff}
+.full{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.logo{position:absolute;left:0;right:0;top:300px;display:flex;justify-content:center;align-items:center;gap:12px;font-weight:700;font-size:36px;letter-spacing:-.04em}
+.logo img{width:46px;height:46px}
+.mono{font-family:'JetBrains Mono',monospace;font-weight:500;letter-spacing:.14em;text-transform:uppercase}
+.h{position:absolute;left:60px;right:60px;text-align:center;font-weight:760;letter-spacing:-.05em;line-height:.98}
+.serif{font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;letter-spacing:-.01em}
+.hl{background:var(--pink);padding:0 .12em;border-radius:.08em}
+.tag{position:absolute;background:var(--pink);color:#111;font-weight:600;font-size:34px;padding:10px 20px;white-space:nowrap}
+.chip{position:absolute;border:2px solid #d9d7d0;background:#f6f5f1;color:#9b9a95;font-size:30px;padding:12px 26px;border-radius:10px;white-space:nowrap}
+.photo{position:absolute;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.18)}
+.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.foot{position:absolute;left:0;right:0;text-align:center;font-size:30px;color:#77756f}
+</style></head><body>
+<div class="s" id="s"></div>
+<script>
+const v=new URLSearchParams(location.search).get('v')||'1', s=document.getElementById('s');
+const IMG='scout_montage_img/';
+const MARK='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark.png';
+const MARKW='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark-white.png';
+const logo=(d,top=300)=>`<div class="logo" style="top:${top}px"><img src="${d?MARKW:MARK}"><span>Galvor Scout</span></div>`;
+const src=`<div class="foot mono" style="top:1590px;font-size:24px">Galvor Scout data · Aug – early Nov 2026</div>`;
+let h='';
+if(v==='1'){ // the wall of portraits, 38% moved down
+  h=`<img class="full" src="${IMG}wall.png" style="filter:grayscale(1) contrast(1.05);opacity:.55">`+
+  `<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(239,238,233,.96) 0%,rgba(239,238,233,.55) 40%,rgba(239,238,233,.55) 60%,rgba(239,238,233,.96) 100%)"></div>`+
+  logo(0,300)+
+  `<div style="position:absolute;left:190px;top:560px;width:700px;height:420px;background:#fff;box-shadow:0 30px 80px rgba(0,0,0,.18);display:flex;align-items:center;justify-content:center;font-weight:780;font-size:300px;letter-spacing:-.06em">38%</div>`+
+  `<div class="h" style="top:1080px;font-size:92px">of <span class="serif" style="font-size:112px">“perfect”</span> creators</div>`+
+  `<div class="h" style="top:1190px;font-size:92px"><span class="hl">got moved down.</span></div>`+
+  `<div class="foot" style="top:1360px;font-size:38px;color:#333">Here’s what filters miss.</div>`+src;
+}
+if(v==='2'){ // stop picking by followers
+  h=logo(0,300)+
+  `<div class="h" style="top:390px;font-size:116px">Stop picking<br>creators by</div>`+
+  `<div class="h" style="top:640px;font-size:120px;color:#9b9a95;text-decoration:line-through;text-decoration-thickness:12px;text-decoration-color:#111">followers.</div>`+
+  `<div class="photo" style="left:200px;top:820px;width:680px;height:850px"><img src="${IMG}kitchen.png"></div>`+
+  `<div class="chip" style="left:90px;top:900px;text-decoration:line-through">Followers</div>`+
+  `<div class="chip" style="left:760px;top:1010px;text-decoration:line-through">Engagement rate</div>`+
+  `<div class="tag" style="left:110px;top:1440px">“Where do I get this?”</div>`+
+  `<div class="tag" style="left:520px;top:1530px">“Made this twice already!”</div>`;
+}
+if(v==='3'){ // dark, archival: people buy from people they believe
+  s.classList.add('dark');
+  h=`<img class="full" src="${IMG}handshake.png" style="filter:grayscale(1) contrast(1.1);transform:scale(1.08)">`+
+  `<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,11,12,.95) 0%,rgba(11,11,12,.35) 34%,rgba(11,11,12,.2) 55%,rgba(11,11,12,.96) 82%)"></div>`+
+  logo(1,300)+
+  `<div class="h" style="top:1290px;font-size:84px;white-space:nowrap">People buy from people</div>`+
+  `<div class="h serif" style="top:1380px;font-size:150px;color:var(--pink)">they believe.</div>`+
+  `<div class="foot" style="top:1590px;color:rgba(255,255,255,.7);font-size:36px">Not from the biggest account.</div>`;
+}
+if(v==='4'){ // weeks of reading comments -> one plain-words brief
+  h=`<img class="full" src="${IMG}desk.png" style="filter:saturate(.7)">`+
+  `<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(239,238,233,.97) 0%,rgba(239,238,233,.9) 26%,rgba(239,238,233,.15) 48%,rgba(239,238,233,.15) 70%,rgba(239,238,233,.97) 88%)"></div>`+
+  logo(0,300)+
+  `<div class="h" style="top:390px;font-size:104px">Weeks of reading<br>comments.</div>`+
+  `<div class="h serif" style="top:625px;font-size:130px">Or one sentence.</div>`+
+  `<div style="position:absolute;left:110px;right:110px;top:1060px;background:#fff;border:2px solid #222;padding:34px 40px;box-shadow:0 30px 70px rgba(0,0,0,.25)">`+
+  `<div style="display:flex;align-items:center;gap:10px;font-weight:700;font-size:26px;margin-bottom:22px"><img src="${MARK}" style="width:32px;height:32px">Galvor <span style="color:#999;font-weight:500">Scout</span></div>`+
+  `<div style="font-size:48px;line-height:1.2;letter-spacing:-.02em">Find me 20 skincare creators in Pune whose followers <span class="hl">actually ask where to buy.</span><span style="border-left:4px solid #111;margin-left:4px"></span></div></div>`;
+}
+if(v==='5'){ // cutout audience, bought followers don't buy
+  s.classList.add('dark');
+  h=`<img class="full" src="${IMG}cutouts.png">`+
+  `<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,11,12,.95) 0%,rgba(11,11,12,.5) 30%,rgba(11,11,12,0) 45%,rgba(11,11,12,0) 66%,rgba(11,11,12,.95) 84%)"></div>`+
+  logo(1,300)+
+  `<div class="h" style="top:390px;font-size:112px;white-space:nowrap">Bought followers</div>`+
+  `<div class="h serif" style="top:500px;font-size:170px;color:var(--pink)">don’t buy.</div>`+
+  `<div class="tag" style="left:560px;top:1180px">Real audience</div>`+
+  `<div class="h" style="top:1480px;font-size:50px;font-weight:600;letter-spacing:-.02em;color:rgba(255,255,255,.85)">Scout finds creators<br>whose audience trusts them.</div>`;
+}
+s.innerHTML=h;
+</script></body></html>

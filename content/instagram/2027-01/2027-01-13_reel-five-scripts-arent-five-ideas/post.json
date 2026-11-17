@@ -1,0 +1,134 @@
+{
+  "id": "ig-2027-01-13-reel-five-scripts-arent-five-ideas",
+  "slug": "reel-five-scripts-arent-five-ideas",
+  "platform": "instagram",
+  "date": "2027-01-13",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: five scripts, change one thing",
+  "hook": "Five scripts, all different. One wins. Can you say why?",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Five scripts, all different. One wins. Can you say why?\n\nWhen every script changes everything, the winner can't tell you what worked.\n\nA cleaner test: keep the message that already sells and change one thing. Start with the first shot. Five scripts, five openings, with the same offer, length and ending.\n\nIn our analysis of new video ads launched May to September 2026, a proven message in a new look got 47% more first-month spend.\n\nNow the winner tells you which opening to build on. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#marketingtips",
+    "#adcreative",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Five scripts. Change one thing. The reel shows five different scripts, then five scripts that share a message and differ only in the opening, with one number from Galvor's analysis: a proven message in a new look got 47% more first-month spend. End card: follow @galvor.ai.",
+  "cta": "Follow @galvor.ai",
+  "script": {
+    "duration": "38s",
+    "setup": "Idea: a creative strategist who writes five different scripts for every test and still can't explain the winner gets a way to make each test answer one question. On-screen title: Five scripts. Change one thing. Expectation set: a scripting tip. The script beats it with a number from our analysis and an exact list of what to hold steady. Outline: a winner you can't explain (the turn); keep the proven message (second-best, first); change the first shot only; hold offer, length and ending (best, because it makes the result readable).",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "Five script pages fan out. Each one is a different colour and layout.",
+        "voiceover": "Five new scripts for one test. Each one totally different.",
+        "on_screen": "Five scripts. Change one thing."
+      },
+      {
+        "time": "4–8s",
+        "visual": "One page gets a winner ribbon. A question mark hangs over it.",
+        "voiceover": "Feels thorough. But when one wins, you can't say why.",
+        "on_screen": "One wins. Why?"
+      },
+      {
+        "time": "8–13s",
+        "visual": "A bar grows beside a line of copy shown over a new picture. Small source line: Galvor analysis, ads launched May–Sep 2026.",
+        "voiceover": "A proven message in a new look got forty-seven percent more spend.",
+        "on_screen": "Proven message, new look: 47% more"
+      },
+      {
+        "time": "13–17s",
+        "visual": "The five pages turn the same colour. One line of copy is locked on each.",
+        "voiceover": "So keep the message that already sells. Change one thing.",
+        "on_screen": "Keep the message"
+      },
+      {
+        "time": "17–21s",
+        "visual": "Only the top panel of each page changes. Five different opening sketches appear.",
+        "voiceover": "Start with the first shot. Five scripts, five different openings.",
+        "on_screen": "Five different openings"
+      },
+      {
+        "time": "21–25s",
+        "visual": "A padlock closes over the lower part of every page.",
+        "voiceover": "That only works if the rest stays put.",
+        "on_screen": "The rest stays put"
+      },
+      {
+        "time": "25–30s",
+        "visual": "Three locked labels appear on a brief: offer, length, ending.",
+        "voiceover": "Same offer, same length, same ending. Write that on the brief.",
+        "on_screen": "Same offer, length, ending"
+      },
+      {
+        "time": "30–34s",
+        "visual": "The winner ribbon returns. This time an arrow points to the opening panel.",
+        "voiceover": "Now the winner tells you which opening to build on.",
+        "on_screen": "Which opening to build on"
+      },
+      {
+        "time": "34–38s",
+        "visual": "End card with the Galvor logo. Chime.",
+        "voiceover": "One change, one clear answer. Follow @galvor.ai.",
+        "on_screen": "Follow @galvor.ai"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Number: 47% more first-month spend for a proven message in a new look, Galvor analysis of every new video ad launched May–Sep 2026 across brands we work with (Decoded #3). Show the source line on screen in scene 3."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "Five scripts. *Change one thing.*",
+        "sub": "So the winner can tell you why.",
+        "play": "Watch the test"
+      },
+      {
+        "layout": "cta",
+        "headline": "One change. *One clear answer.*",
+        "sub": "Keep the message. Change the first shot.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Topic sharpened: the old hook (five versions of one script aren't five ideas) repeated the 25 Nov reel about look-alikes. This version makes the opposite, complementary point about test design: change one thing so the result can be read. Number used: 47% more first-month spend (second and last use in this group), Galvor analysis of ads launched May–Sep 2026. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-13 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:31",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-103",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

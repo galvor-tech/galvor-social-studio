@@ -1,0 +1,11 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="base.css"><script src="common.js"></script>
+<style>.stage{background:radial-gradient(900px 800px at 1420px 520px,rgba(110,60,230,.30),transparent 70%),#0A0A14}</style></head>
+<body><div class="stage" id="s"><div class="copy" id="c"></div></div><script>
+const s=document.getElementById('s');document.getElementById('c').innerHTML=COPY;
+const X0=1075,Y0=245,P=172,PY=184;
+for(let r=0;r<4;r++)for(let c=0;c<5;c++){const i=r*5+c; if(i===6)continue; av(s,X0+c*P,Y0+r*PY,150,i);}
+const hx=X0+1*P,hy=Y0+PY; lens(s,hx,hy,155,-40,230); av(s,hx,hy,180,0,{hero:true,css:'z-index:21'});
+chk(s,hx+178,hy-150,'Watches the reels');chk(s,hx+208,hy-50,'Reads the comments');chk(s,hx+178,hy+50,'Judges fit with the brief');
+const st=document.createElement('div');st.className='stat';st.style.cssText='position:absolute;left:1002px;top:968px';
+st.innerHTML='<b>8,673</b> creators checked by Scout since August';s.appendChild(st);
+</script></body></html>

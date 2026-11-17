@@ -1,0 +1,180 @@
+[
+ {
+  "title": "Algorithm Blame: Why Smarter Delivery Punishes Safe Creative",
+  "dek": "Media buyers routinely blame platform updates when conversion numbers dip, but automated delivery systems now evaluate ads at scale. The auction did not break in October; it simply stopped subsidising identical creative variations.",
+  "cold_open": "Sam muted his agency catch-up call while the performance lead explained that October was soft because Meta changed the delivery algorithm again. On Sam's second monitor, five running ads shared the identical opening frame, hook line, and product bottle shot.",
+  "why_now": "Agency teams across India spent late October explaining performance dips with platform blame, coinciding with widespread rollouts of Meta's Andromeda delivery architecture.",
+  "sections": [
+   "The Routine Excuse: 'Meta Ka Issue Hai'",
+   "One Billion Ads a Second: What Andromeda Actually Scores",
+   "What Galvor Measured: The 48% Spend Penalty on Duplicates",
+   "Why Media Buyers Hide Behind Platform Delivery",
+   "From Dashboards to Decisions: Pricing Creative Attributes",
+   "Five Moves for D2C Founders Before Questioning the Platform",
+   "Claim Your Free Creative Diversity Audit from Galvor"
+  ],
+  "galvor_data_needed": [
+   "Six or more look-alikes launched within three days each got 48% less first-month spend",
+   "New ads that looked like many running ads got 36% less first-month spend",
+   "Meta Andromeda scores over a billion ads a second, 100x the 2024 system"
+  ],
+  "source_ids": [
+   "805be1b33ee7",
+   "9e7c9d79e363",
+   "e7be13eab1e5"
+  ],
+  "cta": "We will decode your category creative diversity free at galvor.ai. Follow Galvor for weekly performance creative intelligence.",
+  "awareness_angle": "Founders and CMOs will forward this directly to agencies who blame Meta delivery whenever weekly ROAS drops.",
+  "sources": [
+   {
+    "id": "805be1b33ee7",
+    "url": "https://www.instagram.com/reel/DfEOoqByVEZ/",
+    "publisher": "#performancemarketing",
+    "author": "lets.lovemarketing",
+    "date": "2026-10-29",
+    "title": "Media buyers explaining October performance to clients 💀😭\n\n“Sir, Meta ka issue hai.”\n“Sir,",
+    "text": ""
+   },
+   {
+    "id": "9e7c9d79e363",
+    "url": "https://www.instagram.com/reel/DfjGIDNvTdT/",
+    "publisher": "#performancemarketing",
+    "author": "sangeethasabishek",
+    "date": "2026-11-10",
+    "title": "Meta Ads is getting smarter, but does that mean your ads will automatically perform better",
+    "text": ""
+   },
+   {
+    "id": "e7be13eab1e5",
+    "url": "https://nayzen.in/blog-meta-andromeda-update.html",
+    "publisher": "Meta ads update",
+    "author": "https://nayzen.in › Blog",
+    "date": "2026-11-10",
+    "title": "Meta Andromeda Update 2026: What Changed and What to Do",
+    "text": ""
+   }
+  ],
+  "id": "di-9d03c104",
+  "created_at": "2026-11-11T02:04:36",
+  "status": "new"
+ },
+ {
+  "title": "High Hook Rate, Zero Orders: The Attention Trap in Paid Video",
+  "dek": "A theatrical opening stunt stops thumbs, but high retention is vanity when the visual opening fails to qualify buyers. Why extreme hooks often increase cost per order instead of driving revenue.",
+  "cold_open": "Sam approved a creator concept where an actor performed a trust fall off a park bench to introduce a sleep tincture. The three-second hook rate touched 68%, but forty-eight hours and ₹1.5L later, the ad had generated zero purchases.",
+  "why_now": "Indian D2C brands are currently burning production budgets on stunt hooks and creator gags that win watch time without generating checkout intent.",
+  "sections": [
+   "The Stunt That Stopped the Scroll and Killed the Sale",
+   "The Retention Trap: Attention Without Commercial Context",
+   "What Galvor Saw: Proven Messages Beat Aspirational Content",
+   "Why Extreme Hooks Sabotage Advantage+ Targeting Signals",
+   "Brand Memory: Tagging Hook and Reason-to-Buy Attributes",
+   "Five Rules for Briefing Hooks That Actually Convert",
+   "Get a Free 50-Attribute Creative Breakdown from Galvor"
+  ],
+  "galvor_data_needed": [
+   "Proven message in a new look got 47% more first-month spend",
+   "Wellness brand saw 2.6x uplift versus aspirational content",
+   "Beauty D2C achieved 3x hook rate with 30% less wasted spend",
+   "Decode tags 50+ attributes per ad"
+  ],
+  "source_ids": [
+   "982dcd3ce69e",
+   "89acc23f409b",
+   "9e7c9d79e363"
+  ],
+  "cta": "Send us your top three video assets; we will decode their hooks against cost per order free. Follow Galvor for weekly creative benchmarks.",
+  "awareness_angle": "Creative strategists and media buyers debate hook styles daily; this gives founders numbers to stop paying for meaningless viral stunts.",
+  "sources": [
+   {
+    "id": "982dcd3ce69e",
+    "url": "https://www.instagram.com/reel/DfjiM2TCKvq/",
+    "publisher": "#performancemarketing",
+    "author": "cedyarish",
+    "date": "2026-11-10",
+    "title": "Starting a Huel ad review with a literal trust fall is certainly one way to grab attention",
+    "text": ""
+   },
+   {
+    "id": "89acc23f409b",
+    "url": "https://www.instagram.com/reel/Dfh4S-4B-Gt/",
+    "publisher": "#performancemarketing",
+    "author": "siddhichavan25",
+    "date": "2026-11-09",
+    "title": "The Rule of 7 in marketing, explained with Collagen Powder | Meta Ads for D2C\n\nYour audien",
+    "text": ""
+   },
+   {
+    "id": "9e7c9d79e363",
+    "url": "https://www.instagram.com/reel/DfjGIDNvTdT/",
+    "publisher": "#performancemarketing",
+    "author": "sangeethasabishek",
+    "date": "2026-11-10",
+    "title": "Meta Ads is getting smarter, but does that mean your ads will automatically perform better",
+    "text": ""
+   }
+  ],
+  "id": "di-8c3a7404",
+  "created_at": "2026-11-11T02:04:36",
+  "status": "new"
+ },
+ {
+  "title": "The Day-Three Cull: Why Growth Teams Kill Winning Ads Too Early",
+  "dek": "Most performance teams turn off new angles if they do not hit target ROAS inside seventy-two hours. Creative intelligence shows that high-consideration formats often start expensive before finding stable scale.",
+  "cold_open": "Sam watched his media buyer turn off three fresh angle tests on Thursday morning because their day-two CPO was higher than account average. Those assets had spent barely ₹8,000 each and had logged fewer than fifteen total conversions.",
+  "why_now": "Automated campaign consolidation requires longer creative learning windows, yet teams still apply old manual buying kill-rules to fresh assets.",
+  "sections": [
+   "The 72-Hour Panic Button Inside D2C Growth Teams",
+   "The Cold Start Curve: Why High-Value Formats Start Dearer",
+   "What Galvor Saw: The 35% Early-Phase Cost Curve",
+   "Plenty of Data, No Memory: Repeating the Same Early Cuts",
+   "The Fortnightly Creative Loop: Run, Measure, Learn",
+   "Five Rules to Know When to Cut, Scale, or Hold an Asset",
+   "Book a Free Fortnightly Testing Framework Session with Galvor"
+  ],
+  "galvor_data_needed": [
+   "Some ad styles start ~35% dearer per order in their first two months and end close to average over their life",
+   "A Run cycle example: -18% CPO (Cycle 14)",
+   "Loop runs every two weeks across 50+ tagged attributes"
+  ],
+  "source_ids": [
+   "805be1b33ee7",
+   "6fcad82a27c9",
+   "0b268bee8b54"
+  ],
+  "cta": "We will audit your last thirty turned-off ads to spot false negatives free. Follow Galvor for practical performance strategy.",
+  "awareness_angle": "Founders hate wasted creative production; this framework stops media buyers from killing five-figure video shoots before Meta finds their audience.",
+  "sources": [
+   {
+    "id": "805be1b33ee7",
+    "url": "https://www.instagram.com/reel/DfEOoqByVEZ/",
+    "publisher": "#performancemarketing",
+    "author": "lets.lovemarketing",
+    "date": "2026-10-29",
+    "title": "Media buyers explaining October performance to clients 💀😭\n\n“Sir, Meta ka issue hai.”\n“Sir,",
+    "text": ""
+   },
+   {
+    "id": "6fcad82a27c9",
+    "url": "https://www.facebook.com/groups/facebookadsandgoogleadsexpertservice/posts/1142662895398635/",
+    "publisher": "Meta ads update",
+    "author": "https://www.facebook.com › groups › posts",
+    "date": "",
+    "title": "Meta announces new update for Facebook Ads and ...",
+    "text": ""
+   },
+   {
+    "id": "0b268bee8b54",
+    "url": "https://www.instagram.com/p/Dfg4UETIBx5/",
+    "publisher": "Meta ads update",
+    "author": "1 like",
+    "date": "",
+    "title": "Meta Ads is getting an interesting update! Meta's new ...",
+    "text": ""
+   }
+  ],
+  "id": "di-c5e76888",
+  "created_at": "2026-11-11T02:04:36",
+  "status": "new"
+ }
+]

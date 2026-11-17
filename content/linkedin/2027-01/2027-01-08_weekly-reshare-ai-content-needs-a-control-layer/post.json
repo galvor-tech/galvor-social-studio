@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-01-08-weekly-reshare-ai-content-needs-a-control-layer",
+  "slug": "weekly-reshare-ai-content-needs-a-control-layer",
+  "platform": "linkedin",
+  "date": "2027-01-08",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "AI & the Team",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "AI creative needs three gates: brand, difference, learning",
+  "hook": "AI made ads cheap to produce. It also made look-alikes free.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "AI made ads cheap to produce. It also made look-alikes free.\nFor a D2C team using AI to multiply its creative output, the hard job has moved from making to choosing.\n\nIn our analysis of new video ads launched from May to September 2026, new ads that looked like many ads already running got 36% less first-month spend.\n\nA generator fed on what you already ran tends to hand back more of what you already ran. Volume goes up and the account sees the same idea again.\n\nSo put three gates between the generator and the ad account.\n\nBrand gate. With the logo covered, would a customer still recognise this as you?\n\nDifference gate. Place it next to your live ads. If a stranger cannot tell it apart from one of them, it does not go live.\n\nLearning gate. Write one line on what this ad will tell you that the others cannot. An ad without that line waits.\n\nA person holds each gate. The model can prepare the evidence for all three.\n\nAn ad that gets through has a reason to exist, however it was made.",
+  "first_comment": "Read Decoded #3 on galvor.ai",
+  "hashtags": [
+    "#AIinMarketing",
+    "#AdCreative",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "",
+  "cta": "none (Decoded #3 in first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: stacked. Reader: a creative or growth lead who has just started producing ads with AI tools. Standalone post on the week's theme; not a reshare. Numbers: 36% less first-month spend for new ads that looked like many running ads (second and last use in this group; Galvor analysis, Decoded #3, ads launched May to Sep 2026). 'A generator tends to hand back more of what you already ran' is an inference, worded as a tendency. The data predates most AI-made ads, so the post does not claim the 36% was measured on AI creative.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-08 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:59",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "Reshare-W5",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

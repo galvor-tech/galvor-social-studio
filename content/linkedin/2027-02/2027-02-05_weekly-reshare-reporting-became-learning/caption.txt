@@ -1,0 +1,21 @@
+A report that ends without a decision is a receipt.
+It proves the money was spent and says nothing about Monday.
+
+Most weekly ad reports carry the same columns: spend, impressions, clicks, cost per order, return. All of them describe what happened.
+
+One change turns the same report into something a team can act on. Every row must end in one of four verbs.
+
+Scale. It is working and has room.
+Cut. It has had a fair run and is not paying.
+Refresh. The message sells and the look is tired.
+Test. We do not know yet, and here is the ad that will tell us.
+
+A row that cannot take a verb does not belong in the report. That alone shortens most decks.
+
+Then add one line under the table: what we learned this fortnight that changes the next brief. If that line is blank two reports running, the team is reporting and has stopped learning.
+
+Agencies and in-house teams can make this change without new data or new tools. The numbers stay the same and the last column is new.
+
+From dashboards to decisions is a short trip once every row has a verb.
+
+#PerformanceMarketing #MarketingAnalytics #D2C

@@ -1,0 +1,52 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Analytics · Galvor Social Studio{% endblock %}
+{% block body %}
+<h1>Analytics</h1>
+<p class="sub">Weekly page numbers (every Monday, from LinkedIn Admin → Analytics and Instagram Insights), per-post results (on each post's Results tab), and the 90-day scorecard. Imported from Galvor_LinkedIn_Tracker.xlsx.</p>
+{% set li = mt.weekly|selectattr('platform','equalto','linkedin')|list %}
+{% set ig = mt.weekly|selectattr('platform','equalto','instagram')|list %}
+<div class="grid g4">
+  <div class="stat lav"><h5>LinkedIn followers</h5><div class="v">{{ (li[-1].followers|int) if li and li[-1].followers else '955' }}</div><p>Baseline 955 on 31 Oct 2026.</p></div>
+  <div class="stat mint"><h5>Published posts</h5><div class="v">{{ published }}</div><p>Marked live in the studio.</p></div>
+  <div class="stat blue"><h5>Instagram followers</h5><div class="v">{{ (ig[-1].followers|int) if ig and ig[-1].followers else '—' }}</div><p>Add the first weekly row below.</p></div>
+  <div class="stat peach"><h5>Demo requests (LinkedIn)</h5><div class="v">{{ li|sum(attribute='demo_requests') if li else 0 }}</div><p>From the weekly tracker.</p></div>
+</div>
+
+{% for plat, rows in [('linkedin', li), ('instagram', ig)] %}
+<div class="panel">
+  <div class="panel-h plain"><h3>{{ plat|capitalize }} — weekly</h3><span class="count">{{ rows|length }} weeks</span></div>
+  {% if rows %}
+  {% set mx = (rows|map(attribute='impressions')|map('float')|max) or 1 %}
+  <div class="panel-b"><svg viewBox="0 0 {{ rows|length * 40 + 20 }} 130" style="width:100%;max-height:170px">
+    {% for r in rows %}{% set h = ((r.impressions or 0) / mx * 100) %}<rect x="{{ 10 + loop.index0*40 }}" y="{{ 110 - h }}" width="26" height="{{ h }}" rx="4" fill="var(--accent-2)" opacity=".85"><title>{{ r.week }}: {{ r.impressions|int if r.impressions else 0 }} impressions</title></rect><text x="{{ 23 + loop.index0*40 }}" y="125" font-size="9" text-anchor="middle" fill="currentColor" opacity=".6">{{ r.week[5:] }}</text>{% endfor %}
+  </svg><p class="small muted">Impressions per week</p></div>
+  <table class="tbl"><tr><th>Week</th><th>Followers</th><th>New</th><th>Posts</th><th>Impressions</th><th>Reactions</th><th>Comments</th><th>Reposts</th><th>Clicks</th><th>Page views</th><th>Demo req.</th><th>Eng. rate</th></tr>
+  {% for r in rows|reverse %}<tr><td>{{ r.week }}</td>{% for k in ['followers','new_followers','posts','impressions','reactions','comments','reposts','clicks','page_views','demo_requests'] %}<td>{{ r[k]|int if r[k] is not none else '—' }}</td>{% endfor %}
+    <td>{% if r.impressions %}{{ '%.1f'|format(100*((r.reactions or 0)+(r.comments or 0)+(r.reposts or 0)+(r.clicks or 0))/r.impressions) }}%{% else %}—{% endif %}</td></tr>{% endfor %}</table>
+  {% else %}<div class="empty">No weekly rows yet.</div>{% endif %}
+</div>
+{% endfor %}
+
+<div class="grid g2">
+<form method="post" class="card"><input type="hidden" name="kind" value="weekly"><h4>Add / update a week</h4>
+  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px">
+    <div><label class="f">Platform</label><select class="in" name="platform"><option>linkedin</option><option>instagram</option></select></div>
+    <div><label class="f">Week starting (Mon)</label><input class="in" type="date" name="week" required></div>
+    {% for k in ['followers','new_followers','posts','impressions','reactions','comments','reposts','clicks','page_views','demo_requests'] %}<div><label class="f">{{ k|replace('_',' ')|capitalize }}</label><input class="in" name="{{ k }}" inputmode="numeric"></div>{% endfor %}
+  </div><button class="btn primary" style="margin-top:12px">Save week</button></form>
+<form method="post" class="card"><input type="hidden" name="kind" value="scorecard"><h4>90-day scorecard</h4><p class="small muted">Commercial results where content played a part. Sunil and KC ask “How did you first hear of Galvor?” on every first call.</p>
+  {% for k, label, target in [('conversations','Conversations started by content',10),('opportunities','Opportunities where prospect saw content first',5),('sales_uses','Posts sales used in live deals',15),('pilots','Pilots signed (content played a part)',1),('target_connections','New target-title connections (all profiles)',300),('language_echo','Prospects repeating our language',0)] %}
+  {% set v = mt.scorecard.get(k, 0) %}
+  <div class="row small" style="margin-top:10px"><span style="width:260px">{{ label }}</span><input class="in" name="sc_{{ k }}" value="{{ v }}" style="width:80px">{% if target %}<div class="bar grow"><i style="width:{{ [100, 100*v/target]|min }}%"></i></div><b>/ {{ target }}</b>{% endif %}</div>
+  {% endfor %}<button class="btn primary" style="margin-top:12px">Save scorecard</button></form>
+</div>
+
+<div class="grid g3">
+{% for title, rows in [('By pillar', by_pillar), ('By format', by_format), ('By voice', by_voice)] %}
+<div class="card"><h4>{{ title }}</h4>{% if rows %}<table class="tbl small"><tr><th>Platform</th><th>Group</th><th>Posts</th><th>Avg impr.</th><th>Avg eng.</th></tr>
+  {% for (pl, g), r in rows %}<tr><td>{{ pl[:2]|upper }}</td><td>{{ VOICES[g].name if g in VOICES else g }}</td><td>{{ r.n }}</td><td>{{ (r.impressions/r.n)|round|int }}</td><td>{{ (r.eng/r.n)|round(1) }}</td></tr>{% endfor %}</table>
+  {% else %}<p class="muted small">Appears once published posts have results entered.</p>{% endif %}</div>
+{% endfor %}
+</div>
+<div class="panel"><div class="panel-h plain"><h3>Top posts by impressions</h3></div>{% for p in top %}{{ m.row(p, true, '<b>' ~ ((p.metrics or {}).get('impressions') or 0)|int ~ '</b>&nbsp;impr.') }}{% else %}<div class="empty">No results entered yet.</div>{% endfor %}</div>
+{% endblock %}

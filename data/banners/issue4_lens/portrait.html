@@ -1,0 +1,52 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="base.css"><script src="common.js"></script>
+<style>
+html,body{width:1080px;height:1920px}
+.stage{width:1080px;height:1920px;background:radial-gradient(900px 900px at 540px 1100px,rgba(110,60,230,.34),transparent 70%),
+  radial-gradient(700px 500px at 540px -100px,rgba(124,58,237,.18),transparent 70%),#0A0A14}
+.top{position:absolute;left:0;right:0;text-align:center;z-index:40}
+.kicker{justify-content:center;font-size:24px;margin-bottom:34px}
+.kicker img{width:38px;height:38px}
+h1{font-size:98px;line-height:1.03}
+body.story h1{font-size:82px}
+.how{font-size:30px;margin-top:0}
+.reel{position:absolute;z-index:21;border-radius:22px;overflow:hidden;background:linear-gradient(165deg,#FFB86B,#F0609E 50%,#7C3AED);border:2px solid rgba(255,236,190,.8)}
+.reel svg.s{position:absolute;left:50%;bottom:-4px;width:120%;transform:translateX(-50%)}
+.bub{position:absolute;z-index:31;font-family:Inter,sans-serif;font-size:24px;font-weight:500;color:#1D1830;background:#F4F0FF;padding:12px 18px;border-radius:20px 20px 20px 6px;box-shadow:0 10px 28px rgba(0,0,0,.45);white-space:nowrap}
+.bub small{display:block;font-size:15px;color:#7A7396;margin-bottom:3px;font-weight:600;letter-spacing:.04em;text-transform:uppercase}
+.clip{position:absolute;z-index:20;border-radius:50%;background:#141228}
+.chk{font-size:23px}
+.foot{position:absolute;left:0;right:0;text-align:center;z-index:40;font-family:Inter,sans-serif}
+.read{display:inline-flex;align-items:center;gap:12px;font-size:30px;font-weight:700;color:#1A1030;padding:18px 32px;border-radius:999px;
+  background:linear-gradient(180deg,#FFE09A,#F5B53D);box-shadow:0 0 40px rgba(255,190,80,.45)}
+.follow{margin-top:18px;font-size:26px;color:#CFC6EE}.follow b{color:#fff}
+.mark{position:absolute;z-index:40;font-family:Consolas,monospace;font-size:22px;letter-spacing:.2em;color:#8E85B3;text-transform:uppercase;left:0;right:0;text-align:center}
+</style></head>
+<body><div class="stage" id="s"></div><script>
+const MODE=new URLSearchParams(location.search).get('m')||'story'; document.body.className=MODE;
+const s=document.getElementById('s');
+// layout per format: story keeps 250px top / 340px bottom clear; thumbnail keeps the middle 1080x1440 (y 240-1680) for the grid crop
+const L= MODE==='story'
+  ? {kick:262, h1:330, scene:935, how:1262, foot:1352}
+  : {kick:300, h1:372, scene:1060, how:1460, foot:null};
+const hd=document.createElement('div');hd.className='top';hd.style.top=L.kick+'px';
+hd.innerHTML='<div class="kicker"><img src="mark.png" alt="">Decoded by Galvor <span>•</span> Issue #4</div>'+
+  '<h1>We Shortlisted<br>20 Creators<span class="fs">.</span><br><span class="p">The Brand<br>Picked One<span class="fs">.</span></span></h1>';
+s.appendChild(hd);
+// faded crowd behind the scene
+for(let r=0;r<4;r++)for(let c=0;c<6;c++){const i=r*6+c; av(s,90+c*180,L.scene-270+r*180,124,i,{css:'opacity:.26'});}
+// lens over the creator's reel
+const cx=340,cy=L.scene,R=215;
+const cl=document.createElement('div');cl.className='clip';cl.style.cssText='left:'+(cx-R)+'px;top:'+(cy-R)+'px;width:'+(2*R)+'px;height:'+(2*R)+'px';s.appendChild(cl);
+const rl=document.createElement('div');rl.className='reel';rl.style.cssText='left:'+(cx-104)+'px;top:'+(cy-172)+'px;width:208px;height:344px';
+rl.innerHTML=SIL.replace('<svg','<svg class="s"')+'<svg viewBox="0 0 24 24" style="position:absolute;left:14px;top:14px;width:32px;height:32px"><circle cx="12" cy="12" r="11" fill="rgba(0,0,0,.28)"/><path d="M10 8l6 4-6 4z" fill="#fff"/></svg>';s.appendChild(rl);
+lens(s,cx,cy,R,-40,200,58);
+[['Where can I buy this? 😍',590,cy-235],['Tried it, it actually works',620,cy-130],['Ordered after your last reel',590,cy-25]].forEach(b0=>{
+  const b=document.createElement('div');b.className='bub';b.style.left=b0[1]+'px';b.style.top=b0[2]+'px';b.innerHTML='<small>Comment</small>'+b0[0];s.appendChild(b);});
+chk(s,600,cy+110,'Reads the comments');chk(s,600,cy+178,'Audience trusts them');chk(s,600,cy+246,'Fits the brief');
+// how pill
+const hw=document.createElement('div');hw.className='top';hw.style.top=L.how+'px';
+hw.innerHTML='<div class="how" style="display:inline-flex"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></span>How <b>Galvor Scout</b> finds <i>the one</i></div>';
+s.appendChild(hw);
+if(L.foot){const f=document.createElement('div');f.className='foot';f.style.top=L.foot+'px';
+  f.innerHTML='<div class="read">Tap the link · Read Issue #4</div><div class="follow">Follow <b>@galvor.ai</b> for every issue</div>';s.appendChild(f);}
+</script></body></html>

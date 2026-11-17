@@ -1,0 +1,28 @@
+{
+  "says": "A LinkedIn creator shows her prompts for getting 30 days of posts from an AI model: give it real context about the person, ask for content pillars, generate hooks from examples of hooks that worked, then full posts from example posts you like. The useful part is the method of feeding the writer real examples; the 'viral' part should be left alone.",
+  "points": [
+    "Give the model the person's real profile text and recent posts before asking for anything.",
+    "Base content on three things: what you can teach, what you can sell, and the stories that connect them.",
+    "Split posts by audience: broad to gain followers, narrower to build trust, specialist to bring in buyers.",
+    "Her hook format: a bold first line of eight words or fewer, then a second line that re-hooks.",
+    "Give the model posts you personally stopped to read; the output takes on that taste.",
+    "For reach she adds general topics (transformations, remote work, leadership, 'six ways to')."
+  ],
+  "use": [
+    "Voices page: saving 10 to 15 real posts per person is this method. The writer now receives them on every draft.",
+    "The two-line hook is in the LinkedIn prompt, loosened to 12 words so it does not read as a formula.",
+    "Broad, narrower, specialist maps onto Attract, Educate and De-risk or Convert."
+  ],
+  "changes": [
+    "Collect the real posts for Sunil, Raj and Shrutik and paste them into Voices.",
+    "Keep a short file of hooks from our own best posts and feed those back in, not other creators' hooks."
+  ],
+  "caution": [
+    "Generic 'viral' topics would bring the wrong audience for Galvor and are excluded from the prompt.",
+    "A hard limit of eight words a sentence makes copy sound machine-written; we do not use it.",
+    "Her example invents a personal transformation for someone else. We never do that.",
+    "From August 2025; she sells a writing course."
+  ],
+  "by": "Claude terminal",
+  "at": "2026-11-16T17:27:13"
+}

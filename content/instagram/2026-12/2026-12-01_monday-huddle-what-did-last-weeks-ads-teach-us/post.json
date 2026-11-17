@@ -1,0 +1,78 @@
+{
+  "id": "ig-2026-12-01-monday-huddle-what-did-last-weeks-ads-teach-us",
+  "slug": "monday-huddle-what-did-last-weeks-ads-teach-us",
+  "platform": "instagram",
+  "date": "2026-12-01",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Team & Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Monday review: add one line to the agenda",
+  "hook": "Most Monday ad reviews answer \"how much?\" and stop there.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Most Monday ad reviews answer \"how much?\" and stop there.\n\nSpend. RoAS. Top ad. Next week's launches. All useful, and all about last week.\n\nTry adding two lines to the same agenda next Monday:\n\nOne thing last week's ads taught us.\nOne thing we will do differently because of it.\n\nIt takes five minutes. Write both lines in the same doc every week, and in three months you have something a dashboard cannot give you: a memory.\n\nWhat is the first question in your Monday review? Tell us below.\n\nFollow @galvor.ai for more.",
+  "first_comment": "",
+  "hashtags": [
+    "#performancemarketing",
+    "#marketingtips",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Two-column card in Galvor violet and gold titled The Monday review, plus two lines. Left column, Already on the agenda: spend, RoAS, top ad, next launches. Right column, Add these: one thing the ads taught us, one thing we will change.",
+  "cta": "Question to comment on; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "compare",
+        "kicker": "Monday prep",
+        "headline": "The Monday review, *plus two lines*",
+        "left_title": "Already on the agenda",
+        "left": [
+          "Spend",
+          "RoAS",
+          "Top ad",
+          "Next week's launches"
+        ],
+        "right_title": "Add these",
+        "right": [
+          "One thing the ads taught us",
+          "One thing we will change"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH TEAM: the old script claimed a real Galvor huddle every Monday at 9:30 with a whiteboard. I could not verify that, so this version is advice to the reader and makes no claim about our own meetings. If the huddle is real, a line about it can be added back. Reader: a growth lead who runs the weekly ad review. Topic changed from a description of our meeting to a copyable agenda change. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-11-22 (Sun) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:16:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:12",
+      "action": "Moved from 2026-11-22 11:00 to 2026-12-01 12:30: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:38",
+  "updated_at": "2026-11-16T21:48:12",
+  "topic_ref": "IG-11",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

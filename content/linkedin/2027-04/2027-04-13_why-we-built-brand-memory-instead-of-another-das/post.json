@@ -1,0 +1,54 @@
+{
+  "id": "li-2027-04-13-why-we-built-brand-memory-instead-of-another-das",
+  "slug": "why-we-built-brand-memory-instead-of-another-das",
+  "platform": "linkedin",
+  "date": "2027-04-13",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Building Galvor",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Why we built Brand Memory instead of another dashboard",
+  "hook": "Why we built Brand Memory instead of another dashboard.",
+  "status": "draft",
+  "festival": null,
+  "theme": "New FY, new creative system",
+  "caption": "Why we built Brand Memory instead of another dashboard.\n\nWhen we started, the obvious thing to build was a better dashboard. Cleaner charts, more metrics, faster refresh. Every brand we spoke to already had three.\n\nAnd every brand had the same problem. They could see what happened. They couldn't say why, and they couldn't remember it.\n\nA dashboard describes yesterday. It resets every time the date range changes. The insight from last March doesn't show up in this March's planning, because nothing carried it forward.\n\nSo we built for memory instead.\n\nBrand Memory keeps four kinds of knowledge for each brand, and updates them with every ad:\n→ the brand's voice and visual identity\n→ what each creative attribute has done for cost per order\n→ what has been tried, kept and dropped, and why\n→ what's changing in the category\n\nThe point isn't storage. The point is that the next brief, the next script and the next review start from what the brand already knows.\n\nFrom dashboards to decisions. That's the whole shift.\n\nWhat's one thing your team has learned about your ads twice, because nobody wrote it down the first time?",
+  "first_comment": "",
+  "hashtags": [
+    "#BrandMemory",
+    "#MarketingAnalytics",
+    "#D2C"
+  ],
+  "alt_text": "Title card on a violet background: Why we built Brand Memory instead of another dashboard.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Building Galvor",
+        "headline": "Why we built Brand Memory instead of *another dashboard*.",
+        "sub": "A dashboard describes yesterday. Memory shapes the next brief."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Falls on Republic Day (public holiday); reach may be lower. Fine to move to Wed 27 Jan 08:30 if preferred. Brand Memory contents match galvor.ai (voice, visual identity, creative learnings, trends).\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:23",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-04-13 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:15",
+  "updated_at": "2026-11-11T01:04:23",
+  "topic_ref": "S42"
+}

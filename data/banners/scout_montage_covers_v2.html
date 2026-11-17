@@ -1,0 +1,84 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&family=JetBrains+Mono:wght@500&family=Instrument+Serif:ital@0;1&display=block" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden}
+:root{--bg:#EFEEE9;--ink:#111;--pink:#F4B6DA;--grey:#9b9a95}
+.s{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:Inter,sans-serif;background:var(--bg);color:var(--ink)}
+.full{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.logo{position:absolute;left:0;right:0;top:300px;display:flex;justify-content:center;align-items:center;gap:12px;font-weight:700;font-size:36px;letter-spacing:-.04em}
+.logo img{width:46px;height:46px}
+.mono{font-family:'JetBrains Mono',monospace;font-weight:500;letter-spacing:.14em;text-transform:uppercase}
+.h{position:absolute;left:40px;right:40px;text-align:center;font-weight:760;letter-spacing:-.05em;line-height:.98}
+.serif{font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;letter-spacing:-.01em}
+.strike{color:var(--grey);text-decoration:line-through;text-decoration-thickness:.1em;text-decoration-color:#111}
+.tag{position:absolute;background:var(--pink);color:#111;font-weight:600;font-size:34px;padding:10px 20px;white-space:nowrap}
+.gtag{position:absolute;background:#fff;color:#777;font-weight:500;font-size:30px;padding:9px 18px;white-space:nowrap}
+.chip{position:absolute;border:2px solid #d9d7d0;background:#f6f5f1;color:var(--grey);font-size:30px;padding:12px 26px;border-radius:10px;white-space:nowrap}
+.photo{position:absolute;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.18)}
+.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.handle{position:absolute;font-weight:600;font-size:30px;white-space:nowrap}
+.count{position:absolute;font-weight:760;letter-spacing:-.04em;white-space:nowrap}
+</style></head><body>
+<div class="s" id="s"></div>
+<script>
+const v=new URLSearchParams(location.search).get('v')||'1', s=document.getElementById('s');
+const IMG='scout_montage_img/';
+const MARK='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark.png';
+const MARKW='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark-white.png';
+const logo=(d,top=300)=>`<div class="logo" style="top:${top}px;${d?'color:#fff':''}"><img src="${d?MARKW:MARK}"><span>Galvor Scout</span></div>`;
+let h='';
+if(v==='1'){ // full-bleed kitchen, followers struck, "Pick by trust."
+  h=`<img class="full" src="${IMG}kitchen.png" style="object-position:50% 40%">`+
+  `<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(239,238,233,1) 0%,rgba(239,238,233,.97) 30%,rgba(239,238,233,0) 46%,rgba(239,238,233,0) 74%,rgba(239,238,233,.97) 88%)"></div>`+
+  logo(0)+
+  `<div class="h" style="top:390px;font-size:104px">Stop picking creators by</div>`.replace('creators by','creators<br>by <span class="strike">followers.</span>')+
+  `<div class="tag" style="left:90px;top:1150px">“Where do I get this?”</div>`+
+  `<div class="tag" style="left:560px;top:1250px">“Made this twice already!”</div>`+
+  `<div class="h serif" style="top:1450px;font-size:150px">Pick by <span style="background:var(--pink);padding:0 .1em">trust.</span></div>`;
+}
+if(v==='2'){ // versus: big account vs trusted creator
+  h=logo(0)+
+  `<div class="h" style="top:385px;font-size:96px">Stop picking creators<br>by <span class="strike">followers.</span></div>`+
+  // left: big account, greyed
+  `<div class="photo" style="left:70px;top:680px;width:450px;height:600px;filter:grayscale(.9);opacity:.8"><img src="${IMG}glam.png"></div>`+
+  `<div class="count" style="left:70px;top:1300px;font-size:64px;color:var(--grey)">1.2M</div><div class="handle" style="left:70px;top:1375px;color:var(--grey)">followers</div>`+
+  `<div class="gtag" style="left:40px;top:960px">nice pic 😍</div><div class="gtag" style="left:200px;top:1040px">🔥🔥🔥</div><div class="gtag" style="left:60px;top:1120px">follow back?</div>`+
+  // right: smaller, trusted
+  `<div class="photo" style="left:560px;top:680px;width:450px;height:600px;box-shadow:0 0 0 8px #111,0 30px 70px rgba(0,0,0,.25)"><img src="${IMG}kitchen.png"></div>`+
+  `<div class="count" style="left:560px;top:1300px;font-size:64px">18K</div><div class="handle" style="left:560px;top:1375px">followers</div>`+
+  `<div class="tag" style="left:500px;top:1010px;font-size:30px">“Where do I get this?”</div><div class="tag" style="left:600px;top:1090px;font-size:30px">“Ordered two!”</div>`+
+  `<div class="h serif" style="top:1470px;font-size:96px">Guess who <span style="background:var(--pink);padding:0 .1em">sells.</span></div>`+
+  `<div class="mono" style="position:absolute;left:0;right:0;top:1610px;text-align:center;font-size:20px;color:var(--grey)">Illustrative</div>`;
+}
+if(v==='3'){ // filter wall from the reel, every filter struck, trust chip lit
+  const f=['Location','Followers','Age','Gender','Language','Platform','Avg. views','Engagement rate','Niche','Verified','Growth','Audience age','Category','City','Hashtags','Posting rate'];
+  let w=''; for(let r=0;r<2;r++) f.forEach((t,i)=>{const row=Math.floor(i/4)+r*4, col=i%4; const y=row<4?120+row*70:1660+(row-4)*70;
+    w+=`<div class="chip" style="left:${40+col*252}px;top:${y}px;width:236px;text-align:center;font-size:24px;padding:10px 0;${t==='Followers'||t==='Engagement rate'?'text-decoration:line-through;':''}">${t}</div>`;});
+  h=w+logo(0,420)+
+  `<div class="h" style="top:500px;font-size:100px">Stop picking creators<br>by <span class="strike">followers.</span></div>`+
+  `<div class="photo" style="left:240px;top:760px;width:600px;height:750px"><img src="${IMG}kitchen.png"></div>`+
+  `<div class="tag" style="left:150px;top:1300px">“Where do I get this?”</div>`+
+  `<div style="position:absolute;left:0;right:0;top:1540px;display:flex;justify-content:center"><div style="background:#111;color:#fff;font-weight:650;font-size:38px;padding:18px 34px;border-radius:12px">✓ Audience trusts her</div></div>`;
+}
+if(v==='4'){ // series companion: the home cook
+  h=logo(0)+
+  `<div class="h" style="top:390px;font-size:112px">Stop counting<br><span class="strike">followers.</span></div>`+
+  `<div class="photo" style="left:200px;top:660px;width:680px;height:800px"><img src="${IMG}cook.png"></div>`+
+  `<div class="tag" style="left:90px;top:1110px">“Cooked this tonight. 10/10”</div>`+
+  `<div class="tag" style="left:450px;top:1210px">“Which masala brand is this?”</div>`+
+  `<div class="h serif" style="top:1495px;font-size:104px">Read the <span style="background:var(--pink);padding:0 .1em">comments.</span></div>`;
+}
+if(v==='5'){ // type poster: giant struck "followers", the comment answers
+  h=logo(0)+
+  `<div class="h" style="top:400px;font-size:64px;font-weight:650">Stop picking creators by</div>`+
+  `<div class="h strike" style="top:490px;font-size:180px;letter-spacing:-.06em">followers.</div>`+
+  `<div style="position:absolute;left:390px;top:800px;width:300px;height:300px;border-radius:50%;overflow:hidden;box-shadow:0 0 0 10px #fff,0 30px 70px rgba(0,0,0,.2)"><img src="${IMG}kitchen.png" style="width:100%;height:100%;object-fit:cover;object-position:52% 30%"></div>`+
+  `<div style="position:absolute;left:0;right:0;top:1160px;display:flex;flex-direction:column;align-items:center;gap:22px">`+
+  `<div style="background:var(--pink);font-weight:650;font-size:52px;padding:14px 28px">“Where do I get this?”</div>`+
+  `<div style="background:var(--pink);font-weight:650;font-size:52px;padding:14px 28px">“Made this twice already!”</div>`+
+  `<div style="background:var(--pink);font-weight:650;font-size:52px;padding:14px 28px">“Bought it after her review.”</div></div>`+
+  `<div class="h serif" style="top:1500px;font-size:96px">Read what their audience says.</div>`.replace('font-size:96px','font-size:84px');
+}
+s.innerHTML=h;
+</script></body></html>

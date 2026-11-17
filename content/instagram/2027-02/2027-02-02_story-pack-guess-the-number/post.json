@@ -1,0 +1,91 @@
+{
+  "id": "ig-2027-02-02-story-pack-guess-the-number",
+  "slug": "story-pack-guess-the-number",
+  "platform": "instagram",
+  "date": "2027-02-02",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Data Drop",
+  "job": "Educate",
+  "format": "story",
+  "series": "",
+  "title": "Story pack: guess the number (six look-alikes in three days)",
+  "hook": "Six look-alike ads, launched within three days. Guess what happened to their spend.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "Story pack (no feed caption).\n\nA one-question guessing game built on Galvor's analysis. Frame 2 is the quiz. Frame 3 is the answer with its source. Frame 4 says what to do about it before the next launch.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Five vertical story frames. Frame 1: Six look-alike ads launched in three days, what happened to their spend? Frame 2 is a quiz with three guesses. Frame 3 shows the answer: 48% less first-month spend each, when six or more look-alikes launched within three days. Frame 4: space them out, or make them different. Frame 5: send this to whoever plans your launches.",
+  "cta": "Answer the quiz; share with whoever plans launches",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Guess the number",
+        "headline": "Six look-alike ads, launched in *three days.* What happened to their spend?",
+        "sub": "Tap to guess."
+      },
+      {
+        "layout": "poll",
+        "kicker": "Your guess",
+        "headline": "How much *less* first-month spend did each one get?",
+        "options": [
+          "About a tenth less",
+          "About a quarter less",
+          "About half less"
+        ],
+        "sub": "Answer with the quiz sticker."
+      },
+      {
+        "layout": "stat",
+        "kicker": "The answer",
+        "stat": "48%",
+        "headline": "*less first-month spend* each, when six or more look-alikes launched within three days",
+        "sub": "Compared with other new ads in the same analysis.",
+        "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "What to do",
+        "headline": "Space them out, or make them *different*",
+        "body": "Before a launch, count the ads that share a first shot.\n\nIf six or more are going out within three days, hold some back or change the opening."
+      },
+      {
+        "layout": "cta",
+        "headline": "Fewer twins. *More spend each.*",
+        "sub": "Send this to whoever plans your launches.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Share this story"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the guess-the-number format and cut it to one question so the answer lands. Interactive ask: quiz sticker on frame 2, correct answer is the third option. Number used: 48% less first-month spend each for six or more look-alikes launched within three days (facts bank, Galvor analysis of ads launched May–Sep 2026); source line on frame 3. To confirm with Raj: the comparison line in frame 3's sub ('compared with other new ads in the same analysis') describes the baseline correctly; delete the sub if unsure.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-02 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:26",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-126",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

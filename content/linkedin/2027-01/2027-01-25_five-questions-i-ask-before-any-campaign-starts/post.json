@@ -1,0 +1,120 @@
+{
+  "id": "li-2027-01-25-five-questions-i-ask-before-any-campaign-starts",
+  "slug": "five-questions-i-ask-before-any-campaign-starts",
+  "platform": "linkedin",
+  "date": "2027-01-25",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Better Briefs",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "Brief to Live",
+  "title": "Five questions before any campaign starts",
+  "hook": "Before any campaign starts, I ask five questions.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Before any campaign starts, I ask five questions.\n\nIf one of them has no answer, the brief is not ready.\n\n1. Who exactly is this for?\n2. What is the one thing they should do?\n3. What did the last campaign teach us?\n4. What must be said, and what must never be?\n5. Who says yes, and by when?\n\nThe third one gets skipped most easily, and it is the one that makes this campaign better than the last.\n\nWith Republic Day sales closing and new financial year plans opening, this is a good week to run your next brief past all five. The slides have what a good answer looks like for each.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#CreatorMarketing",
+    "#D2CIndia"
+  ],
+  "alt_text": "Eight-slide carousel in Shrutik Rathod's Brief to Live series: five questions to ask before any campaign starts. Who exactly is this for; what is the one thing they should do; what did the last campaign teach us; what must be said and what must never be; who says yes and by when. A recap slide lists all five on one page. Last slide asks readers to follow Galvor.",
+  "cta": "Follow Galvor (last slide and first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Brief to Live",
+        "headline": "Five questions before *any* campaign starts",
+        "sub": "If one has no answer, the brief is not ready."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 1",
+        "headline": "Who *exactly* is this for?",
+        "body": "One person, in one line.\n\n“Women 25 to 40” is a media setting. “A new mother buying her first baby sunscreen” is someone a creator can talk to."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 2",
+        "headline": "What is the *one thing* they should do?",
+        "body": "Buy, try a sample, save the video, visit the store. Pick one.\n\nThe end of a video has room for one ask, so the brief should carry one too."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 3",
+        "headline": "What did the *last campaign* teach us?",
+        "body": "Name one thing to repeat and one thing to drop.\n\nIf nobody can answer, finding out is the first job. Every ad should make the next one better."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 4",
+        "headline": "What must be said, and what must *never* be?",
+        "body": "The approved claim, word for word. The words and visuals the brand has ruled out.\n\nWritten before the shoot, this is a checklist. Found after the shoot, it is a reshoot."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 5",
+        "headline": "Who says yes, and *by when*?",
+        "body": "A name for each approval stage and a reply-by date.\n\nAgree both now, while nobody is late and nobody is upset."
+      },
+      {
+        "layout": "list",
+        "kicker": "Copy this",
+        "headline": "The five, on *one page*",
+        "items": [
+          "Who — one person, in one line",
+          "Action — one ask, and only one",
+          "Lesson — one thing to repeat, one to drop",
+          "Rules — must say, must never say",
+          "Yes — who approves, and by when"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Ask five. *Then* write the brief.",
+        "sub": "More from Brief to Live every Monday.",
+        "actions": [
+          "Follow Galvor",
+          "Save for your next kickoff"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that these are the five questions he asks before a campaign starts, in this order. Two changed from the earlier draft: 'what did the last campaign teach us' and 'what must be said and never said' replace the placement question, which now has its own post on 8 Feb. The 'new mother buying her first baby sunscreen' line is an illustrative persona, not a client.\nReader: a brand manager or agency lead about to kick off a campaign. Shape: checklist. Hook shape: punchy plus context. Numbers used: none ('25 to 40' is an example age band). Date note: Republic Day is 26 Jan, the day after this post. List items use the ' — ' separator the slide template needs.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:55:33",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-25 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:38",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh7",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

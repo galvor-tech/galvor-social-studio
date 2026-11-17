@@ -1,0 +1,50 @@
+{
+  "id": "li-2026-11-12-we-price-the-attribute-not-the-ad",
+  "slug": "we-price-the-attribute-not-the-ad",
+  "platform": "linkedin",
+  "date": "2026-11-12",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Product / Demo",
+  "job": "Educate",
+  "format": "image",
+  "series": "",
+  "title": "We price the attribute, not the ad",
+  "hook": "Most teams rate an ad as one thing: it worked, or it didn't. That's where the learning stops.",
+  "status": "designed",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Most teams rate an ad as one thing: it worked, or it didn't. That's where the learning stops.\n\nAn ad isn't one decision. It's a hook, a cast, a setting, a pace, an offer and a call to action, all chosen by someone.\n\nWhen the ad wins, one or two of those choices did the work. When it loses, one or two of them cost you. \"The ad worked\" can't tell you which.\n\nSo we don't score the ad. Galvor tags 50+ attributes in every ad and prices each one against cost per order. The hook gets a number. The creator gets a number. The first three seconds get a number.\n\nThat's the difference between a report and a brief. A report says what happened. A priced attribute tells the next ad what to keep.\n\nEvery ad should make the next one better. It can only do that if you know which part of it worked.",
+  "first_comment": "See how Decode reads an ad: https://galvor.ai/?utm_source=linkedin&utm_medium=organic&utm_campaign=price-the-attribute",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#PerformanceMarketing",
+    "#D2CIndia"
+  ],
+  "alt_text": "Statement card in Galvor violet and gold: We price the attribute, not the ad. Below: hook, cast, pacing, CTA, each measured against cost per order.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "We price the *attribute*, not the ad.",
+        "sub": "Hook, cast, pacing, CTA: 50+ attributes, each measured against cost per order."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "New post for the open Thursday Galvor-page slot (re-plan 11 Nov). Product explainer; facts from the spec only (50+ attributes).",
+  "approvals": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:22",
+  "updated_at": "2026-11-11T01:06:24",
+  "topic_ref": "CO-OPEN-01"
+}

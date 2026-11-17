@@ -1,0 +1,23 @@
+Why we built Brand Memory instead of another dashboard.
+
+When we started, the obvious thing to build was a better dashboard. Cleaner charts, more metrics, faster refresh. Every brand we spoke to already had three.
+
+And every brand had the same problem. They could see what happened. They couldn't say why, and they couldn't remember it.
+
+A dashboard describes yesterday. It resets every time the date range changes. The insight from last March doesn't show up in this March's planning, because nothing carried it forward.
+
+So we built for memory instead.
+
+Brand Memory keeps four kinds of knowledge for each brand, and updates them with every ad:
+→ the brand's voice and visual identity
+→ what each creative attribute has done for cost per order
+→ what has been tried, kept and dropped, and why
+→ what's changing in the category
+
+The point isn't storage. The point is that the next brief, the next script and the next review start from what the brand already knows.
+
+From dashboards to decisions. That's the whole shift.
+
+What's one thing your team has learned about your ads twice, because nobody wrote it down the first time?
+
+#BrandMemory #MarketingAnalytics #D2C

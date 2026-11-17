@@ -1,0 +1,31 @@
+{
+  "says": "A YouTube creator (Kallaway, who says he has passed a billion views) lays out the five-step order he writes every script in: packaging, outline, intro, body, outro. His one principle is that people keep watching while what they get is better than what they expected, and every step is built to open that gap. It is the most useful of the five videos because it gives a repeatable order of work, not tips.",
+  "points": [
+    "Fix the idea, the title and a rough thumbnail before writing; the first lines must confirm what the title promised and then go one better.",
+    "Write a bullet outline before the script and check each point is new to the viewer. If the points only repeat common advice, do not make the video.",
+    "The opening has four beats: say what the video is about, state the common belief, give your different take, then give proof and a plan.",
+    "Put the second-best point first and the best point second, so the viewer feels the value rising and stays for the third.",
+    "Explain each point in three parts: what it is, how to do it with an example, and why it matters to the whole.",
+    "Add a short re-hook between points ('that only works if you also...') because attention fades unless it is renewed.",
+    "End on a high note that sums up what the viewer learned; that is where likes, shares and re-watches come from.",
+    "Mention a free resource inside the point it solves, in one line, so it does not feel like an advert."
+  ],
+  "use": [
+    "Reel scripts (Instagram Wednesday reel, LinkedIn video): the Studio's reel prompt now follows this order and refuses to write scenes when nothing in the outline is new.",
+    "Decoded newsletter reels: the 'common belief, then what we found' opening fits Galvor's findings directly.",
+    "Video generation: the first frame must confirm the title, and the screen resets at each re-hook. Both are in the video brief.",
+    "Raj's Ad of the Week: open on what most teams believe about the ad, then what the data showed."
+  ],
+  "changes": [
+    "Review the existing reel scripts in Scripts against the four-beat opening before choosing them.",
+    "Reorder points in any script that puts its best point last.",
+    "Add the outline check to script review: name the one thing in this script the viewer has not heard before."
+  ],
+  "caution": [
+    "Written for long YouTube videos; a 30-second reel has room for one or two points, so the opening beats must be compressed.",
+    "The 'second-best first' rule and the music-album comparison are his own observation, not tested evidence.",
+    "He promotes his own script tool and email course inside the video."
+  ],
+  "by": "Claude terminal",
+  "at": "2026-11-16T17:27:13"
+}

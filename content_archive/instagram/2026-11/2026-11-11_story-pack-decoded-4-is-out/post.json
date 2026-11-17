@@ -1,0 +1,76 @@
+{
+  "id": "ig-2026-11-11-story-pack-decoded-4-is-out",
+  "slug": "story-pack-decoded-4-is-out",
+  "platform": "instagram",
+  "date": "2026-11-11",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Attract",
+  "format": "story",
+  "series": "",
+  "title": "Story pack: Decoded #4 is out",
+  "hook": "Decoded #4 is out",
+  "status": "designed",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Decoded #4: Fake Followers: 0%. Why Your Creator Still Won’t Sell. Link in bio.",
+  "first_comment": "",
+  "hashtags": [
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Instagram story frames announcing Decoded issue 4: Fake Followers: 0%. Why Your Creator Still Won’t Sell.",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Decoded · Issue #4",
+        "headline": "Fake Followers: 0%. Why Your Creator Still Won’t Sell",
+        "sub": "Out now. Link in bio."
+      },
+      {
+        "layout": "text",
+        "kicker": "One thing from this issue",
+        "headline": "Finding creators is solved. Meta alone now lists more than 10 million, and mos",
+        "body": ""
+      },
+      {
+        "layout": "cta",
+        "headline": "Get Decoded every Wednesday",
+        "sub": "Free. For D2C growth and creative teams.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Link in bio to subscribe"
+        ]
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png",
+    "slide_02.png",
+    "slide_03.png"
+  ],
+  "notes": "",
+  "approvals": [
+    {
+      "at": "2026-11-11T02:09:22",
+      "action": "Promo pack for Decoded #4"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T02:09:22",
+  "updated_at": "2026-11-11T15:25:45",
+  "reminders": {
+    "pre": "2026-11-11T12:00:21",
+    "due": "2026-11-11T12:30:17",
+    "missed": "2026-11-11T15:25:45"
+  },
+  "due": "Missed — post, reschedule or skip"
+}

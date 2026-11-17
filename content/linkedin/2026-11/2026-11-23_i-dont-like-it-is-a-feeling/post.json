@@ -1,0 +1,58 @@
+{
+  "id": "li-2026-11-23-i-dont-like-it-is-a-feeling",
+  "slug": "i-dont-like-it-is-a-feeling",
+  "platform": "linkedin",
+  "date": "2026-11-23",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Feedback & Approvals",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "“I don't like it”: three questions that turn it into a change",
+  "hook": "“I don't like it” is a feeling, and nobody can edit a feeling.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "“I don't like it” is a feeling, and nobody can edit a feeling.\nWhoever carries feedback from a brand to a creator has to turn it into a change first.\n\nPassed on as it is, that line costs a full round. The creator guesses, changes four things, and the one thing that bothered the reviewer is still in the cut.\n\nSo before feedback leaves my desk, I put three questions to it.\n\nWhere? The exact seconds. “The opening” is too loose. “0:02 to 0:05” is usable.\n\nWhat? The thing on screen or in the audio at that moment. A line, a shot, the music, the pace.\n\nCompared to what? Every “I don't like it” has a picture behind it of what the person expected. Ask for that picture: an older ad, a reference, a line in the brief.\n\nThen write the note as an instruction. “At 0:03, swap the product shot for the line to camera, like the reference in the brief.”\n\nIf I cannot write it that way, the feedback is not ready to send. I go back to the reviewer, not forward to the creator.\n\nA creator can act on a timestamp. A mood only gets a guess.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Text-only post, no image.",
+  "cta": "Follow Galvor (first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that these three questions (where, what, compared to what) are how he handles vague feedback, and whether he can add one real, anonymised note he has rewritten this way. The example instruction in the post is illustrative.\nReader: a brand or creative manager who passes client feedback to creators. Shape: how-to. Hook shape: punchy plus context. Numbers used: none (0:02, 0:03, 0:05 are example timestamps).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-23 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:15",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh21",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ig-2027-01-06-story-pack-decoded-12-lands-today",
+  "slug": "story-pack-decoded-12-lands-today",
+  "platform": "instagram",
+  "date": "2027-01-06",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "story",
+  "series": "",
+  "title": "Story pack: Decoded #12 lands today (The Learning Loop)",
+  "hook": "Most teams make ads and read dashboards. The learning either side gets skipped.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Story pack (no feed caption).\n\nAnnounces Decoded #12: The Learning Loop: How to Run a Fortnightly Creative Cycle. Frame 1 is the issue title. Frame 2 lists the six steps of one cycle. Frame 3 is the poll. Frame 4 sends people to the issue with a link sticker.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Four vertical story frames. Frame 1: Decoded #12, The Learning Loop: How to Run a Fortnightly Creative Cycle, out today. Frame 2 lists six steps in two weeks: decode, decide, brief, produce, run, review. Frame 3 is a poll asking how often your team reviews creative. Frame 4 asks people to read Decoded #12 free.",
+  "cta": "Tap the link sticker to read Decoded #12",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "New issue · Decoded #12",
+        "headline": "The *Learning Loop:* How to Run a Fortnightly Creative Cycle",
+        "sub": "Out today. Free to read."
+      },
+      {
+        "layout": "list",
+        "kicker": "Inside",
+        "headline": "One cycle, *six steps,* two weeks",
+        "items": [
+          "Decode: read what ran",
+          "Decide: pick what to test",
+          "Brief: write it down",
+          "Produce: make it and check it",
+          "Run: let it run",
+          "Review: thirty minutes"
+        ]
+      },
+      {
+        "layout": "poll",
+        "kicker": "Your turn",
+        "headline": "How often does your team *review creative?*",
+        "options": [
+          "Every week",
+          "Every two weeks",
+          "Every month",
+          "When costs jump"
+        ],
+        "sub": "Vote with the poll sticker."
+      },
+      {
+        "layout": "cta",
+        "headline": "Read Decoded *#12* free.",
+        "sub": "The review ends in four words: scale, cut, refresh, test.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Tap the link sticker"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Interactive ask: poll sticker on frame 3 with the four options as written. Frame 4: link sticker to Decoded #12; update the bio link the same morning. No statistics used. To confirm before posting: the final issue keeps the six steps and the thirty-minute review (taken from the current draft of #12).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:56:24",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-12 12:30)"
+    },
+    {
+      "at": "2026-11-11T01:58:28",
+      "action": "Moved to the issue day 2027-01-06 and renumbered ({'#8': '#12'})"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:23:54",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-118",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

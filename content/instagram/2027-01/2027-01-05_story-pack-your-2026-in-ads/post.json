@@ -1,0 +1,96 @@
+{
+  "id": "ig-2027-01-05-story-pack-your-2026-in-ads",
+  "slug": "story-pack-your-2026-in-ads",
+  "platform": "instagram",
+  "date": "2027-01-05",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "story",
+  "series": "",
+  "title": "Story pack: could you find your best 2026 ad by its file name?",
+  "hook": "Could you find your best ad of 2026 by its file name?",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Story pack (no feed caption).\n\nA quick tip for the first working week: name ads so they can be sorted later. Frame 2 is the poll. Frame 3 gives the five things to put in every ad name. Frame 4 says why it pays off.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Five vertical story frames. Frame 1 asks: could you find your best ad of 2026 by its file name? Frame 2 is a poll on what your ad names look like. Frame 3 lists five things to put in every ad name: buyer, reason to buy, first shot, format and month. Frame 4: a name you can sort is a lesson you can find. Frame 5: start with the next ad you launch.",
+  "cta": "Vote in the poll; screenshot the list",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Your 2026 in ads",
+        "headline": "Could you find your best ad of 2026 *by its file name?*",
+        "sub": "Tap to vote."
+      },
+      {
+        "layout": "poll",
+        "kicker": "Be honest",
+        "headline": "What do your ad names *look like?*",
+        "options": [
+          "final_v3_new",
+          "Date and format",
+          "A system we follow",
+          "Depends who made it"
+        ],
+        "sub": "Vote with the poll sticker."
+      },
+      {
+        "layout": "list",
+        "kicker": "Quick tip",
+        "headline": "Put *five things* in every ad name",
+        "items": [
+          "Buyer: who it is for",
+          "Reason to buy: the one promise",
+          "First shot: what opens the ad",
+          "Format: video, static or creator",
+          "Month: when it launched"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Why bother",
+        "headline": "A name you can *sort* is a lesson you can find",
+        "body": "Next December you can filter by reason to buy or by first shot and see what each one did.\n\nNo extra tool needed. Start with this week's launches."
+      },
+      {
+        "layout": "cta",
+        "headline": "Start with the *next ad* you launch.",
+        "sub": "Screenshot frame 3 for your team.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Screenshot the list"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Topic replaced: the old pack asked which format people scaled most and taught nothing to copy. New topic is a same-day how-to: an ad naming rule that makes the year's ads sortable. Interactive ask: poll sticker on frame 2 with the four options as written. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-05 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:59",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-29",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

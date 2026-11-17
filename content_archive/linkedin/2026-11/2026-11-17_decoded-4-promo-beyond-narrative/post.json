@@ -1,0 +1,56 @@
+{
+  "id": "li-2026-11-17-decoded-4-promo-beyond-narrative",
+  "slug": "decoded-4-promo-beyond-narrative",
+  "platform": "linkedin",
+  "date": "2026-11-17",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "text",
+  "series": "Decoded",
+  "title": "Decoded #4 promo: Beyond Narrative",
+  "hook": "Decoded by Galvor, Issue #4: Beyond Narrative. Out today.",
+  "status": "skipped",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Decoded by Galvor, Issue #4: Beyond Narrative. Out today.\n\nIn Issue #3 we showed why Meta now wants new buyers, not new looks. Thirty ads that only change the backdrop still speak to one buyer with one reason, so the system treats them as close to one ad.\n\nIssue #4 picks up from there.\n\nIf the story isn't the only thing that makes an ad new, what else is? This issue goes past the storyline and into the parts of an ad that teams rarely brief on purpose, and shows how to read them in your own account.\n\nWritten for founders, growth leads and creative teams who want fewer, better ads instead of more versions of the same one.\n\nLink in the first comment. If it's useful, forward it to the person who writes your briefs.",
+  "first_comment": "Read Decoded by Galvor, Issue #4: https://galvor.ai/newsletters/decode/",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#MetaAds",
+    "#PerformanceMarketing"
+  ],
+  "alt_text": "Cover card: Decoded by Galvor, Issue 4, Beyond Narrative. Out today.",
+  "cta": "Read the newsletter",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Decoded · Issue #4",
+        "headline": "Beyond *Narrative*",
+        "sub": "Out today. Link in the first comment."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "Skipped: Decoded is now posted weekly as a LinkedIn newsletter from the Galvor page on Wednesdays. Align the second paragraph with the final Issue #4 draft before posting.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:58:27",
+      "action": "Skipped: replaced by the weekly LinkedIn newsletter post"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:04",
+  "updated_at": "2026-11-11T01:58:27",
+  "topic_ref": "NL-4"
+}

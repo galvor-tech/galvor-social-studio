@@ -1,0 +1,20 @@
+A long-running ad has proved one thing: nobody switched it off.
+That is all the Meta Ad Library can tell you about it.
+
+It happens in most competitor reviews. Someone finds an ad that has been live for 60 days, and the room decides it must be working.
+
+The library shows that an ad is active and when it started. It does not show budget, results, or whether the ad sits in a test or a scaling campaign. An ad can stay live because it sells, because it is cheap to leave on, or because nobody tidied the account.
+
+So I treat the duration as a question, and look for three things around it.
+
+1. Versions. Did new cuts of the same ad appear over time? Then someone is still investing in it.
+
+2. What stayed fixed. If the opening holds while the offer and the ending change, the opening is the part they trust.
+
+3. What stopped. Similar ads from the same brand that ended early tell you more than the one that survived.
+
+Even then, what you have is a guess about their ad. The proof can only come from a test in your own account.
+
+It is why we never state a competitor's results from public data.
+
+#MetaAds #AdCreative #PerformanceMarketing

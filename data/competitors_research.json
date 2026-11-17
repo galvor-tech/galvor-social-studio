@@ -1,0 +1,974 @@
+{
+  "researched_on": "2026-11-16",
+  "method_note": "Public pages only, read on 16 Nov 2026. 'observed' = seen directly on a public page (follower counts, like counts, dated posts, published prices). 'vendor claim' = a number the company states about itself, not independently checked. 'inferred' = my reading of the evidence. No competitor ad spend, revenue or ROAS is stated or estimated. Ad-spend figures that appear in pricing fields are the vendors' published plan bands, not their own spend.",
+  "competitors": [
+    {
+      "name": "Hawky",
+      "url": "https://hawky.ai",
+      "tier": "direct",
+      "hq": "Bengaluru, Karnataka, India (LinkedIn company page lists Bengaluru South 560034; the website itself does not state an address)",
+      "one_liner": "India-built 'agentic performance marketing platform': creative analysis and competitor tracking, now wrapped inside AI agents that buy media, make creatives and run ad ops on Meta and Google.",
+      "positioning": "Homepage hero: \"AI Agents purpose-built to win Meta ads Google ads TikTok ads\" / \"Two always-on agents and a Copilot for performance marketers.\" About page: \"We're building agents, not dashboards.\" LinkedIn tagline: \"Agentic Performance Marketing Platform\".",
+      "target_customer": "Performance marketers first; also creative directors, agencies and marketing leadership. Logos shown on site: Puma, Amazon, Swiggy, Razorpay, Cars24, Bombay Shaving Company, The Man Company, Bhanzu, Snapdeal, TVS, WPP, Omnicom, Social Beat, Hiveminds. Vendor claim: \"Trusted by 100+ brands and agencies\".",
+      "pricing": "Not published. Three tiers (Dashboards, Ask, Auto-pilot), all 'Talk to sales'. Stated model: per brand, unlimited users, scales with creative volume and question volume; agents priced as 'subscription minimum plus KPI-tied upside'. Hawky's own comparison blog mentions a free 30-day Performance Agent pilot on one account.",
+      "features": [
+        "Creative Analysis: element-level breakdown of hooks, frames and CTAs; auto creative tagging",
+        "Competitor Intelligence: tracks competitor creatives; revamped 26 Mar 2026 with format/creative-type filters, saved views, shareable reports; influencer-collaboration ad detection added 15 Apr 2026",
+        "Performance Agent (live 6 May 2026): monitors campaigns, flags fatigue, pauses underperformers, scales winners, audit trail",
+        "Creative Agent (live 21 May 2026): generates creatives from past winners and competitor ads for approval; runs on schedule or on signals such as fatigue",
+        "Feather DB (27 May 2026): shared memory of briefs, creatives, competitor ads and performance data",
+        "Hawky Dashboards (24 Jun 2026) with Copilot root-cause analysis",
+        "Creative Studio (23 Jul 2026): chat-first image and video generator with launch to Meta and Google; vendor says it localises into 20+ languages",
+        "AdOps Agent / Campaign Management (13 Oct 2026): bulk ad launch from CSV or Google Sheet, rule agents, cross-account campaign copy, rollback",
+        "Command Center: agent recommendations become one-click approvable tasks (8 Apr 2026)",
+        "PM-AGI: open-source benchmark of 494 performance-marketing questions for AI models (13 May 2026)",
+        "Copilot for plain-English account questions; Slack and Teams integration on higher tiers"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/hawky-ai/",
+          "followers": "4,554 (observed 16 Nov 2026); 28 employees listed",
+          "cadence": "About 2 to 3 posts a week in Oct 2026 (8 visible posts between 6 Oct and 29 Oct 2026); no visible post between 29 Oct and 16 Nov on the public page",
+          "what_they_post": "Mostly Velocity podcast guest clips with a bold pull-quote as the hook (e.g. \"Volume isn't a creative strategy.\"), product launch posts (AdOps Agent), and occasional memes about Ads Manager",
+          "what_works": "Podcast pull-quote posts drew 10 to 24 likes each; the best visible post (Summer Liu on AI-made ads, 22 Oct 2026) had 24 likes. Product posts 14 to 17 likes. The meme post got 2. Engagement is low in absolute terms for a 4.5k page.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Podcast (Velocity: Performance Marketing Podcast)",
+          "url": "https://hawky.ai/podcast",
+          "followers": "not found",
+          "cadence": "22 episodes listed; episode dates not shown on the page. LinkedIn clips suggest roughly one new guest a week in Oct 2026",
+          "what_they_post": "Interviews with marketing leaders. Early episodes are Indian operators (Social Beat's Vikas Chawla, Cult Store, Sweet Karam Coffee, Zee Kannada); recent ones are US/global names (Sarah Levinger, AJ Wilcox, Patrick Gilbert, Anthony Higman)",
+          "what_works": "The podcast is the main feeder for LinkedIn content and gives Hawky borrowed reach from guests. The guest list has shifted from India to the US, which reads as a deliberate move to a global audience.",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "YouTube",
+          "url": "https://www.youtube.com/@hawkyai-yt",
+          "followers": "90 subscribers, 112 videos (observed 16 Nov 2026)",
+          "cadence": "not found (per-video dates not readable)",
+          "what_they_post": "Podcast episodes and product videos (titles not individually verified)",
+          "what_works": "Not working yet: 112 videos for 90 subscribers.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Blog / SEO",
+          "url": "https://hawky.ai/blog",
+          "followers": "171 posts listed in the blog table view",
+          "cadence": "Bursty batches: about 11 posts 14 to 24 Jul 2026, 13 posts on 17 to 18 Sep 2026, then one post on 13 Oct 2026",
+          "what_they_post": "Search-led explainers (Meta/TikTok/Google ads guides, benchmarks, 'what is' posts), 'best tools' and 'alternatives' comparisons that rank Hawky first, feature launches, and a 'Decoding <Brand>'s Ad Creative Strategy' teardown series (22 titles from Sep 2025 to 16 Jul 2026, mostly Indian brands such as boAt, Nykaa, Zomato, The Whole Truth, Bombay Shaving Company)",
+          "what_works": "Hawky's own posts appear in search results for 'best creative analytics platforms for D2C brands India'. The Decoding series slowed sharply: 9 teardowns in Nov to Dec 2025, only 7 across Jan to Jul 2026, none seen after 16 Jul 2026.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Free tools, glossary, ad gallery",
+          "url": "https://hawky.ai/tools",
+          "followers": "not applicable",
+          "cadence": "Evergreen",
+          "what_they_post": "14 free tools: break-even ROAS, ROAS, CPM, CPA, CAC calculators, engagement-rate calculator, Facebook ad cost forecaster, ad mockup generators for Facebook, Instagram, LinkedIn, Google, Pinterest, TikTok, and an ad compliance checker. Plus a 100+ term glossary and an Ad Gallery.",
+          "what_works": "Standard SEO lead-capture play; no usage numbers published.",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "Comparison and alternatives pages",
+          "url": "https://hawky.ai/llms.txt",
+          "followers": "not applicable",
+          "cadence": "Evergreen, prices re-read Sep to Oct 2026 per the pages",
+          "what_they_post": "Hawky-vs pages against 30+ tools including Motion, Pixis, Superads, Foreplay, Atria, Madgicx, VidMob, Marpipe, Pencil, Creatify, Canva and Triple Whale; an llms.txt file summarising the company for AI assistants",
+          "what_works": "Built to be picked up by AI answers and comparison searches. Effect not measurable from outside.",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "Instagram",
+          "url": "not found",
+          "followers": "not found",
+          "cadence": "not found",
+          "what_they_post": "No Instagram link in the site footer (only YouTube and LinkedIn are linked)",
+          "what_works": "not found",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Newsletter",
+          "url": "not found",
+          "followers": "not found",
+          "cadence": "not found",
+          "what_they_post": "No newsletter signup seen on the blog; the only form is 'Book Demo' (asks work email, phone, role, team size, monthly ad spend)",
+          "what_works": "not found",
+          "evidence": "observed"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2026-03-26", "what": "Competitor Analysis revamp (filters by format and creative type, saved views, shareable reports)", "source": "https://hawky.ai/changelog"},
+        {"date": "2026-04-08", "what": "Agents push recommended actions into Command Center for one-click approval and execution in Meta", "source": "https://hawky.ai/changelog"},
+        {"date": "2026-04-15", "what": "Influencer collaboration ad tracking inside Competitor Analysis", "source": "https://hawky.ai/changelog"},
+        {"date": "2026-05-06", "what": "Performance Agent live", "source": "https://hawky.ai/changelog"},
+        {"date": "2026-05-13", "what": "PM-AGI open-source benchmark (494 questions, 7 models)", "source": "https://hawky.ai/changelog"},
+        {"date": "2026-05-21", "what": "Creative Agent live", "source": "https://hawky.ai/changelog"},
+        {"date": "2026-05-27", "what": "Feather DB memory engine", "source": "https://hawky.ai/changelog"},
+        {"date": "2026-06-24", "what": "Hawky Dashboards launched", "source": "https://hawky.ai/blog/hawky-dashboards"},
+        {"date": "2026-07-23", "what": "Creative Studio live (image and video generation, launch to Meta and Google)", "source": "https://hawky.ai/changelog"},
+        {"date": "2026-10-13", "what": "AdOps Agent launched; vendor says 100,000+ ads launched with beta customers", "source": "https://hawky.ai/blog/introducing-hawky-adops-agent"},
+        {"date": "2026 (pivot, whole year)", "what": "Repositioned from 'creative intelligence platform' (wording still on its G2 listing) to 'agentic performance marketing platform' (homepage and LinkedIn). Inferred from the two descriptions side by side.", "source": "https://www.g2.com/products/hawky-ai/reviews"}
+      ],
+      "strengths": [
+        "Strong Indian logo wall and named testimonials (Cars24, Bombay Shaving Company, The Man Company, Instamart, Hiveminds)",
+        "Ships fast: about ten dated releases between Mar and Oct 2026",
+        "Covers the full loop in one product: analyse, generate, launch, optimise",
+        "India-aware content (COD, regional-language creative cuts, Diwali examples) in its comparison posts",
+        "Big SEO surface: 171 posts, 30+ comparison pages, 14 free tools, glossary, llms.txt",
+        "Podcast gives a steady stream of guest-led LinkedIn content"
+      ],
+      "gaps_for_galvor": [
+        "Hawky has moved its story to media-buying agents and ad ops. 'Why this creative works' is now one module among many, which leaves the pure creative-intelligence position open (inferred from homepage vs G2 wording)",
+        "Nothing on its homepage, pricing or changelog mentions reading buyer comments or reviews; its analysis is described as element-level (hooks, frames, CTAs) on the ad itself. Voice-of-customer is a clear Galvor difference (absence observed on pages read; not proof the feature does not exist)",
+        "The Decoding brand-teardown series has gone quiet since 16 Jul 2026, so a weekly Decoded has no active rival in India right now",
+        "No newsletter and no Instagram presence found",
+        "Social proof on review sites is thin: G2 shows very few reviews (search snippets say 2 reviews; the seller page showed 0)",
+        "Pricing is hidden and sales-led with a long demo form; a clear published price or a self-serve first look would stand out",
+        "LinkedIn engagement is low (best visible post 24 likes) and the feed is mostly guest clips, not original data or founder point of view",
+        "Agents that change budgets and launch ads ask for a lot of trust; Galvor can be the read-only, low-risk choice"
+      ],
+      "ideas_to_borrow": [
+        "Pull-quote hook from a guest as the first line of a LinkedIn post",
+        "A dated public changelog: it makes the product look alive",
+        "Free calculators and ad mockup tools as search entry points",
+        "An llms.txt file and honest comparison pages so AI assistants describe Galvor correctly",
+        "Named-customer case studies with one clear number each"
+      ],
+      "sources": [
+        "https://hawky.ai/",
+        "https://hawky.ai/pricing",
+        "https://hawky.ai/about",
+        "https://hawky.ai/changelog",
+        "https://hawky.ai/blog",
+        "https://hawky.ai/blog?view=table",
+        "https://hawky.ai/blog/introducing-hawky-adops-agent",
+        "https://hawky.ai/blog/best-creative-analytics-platforms-d2c-brands-india",
+        "https://hawky.ai/tools",
+        "https://hawky.ai/podcast",
+        "https://hawky.ai/case-study/hiveminds",
+        "https://hawky.ai/llms.txt",
+        "https://hawky.ai/authors/surender-selvaraj",
+        "https://www.linkedin.com/company/hawky-ai/",
+        "https://www.youtube.com/@hawkyai-yt",
+        "https://www.g2.com/products/hawky-ai/reviews",
+        "https://www.g2.com/sellers/hawky-ai"
+      ],
+      "unverified": [
+        "Funding and investors: not found in any source",
+        "Founding year: not found",
+        "Founder names are inconsistent across Hawky's own pages: About page says 'Surender Raj, Founder'; author page says 'Surender Selvaraj, co-founder and CEO'. A third-party profile (echai.ventures) lists DJ Sri Vigneshwar as co-founder; his exact title was seen only in a search snippet",
+        "G2 rating: page blocked direct reading; search snippets disagree (2 reviews at 5.0 vs 0 reviews)",
+        "Founder-led LinkedIn posting: personal profiles could not be read without login",
+        "Case-study results (lower CPA/CPL, hours saved) are vendor claims with no method shown",
+        "'15,284,600 ads analyzed' counter and '100+ brands' are vendor claims",
+        "Whether the podcast is published on Spotify/Apple: not found"
+      ]
+    },
+    {
+      "name": "AdGraam",
+      "url": "https://adgraam.com",
+      "tier": "adjacent",
+      "hq": "Karnataka, India (Adgraam Private Limited, incorporated 2026 per CIN on site; press reports say Bengaluru)",
+      "one_liner": "New India-based AI ad platform for D2C: generate static and video ads from a product URL or a competitor's ad, with a Meta ads analytics add-on.",
+      "positioning": "Site: \"AdGraam is an AI ad platform for D2C and e-commerce brands.\" LinkedIn: \"Transforming your products into high-ROAS video ads tested, optimized, and ready to scale without agencies or guesswork.\" Press describes it as an \"AI-powered creative intelligence platform for performance marketing\".",
+      "target_customer": "Performance marketers, creative strategists, founders and agencies at D2C and e-commerce brands. Brands named on site as users: Powerlook, The Indian Garage Co, Bewakoof, Kapiva, Neeman's, Traya, Deconstruct, Anveshan, Beardo, Kushal's and others (vendor claim, names only).",
+      "pricing": "Published, in rupees: free to start with signup credits; Starter INR 999 for 100 credits (one-time); Pro INR 9,000 for 1,000 credits (one-time); plus 18% GST; credits never expire.",
+      "features": [
+        "Creative Generator: product URL to static ads in multiple sizes",
+        "Copy Ads: rebuilds a working competitor video ad's structure for your product",
+        "Playground: 200+ image, video and audio models behind one login, price shown before each run",
+        "Flow Builder: visual canvas to automate ad production",
+        "Video Agent: chat-based script and video production",
+        "Meta Ads Analytics: ROAS, CTR, hook and hold rates, and a scaling score per campaign",
+        "Managed studio service alongside self-serve (per press)"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/adgraam",
+          "followers": "222 (observed 16 Nov 2026); 6 employees listed",
+          "cadence": "2 to 3 posts a week (9 visible posts from 23 Oct to 16 Nov 2026)",
+          "what_they_post": "Short product-pitch posts that open with a question ('What if creating video ads didn't require influencers...?')",
+          "what_works": "Low engagement overall (1 to 13 likes). The best post was a real-life story: making an ad at the airport before boarding (13 likes, 27 Oct 2026). Generic pitch posts got 1 to 8.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Instagram",
+          "url": "https://instagram.com/adgraam",
+          "followers": "not found",
+          "cadence": "not found",
+          "what_they_post": "not found",
+          "what_works": "not found",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Website content and free tools",
+          "url": "https://adgraam.com",
+          "followers": "not applicable",
+          "cadence": "not found",
+          "what_they_post": "Blog, 'AI News Desk', Compare and Alternatives pages, Ad Library, free ad tools (mockups, safe-zone checker, resizer, ROAS/CPM/CPC/CPA/CTR calculators), free invitation maker",
+          "what_works": "Too early to tell; no traction signals found.",
+          "evidence": "inferred"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2026", "what": "Company founded (founders reported as Ashish Verma, Saad Mohammad, Sahil Bhatnagar, Saksham)", "source": "https://www.thesaasnews.com/news/adgraam-raises-3cr-seed/"},
+        {"date": "2026-10", "what": "Raised INR 3 crore seed led by Umair Mohammad (co-founder, Nitro Commerce); funds for team, sales and marketing, international expansion", "source": "https://www.thesaasnews.com/news/adgraam-raises-3cr-seed/"}
+      ],
+      "strengths": [
+        "Rupee pricing with a very low entry point and no subscription",
+        "Recognisable Indian D2C names listed as users",
+        "Fresh funding and an investor from the Indian D2C tooling world"
+      ],
+      "gaps_for_galvor": [
+        "It is a making tool first; the analytics is a small Meta dashboard. It does not explain which story or reason to buy wins",
+        "No buyer comment or review reading mentioned",
+        "Message is inconsistent across site, LinkedIn and press (ad platform vs video ads vs creative intelligence)",
+        "Tiny audience (222 LinkedIn followers) and no testimonials or case studies on the site"
+      ],
+      "ideas_to_borrow": [
+        "Publishing a rupee price openly; almost nobody else in this list does",
+        "Real 'we did this in 15 minutes' stories outperform feature pitches on their page"
+      ],
+      "sources": [
+        "https://adgraam.com",
+        "https://www.linkedin.com/company/adgraam",
+        "https://www.thesaasnews.com/news/adgraam-raises-3cr-seed/",
+        "https://dealroom.co/news/162919-adgraam-raises-315-000-seed-round-for-ai-ad-creative-platform/"
+      ],
+      "unverified": [
+        "Seed amount in dollars differs by tracker; only the INR 3 crore figure is used here",
+        "City (Bengaluru) comes from secondary funding trackers; the site only shows a Karnataka registration",
+        "Whether the listed brands are paying customers: not found",
+        "Instagram follower count: not found"
+      ]
+    },
+    {
+      "name": "Segwise",
+      "url": "https://segwise.ai",
+      "tier": "adjacent",
+      "hq": "Registered in Lewes, Delaware, US (LinkedIn); described in Indian press as a Bengaluru-based startup",
+      "one_liner": "AI creative tagging and analytics across 15+ ad networks, started in mobile games and now also selling to DTC brands, with ad generation on top.",
+      "positioning": "\"Turn your creative data into your next winning ads.\" / \"Segwise's AI creative analytics tags and analyzes every creative you run, finds your winning creative patterns\" and helps turn them into on-brand statics, videos and playables.",
+      "target_customer": "Mobile games, DTC brands, subscription apps, agencies. Logos include Indian D2C names LittleJoys, ManMatters, beBodywise and Namma Yatri alongside game studios (PeopleFun, Lion Studios).",
+      "pricing": "Published: Startup $250/month (under $50K monthly ad spend, limited eligibility, by application); Growth $499/month (up to $250K monthly ad spend); Pro custom ($250K to $500K); Enterprise custom ($500K+). 7-day free trial, no credit card. Every feature on every plan, unlimited seats; generation uses tokens (200 complimentary per month).",
+      "features": [
+        "AI tagging of every creative element (hook, benefit, visual, CTA) on every format",
+        "Analytics across 15+ ad networks and mobile measurement partners",
+        "Creative Strategy Agent chat",
+        "Fatigue and new-creative alerts",
+        "Competitor ads from Meta, TikTok, LinkedIn and Google ad libraries",
+        "Static, video, playable and CTV ad generation; storyboards and briefs",
+        "Pre-flight testing",
+        "MCP integration",
+        "Free tools: Video to Playable, Playable Ad Tester, Creative Tag Generator"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/segwise-ai",
+          "followers": "16,176 (observed 16 Nov 2026)",
+          "cadence": "Near daily, sometimes 3 posts in a day (e.g. 23 Oct 2026)",
+          "what_they_post": "Templated answer-style posts that all open 'If you want to know X, the answer is Y', plus event announcements (Business of Apps, Berlin)",
+          "what_works": "Not much: the templated posts got 0 to 4 likes each; the event post got 10. A large follower number with very low engagement per post.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Blog / SEO",
+          "url": "https://segwise.ai/blog",
+          "followers": "not applicable",
+          "cadence": "Batch publishing: 10 posts on 2 Nov 2026 and 3 on 3 Nov 2026; mostly one author (Angad Singh), founders also bylined",
+          "what_they_post": "'Segwise vs X' comparisons, 'best alternatives' roundups, platform how-tos for Meta, Google, Unity, AppLovin; markdown copies of posts for AI crawlers",
+          "what_works": "Segwise's own roundups dominated the search results for 'best creative analytics tools for DTC brands 2026' in my search (7 of the top 20 links). This is the clearest case in the set of volume SEO winning the category query.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "YouTube",
+          "url": "https://www.youtube.com/@segwise_ai",
+          "followers": "110 subscribers, 74 videos (observed 16 Nov 2026)",
+          "cadence": "not found",
+          "what_they_post": "not found",
+          "what_works": "Not working: tiny audience.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Events",
+          "url": "https://www.linkedin.com/company/segwise-ai",
+          "followers": "not applicable",
+          "cadence": "Occasional",
+          "what_they_post": "Attending Business of Apps in Berlin (post dated 3 Nov 2026)",
+          "what_works": "not found",
+          "evidence": "observed"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2024-02", "what": "Raised $1.6M pre-seed led by Powerhouse Ventures with Antler India, Blume and others (background, not 2026)", "source": "https://www.entrepreneur.com/en-in/news-and-trends/ai-powered-observability-platform-segwise-raises-usd-16mn/469764"},
+        {"date": "2026 (ongoing)", "what": "Pushing from mobile games into DTC: dedicated DTC pages and a run of DTC-targeted roundup posts", "source": "https://segwise.ai/blog/best-creative-intelligence-tools-dtc-brands"},
+        {"date": "2026-11-02", "what": "Published 10 blog posts in one day (SEO batch)", "source": "https://segwise.ai/blog"}
+      ],
+      "strengths": [
+        "Clear, published, relatively low pricing with all features on every plan",
+        "Widest network coverage in this set (15+ networks, MMPs)",
+        "Owns the 'best creative analytics tools' search results through sheer volume",
+        "Indian D2C logos already on the homepage"
+      ],
+      "gaps_for_galvor": [
+        "Roots and most content are mobile gaming (CPI, playables, Unity, AppLovin); DTC is a second audience",
+        "Tags describe what is in the ad (hook, visual, CTA); no mention of buyer comments or reviews",
+        "LinkedIn content is machine-like and gets almost no engagement, so the human, story-led lane is open",
+        "No newsletter or community found"
+      ],
+      "ideas_to_borrow": [
+        "Publish 'Galvor vs X' and 'best tools for Indian D2C' pages; this query space is currently owned by vendors who simply wrote the pages",
+        "A free 'Creative Tag Generator' style tool that shows the product's core idea in 30 seconds",
+        "All features on every plan as a simple pricing message"
+      ],
+      "sources": [
+        "https://segwise.ai",
+        "https://segwise.ai/pricing",
+        "https://segwise.ai/blog",
+        "https://segwise.ai/blog/best-creative-intelligence-tools-dtc-brands",
+        "https://www.linkedin.com/company/segwise-ai",
+        "https://www.youtube.com/@segwise_ai",
+        "https://www.entrepreneur.com/en-in/news-and-trends/ai-powered-observability-platform-segwise-raises-usd-16mn/469764",
+        "https://inc42.com/buzz/segwise-bags-funding-to-offer-ai-observability-solutions-for-product-growth"
+      ],
+      "unverified": [
+        "Any 2026 funding: not found",
+        "Where the team actually sits (Bengaluru vs US): sources conflict",
+        "Outcome claims on the homepage (higher creative returns, hours saved) are vendor claims",
+        "Customer count: not published"
+      ]
+    },
+    {
+      "name": "Motion (now also selling as Runneth)",
+      "url": "https://motionapp.com",
+      "tier": "adjacent",
+      "hq": "Toronto, Canada (LinkedIn)",
+      "one_liner": "The category leader in creative analytics for DTC brands and agencies; in 2026 it added Runneth, an AI marketing agent that lives in Slack, and moved its blog and release pages to runneth.com.",
+      "positioning": "Motion: \"Make ads that win (without getting lucky)\" / \"Motion's AI-powered creative analytics helps you know what's working, why it's working, and the exact ads to make next.\" Runneth: \"The agent that gets marketing\" / \"Runneth is the AI teammate for the world's best marketers.\"",
+      "target_customer": "Growth and creative teams, creative strategists, media buyers at DTC brands and agencies (US-centric logos: True Classic, HexClad, Vuori, AG1, Jones Road, Ridge). Vendor claim: \"Trusted by 2,100 teams\".",
+      "pricing": "Published: Starter $999/month for up to $50k monthly ad spend (unlimited seats and ad accounts); Pro custom (over $50k); Growth custom (over $125k). Free trial offered, length not stated. Runneth MCP page: free 14-day trial, then \"starts at $999/month\".",
+      "features": [
+        "Visual-first creative reports for Meta, TikTok, YouTube and LinkedIn ads",
+        "AI tagging by asset type, format, hook and angle",
+        "Creative grouping, momentum tracking, comparative reports, 200+ metrics",
+        "Frame-by-frame video analysis",
+        "AI agent tasks: competitor ad tracking, pre-publish ad analysis, one-click weekly ad retro",
+        "Runneth: social listening on creators, keywords and brands; concepting from customer feedback, reviews and comments; static ad generation; creator briefing and QA; ad naming and launching; reports",
+        "Runneth MCP (early access, endpoint live since 15 Oct 2026)",
+        "Free Creative Research / Creative Strategy Library",
+        "Integrations: Northbeam, GA4, Slack"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/motion1/",
+          "followers": "65,808 (observed 16 Nov 2026); 106 employees listed",
+          "cadence": "Roughly every working day (10 visible posts from 28 Oct to 13 Nov 2026)",
+          "what_they_post": "Practitioner workflows credited to named people, culture and humour posts, memes, report launches, event recaps, product news",
+          "what_works": "Culture/humour and practitioner posts win by a wide margin: a team-culture post on 2 Nov 2026 had 3,154 likes; a spreadsheet meme pushing the Creative Strategy Library had 538 (29 Oct); a named practitioner's Reddit AI ad workflow had 316 (9 Nov). Product, report and event posts got 14 to 32 likes (e.g. Runneth MCP launch: 14).",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Newsletter (Thumbstop)",
+          "url": "https://runneth.com/blog",
+          "followers": "not found (subscriber count not shown)",
+          "cadence": "Weekly, \"every Sunday\" per the site",
+          "what_they_post": "Creative strategy essays with an ad-psychology angle (e.g. 'Why do some ads resist creative fatigue?', 'Two-sided advertising: make better ads by admitting your flaws')",
+          "what_works": "It is the most common label in the blog archive, so the newsletter doubles as the blog. Reach not measurable from outside.",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "Research reports",
+          "url": "https://motionapp.com/library/research/creative-benchmarks-2026/",
+          "followers": "not applicable",
+          "cadence": "Annual benchmarks plus extra reports; a '2027 report' was being promoted on LinkedIn on 13 Nov 2026",
+          "what_they_post": "Creative Benchmarks report built from customer account data; a creative strategist salary/state-of survey (LinkedIn post says 1,195 surveyed); AI + Creative Strategy Pulse Report; free guide 'Becoming a Creative Strategist'",
+          "what_works": "The 2026 benchmarks report was picked up by third-party press (Net Influencer) and is cited by other vendors' blogs. Original data is their strongest earned-media asset.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Events",
+          "url": "https://motionapp.com/events/2026-creative-trends",
+          "followers": "not applicable",
+          "cadence": "Several a year, virtual and in person",
+          "what_they_post": "Virtual events (Creative Strategy Bootcamp, Creative Trends), in-person 'Chief Marketer SF' (promoted as 250+ marketers, early Nov 2026), talks recut into a library of short clips",
+          "what_works": "Every event is recycled into dated short talks in the library and into LinkedIn speaker posts. Attendance numbers not verified.",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "YouTube",
+          "url": "https://www.youtube.com/@MotionCreativeAnalytics",
+          "followers": "18.1K subscribers, 397 videos (observed 16 Nov 2026)",
+          "cadence": "not found",
+          "what_they_post": "Event talks, interviews and product demos (per the on-site library)",
+          "what_works": "Largest YouTube audience in this set.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Instagram",
+          "url": "https://instagram.com/motionapp_/",
+          "followers": "not found",
+          "cadence": "not found",
+          "what_they_post": "not found",
+          "what_works": "not found",
+          "evidence": "observed"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2024-09", "what": "Raised $30M Series B led by Inovia (latest known round; background)", "source": "https://betakit.com/motion-closes-30-million-usd-series-b-in-bid-to-become-command-centre-for-creative-strategists/"},
+        {"date": "2026-06-24", "what": "Public launch of Runneth, an AI creative strategy teammate; CEO post says it was already live for 2,200+ customers (vendor claim; the year is taken from a talk recorded Jun 2026)", "source": "https://runneth.com/blog/ai-brain-marketing-runneth"},
+        {"date": "2026-10-15", "what": "Runneth MCP production endpoint live (early access); announced on LinkedIn 6 Nov 2026", "source": "https://runneth.com/mcp"},
+        {"date": "2026-11 (observed)", "what": "motionapp.com/blog and /releases now redirect to runneth.com, signalling the agent is becoming the lead brand (inferred)", "source": "https://runneth.com/blog"},
+        {"date": "2026-11", "what": "Hosted Chief Marketer SF in-person event; promoting a new 2027 benchmarks report", "source": "https://www.linkedin.com/company/motion1/"}
+      ],
+      "strengths": [
+        "Biggest audience and brand in the category (65.8k LinkedIn, 18.1k YouTube)",
+        "Owns the 'creative strategist' identity through reports, guides, events and a weekly newsletter",
+        "Original benchmark data that press and competitors cite",
+        "Runneth already says it concepts from customer feedback, reviews and comments, which is closest to Galvor's buyer-voice angle"
+      ],
+      "gaps_for_galvor": [
+        "Entry price is $999/month, far above what most Indian D2C teams will pay; no rupee pricing or India content seen",
+        "Logos, events and benchmarks are US/Canada-centric; no Indian brand examples",
+        "The Motion-to-Runneth shift may confuse buyers who just want to know which creative pattern wins",
+        "Even with 65k followers, their product and report posts get only 14 to 32 likes; reach comes from humour and named practitioners, which a smaller brand can copy"
+      ],
+      "ideas_to_borrow": [
+        "Credit a named practitioner's workflow in the post (their 316-like post) instead of posting as the brand",
+        "One annual India D2C creative benchmarks report built from Galvor's own tagged data",
+        "A weekly newsletter that is also the blog (Decoded already fits this)",
+        "Cut every webinar or talk into short dated clips",
+        "Light, self-aware humour posts; they out-perform product news by 20 to 100 times on Motion's page"
+      ],
+      "sources": [
+        "https://motionapp.com",
+        "https://motionapp.com/pricing",
+        "https://runneth.com",
+        "https://runneth.com/blog",
+        "https://runneth.com/blog/ai-brain-marketing-runneth",
+        "https://runneth.com/mcp",
+        "https://www.linkedin.com/company/motion1/",
+        "https://www.youtube.com/@MotionCreativeAnalytics",
+        "https://motionapp.com/library/research/creative-benchmarks-2026/",
+        "https://motionapp.com/library/talk/introducing-runneth-by-motion/",
+        "https://www.netinfluencer.com/study-of-1-3b-in-meta-ad-spend-suggests-creative-output-not-creative-intuition-drives-results/",
+        "https://betakit.com/motion-closes-30-million-usd-series-b-in-bid-to-become-command-centre-for-creative-strategists/"
+      ],
+      "unverified": [
+        "Whether Motion is formally renaming to Runneth: no announcement found; only the redirects and shared footer were seen",
+        "Thumbstop subscriber count: not found",
+        "Instagram followers: not found",
+        "Any 2026 funding: not found",
+        "Pro and Growth prices: not published",
+        "Third-party pages quote older or different Starter prices ($750); the live pricing page says $999"
+      ]
+    },
+    {
+      "name": "Atria",
+      "url": "https://www.tryatria.com",
+      "tier": "adjacent",
+      "hq": "San Francisco, US (LinkedIn)",
+      "one_liner": "All-in-one Meta/TikTok ad workflow: ad library, analytics, AI teammate 'Raya' that finds winning hooks and personas, builds briefs, makes ads and bulk-launches them.",
+      "positioning": "\"Your creative engine that drives winning ads\" / \"Built by Meta ad experts. Our agents know what's working, catch what's missing, and tell you exactly what ads to make next.\"",
+      "target_customer": "Agency owners and brand owners; users named as creative strategists, media buyers, copywriters, leadership. Logos: Kitsch, Blenders, Ipsy, Loop Earplugs, Everyday Dose. Vendor claim: \"Trusted by 20,000+ teams\".",
+      "pricing": "Published (annual billing): Core $129/month, Plus $343/month, Business $959/month, Enterprise custom. Shown as 38 to 41% off list prices of $219 / $549 / $1,549. Free plan, no credit card. Seats 5 / 8 / 15 with +$20 per extra seat.",
+      "features": [
+        "Raya AI teammate: analyses brand and ad data, adds competitor and market intel, identifies winning hooks and personas, builds briefs, grades ads",
+        "Research: competitor intel and customer review mining",
+        "Ad Maker (generation) and batch upload / one-click launch to Meta and TikTok",
+        "Analytics and visual reports",
+        "Ad library (vendor says 100M+ Meta and TikTok ads)",
+        "Chrome extension, Slack integration",
+        "Atria MCP and REST API (labelled 'Hot' in nav)"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/tryatria/",
+          "followers": "3,319 (observed 16 Nov 2026)",
+          "cadence": "Sporadic: a burst of 4 posts on 24 Feb 2026 (Raya launch week), then the next visible post is 3 Nov 2026",
+          "what_they_post": "Launch-week product posts; one ad teardown ('This is the #1 ad out of 1,231 for a UK turmeric brand')",
+          "what_works": "Nothing stands out: 1 to 5 likes per post. LinkedIn is clearly not their growth channel.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Blog / SEO",
+          "url": "https://www.tryatria.com/blog",
+          "followers": "not applicable",
+          "cadence": "About one post a day on average, in bursts (6 posts on 6 Nov 2026; about 60 posts since 28 Aug 2026)",
+          "what_they_post": "Meta ads how-tos, tool reviews and 'X vs Y' / 'alternatives' posts written in first person ('I ran one ad brief through both')",
+          "what_works": "Volume SEO plus alternatives pages in the footer (vs Foreplay, Motion, Ads Manager). Effect not measurable from outside.",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "Affiliates and pricing promos",
+          "url": "https://www.tryatria.com/pricing",
+          "followers": "not applicable",
+          "cadence": "Always on",
+          "what_they_post": "Affiliate program in main nav; permanent-looking '41% OFF' badge on pricing; free plan; free migration offer",
+          "what_works": "Vendor claims 20,000+ teams and a 4.9 G2 rating; with weak organic social, growth most likely comes from free plan, affiliates and search (inferred).",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "X (Twitter)",
+          "url": "https://twitter.com/tryatria_ai",
+          "followers": "not found",
+          "cadence": "not found",
+          "what_they_post": "not found",
+          "what_works": "not found",
+          "evidence": "observed"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2026-02-24", "what": "Launch week for Raya, the AI teammate", "source": "https://www.linkedin.com/company/tryatria/"},
+        {"date": "2026 (date not found)", "what": "Atria MCP and REST API released and promoted site-wide", "source": "https://www.tryatria.com"}
+      ],
+      "strengths": [
+        "Lowest-priced serious all-in-one with a free plan",
+        "Already mines customer reviews as a research input",
+        "Covers research to launch in one tool",
+        "Trust badges (Meta Business Partner, SOC 2 Type II)"
+      ],
+      "gaps_for_galvor": [
+        "No India presence: US logos, dollar pricing, no Indian examples",
+        "Review mining is a research feature for briefs, not tied to reading comments on the brand's own ads",
+        "Almost no voice on LinkedIn; no newsletter, community or original research found",
+        "Breadth (library, maker, launcher, analytics) means the 'why it works' story is thin"
+      ],
+      "ideas_to_borrow": [
+        "First-person tested comparisons ('I ran one brief through both') read as more honest than listicles",
+        "A free plan or free first report to remove the demo step",
+        "Teardown hook built on a single surprising ad ('the #1 ad out of 1,231')"
+      ],
+      "sources": [
+        "https://www.tryatria.com",
+        "https://www.tryatria.com/pricing",
+        "https://www.tryatria.com/blog",
+        "https://www.linkedin.com/company/tryatria/",
+        "https://www.caplight.com/company/tryatria"
+      ],
+      "unverified": [
+        "Funding: trackers disagree (about $1.6M to $2.1M seed, 2023); no 2026 round found",
+        "MCP launch date: not found",
+        "G2 rating of 4.9 and '20,000+ teams' are vendor claims",
+        "YouTube and Instagram presence: not found"
+      ]
+    },
+    {
+      "name": "Foreplay",
+      "url": "https://www.foreplay.co",
+      "tier": "adjacent",
+      "hq": "not found (LinkedIn page does not list a location)",
+      "one_liner": "Ad swipe-file and competitor-tracking tool that has grown into a full workflow: save ads, track competitors (Spyder), analyse your own creative (Lens), write briefs.",
+      "positioning": "\"The Complete Winning Ad Workflow\" / \"Everything you need to predictably make ads that convert\".",
+      "target_customer": "E-commerce brands, agencies, mobile apps and gaming, B2B SaaS, info/education businesses, freelancers and creators. Vendor claim: \"Powering +10,000 Social Ad Teams & Agencies\".",
+      "pricing": "Published: Basic $59/month (1 user), Workflow $175/month (5 users), Agency $459/month (10 users), Enterprise custom; annual about 15% lower ($49 / $149 / $389). 7-day free trial (card required), 14-day money-back guarantee. No ad-spend-based pricing.",
+      "features": [
+        "Swipe File: save, organise, transcribe and share ad inspiration (free Chrome extension)",
+        "Discovery: ad search engine with AI creative analysis",
+        "Spyder: 24/7 competitor ad tracking, creative test analysis, top hooks",
+        "Lens: creative analytics, shareable reports, winning-theme comparison",
+        "Briefs: storyboards, scripts, brand profiles",
+        "MCP (live for all users 18 Jun 2026), API, mobile app"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/foreplayco/",
+          "followers": "4,260 (observed 16 Nov 2026)",
+          "cadence": "Was daily until mid-Mar 2026 ('Found on Foreplay' series reached #225 on 17 Mar 2026); since then only 2 visible posts (18 Jun, 21 Oct 2026)",
+          "what_they_post": "'Found on Foreplay #N' daily ad breakdowns of US DTC brands (Ridge, Knix, MUD\\WTR); product launches; hiring",
+          "what_works": "The daily automated-looking series did not work: 0 to 3 likes per post, and it appears to have stopped. The MCP launch (12 likes) and a hiring post (7) did better.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "YouTube",
+          "url": "https://www.youtube.com/@foreplay_co",
+          "followers": "5.38K subscribers, 62 videos (observed 16 Nov 2026)",
+          "cadence": "not found",
+          "what_they_post": "not found (titles not read)",
+          "what_works": "A healthy ratio of subscribers to videos compared with Hawky and Segwise.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Education and community",
+          "url": "https://www.foreplay.co",
+          "followers": "not applicable",
+          "cadence": "Evergreen",
+          "what_they_post": "Foreplay University, Events & Webinars, Experts (free curated swipe files from known ad people), Agency Directory, Bounties, public roadmap, Wall of Love, merch, affiliate program, 'Free Creative Strategy Action Plan'",
+          "what_works": "The free Chrome extension is the main top-of-funnel: the site shows 4.9/5 from 251 extension reviews and '30,000 users' (vendor-displayed). Self-reported G2: 4.8/5 from 128 reviews.",
+          "evidence": "observed"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2026-06-18", "what": "Foreplay MCP live for all users; API released with a $5,000 contest", "source": "https://www.foreplay.co/ships"},
+        {"date": "2026-10-21", "what": "Hiring a Principal Engineer / VP of Engineering; post says the company is bootstrapped", "source": "https://www.linkedin.com/company/foreplayco/"},
+        {"date": "2025-05-28", "what": "Lens creative analytics launched without ad-spend-based pricing (background)", "source": "https://www.producthunt.com/products/lens-by-foreplay-co/launches"}
+      ],
+      "strengths": [
+        "Cheap, seat-based pricing with no ad-spend bands",
+        "Free Chrome extension with a large installed base and strong reviews",
+        "Community furniture (university, experts, agency directory, public roadmap) that makes users feel part of something",
+        "Bootstrapped, so not forced to chase the agent hype"
+      ],
+      "gaps_for_galvor": [
+        "Core is inspiration and competitor spying; analysis of your own ads (Lens) is newer and secondary",
+        "No buyer comment or review reading mentioned",
+        "Examples are all US DTC; nothing for India",
+        "LinkedIn has gone nearly silent since March 2026"
+      ],
+      "ideas_to_borrow": [
+        "Free curated swipe files from named experts (an 'Indian D2C ads worth studying' collection)",
+        "A public roadmap and wall of love",
+        "Lesson to avoid: a daily templated breakdown series got 0 to 3 likes and died at #225. Fewer, deeper breakdowns are the better bet"
+      ],
+      "sources": [
+        "https://www.foreplay.co",
+        "https://www.foreplay.co/pricing",
+        "https://www.foreplay.co/ships",
+        "https://www.linkedin.com/company/foreplayco/",
+        "https://www.youtube.com/@foreplay_co",
+        "https://www.producthunt.com/products/lens-by-foreplay-co/launches"
+      ],
+      "unverified": [
+        "HQ: not found",
+        "The site shows two different ad-library sizes ('over 100M ads' vs a 54.7M counter)",
+        "Spyder brand limits differ between plan cards and comparison table",
+        "Instagram and TikTok follower counts: not found",
+        "G2 and Chrome-store ratings are as displayed on Foreplay's own site"
+      ]
+    },
+    {
+      "name": "Superads",
+      "url": "https://www.superads.ai",
+      "tier": "adjacent",
+      "hq": "not found (product built by Superside; Superads' own site does not state a location)",
+      "one_liner": "Simple, shareable AI creative analytics and reporting for paid social, spun out of design-services company Superside.",
+      "positioning": "\"Your AI paid media expert\" / \"The AI platform to analyze your ad campaigns, spot trends and make smarter creative decisions.\"",
+      "target_customer": "Marketers and agencies where creative and media buying teams need a shared view. Vendor claim: \"Used by 10,000+ leading brands and agencies\".",
+      "pricing": "Published: Professional from $125/month, billed $1,500 yearly, up to $100k monthly ad spend, +$100/month per extra $100k; Enterprise custom. 14-day free trial.",
+      "features": [
+        "Unlimited reports, boards and workflows",
+        "Superads AI (assistant) and AI tagging",
+        "Inspiration (ad examples)",
+        "Scores each ad on Hook, Hold, Click, Engagement, Conversion (per third-party directory listing)",
+        "Free Facebook ads benchmarks pages (CPC, CPM by industry)",
+        "May 2026 update: an agentic tool for scaled reporting"
+      ],
+      "channels": [
+        {
+          "channel": "Blog / SEO",
+          "url": "https://www.superads.ai/blog",
+          "followers": "not applicable",
+          "cadence": "not found (posts carry no dates)",
+          "what_they_post": "'Best creative analytics tools 2026' roundups, creative testing and refresh guides, monthly 'Superads latest product updates' posts (April and May 2026 seen), a 'MagicBrief has shut down: your best alternative' post",
+          "what_works": "Quick to write a landing post for a competitor's shutdown to catch displaced users. Results not measurable from outside.",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "Free benchmarks",
+          "url": "https://www.superads.ai/facebook-ads-costs/cpc-cost-per-click",
+          "followers": "not applicable",
+          "cadence": "Evergreen",
+          "what_they_post": "Public Facebook ads cost benchmark pages linked from the main nav",
+          "what_works": "A free data asset that earns search traffic; no traffic numbers available.",
+          "evidence": "inferred"
+        },
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/superadsai/",
+          "followers": "208 on the page that matches the product description (observed 16 Nov 2026); may not be the main page",
+          "cadence": "not found (no posts visible)",
+          "what_they_post": "not found",
+          "what_works": "not found",
+          "evidence": "observed"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2024-11-20", "what": "Launched by Superside as an AI creative analytics product (background)", "source": "https://www.superside.com/blog/introducing-superads-simple-shareable-creative-analytics"},
+        {"date": "2026-04 and 2026-05", "what": "Monthly product update posts; May 2026 highlights an agentic tool for scaled reporting", "source": "https://www.superads.ai/blog"},
+        {"date": "2026 (after Jul)", "what": "Published a 'MagicBrief has shut down' alternative page", "source": "https://www.superads.ai/blog"}
+      ],
+      "strengths": [
+        "Low, simple price",
+        "Easy reporting that non-analysts can share",
+        "Backed by Superside's resources and customer base"
+      ],
+      "gaps_for_galvor": [
+        "It reports and scores; it does not explain story, format and reason to buy or read buyer comments",
+        "No India presence or content",
+        "Little visible brand or community of its own",
+        "The site labels the yearly price '20% off' while the figures shown do not reflect a discount, a small trust wobble"
+      ],
+      "ideas_to_borrow": [
+        "A monthly 'what we shipped' post",
+        "Free benchmark pages (an India D2C version would be new)",
+        "React quickly when a competitor closes or pivots"
+      ],
+      "sources": [
+        "https://www.superads.ai",
+        "https://www.superads.ai/pricing",
+        "https://www.superads.ai/blog",
+        "https://www.superside.com/blog/introducing-superads-simple-shareable-creative-analytics",
+        "https://www.linkedin.com/company/superadsai/"
+      ],
+      "unverified": [
+        "Main LinkedIn page and follower count: uncertain",
+        "'10,000+ brands and agencies' is a vendor claim",
+        "Blog cadence: not found",
+        "HQ: not found"
+      ]
+    },
+    {
+      "name": "GoMarble",
+      "url": "https://www.gomarble.ai",
+      "tier": "adjacent",
+      "hq": "Registered in Wilmington, Delaware, US (LinkedIn); one tracker lists Bengaluru, not confirmed",
+      "one_liner": "AI agents for paid media teams: watch Meta, Google and other accounts, explain what changed, queue the next move for approval; includes creative intelligence and a 'Creative Strategist Agent'.",
+      "positioning": "\"Build a paid media system that never clocks out.\" / \"GoMarble Agents watch every account, explain what changed, and queue the next move. Your team approves it.\"",
+      "target_customer": "In-house and agency performance teams; creative strategists, media buyers, analysts. Vendor claim: \"1000+ teams trust GoMarble\".",
+      "pricing": "Published (monthly, USD): Copilot $139 (up to $50K monthly ad spend, 1 seat), Operator $399 (up to $500K, 5 seats), Scale $799 (up to $1.5M, 10 seats), Enterprise custom. 7-day free trial on paid plans.",
+      "features": [
+        "Agents that monitor campaigns, creative, audiences and search terms",
+        "Creative intelligence: reads hook, format, message and visual against performance; fatigue monitor",
+        "Brand IQ: learns from top ads, landing pages, reviews, personas",
+        "Dashboards and shareable reports",
+        "Approval-first governance on every proposed change",
+        "80+ connectors (Meta, Google, TikTok, Microsoft Ads, GA4, Shopify, Klaviyo), Slack, MCP",
+        "Free ad library and agent templates"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/gomarble-ai/",
+          "followers": "7,716 (observed 16 Nov 2026); 16 employees listed",
+          "cadence": "Rare: latest visible posts are 27 Feb 2026 and 20 Nov 2025",
+          "what_they_post": "Occasional product explainer",
+          "what_works": "Nothing visible (2 to 3 likes). The page is not an active channel.",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Website SEO: templates and comparison pages",
+          "url": "https://www.gomarble.ai",
+          "followers": "not applicable",
+          "cadence": "Evergreen",
+          "what_they_post": "Agent templates ('Find my winning creative combos', 'Are my creatives fatigued?'), alternatives pages vs Motion, Triple Whale, AdCreative.ai, Madgicx, Atria, and a 'Claude + MCP' page; free ad library",
+          "what_works": "Site shows a Product Hunt '#1 Product of the Day' badge and a G2 badge (vendor-displayed). Growth appears to come from product-led pages and the MCP angle rather than social.",
+          "evidence": "inferred"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2026-02-27", "what": "LinkedIn post stating reach in 100+ countries (vendor claim)", "source": "https://www.linkedin.com/company/gomarble-ai/"},
+        {"date": "2026-10 (price read)", "what": "Pricing page restructured into Copilot / Operator / Scale tiers (as read by a competitor in Oct 2026 and confirmed on the live page)", "source": "https://www.gomarble.ai/pricing"}
+      ],
+      "strengths": [
+        "Approval-first design answers the trust worry about agents",
+        "Low entry price",
+        "Wide connector list including Shopify and Klaviyo"
+      ],
+      "gaps_for_galvor": [
+        "It is a media-ops agent; creative is one of many jobs",
+        "Brand IQ lists reviews as an input, but nothing describes reading comments on ads",
+        "Very little content marketing or social voice",
+        "No India-specific content or pricing found"
+      ],
+      "ideas_to_borrow": [
+        "Question-shaped templates ('Are my creatives fatigued?') as landing pages",
+        "'Nothing goes live without approval' style reassurance in copy"
+      ],
+      "sources": [
+        "https://www.gomarble.ai",
+        "https://www.gomarble.ai/pricing",
+        "https://www.linkedin.com/company/gomarble-ai/"
+      ],
+      "unverified": [
+        "Founders and funding: sources conflict (one tracker shows a seed round led by India Quotient, another says bootstrapped); not confirmed",
+        "India link (Bengaluru team): not confirmed",
+        "Product Hunt and G2 badges are as displayed on GoMarble's site",
+        "'1000+ teams' is a vendor claim"
+      ]
+    },
+    {
+      "name": "Triple Whale (Moby AI creative features)",
+      "url": "https://www.triplewhale.com",
+      "tier": "adjacent",
+      "hq": "Columbus, Ohio, US (LinkedIn)",
+      "one_liner": "E-commerce measurement and analytics platform whose AI layer, Moby, now does creative analysis, a creative strategy specialist and creative generation as part of a much broader suite.",
+      "positioning": "\"The AI operating system built for modern commerce.\"",
+      "target_customer": "E-commerce brands (Shopify-centric), founders, marketing leaders, performance marketers, agencies.",
+      "pricing": "Free plan published. Paid plans (Foundation, Automate, Enterprise) are priced on the brand's annual GMV plus package; no dollar figures shown on the page read. Moby AI and Creative Generation are usage-based (credits). Unlimited users on paid plans.",
+      "features": [
+        "Attribution (Triple Pixel), MMM, incrementality",
+        "Moby AI chat and automations; Moby Specialists on the Automate plan",
+        "Creative analysis via Moby and a Creative Strategy agent aimed at spotting creative fatigue",
+        "Creative Studio: generate creative grounded in the brand",
+        "Free tools: Creative Diversity, Personalized Benchmarks, Competitors' Ads, Prompt Library",
+        "AI Visibility tracking (how the brand shows up in AI search)"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (company page)",
+          "url": "https://www.linkedin.com/company/triple-whale/",
+          "followers": "49,224 (observed 16 Nov 2026)",
+          "cadence": "Daily or more (8 visible posts from 30 Oct to 13 Nov 2026)",
+          "what_they_post": "Feature drops, monthly integration drops, event photos (BFCM certification event in NYC, Glossy summit lounge), jokes and short one-liners",
+          "what_works": "Steady but modest: 11 to 37 likes per post. Best visible post was a product point about choosing AI models in Moby (37 likes, 10 Nov 2026).",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Events, newsletter, reports",
+          "url": "https://www.triplewhale.com/pricing",
+          "followers": "not found",
+          "cadence": "not found",
+          "what_they_post": "Nav lists Industry Newsletter, Events, Webinars, Guides & Reports, Case Studies, free Performance Benchmarks dashboard; an in-person 'BFCM certification' event",
+          "what_works": "Certification and benchmarks give users a reason to return and share; no numbers found.",
+          "evidence": "inferred"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2026 (date not found)", "what": "Moved Moby AI and Creative Generation to usage-based credit pricing while keeping core plans unchanged", "source": "https://www.triplewhale.com/blog/were-changing-how-we-price-ai-heres-why"},
+        {"date": "2026-11-13", "what": "November integration drop (AppLovin, MNTN, Stay AI, Amazon) and new Moby capabilities announced", "source": "https://www.linkedin.com/company/triple-whale/"}
+      ],
+      "strengths": [
+        "Already installed at many e-commerce brands, so creative features come 'free' inside a tool teams trust for numbers",
+        "Free plan and free benchmark tools",
+        "Large audience and steady event presence"
+      ],
+      "gaps_for_galvor": [
+        "Creative is a side feature of a measurement product; depth on story, format and reason to buy is limited",
+        "US Shopify focus; GMV-based pricing and no India content seen",
+        "No sign of buyer-comment reading in the pages read"
+      ],
+      "ideas_to_borrow": [
+        "A free 'creative diversity' style check as a lead magnet",
+        "A certification or short course that gives marketers something to post about"
+      ],
+      "sources": [
+        "https://www.triplewhale.com/pricing",
+        "https://www.triplewhale.com/moby-ai/creative-analysis",
+        "https://www.triplewhale.com/moby-agents",
+        "https://www.triplewhale.com/blog/were-changing-how-we-price-ai-heres-why",
+        "https://www.linkedin.com/company/triple-whale/"
+      ],
+      "unverified": [
+        "Exact paid prices: not shown on the page read",
+        "Details of the creative analysis page: page body could not be read beyond navigation; description relies on search snippets and the pricing FAQ",
+        "Date of the AI pricing change: not found",
+        "Newsletter size and event attendance: not found"
+      ]
+    },
+    {
+      "name": "MagicBrief / Canva Grow",
+      "url": "https://www.canva.com/canva-grow/",
+      "tier": "adjacent",
+      "hq": "Sydney, Australia (MagicBrief LinkedIn; Canva is Sydney-based)",
+      "one_liner": "MagicBrief, a creative intelligence tool, was bought by Canva in 2025 and shut down on 31 Jul 2026; its ideas now live in Canva Grow, which lets teams create, launch and analyse ads inside Canva.",
+      "positioning": "MagicBrief homepage now reads: \"MagicBrief is closing on July 31, 2026. The team behind it has built something new at Canva\". Canva Grow is described on that page as \"a new end-to-end marketing workflow for creating, launching, and analysing ads in Canva.\"",
+      "target_customer": "Any marketing team already in Canva, from small businesses to in-house brand teams.",
+      "pricing": "Canva Grow pricing: not verified. Third-party reports say it is available on all Canva plans with limits that vary by plan; Canva's own page could not be read. MagicBrief pricing page no longer exists.",
+      "features": [
+        "Create: website URL to static and video ads using brand assets (per press coverage of Canva Grow 2.0)",
+        "Bulk Publish to Meta, TikTok and LinkedIn",
+        "Launch Dashboard across the three platforms",
+        "AI Ad Tagging to show what drives performance",
+        "Automatic refresh generation based on top-performing Meta ads"
+      ],
+      "channels": [
+        {
+          "channel": "LinkedIn (MagicBrief page)",
+          "url": "https://www.linkedin.com/company/magicbrief/",
+          "followers": "3,701 (observed 16 Nov 2026); tagline now 'MagicBrief has joined Canva!'",
+          "cadence": "Dormant (no posts visible)",
+          "what_they_post": "not applicable",
+          "what_works": "not applicable",
+          "evidence": "observed"
+        },
+        {
+          "channel": "Launch PR (Canva)",
+          "url": "https://www.businesswire.com/news/home/20260625870253/en/Introducing-Canva-Grow-2.0-Create-Launch-and-Optimize-Ads-in-One-Place",
+          "followers": "not applicable",
+          "cadence": "Big-moment launches",
+          "what_they_post": "Canva Grow 2.0 announced 25 Jun 2026 around Cannes Lions via press release and newsroom post",
+          "what_works": "Wide trade-press pickup of the launch (multiple martech outlets). Canva's distribution is the real weapon here.",
+          "evidence": "observed"
+        }
+      ],
+      "recent_moves": [
+        {"date": "2025-06-18", "what": "MagicBrief announced it was being acquired by Canva (background)", "source": "https://magicbrief.com/post/magicbrief-canva-acquisition"},
+        {"date": "2026-06-25", "what": "Canva Grow 2.0 launched: create, launch and analyse ads in one place, with AI ad tagging", "source": "https://www.businesswire.com/news/home/20260625870253/en/Introducing-Canva-Grow-2.0-Create-Launch-and-Optimize-Ads-in-One-Place"},
+        {"date": "2026-07-31", "what": "MagicBrief standalone product shut down; users directed to Canva Grow", "source": "https://magicbrief.com"}
+      ],
+      "strengths": [
+        "Canva is already on almost every marketer's desktop, including in India",
+        "Creative tagging and analysis bundled into a tool teams already pay for",
+        "Create-to-launch in one place"
+      ],
+      "gaps_for_galvor": [
+        "Built for breadth and ease, not for deep answers on which story or reason to buy wins",
+        "No buyer comment or review reading reported",
+        "MagicBrief's old users lost a specialist tool; some will want a specialist again",
+        "Google ads not covered per press coverage"
+      ],
+      "ideas_to_borrow": [
+        "Make Galvor's output easy to hand to whoever designs in Canva (a brief that drops straight into the design step)",
+        "Speak to displaced MagicBrief users in comparison content, as Superads did"
+      ],
+      "sources": [
+        "https://magicbrief.com",
+        "https://magicbrief.com/post/magicbrief-canva-acquisition",
+        "https://www.linkedin.com/company/magicbrief/",
+        "https://www.businesswire.com/news/home/20260625870253/en/Introducing-Canva-Grow-2.0-Create-Launch-and-Optimize-Ads-in-One-Place",
+        "https://www.canva.com/newsroom/news/canva-grow",
+        "https://www.canva.com/canva-grow/"
+      ],
+      "unverified": [
+        "Canva Grow feature list comes from press coverage and search summaries; Canva's own newsroom page blocked direct reading",
+        "Canva Grow pricing and plan limits: not verified",
+        "Acquisition price: reported differently by different outlets; not stated here"
+      ]
+    }
+  ],
+  "considered_and_excluded": [
+    {"name": "Pixis", "why": "India-founded, but sells an enterprise ad optimisation and generation suite (Prism, Adroom, Visibility) to large consumer brands via demo; little overlap with creative-pattern intelligence for D2C teams. Keep on watch list.", "source": "https://pixis.ai/"},
+    {"name": "Vidmob, CreativeX", "why": "Enterprise creative data and brand-compliance scoring for global advertisers; different buyer. Not researched in depth.", "source": "https://hawky.ai/blog/best-creative-analytics-platforms-d2c-brands-india"},
+    {"name": "AdCreative.ai, Creatify, Pencil, Marpipe, Alison.ai", "why": "Primarily ad generation or testing tools; they make ads more than they explain why ads win. Not researched in depth.", "source": "https://hawky.ai/llms.txt"},
+    {"name": "Madgicx", "why": "Meta ads management and automation; creative insight is secondary. Not researched in depth.", "source": "https://hawky.ai/blog/best-creative-analytics-platforms-d2c-brands-india"},
+    {"name": "QuickAds", "why": "India-linked 'ads operating system' with reported seed funding; surfaced in search but not researched in depth. Watch list.", "source": "https://bestmediainfo.com/mediainfo/advertising/quickads-raises-17-million-seed-funding-led-by-kae-capital-10622012"}
+  ],
+  "cross_cutting": {
+    "patterns_that_work": [
+      "Observed: on LinkedIn, human posts beat product posts by a wide margin. Motion's culture post (3,154 likes), meme (538) and named-practitioner workflow (316) versus 14 to 32 likes for its product, report and event posts.",
+      "Observed: templated or automated daily posts fail. Segwise's 'If you want to know...' posts got 0 to 4 likes on a 16k-follower page; Foreplay's 'Found on Foreplay' daily series got 0 to 3 likes and stopped at #225.",
+      "Observed: follower count does not predict engagement. Segwise (16.2k) and GoMarble (7.7k) get less per post than Hawky (4.5k).",
+      "Observed: vendor-written 'best tools' and 'X vs Y' pages own the category search results (Segwise had 7 of the top 20 links for the DTC creative analytics query; Hawky ranks itself first for the India query).",
+      "Observed: original data earns press. Motion's Creative Benchmarks report was covered by trade press and is quoted by rivals.",
+      "Observed: borrowed reach through guests. Hawky's podcast pull-quote posts are its best-performing LinkedIn format (10 to 24 likes).",
+      "Observed: free tools are standard top-of-funnel (Hawky 14 tools, Foreplay Chrome extension, Triple Whale benchmarks, Segwise tag generator, AdGraam calculators).",
+      "Observed: nearly everyone shipped an MCP or 'agent' in 2026 (Motion/Runneth, Atria, Foreplay, Segwise, GoMarble, Hawky). 'Agent' is now table stakes language, not a differentiator.",
+      "Inferred: the US players grow through a named identity ('creative strategist') plus community furniture (newsletter, events, university), not through feature posts."
+    ],
+    "whitespace_for_galvor": [
+      "Buyer voice: no competitor leads with reading comments and reviews on the brand's own ads. Atria and Runneth mention reviews as a research input; nobody makes it the headline.",
+      "Pure 'why it wins' intelligence: Hawky, GoMarble, Motion and Atria have all moved toward agents that launch and manage ads. A read-only tool that explains patterns in plain language is now less crowded.",
+      "India D2C teardown content: Hawky's Decoding series has been quiet since 16 Jul 2026. A consistent weekly Decoded can own this.",
+      "An India D2C creative benchmarks report: Motion does this for the US; no Indian equivalent was found.",
+      "Plain rupee pricing or a free first look: Hawky hides price; the US tools start at $125 to $999 a month in dollars; only AdGraam publishes rupee prices.",
+      "Human, founder-and-practitioner-led LinkedIn: every India-linked competitor's feed is either guest clips or product pitch with low engagement.",
+      "Newsletter: neither Hawky, Segwise, AdGraam nor GoMarble shows a newsletter; Motion's Thumbstop is the only strong one and it is US-focused.",
+      "Simple vocabulary (format, story, reason to buy): competitors talk in hooks, tags, agents and MCPs. The plain-language framing is distinct."
+    ],
+    "watch_list": [
+      "Hawky: whether it keeps drifting to media buying or returns to creative intelligence; whether Decoding restarts; any funding news",
+      "Motion's Runneth: it already claims concepting from customer reviews and comments; watch for an India push or a cheaper tier",
+      "Canva Grow: AI ad tagging inside Canva could make basic creative analysis free for small teams",
+      "AdGraam: newly funded, India D2C, rupee pricing; watch whether its analytics deepens",
+      "Segwise: pushing hard from gaming into DTC with Indian D2C logos already",
+      "Pixis and QuickAds: India-linked, not yet overlapping, could move closer",
+      "Atria: review mining plus low price; watch for international or India pricing"
+    ]
+  }
+}

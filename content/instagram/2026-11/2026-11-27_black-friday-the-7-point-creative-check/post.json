@@ -1,0 +1,127 @@
+{
+  "id": "ig-2026-11-27-black-friday-the-7-point-creative-check",
+  "slug": "black-friday-the-7-point-creative-check",
+  "platform": "instagram",
+  "date": "2026-11-27",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Black Friday: the 7-point creative check",
+  "hook": "Running Black Friday ads this weekend? Seven checks before you hit publish.",
+  "status": "draft",
+  "festival": "Black Friday",
+  "theme": "From dashboards to decisions",
+  "caption": "Running Black Friday ads this weekend? Seven checks before you hit publish.\n\nMost sale ads slip on small things. The offer shows up late, or the page shows a different price from the ad.\n\nThese seven checks cover the ad, the click and what you will learn from it. They take a couple of minutes per ad.\n\nThe last slide has all seven in one place. Save it, run it on every ad going live, and have a good sale.\n\nFollow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#blackfriday",
+    "#metaads",
+    "#adcreative",
+    "#marketingtips",
+    "#d2cindia"
+  ],
+  "alt_text": "Six-slide carousel. Slide 1: seven checks before your Black Friday ads go live. Slide 2: three checks on the offer, first frame, sound off, end date. Slide 3: two checks on the click, the landing page and stock. Slide 4: two checks on learning, one clear difference per ad and a written expectation. Slide 5: all seven checks on one slide in two columns. Slide 6: good luck this weekend, follow @galvor.ai.",
+  "cta": "Save the checklist; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Black Friday",
+        "headline": "*7 checks* before your Black Friday ads go live",
+        "sub": "A couple of minutes per ad. Do it before you hit publish."
+      },
+      {
+        "layout": "list",
+        "kicker": "Checks 1 to 3: the offer",
+        "headline": "Can a stranger *get the offer* at a glance?",
+        "items": [
+          "Offer is in the first frame, not the last",
+          "Discount reads clearly with the sound off",
+          "End date is on screen and in the caption"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Checks 4 and 5: the click",
+        "headline": "Does the page *keep the promise*?",
+        "items": [
+          "Landing page shows the same offer and price",
+          "The product in the ad is in stock"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Checks 6 and 7: the learning",
+        "headline": "Will you know *why it worked*?",
+        "items": [
+          "Each ad has one clear difference from the rest",
+          "You wrote down what you expect before launch"
+        ]
+      },
+      {
+        "layout": "compare",
+        "kicker": "Save this",
+        "headline": "The *7-point* check on one slide",
+        "left_title": "The ad",
+        "left": [
+          "Offer in the first frame",
+          "Reads with sound off",
+          "End date shown",
+          "One clear difference per ad"
+        ],
+        "right_title": "Around the ad",
+        "right": [
+          "Page matches the offer",
+          "Stock checked",
+          "Expected result written down"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Have a good sale. *Check before you publish.*",
+        "sub": "Save this for every sale you run.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the checklist",
+          "Send it to your team"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Festival slot (Black Friday): kept warm and brief. Reader: the marketer pressing publish on sale ads this weekend. One argument: seven small checks catch most avoidable sale-ad mistakes. Shape: checklist. No statistics used; '7' is the count of checks. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:52:35",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-27 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:12",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:56",
+  "updated_at": "2026-11-16T21:23:12",
+  "topic_ref": "IG-16",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

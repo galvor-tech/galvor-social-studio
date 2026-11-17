@@ -1,0 +1,139 @@
+{
+  "id": "ig-2027-01-18-the-one-page-creative-brief-template-offer",
+  "slug": "the-one-page-creative-brief-template-offer",
+  "platform": "instagram",
+  "date": "2027-01-18",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Framework",
+  "job": "Convert",
+  "format": "carousel",
+  "series": "",
+  "title": "The one-page creative brief: eight lines",
+  "hook": "If a brief needs a call to explain it, the revisions have already started.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "If a brief needs a call to explain it, the revisions have already started.\n\nA creator or editor needs eight things on one page: the buyer, the message, the proof, the first two seconds, the ask, what must be in, what is free to change, and what the ad is testing.\n\nEverything beyond that is theirs to make good.\n\nThe full template is on the last slide. Screenshot it and use it for your next brief.\n\nWant briefs built from what your own ads have already proved? Link in bio. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#creativestrategy",
+    "#ugcads",
+    "#marketingtips",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Eight-slide carousel. Slide 1: the one-page creative brief, eight lines, no call needed. Slide 2: long briefs get skimmed, thin briefs get guessed. Slide 3: lines one to three, buyer, message, proof. Slide 4: lines four and five, the first two seconds and the ask. Slide 5: lines six and seven, what must be in and what is free to change. Slide 6: line eight, what the ad is testing. Slide 7: all eight lines on one slide in two columns. Slide 8: follow @galvor.ai.",
+  "cta": "Screenshot the template; talk to us via link in bio",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Framework",
+        "headline": "The *one-page creative brief*: eight lines, no call needed",
+        "sub": "Screenshot the template on the last slide."
+      },
+      {
+        "layout": "text",
+        "kicker": "Why one page",
+        "headline": "Long briefs get *skimmed*. Thin briefs get guessed.",
+        "body": "A creator or editor needs to know who the ad is for, what it must say and what is fixed.\n\nEverything else is theirs to make good."
+      },
+      {
+        "layout": "list",
+        "kicker": "Lines 1 to 3: the point",
+        "headline": "*Who*, what, and why believe it",
+        "items": [
+          "Buyer: one person, described in a sentence",
+          "Message: the one thing they should remember",
+          "Proof: the fact, demo or review that backs it"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Lines 4 and 5: the ad",
+        "headline": "The *opening* and the ask",
+        "items": [
+          "First two seconds: what we see and hear",
+          "Ask: what the viewer should do next"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Lines 6 and 7: the limits",
+        "headline": "What is *fixed*, what is free",
+        "items": [
+          "Must have: claims, logo, price, legal lines",
+          "Free to change: everything not listed above"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Line 8: the reason",
+        "headline": "What this ad is *testing*",
+        "items": [
+          "The one thing that is new here",
+          "What we will compare it with"
+        ]
+      },
+      {
+        "layout": "compare",
+        "kicker": "Save this",
+        "headline": "The brief on *one page*",
+        "left_title": "The point",
+        "left": [
+          "1. Buyer",
+          "2. Message",
+          "3. Proof",
+          "4. First two seconds"
+        ],
+        "right_title": "The frame",
+        "right": [
+          "5. Ask",
+          "6. Must have",
+          "7. Free to change",
+          "8. What it tests"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Fill it in. *Send it without a call.*",
+        "sub": "Want briefs built from what your ads have proved? Link in bio.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the template",
+          "Talk to us: link in bio"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Job: Convert, so the closing ask is the link in bio. Reader: a brand or creative manager who briefs creators and editors. One argument: eight lines on one page remove most of the back and forth. Shape: template. No numbers used. The old post offered a template file; this version makes the last slide the template and promises no download. If an editable template exists, a line such as 'DM us BRIEF for the editable version' can be added to the caption; confirm the file exists first. The 4 Dec post was moved to pre-launch decision rules so it does not repeat this one.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:56:55",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:18",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-125",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

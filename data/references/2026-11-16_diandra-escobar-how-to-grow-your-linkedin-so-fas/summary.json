@@ -1,0 +1,33 @@
+{
+  "says": "A LinkedIn agency founder walks through the path a future client takes: first sees you in a comment, clicks your profile, later meets your post in the feed, reads for a few weeks, then sends a message. Her argument is that expertise and attention are separate things, and experts have to earn attention by joining conversations that are already happening. It is the most practical of the three LinkedIn videos for a small team with real expertise and little reach.",
+  "points": [
+    "New accounts are first noticed in other people's comment sections: list 20 to 30 creators whose audience is your buyer and spend 30 minutes a day leaving comments that add an example, a respectful disagreement or a short story.",
+    "The profile is the landing page: headline says the problem you solve and for whom; the About section runs problem, solution, proof, next step; Featured links to something you own.",
+    "She reports one consultant changed only his headline and About section and saw reach up 226% and engagement up 327% (one case, her own telling).",
+    "She says LinkedIn's feed now reads what a post is about and ranks by percentile, which favours smaller accounts, and that roughly the first 50 words decide whether a post is considered at all.",
+    "Five ways to join a live conversation: a known brand's move, this week's news, a person your audience follows, a belief you hold against the industry, a post format that is spreading.",
+    "Write the whole post first, then lift its sharpest line to the top as the hook. If no line is worth lifting, rewrite the post.",
+    "Her content mix: 40% growth, 30% authority, 20% conversion, 10% personal, with one point of view running through all of it.",
+    "Reply to an inbound message the same day; reach out to people who keep commenting, since that continues a conversation instead of starting a cold one."
+  ],
+  "use": [
+    "LinkedIn post prompt: body first, hook last; the first 50 words name the topic and the reader; one job per post. All in the Studio's prompt now.",
+    "Comment habit for Sunil, Raj and Shrutik: a shared list of 20 to 30 D2C and performance-marketing voices, 15 minutes a day. This is individual commenting, not a pod.",
+    "Profile check for all three before the calendar starts: headline, About, Featured pointing to Decoded.",
+    "Joining live conversations suits Raj (a brand's public ad library) and Sunil (industry news), within our rule on never stating a competitor's spend or ROAS."
+  ],
+  "changes": [
+    "Rewrite the three headlines and About sections to say the problem and the buyer in plain words.",
+    "Point each Featured section at the Decoded subscribe page.",
+    "Build the 20 to 30 name comment list and add it to the Playbook.",
+    "Keep Galvor's own mix (Attract 35, Educate 35, De-risk 20, Convert 10); it is close to hers and already agreed."
+  ],
+  "caution": [
+    "The claims about how LinkedIn's feed works (percentiles, 50 words, favouring small accounts) are her reading of LinkedIn's statements. Not checked against LinkedIn's own posts; treat as good practice, not fact.",
+    "All the result numbers are her agency's clients, told by her.",
+    "Hot takes and 'X is dead' formats can cost credibility with senior buyers if we do not hold the view.",
+    "The video sells her course, community and agency."
+  ],
+  "by": "Claude terminal",
+  "at": "2026-11-16T17:27:13"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "li-2026-12-01-decoded-5-promo-creative-fatigue",
+  "slug": "decoded-5-promo-creative-fatigue",
+  "platform": "linkedin",
+  "date": "2026-12-01",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "text",
+  "series": "Decoded",
+  "title": "Decoded #5 promo: Creative fatigue",
+  "hook": "Decoded by Galvor, Issue #5: Creative fatigue. When to refresh, when to cut.",
+  "status": "skipped",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Decoded by Galvor, Issue #5: Creative fatigue. When to refresh, when to cut.\n\nEvery growth team has had the Monday where the best ad in the account suddenly costs more. The question is never whether it will happen. It's what you do next.\n\nRefresh it and you might save a winner. Cut it and you might lose the ad that was carrying the account. Wait and the bill keeps growing.\n\nIssue #5 is about making that call with evidence instead of instinct: the signals that show up before costs move, how to tell a tired ad from a bad week, and the smallest change that usually brings an ad back.\n\nOut today. Link in the first comment.",
+  "first_comment": "Read Decoded by Galvor, Issue #5: https://galvor.ai/newsletters/decode/",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#MetaAds",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Cover card: Decoded by Galvor, Issue 5, Creative fatigue: when to refresh, when to cut.",
+  "cta": "Read the newsletter",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Decoded · Issue #5",
+        "headline": "Creative fatigue: when to *refresh*, when to *cut*",
+        "sub": "Out today. Link in the first comment."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "Skipped: Decoded is now posted weekly as a LinkedIn newsletter from the Galvor page on Wednesdays. Teaser only, no new numbers. Align with the final Issue #5 draft before posting.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:58:27",
+      "action": "Skipped: replaced by the weekly LinkedIn newsletter post"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:40",
+  "updated_at": "2026-11-11T01:58:27",
+  "topic_ref": "NL-5"
+}

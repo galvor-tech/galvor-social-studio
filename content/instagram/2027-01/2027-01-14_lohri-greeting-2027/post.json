@@ -1,0 +1,71 @@
+{
+  "id": "ig-2027-01-14-lohri-greeting-2027",
+  "slug": "lohri-greeting-2027",
+  "platform": "instagram",
+  "date": "2027-01-14",
+  "time": "11:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Lohri greeting 2027",
+  "hook": "Happy Lohri from all of us at Galvor.",
+  "status": "draft",
+  "festival": "Lohri 2027",
+  "theme": "The learning loop",
+  "caption": "Happy Lohri from all of us at Galvor.\n\nMay the bonfire be warm, the rewri and gajak plentiful, and the dhol loud enough to bring the neighbours out.\n\nHere is to a good harvest and a sweet start to the year for you and your family.",
+  "first_comment": "",
+  "hashtags": [
+    "#HappyLohri",
+    "#Lohri2027",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Festival card in Galvor violet and gold with a sparkle motif. It reads Happy Lohri, then: warm bonfires, sweet rewri and a good harvest. Below: from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "✨",
+        "kicker": "Lohri 2027",
+        "greeting": "Happy Lohri",
+        "headline": "Warm bonfires, sweet rewri and *a good harvest*.",
+        "sub": "From all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Greeting only, no marketing lesson. No numbers used. Check the date before scheduling: Lohri is usually observed on 13 January, and this slot is on the 14th.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-08T02:43:23",
+      "action": "Moved to 14 Jan to match the verified Lohri date"
+    },
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-14 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:23:59",
+  "updated_at": "2026-11-16T21:16:52",
+  "topic_ref": "IG-119",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

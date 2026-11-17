@@ -1,0 +1,352 @@
+[
+ {
+  "date": "2026-11-09",
+  "end_date": "2026-11-12",
+  "name": "Web Summit 2026",
+  "category": "marketing",
+  "region": "Europe",
+  "confidence": "confirmed",
+  "sources": [
+   "https://websummit.com/",
+   "https://hadea.ec.europa.eu/events/web-summit-2026-2026-11-09_en"
+  ],
+  "notes": "Lisbon, Portugal (MEO/Altice Arena + FIL). Opening night 9 Nov. Big stage for AI startup and martech narratives; good hook for AI-in-marketing takes."
+ },
+ {
+  "date": "2026-11-30",
+  "end_date": "2026-12-04",
+  "name": "AWS re:Invent 2026",
+  "category": "ai",
+  "region": "US",
+  "confidence": "confirmed",
+  "sources": [
+   "https://aws.amazon.com/events/reinvent",
+   "https://www.uctoday.com/events/aws-reinvent-2026/"
+  ],
+  "notes": "Las Vegas, NV (multiple Strip venues). Major gen-AI/agentic cloud launches that shape the AI stack marketers build on."
+ },
+ {
+  "date": "2026-12-06",
+  "end_date": "2026-12-12",
+  "name": "NeurIPS 2026",
+  "category": "ai",
+  "region": "Asia",
+  "confidence": "confirmed",
+  "sources": [
+   "https://neurips.cc/",
+   "https://aiweekly.co/alerts/neurips-2026-splits-across-sydney-atlanta-and-paris-in-december"
+  ],
+  "notes": "Main site Sydney, Australia (6-12 Dec); satellites Atlanta and Paris 9-13 Dec per neurips.cc homepage. Top AI research conference; source of frontier-model trend content."
+ },
+ {
+  "date": "2027-01-06",
+  "end_date": "2027-01-09",
+  "name": "CES 2027",
+  "category": "ai",
+  "region": "US",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.ces.tech/",
+   "https://www.opencurious.com/tech-events/ces-2027"
+  ],
+  "notes": "Las Vegas, NV (LVCC and other venues); media days start a few days earlier. Sets the year's consumer-AI narrative that D2C brands ride."
+ },
+ {
+  "date": "2027-02-01",
+  "end_date": null,
+  "name": "Effie India Awards (26th edition)",
+  "category": "marketing",
+  "region": "India",
+  "confidence": "tbc",
+  "sources": [
+   "https://www.exchange4media.com/industry-briefing-news/the-adclub-to-host-effie-india-awards-on-january-24-2025-140306.html",
+   "https://in.eventfaqs.com/2026/02/16/effie-india-awards-2025-celebrates-25th-edition-nestle-india-ltd-and-leo-india-take-top-honours/"
+  ],
+  "notes": "Mumbai (The Advertising Club). 2027 date not announced; previous galas 24 Jan 2025 (24th) and ~13 Feb 2026 at Taj Lands' End (25th). India's marketing-effectiveness benchmark; ideal for ROI/effectiveness content."
+ },
+ {
+  "date": "2027-02-01",
+  "end_date": null,
+  "name": "Nasscom Technology & Leadership Forum (NTLF) 2027",
+  "category": "ai",
+  "region": "India",
+  "confidence": "tbc",
+  "sources": [
+   "https://nasscom.in/ntlf/",
+   "https://cxotoday.com/press-release/ntlf-2024-to-focus-on-shaping-the-techade-through-ai-human-dynamics-and-global-innovation/"
+  ],
+  "notes": "Likely Mumbai. 2027 dates not announced; past editions 20-21 Feb 2024 (Jio World Centre) and 24-25 Feb 2025 (Grand Hyatt Mumbai). Nasscom's flagship tech forum with a heavy AI agenda for Indian enterprise."
+ },
+ {
+  "date": "2027-02-11",
+  "end_date": "2027-02-12",
+  "name": "IAMAI India Digital Summit 2027",
+  "category": "marketing",
+  "region": "India",
+  "confidence": "estimate",
+  "sources": [
+   "https://www.iamai.in/events/india-digital-summit",
+   "https://www.iamai.in/conference-exhibition"
+  ],
+  "notes": "Leela Bharatiya City, Bengaluru. Live IAMAI pages show 11-12 Feb 2027; older search-index snapshots of IAMAI showed 29-30 Jan 2027, and no independent press yet, so re-check. 2026 edition (20th) was 29-30 Jan. India's top digital-ecosystem summit; core D2C/CMO audience."
+ },
+ {
+  "date": "2027-03-15",
+  "end_date": "2027-03-18",
+  "name": "NVIDIA GTC 2027",
+  "category": "ai",
+  "region": "US",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.nvidia.com/en-zz/gtc/faq/",
+   "https://www.nvidia.com/gtc/call-for-submissions/"
+  ],
+  "notes": "San Jose McEnery Convention Center, San Jose, CA. Official FAQ says 14-18 Mar (14 = pre-conference day); homepage banner and CFP page say 15-18 Mar core. Keynote drives the AI infra/agent news cycle."
+ },
+ {
+  "date": "2027-04-13",
+  "end_date": "2027-04-15",
+  "name": "Google Cloud Next 2027",
+  "category": "ai",
+  "region": "US",
+  "confidence": "confirmed",
+  "sources": [
+   "https://reg.googlecloudevents.com/flow/googlecloud/next27/vegas/page/home",
+   "https://www.opencurious.com/tech-events/google-cloud-next-2027"
+  ],
+  "notes": "Mandalay Bay Convention Center, Las Vegas (select programming 12 Apr). Gemini/agent launches for enterprise marketing and analytics."
+ },
+ {
+  "date": "2027-05-01",
+  "end_date": null,
+  "name": "Goafest 2027 (incl. ABBY Awards)",
+  "category": "marketing",
+  "region": "India",
+  "confidence": "tbc",
+  "sources": [
+   "https://www.storyboard18.com/amp/advertising/aaai-tac-announce-goafest-2026-to-be-held-in-goa-from-may-20-22-with-abby-awards-91291.htm",
+   "https://lbbonline.com/news/Goafest-Returns-for-2026"
+  ],
+  "notes": "Goa (AAAI + The Advertising Club). Not announced; 2026 was 20-22 May, 2025 21-23 May, 2024 29-31 May. India's biggest ad festival; ABBYs set creative benchmarks."
+ },
+ {
+  "date": "2027-05-01",
+  "end_date": null,
+  "name": "Google I/O 2027",
+  "category": "ai",
+  "region": "US",
+  "confidence": "tbc",
+  "sources": [
+   "https://www.engadget.com/general/google-io-2026-is-set-for-may-19-and-20-200805024.html",
+   "https://www.opencurious.com/tech-events/google-io-2027"
+  ],
+  "notes": "Likely Shoreline Amphitheatre, Mountain View. Not announced; 2026 was 19-20 May. Gemini/Search AI changes directly affect SEO and ads."
+ },
+ {
+  "date": "2027-05-01",
+  "end_date": null,
+  "name": "Google Marketing Live 2027",
+  "category": "marketing",
+  "region": "Global",
+  "confidence": "tbc",
+  "sources": [
+   "https://www.googlemarketinglive.com/digital/US-2026",
+   "https://searchengineland.com/google-marketing-live-2026-set-for-may-20-471141"
+  ],
+  "notes": "Virtual/livestream. Not announced; 2026 was 20 May (EMEA 21 May). Most important AI-ads product event for performance marketers."
+ },
+ {
+  "date": "2027-05-01",
+  "end_date": null,
+  "name": "Microsoft Build 2027",
+  "category": "ai",
+  "region": "US",
+  "confidence": "tbc",
+  "sources": [
+   "https://www.neowin.net/amp/microsoft-announces-build-2026-dates-promises-a-no-fluff-event/",
+   "https://www.opencurious.com/tech-events/microsoft-build-2027"
+  ],
+  "notes": "Venue TBA (2026 was Fort Mason, San Francisco, 2-3 Jun; 2025 Seattle, 19-22 May) - could be June. Copilot/agent platform news."
+ },
+ {
+  "date": "2027-05-11",
+  "end_date": "2027-05-13",
+  "name": "Social Media Week 2027",
+  "category": "marketing",
+  "region": "US",
+  "confidence": "estimate",
+  "sources": [
+   "https://socialmediatoday.com/news/top-social-media-conferences-2027/832231",
+   "https://event.adweek.com/smw-2027"
+  ],
+  "notes": "Metropolitan Pavilion, New York (Adweek). Dates only from Social Media Today; official page shows venue but no dates. 2026 was 14-16 Apr. Social/creator marketing trends."
+ },
+ {
+  "date": "2027-05-25",
+  "end_date": "2027-05-28",
+  "name": "Web Summit Vancouver 2027",
+  "category": "ai",
+  "region": "Canada",
+  "confidence": "confirmed",
+  "sources": [
+   "https://vancouver.websummit.com/web-summit-vancouver-2027/",
+   "https://dailyhive.com/vancouver/web-summit-vancouver-2026-2027"
+  ],
+  "notes": "Vancouver, Canada (Vancouver Convention Centre in prior years; tagged US as nearest North America region). Startup/AI stage for North American audience."
+ },
+ {
+  "date": "2027-06-01",
+  "end_date": null,
+  "name": "Apple WWDC 2027",
+  "category": "ai",
+  "region": "US",
+  "confidence": "tbc",
+  "sources": [
+   "https://9to5mac.com/guides/wwdc-2026/page/3/",
+   "https://www.opencurious.com/tech-events/wwdc-2027"
+  ],
+  "notes": "Apple Park, Cupertino + online. Not announced; 2026 was 8-12 Jun. Apple Intelligence and privacy changes affect mobile attribution and app marketing."
+ },
+ {
+  "date": "2027-06-21",
+  "end_date": "2027-06-25",
+  "name": "Cannes Lions 2027",
+  "category": "marketing",
+  "region": "Europe",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.canneslions.com/",
+   "https://en.cannes-france.com/offers/cannes-lions-international-festival-of-creativity-cannes-en-3657190/"
+  ],
+  "notes": "Palais des Festivals, Cannes, France (74th edition). Global creativity benchmark; AI-in-creative is now a dominant theme."
+ },
+ {
+  "date": "2027-06-21",
+  "end_date": "2027-06-22",
+  "name": "Geneva AI Summit 2027 (successor to India AI Impact Summit)",
+  "category": "ai",
+  "region": "Europe",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.bakom.admin.ch/en/geneva-ai-summit-2027-international-summit-on-artificial-intelligence-in-geneva",
+   "https://digitalswitzerland.com/news/geneva-ai-summit-scheduled-for-june-21-and-22-2027-a-major-milestone-for-switzerlands-ai-future"
+  ],
+  "notes": "Palexpo, Geneva, Switzerland; co-chaired with UAE (host 2028). Global AI-governance summit following India's Feb 2026 summit; India-angle policy content."
+ },
+ {
+  "date": "2027-07-16",
+  "end_date": null,
+  "name": "AI Appreciation Day",
+  "category": "ai",
+  "region": "Global",
+  "confidence": "confirmed",
+  "sources": [
+   "https://indiaai.gov.in/article/ai-appreciation-day-2024-celebrating-innovation-and-collaboration",
+   "https://www.businesstoday.in/technology/news/story/india-celebrates-ai-appreciation-day-today-heres-what-industry-leaders-are-saying-484837-2025-07-16"
+  ],
+  "notes": "Fixed annual observance (16 Jul, since 2021); informal/marketing-driven but covered by IndiaAI and Indian business press. Natural brand-moment post."
+ },
+ {
+  "date": "2027-07-31",
+  "end_date": "2027-08-06",
+  "name": "ICML 2027",
+  "category": "ai",
+  "region": "Brazil",
+  "confidence": "confirmed",
+  "sources": [
+   "https://icml.cc/",
+   "https://www.beri.net/events/icml-2027"
+  ],
+  "notes": "Riocentro, Rio de Janeiro, Brazil. Expo 31 Jul, tutorials 1 Aug, main conference 2-4 Aug, workshops 5-6 Aug. Top ML research venue."
+ },
+ {
+  "date": "2027-09-01",
+  "end_date": null,
+  "name": "LIONS Asia 2027 (formerly Spikes Asia)",
+  "category": "marketing",
+  "region": "Asia",
+  "confidence": "tbc",
+  "sources": [
+   "https://www.medianews4u.com/spikes-asia-to-evolve-into-lions-asia-in-september-2027/"
+  ],
+  "notes": "Singapore, September 2027 (month reported, days not announced; single source). Spikes Asia rebrands to LIONS Asia Festival of Creativity + Asia Lions Awards. APAC creative benchmark incl. India."
+ },
+ {
+  "date": "2027-09-01",
+  "end_date": null,
+  "name": "Meta Connect 2027",
+  "category": "ai",
+  "region": "US",
+  "confidence": "tbc",
+  "sources": [
+   "https://www.meta.com/blog/connect-2026-save-the-date/",
+   "https://roadtovr.com/meta-connect-2026-date-announcement/"
+  ],
+  "notes": "Meta HQ, Menlo Park, CA + online. Not announced; 2026 was 23-24 Sep. Meta AI and ad-tooling news matter for D2C on Instagram/WhatsApp."
+ },
+ {
+  "date": "2027-09-08",
+  "end_date": "2027-09-10",
+  "name": "HubSpot UNBOUND 2027 (formerly INBOUND)",
+  "category": "marketing",
+  "region": "US",
+  "confidence": "confirmed",
+  "sources": [
+   "https://unbound.hubspot.com/",
+   "https://www.opencurious.com/tech-events/hubspot-unbound-2027"
+  ],
+  "notes": "Boston, MA. INBOUND renamed UNBOUND in 2026. Go-to-market/AI-CRM conference; B2B marketing hook."
+ },
+ {
+  "date": "2027-09-22",
+  "end_date": "2027-09-23",
+  "name": "DMEXCO 2027",
+  "category": "marketing",
+  "region": "Europe",
+  "confidence": "confirmed",
+  "sources": [
+   "https://dmexco.com/",
+   "https://travel2fair.com/exhibitions/dmexco/22-september-2027-23-september-2027?page=3"
+  ],
+  "notes": "Koelnmesse, Cologne, Germany. Europe's leading digital-marketing/adtech expo; AI-ads and measurement themes."
+ },
+ {
+  "date": "2027-10-01",
+  "end_date": null,
+  "name": "Advertising Week New York 2027",
+  "category": "marketing",
+  "region": "US",
+  "confidence": "tbc",
+  "sources": [
+   "https://advertisingweek.com/awnewyork-2026/news/advertising-week-new-york-new-dates-and-venue/66/",
+   "https://www.tubefilter.com/2025/09/23/advertising-week-new-york-2025/"
+  ],
+  "notes": "New York (2026 at The Penn District, 5-8 Oct; 2025 6-9 Oct). 2027 not announced. Major US ad-industry week."
+ },
+ {
+  "date": "2027-10-01",
+  "end_date": null,
+  "name": "OpenAI DevDay 2027",
+  "category": "ai",
+  "region": "US",
+  "confidence": "tbc",
+  "sources": [
+   "https://openai.com/index/devday-2026/",
+   "https://www.digit.in/news/general/openai-devday-2026-date-india-time-and-what-to-expect-from-sam-altmans-keynote.html"
+  ],
+  "notes": "Likely San Francisco. Not announced; 2026 was 29 Sep (Fort Mason), 2025 6 Oct, 2024 1 Oct. Model/API launches that power AI marketing tools."
+ },
+ {
+  "date": "2027-11-08",
+  "end_date": "2027-11-11",
+  "name": "Web Summit 2027",
+  "category": "marketing",
+  "region": "Europe",
+  "confidence": "estimate",
+  "sources": [
+   "https://websummit.com/",
+   "https://www.beat102103.com/news/web-summit-agrees-e110m-deal-to-stay-in-lisbon-for-10-years-1823184"
+  ],
+  "notes": "Lisbon, Portugal. Dates shown on websummit.com only; second source only confirms Lisbon through 2028. Same AI/startup hook as the 2026 edition."
+ }
+]

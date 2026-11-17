@@ -1,0 +1,140 @@
+{
+  "id": "ig-2027-01-15-how-to-brief-a-regional-language-ad",
+  "slug": "how-to-brief-a-regional-language-ad",
+  "platform": "instagram",
+  "date": "2027-01-15",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Framework",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "How to brief a regional-language ad",
+  "hook": "A Tamil ad written in English and then translated is still an English ad.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "A Tamil ad written in English and then translated is still an English ad.\n\nThe words change. The setting, the face and the reason to buy stay where they were.\n\nBrief the buyer in that market first. Then give a native writer the message and the proof, with no fixed lines. Cast and setting should be ones the viewer recognises. A second native speaker reviews before it ships.\n\nThe last slide has six lines to add to any regional brief. Save it for your next one.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#digitalmarketingindia",
+    "#ugcads"
+  ],
+  "alt_text": "Eight-slide carousel. Slide 1: how to brief a regional-language ad that is more than a translation. Slide 2: the usual way, write in English, translate, dub, ship. Slide 3: brief the buyer in that market. Slide 4: brief the idea and let a native writer write. Slide 5: cast and setting speak before the words do. Slide 6: a second native speaker reviews it. Slide 7: six lines to add to any regional brief. Slide 8: follow @galvor.ai.",
+  "cta": "Save the six lines for the next regional brief",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Framework",
+        "headline": "How to brief a regional-language ad that is *more than a translation*",
+        "sub": "Six lines to add to your brief."
+      },
+      {
+        "layout": "text",
+        "kicker": "The usual way",
+        "headline": "Write in English, *translate*, dub, ship",
+        "body": "The words change. The joke, the setting, the face and the reason to buy stay where they were.\n\nViewers hear their language and see someone else's life."
+      },
+      {
+        "layout": "list",
+        "kicker": "Start here",
+        "headline": "Brief the *buyer* in that market",
+        "items": [
+          "Who buys this in Coimbatore or Indore, and why?",
+          "What do they use today instead?",
+          "What would make them doubt it?"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Then the script",
+        "headline": "Brief the *idea*. A native writer writes it.",
+        "items": [
+          "Give the message and the proof, no fixed lines",
+          "Ask for the way people speak at home",
+          "Agree how the product name is said aloud"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "What is on screen",
+        "headline": "*Cast and setting* speak before the words do",
+        "items": [
+          "A face and a home the viewer recognises",
+          "Food, festivals and prices that fit the place",
+          "On-screen text in the same language as the voice"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Before it ships",
+        "headline": "A *second native speaker* reviews it",
+        "items": [
+          "Someone who did not write it",
+          "Does it sound like a person or like an ad?",
+          "Did the claims survive the change of language?"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "Add *six lines* to any regional brief",
+        "items": [
+          "Buyer in this market:",
+          "Their reason to buy:",
+          "Message and proof (no fixed lines):",
+          "Cast and setting:",
+          "How the product name is said:",
+          "Native reviewer:"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Brief the market. *The language follows.*",
+        "sub": "Save this for your next regional brief.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the six lines",
+          "Send to your creative lead"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a brand or creative manager commissioning Tamil, Hindi, Marathi or other regional ads. One argument: brief the buyer and the idea in that market and let a native writer write, because translation keeps the wrong ad. Shape: how-to. No numbers used. City names are examples of markets, not client references. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:56:37",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-15 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:05",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-122",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

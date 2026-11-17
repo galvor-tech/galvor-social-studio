@@ -1,0 +1,22 @@
+The best AI ad brief starts with an old ad.
+Specifically, the message from the ad that has already sold for you.
+
+Two findings from our analysis of new video ads launched from May to September 2026:
+
+A proven message in a new look got 47% more first-month spend.
+A new message over a familiar first shot got 16% less.
+
+Most prompts run the other way. “Make ten fresh concepts for our serum” asks for new messages, and the tool tends to wrap them in the look it has seen most.
+
+A four-line brief that follows the data:
+
+Keep: the one promise that has sold before, in the customer's words.
+Change: the first shot, the setting and the person on screen.
+Avoid: describe the ads you are running now, so the tool steers away from them.
+Measure: the single number that decides whether this version stays.
+
+That is what we mean by AI-informed creative. Your own results set the brief, and the model does the making.
+
+Use the tool for speed. Let your history choose the direction.
+
+#AIinMarketing #AdCreative #D2C

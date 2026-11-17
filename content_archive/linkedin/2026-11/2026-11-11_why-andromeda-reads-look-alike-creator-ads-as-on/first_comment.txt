@@ -1,0 +1,6 @@
+Sources:
+Meta's Andromeda numbers (over a billion ads a second, 100× the 2024 system, +2.4% conversions on Facebook since 2025) are from Meta's public statements, as cited in Decoded by Galvor #3. A good summary of the October update: https://www.linkedin.com/posts/anand-tuli_meta-andromeda-what-the-october-28-update-activity-7525372800962990080-kl74
+
+The 36% / 48% / 16% / 47% figures and the method are in Decoded #3: [DECODED #3 LINK + UTM]
+
+Follow Galvor for more teardowns like this.

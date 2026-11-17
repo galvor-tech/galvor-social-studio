@@ -1,0 +1,37 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Voices · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="tabs hub"><a href="/voices" class="on">Voices</a><a href="/prompts">Writing prompts</a></div>
+<h1>Voices</h1>
+<p class="sub">Posts go out from Sunil, Raj, Shrutik and the Galvor page. Everything on this page is given to the writer each time it drafts for that person. Paste 10 to 15 posts each person really wrote: that is what makes a draft sound like them, and without it the writer keeps the voice plain and does not imitate a style.</p>
+
+{% for key, v in voices.items() %}
+<div class="panel" id="v-{{ key }}">
+  <div class="panel-h plain" style="gap:10px"><span class="voice-chip" style="background:{{ v.color }}">{{ v.initials }}</span>
+    <h3 class="grow">{{ v.name }} <span class="muted small" style="font-weight:400">· {{ v.role }}</span></h3>
+    <span class="pill {{ 's-approved' if v.samples|length >= 10 else ('warn' if v.samples else 'err') }}">{{ v.samples|length }} of 10+ real posts saved</span>
+    <span class="small muted">{{ counts.get(key, 0) }} LinkedIn posts in the calendar</span></div>
+  <div style="padding:14px 18px">
+    <p class="small" style="margin:0 0 10px"><b>Lens:</b> {{ v.lens }}{% if v.series %} · <b>Series:</b> {{ v.series }}{% endif %}</p>
+    <div class="grid g3" style="gap:12px">
+      <div><label class="f">Tone</label><textarea class="in" data-f="tone" style="min-height:96px">{{ v.tone }}</textarea></div>
+      <div><label class="f">Always</label><textarea class="in" data-f="do" style="min-height:96px">{{ v.do }}</textarea></div>
+      <div><label class="f">Never</label><textarea class="in" data-f="dont" style="min-height:96px">{{ v.dont }}</textarea></div>
+    </div>
+    <label class="f" style="margin-top:12px">Real posts by {{ v.name.split(' ')[0] }} (paste each post, with a line containing only --- between posts)</label>
+    <textarea class="in" data-f="samples_text" style="min-height:{{ 220 if v.samples else 110 }}px" placeholder="Paste a post here&#10;---&#10;Paste the next post here">{{ v.samples|join('\n---\n') }}</textarea>
+    <div class="row" style="margin-top:10px"><button class="btn primary" onclick="saveVoice('{{ key }}')">Save {{ v.name.split(' ')[0] }}'s voice</button>
+      <span class="small muted">Up to 15 posts are kept; the 4 most recent are shown to the writer on each draft.</span></div>
+  </div>
+</div>
+{% endfor %}
+
+<script>
+async function saveVoice(key) {
+  const box = document.getElementById('v-' + key), body = {};
+  box.querySelectorAll('[data-f]').forEach(el => body[el.dataset.f] = el.value);
+  const j = await api('/api/voices/' + key, body);
+  toast(j.ok ? 'Saved · ' + j.samples + ' posts on file' : (j.error || 'Failed'), 4000); if (j.ok) setTimeout(() => location.reload(), 700);
+}
+</script>
+{% endblock %}

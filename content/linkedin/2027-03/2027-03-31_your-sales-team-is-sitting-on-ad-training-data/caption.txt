@@ -1,0 +1,20 @@
+Your sales team is sitting on ad-training data.
+
+Many of the accounts I've looked at optimise ads on what Meta can see: clicks, add-to-carts, purchases. For high-consideration products, a lot of the buying happens after that. A call, a WhatsApp chat, a demo, a second visit.
+
+The people who know which leads were real sit in sales and support. They just never tell the ad system.
+
+Three things from the sales side I'd want feeding the ads:
+1. Which leads became customers. Not just how many leads came in.
+2. Why the ones who didn't buy said no. Price? Wrong product? Not the person the ad promised?
+3. What customers said in their own words on the call. Those lines often make better hooks than anything we'd write.
+
+The first goes back to Meta as offline conversions, so it learns which people actually buy. The second and third go into the next brief.
+
+When this loop is missing, the ads keep finding more people like the ones who fill in forms, not the ones who pay.
+
+If your sales team keeps a lead-quality sheet that nobody in marketing opens, start there.
+
+What does your sales team know about your ads that your dashboard doesn't?
+
+#PerformanceMarketing #MetaAds #MarketingAnalytics

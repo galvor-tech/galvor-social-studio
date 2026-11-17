@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sign in · Galvor Social Studio</title>
+<link rel="icon" href="{{ url_for('static', filename='brand/galvor-mark.png') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+</head>
+<body style="display:grid;place-items:center;min-height:100vh;background:var(--bg-soft)">
+<div class="card" style="width:min(420px,92vw);padding:32px 30px;text-align:center">
+  <img src="{{ url_for('static', filename='brand/galvor-mark.png') }}" alt="" style="width:48px;height:48px">
+  <h1 style="font-size:24px;margin:14px 0 6px">Galvor Social Studio</h1>
+  <p class="muted" style="margin:0 0 22px">Sign in with your {{ domains|map('string')|map('replace','', '@', 1)|join(' / ') }} account.</p>
+  {% if error %}<div class="flash error" style="text-align:left">{{ error }}</div>{% endif %}
+  <a class="btn primary" style="width:100%;justify-content:center;padding:11px" href="{{ url_for('auth_login') }}">Continue with Google</a>
+</div>
+</body></html>

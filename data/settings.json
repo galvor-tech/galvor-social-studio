@@ -1,0 +1,32 @@
+{
+  "ai_provider": "auto",
+  "anthropic_model": "claude-opus-5-5",
+  "gemini_model": "",
+  "chrome_path": "",
+  "public_base_url": "https://studio.galvor.ai",
+  "linkedin_access_token": "",
+  "linkedin_org_urn": "",
+  "linkedin_person_urns": {},
+  "instagram_access_token": "",
+  "instagram_user_id": "",
+  "auto_publish": false,
+  "scheduler_enabled": true,
+  "reminder_minutes": 30,
+  "auth_mode": "off",
+  "google_client_id": "",
+  "google_client_secret": "",
+  "allowed_domains": [
+    "galvor.com"
+  ],
+  "base_url": "https://studio.galvor.ai",
+  "notify_email": true,
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "",
+  "smtp_password": "",
+  "smtp_from": "",
+  "chat_webhook": "",
+  "local_user_email": "suyash@galvor.com",
+  "calendar_start": "2026-11-19",
+  "discover_auto": false
+}

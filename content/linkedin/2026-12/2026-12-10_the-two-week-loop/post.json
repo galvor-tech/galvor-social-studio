@@ -1,0 +1,66 @@
+{
+  "id": "li-2026-12-10-the-two-week-loop",
+  "slug": "the-two-week-loop",
+  "platform": "linkedin",
+  "date": "2026-12-10",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Product / Demo",
+  "job": "De-risk",
+  "format": "image",
+  "series": "",
+  "title": "Why we review creative every two weeks, and the four-part agenda",
+  "hook": "A quarterly creative review looks at ads that have already been replaced.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "A quarterly creative review looks at ads that have already been replaced.\nA weekly one looks at ads that have not settled. We run ours every two weeks.\n\nTwo weeks is long enough for a new ad to gather data you can read, and short enough for the finding to change the next brief.\n\nFour parts, same order every time:\n\nDecode. What ran, and what each ad was made of: hook, cast, pacing, setting, CTA.\nProve. Which attributes moved cost per order, and which only looked good.\nCreate. The next briefs, written from what was proved.\nRun. What to scale, what to cut, where to shift spend.\n\nOne rule: the meeting ends when the next brief has changed because of it.\n\nYou can run this from a spreadsheet. The cadence is what most teams are missing.",
+  "first_comment": "Decoded #12, out in January, walks through a full fortnightly cycle. Follow Galvor to get it.",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#PerformanceMarketing",
+    "#D2C"
+  ],
+  "alt_text": "List card on a violet background titled: Four questions, every two weeks. Decode: what was each ad made of? Prove: which attribute moved cost per order? Create: what does the next brief change? Run: what do we scale, cut or shift?",
+  "cta": "Soft: follow Galvor for Decoded #12",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "The fortnightly review",
+        "headline": "Four questions, *every two weeks*",
+        "items": [
+          "Decode: what was each ad made of?",
+          "Prove: which attribute moved cost per order?",
+          "Create: what does the next brief change?",
+          "Run: what do we scale, cut or shift?"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: stacked. Reader: a head of growth who reviews creative monthly or quarterly and doubts a fortnightly cadence is worth the time. Written as a method the reader can run without the product. No statistics; 'every two weeks' is the loop cadence from the facts bank. Decoded #12 (6 Jan) is the matching issue but is not out on this date.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:30",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-OPEN-05",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

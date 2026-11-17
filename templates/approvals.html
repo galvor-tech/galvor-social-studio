@@ -1,0 +1,42 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Approvals · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.create_tabs('pipeline') }}
+<h1>Approvals</h1>
+<p class="sub">Draft → Designed → <b>In review</b> → Approved → Scheduled → Published. Sunil signs off anything that names a client or makes a claim. Posts with blocking issues can't be approved.</p>
+
+{% if mine %}
+<div class="panel">
+  <div class="panel-h peach"><h3>Assigned to you</h3><span class="count">{{ mine|length }}</span><small>You're the reviewer on these.</small></div>
+  {% for p in mine %}
+  {% set acts %}<button class="btn sm soft" onclick="setStatus('{{ p.id }}','approved')">Approve</button><button class="btn sm" onclick="var n=prompt('What needs changing?');if(n!==null)setStatus('{{ p.id }}','draft',{note:n})">Send back</button>{% endset %}
+  {{ m.row(p, true, acts) }}
+  {% endfor %}
+</div>
+{% endif %}
+<div class="panel">
+  <div class="panel-h lav"><h3>Waiting for sign-off</h3><span class="count">{{ review|length }}</span><small>Approve or send back with a note.</small></div>
+  {% for p in review %}
+  {% set ls = lint_summary(p) %}
+  {% set acts %}{% if ls.errors %}<span class="pill err">{{ ls.errors }} blocking</span>{% elif ls.warns %}<span class="pill warn">{{ ls.warns }} warnings</span>{% endif %}<span class="small muted">Waiting on {{ ((p.review or {}).reviewer_names or (reviewers_for(p)|map(attribute='name')|list))|join(', ') }}</span>{% if can_approve(p) %}<button class="btn sm soft" onclick="setStatus('{{ p.id }}','approved')">Approve</button><button class="btn sm" onclick="var n=prompt('What needs changing?');if(n!==null)setStatus('{{ p.id }}','draft',{note:n})">Send back</button>{% endif %}{% endset %}
+  {{ m.row(p, true, acts) }}
+  {% else %}<div class="empty">Nothing waiting. Send drafts for review from the list below or from a post page.</div>{% endfor %}
+</div>
+
+<div class="panel">
+  <div class="panel-h mint"><h3>Approved, not yet scheduled</h3><span class="count">{{ approved|length }}</span></div>
+  {% for p in approved %}
+  {% set acts %}<button class="btn sm soft" onclick="setStatus('{{ p.id }}','scheduled')">Schedule</button>{% endset %}
+  {{ m.row(p, true, acts) }}
+  {% else %}<div class="empty">None.</div>{% endfor %}
+</div>
+
+<div class="panel">
+  <div class="panel-h plain"><h3>Drafts coming up</h3><span class="count">{{ ready|length }}</span><small>Next 40 upcoming drafts.</small></div>
+  {% for p in ready %}
+  {% set ls = lint_summary(p) %}
+  {% set acts %}{% if ls.errors %}<span class="pill err">{{ ls.errors }} blocking</span>{% endif %}<span class="small muted">→ {{ reviewers_for(p)|map(attribute='name')|join(', ') }}</span><button class="btn sm" onclick="setStatus('{{ p.id }}','in_review')" {{ 'disabled' if ls.errors }}>Send for review</button>{% endset %}
+  {{ m.row(p, true, acts) }}
+  {% else %}<div class="empty">No drafts.</div>{% endfor %}
+</div>
+{% endblock %}

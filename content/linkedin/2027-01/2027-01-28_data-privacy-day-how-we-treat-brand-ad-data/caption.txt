@@ -1,0 +1,15 @@
+Six questions to ask before you connect your ad account to anything.
+It is Data Privacy Day, and most D2C teams grant access in one click, mid-demo.
+
+Your ad account holds your spend, your creative and what your customers respond to. Any tool that reads it, ours included, should answer these in writing:
+
+1. Do you need read access or manage access, and why?
+2. Who inside your company can see our data?
+3. Is our data used to train models or build benchmarks that other brands see?
+4. If it is pooled, how is it anonymised?
+5. What happens to our data when we leave, and how soon?
+6. Can we see a log of what was accessed?
+
+A good vendor has the answers ready. A slow or vague reply is an answer too.
+
+#DataPrivacyDay #D2C #AIinMarketing

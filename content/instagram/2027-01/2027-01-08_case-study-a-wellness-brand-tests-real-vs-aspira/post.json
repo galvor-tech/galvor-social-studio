@@ -1,0 +1,120 @@
+{
+  "id": "ig-2027-01-08-case-study-a-wellness-brand-tests-real-vs-aspira",
+  "slug": "case-study-a-wellness-brand-tests-real-vs-aspira",
+  "platform": "instagram",
+  "date": "2027-01-08",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Proof / Case Study",
+  "job": "Convert",
+  "format": "carousel",
+  "series": "",
+  "title": "Case study: a wellness brand, real content versus aspirational",
+  "hook": "An Ayurvedic supplements brand put real content against aspirational content. The uplift was 2.6×.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "An Ayurvedic supplements brand put real content against aspirational content. The uplift was 2.6×.\n\nWellness ads often lean polished. The open question was whether buyers trust that, or something closer to their own life.\n\nFor this brand, real won. Its results with Galvor: +91% RoAS and +135% hold rate (anonymised client, galvor.ai/results).\n\nOne brand is a signal, so test it in your own category. The last slide shows how to set it up fairly: same product, same offer, same claim, two looks.\n\nSave it and follow @galvor.ai.",
+  "first_comment": "More anonymised results on galvor.ai/results.",
+  "hashtags": [
+    "#ugcads",
+    "#adcreative",
+    "#d2cindia",
+    "#performancemarketing",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: real content versus aspirational, one brand's 2.6× answer. Slide 2: the question, does a supplement sell better polished or real. Slide 3: 2.6× uplift for real content versus aspirational content. Slide 4: +135% hold rate. Slide 5: +91% RoAS. Slide 6: how to run the same test fairly in five lines. Slide 7: your category may answer differently, test it, follow @galvor.ai.",
+  "cta": "Save the test set-up; more results via link in bio",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Case study",
+        "headline": "Real content versus aspirational: one brand's *2.6×* answer",
+        "sub": "An Ayurvedic supplements D2C brand. Anonymised."
+      },
+      {
+        "layout": "text",
+        "kicker": "The question",
+        "headline": "Does a supplement sell better *polished* or *real*?",
+        "body": "Wellness ads often lean aspirational, with ideal mornings and flawless people.\n\nThe open question was whether buyers trust that, or trust something closer to their own life."
+      },
+      {
+        "layout": "stat",
+        "kicker": "The answer",
+        "stat": "2.6×",
+        "headline": "uplift for *real content* versus aspirational content",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Attention",
+        "stat": "+135%",
+        "headline": "*hold rate* for the brand",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Return",
+        "stat": "+91%",
+        "headline": "*RoAS* for the brand",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "*Real versus polished*, tested fairly",
+        "items": [
+          "Same product, same offer, same claim",
+          "Version A: studio, styled, scripted",
+          "Version B: a real home, a real routine",
+          "Judge on hold rate and cost per order",
+          "Write down the answer for the next brief"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Your category may answer differently. *Test it.*",
+        "sub": "More anonymised results: link in bio.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the test set-up",
+          "See more results: link in bio"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH the client servicing team: (1) that 'real content versus aspirational content' is a fair plain description of what the 2.6× compares, (2) which metric the 2.6× uplift is measured on, so the slide can name it, and (3) that this anonymised description is cleared for Instagram. Job: Convert. Reader: a wellness or beauty founder deciding how polished the next shoot should be. Numbers used, all from the facts bank (galvor.ai/results, wellness, Ayurvedic supplements D2C): 2.6× uplift vs aspirational content, +135% hold rate, +91% RoAS. The post does not describe how the brand's test was run, because the facts bank does not say; the last slide is a general way to run such a test, not an account of the client's. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:55:55",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-08 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:23:33",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-115",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

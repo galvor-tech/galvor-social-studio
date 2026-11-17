@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Brand guide · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.playbook_tabs('brand') }}
+<h1>Brand guide</h1>
+<p class="sub">The single brief for every post, whether a person or the AI writes it. Source file: <code>studio/data/CONTENT_SPEC.md</code>.</p>
+<div class="grid g4" style="margin-bottom:18px">
+  {% for name, hex in [('Galvor violet','#7A36EB'),('Deep violet','#22104D'),('Night','#160A33'),('Gold accent','#FFC43D')] %}
+  <div class="card" style="padding:0;overflow:hidden"><div style="height:70px;background:{{ hex }}"></div><div style="padding:10px 14px"><b>{{ name }}</b><div class="small muted">{{ hex }}</div></div></div>
+  {% endfor %}
+</div>
+<div class="card"><h4>Creative template</h4><p class="small">Every image: Plus Jakarta Sans · violet gradient with dot grid · <b>Galvor logo pill top-left</b> · gold highlights · author chip (LinkedIn personal) or #KnowWhyYourAdsWin · galvor.ai / “Swipe →”. Sizes: 1080×1350 feed, 1080×1920 story/reel cover.</p></div>
+<div class="card prose">{{ html }}</div>
+{% endblock %}

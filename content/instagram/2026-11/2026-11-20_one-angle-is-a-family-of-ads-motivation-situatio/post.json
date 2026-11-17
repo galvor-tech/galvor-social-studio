@@ -1,0 +1,128 @@
+{
+  "id": "ig-2026-11-20-one-angle-is-a-family-of-ads-motivation-situatio",
+  "slug": "one-angle-is-a-family-of-ads-motivation-situatio",
+  "platform": "instagram",
+  "date": "2026-11-20",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Framework",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "One angle hides three buyers: motivation, situation, objection",
+  "hook": "“Better sleep” is one angle. At least three different people are buying it.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "“Better sleep” is one angle. At least three different people are buying it.\n\nMost teams write one ad per angle. That ad speaks to one kind of buyer, and when it slows down the whole angle gets blamed.\n\nSplit the angle three ways before you brief it:\nMotivation: why they want it.\nSituation: when they need it.\nObjection: what stops them.\n\nEach answer is a different person and deserves a different ad, starting with a different first shot.\n\nSave this for your next brief. Follow @galvor.ai for one usable creative idea at a time.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#creativestrategy",
+    "#metaads",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: one angle hides three buyers, write an ad for each. Slide 2: the example angle, better sleep, and why one ad per angle reaches one kind of person. Slides 3 to 5: the angle split by motivation, by situation and by objection, with three examples each. Slide 6: the three-way split as three questions to save. Slide 7: follow @galvor.ai.",
+  "cta": "Save for the next brief; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Framework",
+        "headline": "One angle hides *three buyers*. Write an ad for each.",
+        "sub": "A three-way split you can use on your next brief."
+      },
+      {
+        "layout": "text",
+        "kicker": "The problem",
+        "headline": "Angle: “*better sleep*”",
+        "body": "Most teams write one ad for it.\n\nThat ad speaks to one kind of person. The others scroll past, and the whole angle gets marked as tired."
+      },
+      {
+        "layout": "list",
+        "kicker": "Split 1",
+        "headline": "By *motivation*: why they want it",
+        "items": [
+          "Wake up fresh: the tired professional",
+          "Fall asleep faster: the overthinker",
+          "Sleep without pills: the cautious buyer"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Split 2",
+        "headline": "By *situation*: when they need it",
+        "items": [
+          "After a late shift",
+          "Before an early flight",
+          "With a newborn at home"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Split 3",
+        "headline": "By *objection*: what stops them",
+        "items": [
+          "“I have tried everything”: show proof",
+          "“Is it safe?”: show what is in it",
+          "“Too pricey”: show the cost per night"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "The *three-way split* for any angle",
+        "items": [
+          "Motivation: why do they want it?",
+          "Situation: when do they need it?",
+          "Objection: what stops them?",
+          "Then one ad per answer, each with its own first shot"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Take one angle. Find its *three buyers*.",
+        "sub": "Save this for your next brief.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this framework",
+          "Send it to your script writer"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: the person who writes or approves ad scripts at a D2C brand. One argument: split every angle by motivation, situation and objection, and make one ad per answer. Shape: how-to with a worked example. No numbers used. The sleep examples are illustrations, not client data. Topic kept and sharpened; the old closing line about organising ad sets by buyer is removed so this post is only about the script split.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:51:55",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-20 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:12",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:15",
+  "updated_at": "2026-11-16T21:23:12",
+  "topic_ref": "IG-07",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

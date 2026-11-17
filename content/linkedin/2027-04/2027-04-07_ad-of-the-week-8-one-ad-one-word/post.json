@@ -1,0 +1,106 @@
+{
+  "id": "li-2027-04-07-ad-of-the-week-8-one-ad-one-word",
+  "slug": "ad-of-the-week-8-one-ad-one-word",
+  "platform": "linkedin",
+  "date": "2027-04-07",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Attract",
+  "format": "carousel",
+  "series": "Ad of the Week",
+  "title": "Ad of the Week #8: one ad, one word",
+  "hook": "Ad of the Week #8: one ad, tagged end to end, and the one word it ends in.",
+  "status": "draft",
+  "festival": null,
+  "theme": "New FY, new creative system",
+  "caption": "Ad of the Week #8: one ad, tagged end to end, and the one word it ends in.\n\nEvery teardown I do should end in a decision. Not \"interesting ad\". One of four words: scale, cut, refresh or test.\n\nThis week's ad is a 25-second video for a beard oil from a men's grooming D2C brand. It has been running for a while, in a few versions.\n\nHere's how I tag it:\n\nHook: a close-up of a patchy beard and one line: \"three weeks in, still patchy?\" Clear buyer, clear doubt.\nCast: one man in his twenties at a bathroom mirror. Feels like the buyer.\nProof: a before-and-after at second 12. Strong, but small on a phone screen.\nPacing: the product is named at second 8. Late for a buyer who's already sceptical.\nCTA: an offer and a quiz at once. Two asks.\n\nMy word: refresh.\n\nThe hook and cast are doing the work. Keep them. Bring the product forward, make the before-and-after full-screen, and give it one ask.\n\nHow long an ad has run doesn't tell me it's winning. The attributes tell me which parts are worth keeping.\n\nThat's eight Fridays of Ad of the Week. Thank you for reading every one.",
+  "first_comment": "",
+  "hashtags": [
+    "#AdCreative",
+    "#MetaAds",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Six-slide carousel teardown of an anonymised beard-oil ad: a strong hook and relatable cast, but late product reveal, small before-and-after and two calls to action. Verdict: refresh. Every review should end in scale, cut, refresh or test.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Ad of the Week #8",
+        "headline": "One ad, tagged end to end. *One word* at the end.",
+        "sub": "Scale, cut, refresh or test."
+      },
+      {
+        "layout": "list",
+        "kicker": "What I tagged",
+        "headline": "Five attributes, *one* beard-oil ad",
+        "items": [
+          "Hook — \"three weeks in, still patchy?\"",
+          "Cast — one man at a bathroom mirror",
+          "Proof — before-and-after at second 12",
+          "Pacing — product named at second 8",
+          "CTA — an offer and a quiz at once"
+        ]
+      },
+      {
+        "layout": "compare",
+        "kicker": "Keep vs change",
+        "headline": "What works vs what *leaks*",
+        "left_title": "Keep",
+        "left": [
+          "Hook names the doubt",
+          "Cast feels like the buyer"
+        ],
+        "right_title": "Change",
+        "right": [
+          "Product by second 3",
+          "Full-screen before-and-after",
+          "One ask, not two"
+        ]
+      },
+      {
+        "layout": "statement",
+        "headline": "My word for this ad: *refresh*.",
+        "sub": "Keep the hook and cast. Fix the pacing, proof and CTA."
+      },
+      {
+        "layout": "text",
+        "kicker": "The four words",
+        "headline": "Every review should end in *one of four*.",
+        "body": "Scale: more budget, same ad.\nCut: switch it off.\nRefresh: keep what works, fix what leaks.\nTest: a new idea with a fair share of budget."
+      },
+      {
+        "layout": "cta",
+        "headline": "A dashboard should end in *four words*.",
+        "sub": "Thank you for reading Ad of the Week.",
+        "actions": [
+          "Follow Galvor for more teardowns",
+          "Save this for your next creative review"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "DRAFT PATTERN: Raj must pick a real, currently running ad from the Meta Ad Library that matches this pattern and correct every detail and timestamp in the caption and slides before posting. Brand stays anonymised. Never state or guess spend or results.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:57:52",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:23",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-04-07 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:28",
+  "updated_at": "2026-11-11T01:04:23",
+  "topic_ref": "AotW-08 · R38"
+}

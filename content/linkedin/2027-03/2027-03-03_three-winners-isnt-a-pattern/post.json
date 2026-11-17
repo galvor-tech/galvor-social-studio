@@ -1,0 +1,53 @@
+{
+  "id": "li-2027-03-03-three-winners-isnt-a-pattern",
+  "slug": "three-winners-isnt-a-pattern",
+  "platform": "linkedin",
+  "date": "2027-03-03",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Public Data",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Three winners isn't a pattern",
+  "hook": "Three winners isn't a pattern.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Year-end budgets: spend that teaches",
+  "caption": "Three winners isn't a pattern.\n\nThis one comes up when I sit in on creative reviews. Someone notices that the last three winning ads all had a founder on camera. By the end of the meeting, it's a rule: founder-led ads work for us.\n\nMaybe. But three is a very small number. Here's what I check before an observation becomes a rule.\n\n1. How many founder-led ads lost? Three wins out of eight is a different story from three out of three.\n2. What else did the three winners share? Same offer, same season, same audience? The founder might be along for the ride.\n3. Did they get a fair share of budget? A winner from a scaling campaign and a loser that ran for four days aren't a fair comparison.\n4. Does it hold next cycle? A pattern that survives a second round is worth more than one that's loud in one.\n\nWhen we tag ads at Galvor, we tag every attribute on every ad, winners and losers. That's the only way to see what the winners have that the losers don't.\n\nUntil then, I call it what it is: a signal. A pattern to test. Not a rule.\n\nWhat's a \"rule\" your team follows that started as three ads?",
+  "first_comment": "",
+  "hashtags": [
+    "#MarketingAnalytics",
+    "#CreativeStrategy",
+    "#PerformanceMarketing"
+  ],
+  "alt_text": "Quote card on a violet background: Three winners isn't a pattern. It's a signal to test.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "Three winners isn't a pattern. It's a *signal to test*.",
+        "sub": "Check the losers before you write the rule."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-03-03 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:16",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "R15"
+}

@@ -1,0 +1,16 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Topic bank · Galvor Social Studio{% endblock %}
+{% block body %}
+<h1>Topic bank</h1>
+<p class="sub">150 hooks from “Galvor LinkedIn Plan: 3 Voices, 150 Topics, 90 Days (v3)”. {{ used|length }} are already on the calendar. Click <b>Use</b> to start a post from a hook.</p>
+<div class="panel">
+<table class="tbl">
+  <tr><th>Ref</th><th>Voice</th><th>Pillar</th><th>Hook</th><th>Format</th><th>Job</th><th>Status</th><th></th></tr>
+  {% for t in topics %}{% set u = used.get(t.ref) %}
+  <tr><td><b>{{ t.ref }}</b></td><td>{{ m.vchip(t.voice) }}</td><td class="small muted">{{ t.pillar }}</td><td>{{ t.hook }}</td><td>{{ t.format }}</td><td class="small">{{ t.job_note }}</td>
+    <td>{% if u %}<a href="/post/{{ u.id }}">{{ m.status(u.status) }} <span class="small">{{ u.date|d('%d %b') }}</span></a>{% else %}<span class="pill ghost">Unused</span>{% endif %}</td>
+    <td>{% if not u %}<a class="btn sm soft" href="{{ url_for('new_post', platform='linkedin', voice=t.voice, hook=t.hook, topic_ref=t.ref, format=t.format, job=t.job) }}">Use</a>{% endif %}</td></tr>
+  {% endfor %}
+</table>
+</div>
+{% endblock %}

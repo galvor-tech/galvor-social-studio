@@ -1,0 +1,125 @@
+{
+  "id": "ig-2026-12-21-year-end-creative-audit-5-questions-before-you-p",
+  "slug": "year-end-creative-audit-5-questions-before-you-p",
+  "platform": "instagram",
+  "date": "2026-12-21",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Data Drop",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Data drop: the slow starter. Why some ad styles look expensive early",
+  "hook": "The ad you cut in week two may have been fine.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "The ad you cut in week two may have been fine.\n\nIn our analysis of new video ads launched May to Sep 2026, some ad styles started about 35% dearer per order in their first two months and ended close to average over their life.\n\nEarly cost alone cannot separate a slow starter from a dud. You need a second signal: are people watching, and is the cost falling week on week?\n\nTreat this as a pattern to test in your own account. Save the fair-trial checklist on the last slide and follow @galvor.ai.",
+  "first_comment": "Read Decoded #3 on galvor.ai.",
+  "hashtags": [
+    "#metaads",
+    "#performancemarketing",
+    "#adcreative",
+    "#adstrategy",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: the ad you cut in week two may have been fine. Slide 2: some ad styles start about 35% dearer per order in their first two months and end close to average. Slide 3: a dear first fortnight reads as a failed idea. Slide 4: a slow start and a bad ad look the same early on. Slide 5: two columns, signs of a slow starter and signs of a dud. Slide 6: a four-step fair trial for a new style. Slide 7: follow @galvor.ai.",
+  "cta": "Save the fair-trial checklist; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Data drop",
+        "headline": "The ad you cut in week two *may have been fine*",
+        "sub": "What a slow start does and does not tell you."
+      },
+      {
+        "layout": "stat",
+        "kicker": "What we measured",
+        "stat": "~35%",
+        "headline": "dearer per order in the first two months, for *some ad styles*",
+        "sub": "The same styles ended close to average over their life.",
+        "source": "Source: Galvor analysis · new video ads launched May to Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "What usually happens",
+        "headline": "A dear first fortnight reads as a *failed idea*",
+        "body": "The ad gets cut and the style gets a bad name.\n\nOver time the account keeps only the styles that start cheap, and they begin to look alike."
+      },
+      {
+        "layout": "text",
+        "kicker": "Our reading",
+        "headline": "A slow start and a bad ad *look the same* early on",
+        "body": "Early cost alone cannot tell them apart.\n\nYou need a second signal: are people watching, and is the cost coming down week on week?"
+      },
+      {
+        "layout": "compare",
+        "kicker": "Before you cut",
+        "headline": "*Slow starter* or *dud*?",
+        "left_title": "Give it time",
+        "left": [
+          "A style new to your account",
+          "People watch past the opening",
+          "Cost is falling week on week"
+        ],
+        "right_title": "Cut it",
+        "right": [
+          "A style you have run often",
+          "People leave at the opening",
+          "Cost is flat or rising"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "A fair trial for a *new style*",
+        "items": [
+          "Agree the trial length before launch",
+          "Judge it against its own first week, not your best ad",
+          "Watch attention as well as cost",
+          "Record how it ended, so the next one is judged fairly"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Give a new style a *fair trial* before you cut it.",
+        "sub": "Save the checklist for your next review.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the fair-trial checklist",
+          "Share with your media buyer"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "TOPIC REPLACED: 'Year-end creative audit: 5 questions before you plan 2027' repeated the 18 Dec post (ten questions for your 2026 ads). New topic: some ad styles start dear and end near average, so do not cut a new style on early cost alone. Pillar moved from Framework to Data Drop. Reader: a media buyer with a fast cut rule. Numbers used: about 35% dearer per order in the first two months, ending close to average over life (facts bank, Decoded #3). The facts bank says 'some ad styles', so the post says the same and calls it a pattern to test. The slow-starter versus dud columns are our reading, not measured thresholds.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:54:31",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:14",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-101",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

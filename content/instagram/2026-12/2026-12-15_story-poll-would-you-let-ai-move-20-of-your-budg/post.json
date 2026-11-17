@@ -1,0 +1,90 @@
+{
+  "id": "ig-2026-12-15-story-poll-would-you-let-ai-move-20-of-your-budg",
+  "slug": "story-poll-would-you-let-ai-move-20-of-your-budg",
+  "platform": "instagram",
+  "date": "2026-12-15",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "story",
+  "series": "",
+  "title": "Story poll: would you let AI move your ad budget without asking?",
+  "hook": "Would you let AI move your ad budget without asking you first?",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Story pack (no feed caption).\n\nA poll on where people draw the line with AI and ad budgets. Frame 2 is the poll. Frame 3 says where Galvor stands. Frame 4 is the tip: write down what a tool may do alone and what needs a person's yes.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Five vertical story frames. Frame 1 asks: would you let AI move your ad budget without asking? Frame 2 is a poll with four options, from it can act alone to keep it away. Frame 3: we never touch the media budget. Frame 4 tip: write one line on what a tool may do alone and what needs a person's yes. Frame 5 asks people to follow @galvor.ai.",
+  "cta": "Vote in the poll; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Quick poll",
+        "headline": "Would you let AI move your ad budget *without asking?*",
+        "sub": "Tap to vote."
+      },
+      {
+        "layout": "poll",
+        "kicker": "No wrong answer",
+        "headline": "AI and your ad budget. *Where is your line?*",
+        "options": [
+          "It can act alone",
+          "It suggests, I approve",
+          "It reports, I decide",
+          "Keep it away"
+        ],
+        "sub": "Vote with the poll sticker."
+      },
+      {
+        "layout": "text",
+        "kicker": "Where we stand",
+        "headline": "We *never touch* the media budget",
+        "body": "Galvor says what to scale, cut or shift, and why.\n\nA person on your team makes the move."
+      },
+      {
+        "layout": "text",
+        "kicker": "Quick tip",
+        "headline": "Write the line down *before* the tool goes live",
+        "body": "One sentence is enough: what it may do alone, and what needs a person's yes.\n\nPin it where the team can see it."
+      },
+      {
+        "layout": "cta",
+        "headline": "Your budget, *your call.*",
+        "sub": "We will share the poll result tomorrow.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Vote on frame 2"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the topic. Dropped the 20% figure from the question because it is not in the facts bank. Interactive ask: poll sticker on frame 2 with the four options as written. No numbers used. Frame 5 promises the poll result the next day: share it as a single story on 16 Dec, or change the sub line if that is not planned.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-15 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:23:57",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:35",
+  "updated_at": "2026-11-16T21:23:57",
+  "topic_ref": "IG-24",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

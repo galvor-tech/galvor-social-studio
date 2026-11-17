@@ -1,0 +1,53 @@
+{
+  "id": "li-2027-03-02-we-stopped-calling-it-reporting",
+  "slug": "we-stopped-calling-it-reporting",
+  "platform": "linkedin",
+  "date": "2027-03-02",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Brand Memory / POV",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "We stopped calling it reporting",
+  "hook": "We stopped calling it reporting. We call it learning now.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Year-end budgets: spend that teaches",
+  "caption": "We stopped calling it reporting. We call it learning now.\n\nIt sounds like a word change. It changed how our client meetings run.\n\nA report answers: what happened? Spend, CTR, RoAS, by week, by campaign. Everyone nods. The meeting ends. Next month, the same deck with new numbers.\n\nA learning answers a harder question: what do we now know that we didn't know before? And what will we do differently because of it?\n\nHere's the test I use. At the end of any performance review, ask the room one thing: what will the next ad do differently because of this meeting?\n\nIf nobody can answer, it was a report.\n\nMost brands I meet have plenty of data and almost no memory. Twelve months of ads, hundreds of creatives, and the team still argues from scratch about which hook to try next.\n\nJanuary is a good month to change the word. Plan the year around what last year taught you, not only around what last year cost.\n\nEvery ad should make the next one better. That only happens if someone writes down why.\n\nWhat's one thing your team learned from last year's ads that you're carrying into this year?",
+  "first_comment": "",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#BrandMemory",
+    "#D2C"
+  ],
+  "alt_text": "Quote card on a violet background: A report says what happened. A learning says what to do next.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "A report says what happened. A *learning* says what to do next.",
+        "sub": "Every ad should make the next one better."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Opens January's theme: the learning loop.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-03-02 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:46",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "S16"
+}

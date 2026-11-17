@@ -1,0 +1,72 @@
+{
+  "id": "li-2027-01-28-data-privacy-day-how-we-treat-brand-ad-data",
+  "slug": "data-privacy-day-how-we-treat-brand-ad-data",
+  "platform": "linkedin",
+  "date": "2027-01-28",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Product / Demo",
+  "job": "De-risk",
+  "format": "image",
+  "series": "",
+  "title": "Data Privacy Day: six questions before you connect your ad account",
+  "hook": "Six questions to ask before you connect your ad account to anything.",
+  "status": "draft",
+  "festival": "Data Privacy Day",
+  "theme": "The learning loop",
+  "caption": "Six questions to ask before you connect your ad account to anything.\nIt is Data Privacy Day, and most D2C teams grant access in one click, mid-demo.\n\nYour ad account holds your spend, your creative and what your customers respond to. Any tool that reads it, ours included, should answer these in writing:\n\n1. Do you need read access or manage access, and why?\n2. Who inside your company can see our data?\n3. Is our data used to train models or build benchmarks that other brands see?\n4. If it is pooled, how is it anonymised?\n5. What happens to our data when we leave, and how soon?\n6. Can we see a log of what was accessed?\n\nA good vendor has the answers ready. A slow or vague reply is an answer too.",
+  "first_comment": "Follow Galvor for one usable method a week.",
+  "hashtags": [
+    "#DataPrivacyDay",
+    "#D2C",
+    "#AIinMarketing"
+  ],
+  "alt_text": "List card on a violet background for Data Privacy Day titled: Ask before you connect your ad account. Read access or manage access, and why? Who at your company sees our data? Does our data train models others use? If pooled, how is it anonymised? What happens to it when we leave? Can we see an access log?",
+  "cta": "Soft: follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "Data Privacy Day",
+        "headline": "Ask before you *connect your ad account*",
+        "items": [
+          "Read access or manage access, and why?",
+          "Who at your company sees our data?",
+          "Does our data train models others use?",
+          "If pooled, how is it anonymised?",
+          "What happens to it when we leave?",
+          "Can we see an access log?"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil: Galvor must have its own written answers to all six questions ready before this goes live, because readers will ask. The post makes no claim about Galvor's data practices, since none are in the spec. Hook shape: punchy plus context. Reader: a founder or head of growth about to trial an analytics or AI tool. Checklist shape. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-28 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:26",
+  "updated_at": "2026-11-16T21:22:01",
+  "topic_ref": "Data Privacy Day",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

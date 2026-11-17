@@ -1,0 +1,20 @@
+AI made ads cheap to produce. It also made look-alikes free.
+For a D2C team using AI to multiply its creative output, the hard job has moved from making to choosing.
+
+In our analysis of new video ads launched from May to September 2026, new ads that looked like many ads already running got 36% less first-month spend.
+
+A generator fed on what you already ran tends to hand back more of what you already ran. Volume goes up and the account sees the same idea again.
+
+So put three gates between the generator and the ad account.
+
+Brand gate. With the logo covered, would a customer still recognise this as you?
+
+Difference gate. Place it next to your live ads. If a stranger cannot tell it apart from one of them, it does not go live.
+
+Learning gate. Write one line on what this ad will tell you that the others cannot. An ad without that line waits.
+
+A person holds each gate. The model can prepare the evidence for all three.
+
+An ad that gets through has a reason to exist, however it was made.
+
+#AIinMarketing #AdCreative #CreativeStrategy

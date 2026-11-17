@@ -1,0 +1,65 @@
+{
+  "id": "li-2026-11-26-before-the-sale-decide-what-it-should-teach-you",
+  "slug": "before-the-sale-decide-what-it-should-teach-you",
+  "platform": "linkedin",
+  "date": "2026-11-26",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Brand Memory / POV",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Before the sale: three lines that turn it into a test",
+  "hook": "The sale starts tomorrow. Decide today what it should teach you.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "The sale starts tomorrow. Decide today what it should teach you.\nMost sale reports say what sold. Few say what the brand learned about its ads.\n\nA sale is the biggest ad test most D2C brands run all year, and it usually runs without a question.\n\nPick one question before Black Friday goes live.\n\nFor example: at the same discount, does an ad that leads with the offer do better than an ad that leads with the product?\n\nThen write three lines:\n\nThe question, in one sentence.\nThe two ads that answer it, identical except for the one thing you are testing.\nWhat you will do in December if the first is ahead, and if the second is.\n\nOn Monday you will have revenue either way. These three lines add an answer you can brief from.",
+  "first_comment": "Decoded #7, out next Wednesday, covers what to do once the sale ends. Follow Galvor to get it.",
+  "hashtags": [
+    "#D2CIndia",
+    "#PerformanceMarketing",
+    "#AdCreative"
+  ],
+  "alt_text": "List card on a violet background titled: Three lines to write before the sale goes live. The one question this sale should answer. Two ads, identical except for one thing. Your December move for each result.",
+  "cta": "Soft: follow Galvor for Decoded #7",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "Before the sale",
+        "headline": "Three lines to write *before* the sale goes live",
+        "items": [
+          "The one question this sale should answer",
+          "Two ads, identical except for one thing",
+          "Your December move for each result"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: punchy plus context. Reader: a D2C founder or growth lead the day before Black Friday. No numbers used. Decoded #7 (2 Dec) is the matching issue but is not out on this date, so the first comment points forward to it.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:21:50",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:28",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-OPEN-04",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

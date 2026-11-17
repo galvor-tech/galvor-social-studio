@@ -1,0 +1,63 @@
+{
+  "id": "li-2026-11-19-some-ads-start-expensive-and-end-average",
+  "slug": "some-ads-start-expensive-and-end-average",
+  "platform": "linkedin",
+  "date": "2026-11-19",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Measurement",
+  "job": "Educate",
+  "format": "image",
+  "series": "",
+  "title": "Finding: some ad styles start dear and end average (check before you cut)",
+  "hook": "Some ads look like losers for two months, then end up average.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Some ads look like losers for two months, then end up average.\nCut them in week two and you never find out which kind you had.\n\nWe looked at every new video ad launched between May and September 2026 across the brands we work with. Some ad styles started about 35% dearer per order in their first two months. Over their whole life they ended close to average.\n\nBefore you cut an ad on early cost per order, check three things:\n\n1. Have you run this style before? Look at how it behaved over its full run last time.\n2. Is the ad new, or a copy of something already live?\n3. Did you write down a review date before launch?\n\nAn early number is a first reading. Give the ad the time its style has needed before.",
+  "first_comment": "Read Decoded #3 on galvor.ai",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#MetaAds",
+    "#MarketingAnalytics"
+  ],
+  "alt_text": "Stat card on a violet background: 35% dearer per order in the first two months, then close to average over the ad's life. Source: Galvor analysis of ads launched May to September 2026.",
+  "cta": "none (Decoded #3 in first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "stat",
+        "kicker": "Early cost per order",
+        "stat": "35%",
+        "headline": "dearer per order in the first *two months*, then close to average over the ad's life",
+        "sub": "Check how a style behaved over its full run before you cut it in week two.",
+        "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: punchy plus context. Reader: a performance lead who cuts new ads on week-two cost per order. Numbers: 35% dearer per order in the first two months, ending close to average (Galvor analysis, Decoded #3, ads launched May to Sep 2026). First use of the 35% figure in this group (second use: 31 Dec carousel).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:21:50",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:26",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-OPEN-03",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

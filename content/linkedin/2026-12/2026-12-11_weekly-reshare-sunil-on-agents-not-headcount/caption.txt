@@ -1,0 +1,20 @@
+Before you give an AI agent a job, list your team's decisions.
+Most plans list tasks, which is how the agent ends up producing reports nobody asked for.
+
+Take one week of your marketing team's work and sort it into two columns.
+
+Moving information: pulling numbers, renaming files, building the Monday deck, chasing a creator for a draft.
+
+Deciding: which ad to cut, what the next brief says, whether a creator gets a second video.
+
+In the first column an agent can take the whole job. For the second column, three tests are worth applying before an agent decides anything alone:
+
+Can it be undone? Pausing an ad can be reversed tomorrow. A signed creator contract cannot.
+Does it come up every week? Frequent decisions give you enough cases to check the agent's record.
+Can it show its working? If you cannot see why it chose, you cannot correct it.
+
+A decision that passes all three can go to the agent. The others stay with a person, and the agent prepares the evidence.
+
+Done properly, your team gets its hours back for the second column.
+
+#AIinMarketing #D2C #GrowthMarketing

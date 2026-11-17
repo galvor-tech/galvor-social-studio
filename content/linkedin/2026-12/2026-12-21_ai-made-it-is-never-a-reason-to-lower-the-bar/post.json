@@ -1,0 +1,58 @@
+{
+  "id": "li-2026-12-21-ai-made-it-is-never-a-reason-to-lower-the-bar",
+  "slug": "ai-made-it-is-never-a-reason-to-lower-the-bar",
+  "platform": "linkedin",
+  "date": "2026-12-21",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "AI & the Team",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "Myth and fact: “AI made it” does not lower the QC bar",
+  "hook": "“AI made it” is never a reason to lower the bar.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "“AI made it” is never a reason to lower the bar.\nThe person scrolling past your ad has no idea how it was made, and would not care if they did.\n\nThe myth is that an AI video deserves a lighter check because it was quick and cheap. The fact runs the other way. It needs the same check as any creator video, and three more.\n\nThe same for every video, whoever made it:\nIs the claim the approved claim, word for word?\nIs the product shown the way it really looks?\nIs the ask clear in the last seconds?\n\nExtra for AI:\nThe pack. Letters on the label, the logo shape and the pack colour drift in generated footage. Pause on every frame where the product is close.\nHands, faces and on-screen text, at the moments they move.\nThe voice. Listen to how it says the brand name and any Indian word.\n\nIf a video fails one line, it goes back. No discount for the tool.\n\nHere is what AI does change. A remake is quick. That is a reason to reject more often, since saying no now costs an hour and not a week.\n\nThe bar belongs to the brand, and the tool does not get a vote.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#AdCreative",
+    "#D2CIndia"
+  ],
+  "alt_text": "Text-only post, no image.",
+  "cta": "Follow Galvor (first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Reader: a brand manager worried that AI creative will quietly lower quality (De-risk). Shape: a myth and the fact, with a checklist. Hook shape: single-line bomb. Written as a method, with no personal anecdote. 'An hour and not a week' is a figure of speech, not a measured time; change it if it reads as a promise. Numbers used: none.\nOptional: Shrutik can add one real, anonymised example of an AI cut that failed the pack check.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-21 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:01",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh33",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

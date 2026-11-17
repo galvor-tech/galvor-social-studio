@@ -1,0 +1,68 @@
+{
+  "id": "ig-2027-01-15-makar-sankranti-pongal-greeting-2027",
+  "slug": "makar-sankranti-pongal-greeting-2027",
+  "platform": "instagram",
+  "date": "2027-01-15",
+  "time": "11:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Makar Sankranti + Pongal greeting 2027",
+  "hook": "Happy Makar Sankranti and Pongal from all of us at Galvor.",
+  "status": "draft",
+  "festival": "Makar Sankranti / Pongal 2027",
+  "theme": "The learning loop",
+  "caption": "Happy Makar Sankranti and Pongal from all of us at Galvor.\n\nKites over the terrace in one part of the country, a pot of pongal boiling over in another, til-gul passed around in a third. One harvest, many ways to say thank you.\n\nWishing you clear skies, a full table and a sweet year ahead.",
+  "first_comment": "",
+  "hashtags": [
+    "#MakarSankranti",
+    "#Pongal",
+    "#Sankranti2027",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Festival card in Galvor violet and gold with a kite motif. It reads Happy Sankranti and Pongal, then: clear skies, a full table and a sweet year ahead. Below: from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🪁",
+        "kicker": "Makar Sankranti · Pongal",
+        "greeting": "Happy Sankranti",
+        "headline": "Clear skies, a full table and *a sweet year ahead*.",
+        "sub": "Happy Pongal too, from all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Greeting only, no marketing lesson. No numbers used. The greeting field is limited to about 22 characters, so the card says \"Happy Sankranti\" and the sub line carries Pongal.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-15 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:03",
+  "updated_at": "2026-11-16T21:16:53",
+  "topic_ref": "IG-121",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

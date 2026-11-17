@@ -1,0 +1,107 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Jakarta;src:url("file:///D:/galvor_linkedin/studio/static/fonts/PlusJakartaSans.ttf");font-weight:200 800}
+@font-face{font-family:Inter;src:url("file:///D:/galvor_linkedin/studio/static/fonts/Inter.ttf");font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#0B0B15}
+.stage{position:relative;width:1920px;height:1080px;overflow:hidden;
+  background:
+    radial-gradient(900px 700px at 1500px 330px, rgba(110,60,230,.42), transparent 70%),
+    radial-gradient(700px 500px at 1350px 980px, rgba(124,58,237,.30), transparent 70%),
+    radial-gradient(600px 420px at 150px 1050px, rgba(124,58,237,.10), transparent 70%),
+    #0B0B15;}
+/* light streak, top right, like the reference */
+.streak{position:absolute;left:820px;top:-330px;width:1500px;height:560px;border-radius:50%;
+  border-bottom:60px solid rgba(140,85,255,.55);filter:blur(34px);transform:rotate(-16deg)}
+.streak2{position:absolute;left:880px;top:-300px;width:1420px;height:520px;border-radius:50%;
+  border-bottom:5px solid rgba(215,195,255,.9);filter:blur(1.5px) drop-shadow(0 0 12px rgba(160,110,255,1));transform:rotate(-16deg)}
+.floor{position:absolute;left:-200px;top:760px;width:2600px;height:700px;border-radius:50%;
+  background:radial-gradient(closest-side, rgba(124,58,237,.16), transparent);transform:rotate(-8deg)}
+
+/* left copy */
+.copy{position:absolute;left:96px;top:0;height:1080px;width:980px;display:flex;flex-direction:column;justify-content:center;padding-bottom:40px}
+.kicker{display:flex;align-items:center;gap:20px;font-family:Consolas,"Cascadia Mono","Courier New",monospace;
+  font-size:29px;letter-spacing:.22em;color:#A685FF;margin-bottom:58px;text-transform:uppercase}
+.kicker img{width:44px;height:44px}
+.kicker .dot{opacity:.8}
+h1{font-family:Jakarta,Inter,sans-serif;font-weight:800;font-size:104px;line-height:1.06;letter-spacing:-.025em;color:#fff}
+h1 .p{color:#A47BFF;background:linear-gradient(180deg,#B48EFF,#8F5BFF);-webkit-background-clip:text;background-clip:text;color:transparent}
+
+/* right: tilted Scout window */
+.scene{position:absolute;left:1060px;top:150px;width:900px;height:820px;perspective:1800px}
+.win{position:absolute;left:40px;top:40px;width:820px;height:700px;border-radius:30px;
+  background:linear-gradient(160deg,#1A1830 0%,#121124 60%,#100F1E 100%);
+  border:1.5px solid rgba(170,140,255,.35);
+  box-shadow:0 0 0 1px rgba(255,255,255,.03) inset, 0 40px 120px rgba(0,0,0,.6), 0 0 110px rgba(124,58,237,.5), -6px 0 30px rgba(170,130,255,.45);
+  transform:rotateY(-24deg) rotateX(6deg) rotateZ(-2deg);transform-origin:20% 50%;padding:34px 36px}
+.bar{display:flex;align-items:center;gap:16px;margin-bottom:26px}
+.bar img{width:40px;height:40px}
+.bar .t{font-family:Jakarta,sans-serif;font-weight:700;font-size:30px;color:#EDEBFA}
+.bar .chip{margin-left:auto;font-family:Inter,sans-serif;font-weight:600;font-size:19px;color:#C9B8FF;
+  padding:8px 16px;border-radius:999px;background:rgba(124,58,237,.18);border:1px solid rgba(164,123,255,.35)}
+.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}
+.c{height:128px;border-radius:16px;background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.06);
+  padding:16px;display:flex;flex-direction:column;gap:11px;position:relative}
+.c .av{width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#3A3560,#24213F)}
+.c .l1{height:10px;width:78%;border-radius:6px;background:rgba(255,255,255,.13)}
+.c .l2{height:10px;width:52%;border-radius:6px;background:rgba(255,255,255,.08)}
+.c.x::after{content:"";position:absolute;inset:0;border-radius:16px;background:rgba(11,11,21,.38)}
+.c.hole{border:2px dashed rgba(164,123,255,.55);background:rgba(124,58,237,.08)}
+
+/* the one pick, lifted out of the window */
+.pick{position:absolute;left:300px;top:330px;width:470px;border-radius:28px;padding:30px 32px 30px;
+  background:linear-gradient(150deg,#2A1F55 0%,#1B1638 70%);
+  border:2px solid rgba(190,160,255,.75);
+  box-shadow:0 0 0 6px rgba(124,58,237,.15), 0 30px 90px rgba(0,0,0,.55), 0 0 120px rgba(140,90,255,.55);
+  transform:rotateY(-12deg) rotateX(4deg) rotateZ(-3deg)}
+.pick .row{display:flex;align-items:center;gap:20px}
+.pick .av{width:86px;height:86px;border-radius:50%;
+  background:radial-gradient(circle at 35% 30%,#C7A9FF,#7C3AED 55%,#4B1FB0);box-shadow:0 0 30px rgba(164,123,255,.6)}
+.pick .nm{height:16px;width:190px;border-radius:8px;background:rgba(255,255,255,.55)}
+.pick .hd{height:12px;width:130px;border-radius:7px;background:rgba(255,255,255,.22);margin-top:12px}
+.badge{margin-left:auto;width:66px;height:66px;border-radius:50%;display:grid;place-items:center;
+  background:linear-gradient(180deg,#B48EFF,#7C3AED);box-shadow:0 0 34px rgba(164,123,255,.9)}
+.badge svg{width:34px;height:34px}
+.pick .lbl{margin-top:24px;font-family:Jakarta,sans-serif;font-weight:800;font-size:44px;color:#fff;letter-spacing:-.01em}
+.pick .lbl span{color:#B794FF}
+.pick .meter{margin-top:18px;height:10px;border-radius:6px;background:rgba(255,255,255,.1);overflow:hidden}
+.pick .meter i{display:block;height:100%;width:92%;border-radius:6px;background:linear-gradient(90deg,#8F5BFF,#C7A9FF);box-shadow:0 0 18px rgba(180,140,255,.9)}
+.pick .why{margin-top:14px;font-family:Inter,sans-serif;font-size:21px;color:#CFC6EE}
+
+/* glowing orbit rings under the pick, like the reference */
+.ring{position:absolute;z-index:2;border-radius:50%;border:3.5px solid rgba(175,130,255,.95);filter:drop-shadow(0 0 12px rgba(150,100,255,1))}
+.r1{left:200px;top:575px;width:680px;height:130px;transform:rotate(-7deg)}
+.r2{left:300px;top:612px;width:480px;height:80px;transform:rotate(-7deg);opacity:.6;border-width:2px}
+.win{z-index:1}.pick{z-index:3}
+.fs{margin-left:-.07em}
+</style></head>
+<body><div class="stage">
+  <div class="floor"></div><div class="streak"></div><div class="streak2"></div>
+
+  <div class="copy">
+    <div class="kicker"><img src="mark.png" alt="">Decoded by Galvor <span class="dot">•</span> Issue #4</div>
+    <h1>We Shortlisted<br>20 Creators<span class="fs">.</span><br><span class="p">The Brand<br>Picked One<span class="fs">.</span></span></h1>
+  </div>
+
+  <div class="scene">
+    <div class="ring r1"></div><div class="ring r2"></div>
+    <div class="win">
+      <div class="bar"><img src="mark.png" alt=""><div class="t">Galvor Scout · Shortlist</div><div class="chip">20 shortlisted</div></div>
+      <div class="grid" id="g"></div>
+    </div>
+    <div class="pick">
+      <div class="row"><div class="av"></div><div><div class="nm"></div><div class="hd"></div></div>
+        <div class="badge"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.2 4.2L19 7"/></svg></div></div>
+      <div class="lbl">1 of 20 <span>picked</span></div>
+      <div class="meter"><i></i></div>
+      <div class="why">Fits the brief · audience trusts them</div>
+    </div>
+  </div>
+</div>
+<script>
+const g=document.getElementById('g');
+for(let i=0;i<20;i++){const d=document.createElement('div');d.className='c '+(i===13?'hole':'x');
+  if(i!==13)d.innerHTML='<div class="av"></div><div class="l1"></div><div class="l2"></div>';g.appendChild(d);}
+</script>
+</body></html>

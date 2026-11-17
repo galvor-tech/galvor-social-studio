@@ -1,0 +1,70 @@
+{
+  "id": "ig-2027-01-07-our-favourite-question-before-every-brief",
+  "slug": "our-favourite-question-before-every-brief",
+  "platform": "instagram",
+  "date": "2027-01-07",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Team & Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "The question to ask before every brief",
+  "hook": "Before the next brief goes out, ask one question: what will this ad teach us?",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Before the next brief goes out, ask one question: what will this ad teach us?\n\nMost briefs say what to make. Very few say what the team wants to find out.\n\nSo add one line at the top of the brief:\n\n\"We are testing whether ___ works better than ___.\"\n\nA new opening line against the old one. A founder on camera against a customer. One blank each, nothing more.\n\nNow the ad has a job even if it loses. A losing ad that answers the question still makes the next one better.\n\nSave this for your next brief. Follow @galvor.ai for more.",
+  "first_comment": "Read Decoded #12 on galvor.ai",
+  "hashtags": [
+    "#creativestrategy",
+    "#adcreative",
+    "#marketingtips",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Text card in Galvor violet and gold. It reads: Before every brief, one question: what will this ad teach us? Below, smaller: write the answer on the first line of the brief.",
+  "cta": "Soft ask: save the post; Decoded #12 in first comment",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "Before every brief, one question: *what will this ad teach us?*",
+        "sub": "Write the answer on the first line of the brief."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a brand or creative manager writing January briefs. Topic sharpened: the old question looked back (what did the last ad teach us?), which repeated the 22 Nov Monday review post. This one looks forward: every brief names what it is testing. Written as advice, with no claim about how Galvor's own briefs are run. First comment points to Decoded #12 (6 Jan), on the fortnightly learning loop. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2027-01-09 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-09 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2027-01-09 11:00 to 2027-01-07 13:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:23:42",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "IG-116",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

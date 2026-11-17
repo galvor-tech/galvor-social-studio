@@ -1,0 +1,61 @@
+{
+  "id": "li-2026-11-16-make-it-premium-isnt-feedback",
+  "slug": "make-it-premium-isnt-feedback",
+  "platform": "linkedin",
+  "date": "2026-11-16",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Better Briefs",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "“Make it premium” isn't feedback",
+  "hook": "“Make it premium” isn't feedback until we define premium.",
+  "status": "skipped",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "“Make it premium” isn't feedback until we define premium.\n\nI've heard it a lot in my first weeks at Galvor. Different brands. Completely different meanings.\n\nFor one, premium meant slower: fewer cuts, more breathing room.\nFor another, it meant fewer words on screen.\nFor a third, it meant the creator should look less like a creator and more like a customer.\n\nIf we had acted on the word alone, we'd have shipped three wrong edits.\n\nWhat I do now, before anyone opens an editing tool:\n\n1. Ask for one ad they think is premium. Any brand, any category.\n2. Ask what they'd remove from our draft to make it feel like that.\n3. Write the answer down as a rule: “no more than six words on screen”, “hold the product shot for two seconds”.\n\nThat rule goes into the brief for the next round, and the one after that.\n\nFeedback that lives only in a call gets repeated. Feedback written down as a rule gets used.\n\nWhich word do you hear in feedback that means something different every time?",
+  "first_comment": "",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#BrandMarketing",
+    "#CreatorMarketing"
+  ],
+  "alt_text": "Quote card: Make it premium isn't feedback until we define premium.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "“Make it premium” isn't feedback until we *define premium.*",
+        "sub": "Turn the word into a rule the next edit can follow."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Optional image. Shrutik: swap the three examples for real ones from your own calls if you have them.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.\n[16 Nov 2026] Skipped: the calendar now starts on 19 Nov. Set back to draft to restore.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-16 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:13:50",
+      "action": "Skipped: calendar restarts on 19 Nov 2026"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:14:55",
+  "updated_at": "2026-11-16T21:13:50",
+  "topic_ref": "Sh6",
+  "reminders": {
+    "missed": "2026-11-16T17:28:40"
+  },
+  "due": "Missed — post, reschedule or skip"
+}

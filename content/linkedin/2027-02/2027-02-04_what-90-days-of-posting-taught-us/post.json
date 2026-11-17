@@ -1,0 +1,113 @@
+{
+  "id": "li-2027-02-04-what-90-days-of-posting-taught-us",
+  "slug": "what-90-days-of-posting-taught-us",
+  "platform": "linkedin",
+  "date": "2027-02-04",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Building Galvor",
+  "job": "Attract",
+  "format": "carousel",
+  "series": "",
+  "title": "Ninety days of posting, reviewed like an ad account: four patterns and a review format",
+  "hook": "Ninety days of posting, reviewed the way we review ads.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "Ninety days of posting, reviewed the way we review ads.\nFour patterns, what we are changing because of each, and a review format you can copy.\n\nWe tell brands that every ad should make the next one better. A content calendar deserves the same treatment, so we went through our own page and a week of public posts from companies in our space.\n\nThe patterns are in the slides.\n\nNone of this is a law. It is one page and one short window, which makes each finding a signal to test.\n\nIf you run a B2B page of your own, the review format on slide six is yours to take.",
+  "first_comment": "Follow Galvor for one usable method a week.",
+  "hashtags": [
+    "#D2C",
+    "#GrowthMarketing",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Seven-slide Galvor carousel. Slide 1: ninety days of posting, reviewed like an ad account. Slide 2: people reach further than pages. Slide 3: how-to posts drew more response than product posts. Slide 4: templated daily series fade fast. Slide 5: follower count did not predict response. Slide 6: a 90-day review for any B2B page: sort posts by type, check people's profiles against the page, name one thing to stop and one to start, label each finding a signal until repeated. Slide 7: follow Galvor.",
+  "cta": "Soft: save the review format; follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Building Galvor",
+        "headline": "Ninety days of posting, *reviewed like an ad account*",
+        "sub": "Four patterns, and what we are changing."
+      },
+      {
+        "layout": "text",
+        "kicker": "Pattern 1",
+        "headline": "People reach further than *pages*",
+        "body": "Posts from a team member's own profile reached far more people than posts from the company page.\n\nWhat we are changing: the page now backs the people on the team and stops trying to out-post them."
+      },
+      {
+        "layout": "text",
+        "kicker": "Pattern 2",
+        "headline": "How-to posts drew more than *product posts*",
+        "body": "In a week of public posts from companies in our space, posts a reader could copy the same day drew the most response. Feature announcements drew almost none.\n\nWhat we are changing: one usable method in every post."
+      },
+      {
+        "layout": "text",
+        "kicker": "Pattern 3",
+        "headline": "Templated daily series *fade fast*",
+        "body": "Series that repeat one template every day drew very little response on the public pages we looked at.\n\nWhat we are changing: fewer posts, each with its own argument."
+      },
+      {
+        "layout": "text",
+        "kicker": "Pattern 4",
+        "headline": "Follower count did not predict *response*",
+        "body": "Among the pages we looked at, larger ones often drew less response per post than smaller ones.\n\nWhat we are changing: we judge a post by its comments and saves, and treat follower growth as a result."
+      },
+      {
+        "layout": "list",
+        "kicker": "Copy this",
+        "headline": "A 90-day review for *any B2B page*",
+        "items": [
+          "Sort posts by type, then compare response",
+          "Check people's profiles against the page",
+          "Name one thing to stop and one to start",
+          "Label each finding a signal until repeated"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Every post should make the *next one better*",
+        "sub": "One usable method a week.",
+        "actions": [
+          "Follow Galvor",
+          "Save the review format"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH the marketing lead: every pattern must be checked against the real November to January numbers on Results → Awareness before posting, and each slide edited to match. What the draft rests on today: pattern 1 is the spec's Aug to Oct 2026 finding that posts from Sunil's profile reached far more people than the page (that predates these 90 days); patterns 2 to 4 are observations from the public competitor posts saved in data/competitor_posts.json and data/competitors_research.json, described without naming anyone. Hook shape: punchy plus context. Reader: B2B marketers and founders who run a company page. No numbers used ('90-day' is the plan length).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:58:01",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-04 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:35",
+  "updated_at": "2026-11-16T21:22:01",
+  "topic_ref": "90-day wrap",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

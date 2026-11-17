@@ -1,0 +1,122 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Decoded #{{ nl.issue }} · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="row" style="margin-bottom:6px">{{ m.status(p.status) }}<span class="pill ghost">Issue #{{ nl.issue }}</span><span class="pill">{{ p.date|d('%A %d %b') }} · 08:30</span>
+  <span class="grow"></span>
+  <a class="btn sm" href="{{ url_for('decoded_page') }}">All issues</a>
+  <a class="btn sm" href="/post/{{ p.id }}">Post page (approval, LinkedIn text)</a>
+  <a class="btn sm" href="/decoded/{{ p.id }}/preview" target="_blank">Open preview</a>
+  <a class="btn sm primary" href="/decoded/{{ p.id }}/export.html" id="exp">Download email HTML</a>
+</div>
+<h1 style="font-size:24px" id="h1">{{ p.title }}</h1>
+<p class="sub"><span id="wc">{{ '{:,}'.format(words) }}</span> words · Issues #3–#4 ran about 1,900–2,500. Save often: approval is of the words, so editing an approved issue sends it back to draft.</p>
+
+<div class="card" style="padding:10px 14px">
+  <div class="row" style="gap:6px;flex-wrap:wrap">
+    <button class="btn sm primary" onclick="save()">Save</button>
+    <button class="btn sm soft" onclick="document.getElementById('aibox').classList.toggle('hide')">✨ Draft with AI</button>
+    <label class="btn sm">⬆ Add a chart / image<input type="file" accept="image/*" style="display:none" onchange="upload(this)"></label>
+    <button class="btn sm" onclick="promo()">📣 Make promo pack</button>
+    <button class="btn sm" onclick="restore()">↶ Undo last save / AI draft</button>
+    <button class="btn sm" onclick="document.getElementById('help').classList.toggle('hide')">Format help</button>
+    <span class="grow"></span><span class="small muted" id="saved"></span>
+  </div>
+  <div id="aibox" class="hide" style="margin-top:10px">
+    <p class="small muted">The AI writes the whole issue in the house format, building on whatever is already here. It may only link the sources below
+      (plus the ones attached to the idea) and only use their numbers or the facts bank; anything else comes back as [DATA NEEDED].</p>
+    <textarea class="in" id="ai_ins" style="width:100%;min-height:54px" placeholder="Instruction, e.g. 'Keep my cold open; write the industry section from the sources; shorter shift section'"></textarea>
+    <textarea class="in" id="ai_urls" style="width:100%;min-height:54px;margin-top:6px" placeholder="Sources it may cite — one per line: URL — what it says (paste the key sentence with the number)"></textarea>
+    <div class="row" style="margin-top:6px"><button class="btn sm primary" onclick="aiDraft()">Write the draft</button><span id="aispin" class="small"></span></div>
+  </div>
+  <div id="help" class="hide small" style="margin-top:10px;columns:2;column-gap:28px">
+    <code>---</code> front matter: issue, title, dek, author, previous_title, previous_url <code>---</code><br>
+    <code>## Key takeaways</code> then 3 × <code>- …</code><br>
+    <code>## Monday, 9:40 a.m.</code> any section heading<br>
+    <code>[link text](https://…)</code> · <code>**bold**</code><br>
+    <code>&gt; line</code> italic pull line · <code>&gt;&gt; "quote"</code> quote block<br>
+    <code>![alt text](fig_01.png)</code> chart · <code>caption: Source: …</code><br>
+    <code>### 1 Numbered subhead</code> · <code>- **Lead.** text</code> bullets<br>
+    <code>[box] Title</code> … <code>[/box]</code> · <code>[stat] 63 | Before -&gt; 92 | After</code><br>
+    <code>## Next issue: Title</code> + teaser<br>
+    <code>## CTA: Box title</code> + body + <code>button: Label | https://…</code><br>
+    <code>## Explainer: Heading</code> + <code>**Term.** text {{ '{#anchor}' }}</code><br>
+    <code>## How we did this</code> · <code>## Sources</code> with <code>- Publisher (date), [title](url)</code><br>
+    <code>[DATA NEEDED: …]</code> placeholder — blocks export until replaced
+  </div>
+</div>
+
+<div style="display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:14px;align-items:start">
+  <div>
+    <textarea class="in" id="md" spellcheck="true" style="width:100%;box-sizing:border-box;min-height:78vh;font:13px/1.55 ui-monospace,Consolas,monospace;white-space:pre-wrap">{{ md }}</textarea>
+    <div class="panel" style="margin-top:10px"><div class="panel-h"><h3>Checks</h3><small>Format (vs Issue #4) and honesty.</small></div>
+      <div id="issues" style="padding:8px 16px 12px"></div></div>
+    {% if nl.amplify %}<div class="panel"><div class="panel-h mint"><h3>Amplify kit</h3><small>Send to the team when it goes live (they get a reminder too).</small></div>
+      <div style="padding:8px 16px 12px" class="small"><b>Raj's reshare:</b><div class="cap" style="white-space:pre-wrap;margin:4px 0 8px">{{ nl.amplify.raj_reshare }}</div>
+        <b>First comments:</b><ul>{% for c in nl.amplify.comment_starters %}<li>{{ c }} <button class="btn sm" onclick='copyText({{ c|tojson }})'>Copy</button></li>{% endfor %}</ul>
+        <b>Subject lines:</b><ul>{% for s in nl.subject_lines or [] %}<li>{{ s }}</li>{% endfor %}</ul></div></div>{% endif %}
+    {% if files %}<div class="small muted">Images in this issue's folder: {% for f in files %}<code>{{ f }}</code> {% endfor %}</div>{% endif %}
+  </div>
+  <div style="position:sticky;top:10px">
+    <iframe id="pv" title="Email preview" style="width:100%;height:86vh;border:1px solid var(--line);border-radius:12px;background:#FFFDF8"></iframe>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<style>.hide{display:none}</style>
+<script>
+const PID = {{ p.id|tojson }};
+const md = document.getElementById('md');
+let t, dirty = false;
+function showIssues(list) {
+  const el = document.getElementById('issues');
+  el.innerHTML = list.length ? list.map(i => `<div class="small" style="margin:4px 0"><span class="pill ${i.severity === 'error' ? 'err' : 'warn'}">${i.severity}</span> ${i.message.replace(/</g, '&lt;')}</div>`).join('')
+    : '<div class="small lvl-ok">✓ Matches the Decoded format and passes every check. Ready to export.</div>';
+  document.getElementById('exp').classList.toggle('primary', !list.some(i => i.severity === 'error'));
+}
+async function preview() {
+  const fd = new FormData(); fd.append('markup', md.value);
+  const r = await fetch('/decoded/' + encodeURIComponent(PID) + '/preview', {method: 'POST', body: fd});
+  const html = await r.text(); const f = document.getElementById('pv'); const y = f.contentWindow ? f.contentWindow.scrollY : 0;
+  f.srcdoc = html; f.onload = () => { try { f.contentWindow.scrollTo(0, y); } catch (e) {} };
+}
+async function save() {
+  const j = await api('/api/decoded/' + encodeURIComponent(PID) + '/save', {markup: md.value});
+  if (!j.ok) return toast(j.error || 'Save failed', 5000);
+  dirty = false; showIssues(j.issues); document.getElementById('wc').textContent = j.words.toLocaleString();
+  document.getElementById('saved').textContent = 'Saved ' + new Date().toLocaleTimeString().slice(0, 5) + (j.status === 'draft' ? ' · status: draft' : '');
+  return true;
+}
+md.addEventListener('input', () => { dirty = true; clearTimeout(t); t = setTimeout(preview, 600); });
+document.addEventListener('keydown', e => { if ((e.ctrlKey || e.metaKey) && e.key === 's') { e.preventDefault(); save(); } });
+window.addEventListener('beforeunload', e => { if (dirty) { e.preventDefault(); e.returnValue = ''; } });
+async function upload(inp) {
+  const fd = new FormData(); fd.append('file', inp.files[0]);
+  const r = await fetch('/api/decoded/' + encodeURIComponent(PID) + '/figure', {method: 'POST', body: fd}); const j = await r.json();
+  if (!j.ok) return toast(j.error, 5000);
+  const ins = `\n![Describe the chart in full sentences: what it shows and the key numbers](${j.name})\ncaption: Source: \n`;
+  const pos = md.selectionStart; md.value = md.value.slice(0, pos) + ins + md.value.slice(pos); dirty = true; preview(); toast('Added ' + j.name + ' — write its alt text');
+}
+async function aiDraft() {
+  if (dirty && !(await save())) return;
+  document.getElementById('aispin').innerHTML = '<span class="spinner"></span> Writing the issue… (1–2 minutes)';
+  const j = await api('/api/decoded/' + encodeURIComponent(PID) + '/ai', {instruction: document.getElementById('ai_ins').value, urls: document.getElementById('ai_urls').value});
+  document.getElementById('aispin').textContent = '';
+  if (!j.ok) return toast(j.error, 8000);
+  alert(`Draft written: ${j.words} words. ${j.flagged_numbers} number(s) and ${j.dropped_links} link(s) were marked [DATA NEEDED] for a person to check.`);
+  location.reload();
+}
+async function promo() {
+  if (dirty && !(await save())) return;
+  toast('Making the promo pack…', 30000);
+  const j = await api('/api/decoded/' + encodeURIComponent(PID) + '/promo');
+  if (!j.ok) return toast(j.error, 6000);
+  alert(`Promo pack ready: LinkedIn share text + subject lines saved on this issue; ${j.created.length} Instagram draft(s) added to the calendar (story on the day, takeaways carousel in the next free slot).` + (j.ai !== 'ok' ? '\nAI copy failed: ' + j.ai : ''));
+  location.reload();
+}
+async function restore() {
+  if (!confirm('Go back to the previous saved version?')) return;
+  const j = await api('/api/decoded/' + encodeURIComponent(PID) + '/restore'); if (!j.ok) return toast(j.error, 4000); location.reload();
+}
+showIssues({{ issues|tojson }}); preview();
+</script>
+{% endblock %}

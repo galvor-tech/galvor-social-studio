@@ -1,0 +1,155 @@
+{
+  "id": "ig-2026-11-13-30-new-ads-isnt-30-new-ideas",
+  "slug": "30-new-ads-isnt-30-new-ideas",
+  "platform": "instagram",
+  "date": "2026-11-13",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Myth vs Fact",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "30 new ads isn't 30 new ideas",
+  "hook": "30 new ads. One buyer. One reason. Meta counts that as close to one ad.",
+  "status": "approved",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "30 new ads. One buyer. One reason. Meta counts that as close to one ad.\n\nMeta rebuilt how it picks ads this year. It now reads who an ad is for, not only how it looks.\n\nSo a new backdrop, a new colour and a fresh carousel don't make an ad new. A new buyer, a new moment or a new reason to buy does.\n\nIn the ads we analysed from May to September, new ads that looked like many running ads got 36% less first-month spend. A proven message in a new look got 47% more.\n\nSwipe for the four questions that make an ad actually new. Save it for your next brief.\n\nFull breakdown in Decoded #3. Link in bio.",
+  "first_comment": "",
+  "hashtags": [
+    "#metaads",
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel in Galvor violet and gold. Slide 1: 30 new ads is not 30 new ideas. Slide 2 compares the myth (new backdrop, colour, format) with the fact (new buyer, moment, reason to buy). Slides 3 and 4: 36% less and 47% more first-month spend. Slide 5: a new reason needs a new first shot. Slide 6: four ways to make an ad actually new. Slide 7: every ad should make the next one better.",
+  "cta": "Save for your next brief; read Decoded #3 (link in bio)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Myth vs fact",
+        "headline": "30 new ads ≠ *30 new ideas.*",
+        "sub": "What Meta's new ad system actually counts as different."
+      },
+      {
+        "layout": "compare",
+        "kicker": "Look again",
+        "headline": "What we change vs *what Meta reads*",
+        "left_title": "Myth",
+        "left": [
+          "New backdrop",
+          "New colour",
+          "New format"
+        ],
+        "right_title": "Fact",
+        "right": [
+          "New buyer",
+          "New moment",
+          "New reason to buy"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "What we saw",
+        "stat": "36%",
+        "headline": "less first-month spend for new ads that looked like *many running ads*",
+        "source": "Source: Galvor analysis · video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "What we saw",
+        "stat": "47%",
+        "headline": "more first-month spend for a *proven message* in a new look",
+        "source": "Source: Galvor analysis · video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "The rule",
+        "headline": "A new reason needs a *new first shot.*",
+        "body": "A new message over a familiar opening got 16% less.\n\nThe script changed. The ad still looked like one already running."
+      },
+      {
+        "layout": "list",
+        "kicker": "Checklist",
+        "headline": "Make it *actually* new",
+        "items": [
+          "New buyer — who is this ad for?",
+          "New moment — when do they need it?",
+          "New reason — why buy now?",
+          "New first shot — the opening frame must look different"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make the *next one* better.",
+        "sub": "Save this for your next creative brief.",
+        "actions": [
+          "Follow @galvor.ai for weekly decodes",
+          "Save for your next brief"
+        ]
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png",
+    "slide_02.png",
+    "slide_03.png",
+    "slide_04.png",
+    "slide_05.png",
+    "slide_06.png",
+    "slide_07.png"
+  ],
+  "notes": "Re-cut of Decoded #3 for Instagram. Numbers from the facts bank only.",
+  "approvals": [
+    {
+      "at": "2026-11-09T11:08:28",
+      "action": "Shrutik Rathod: status → In review"
+    },
+    {
+      "at": "2026-11-09T11:09:53",
+      "action": "Shrutik Rathod: status → Approved"
+    },
+    {
+      "at": "2026-11-09T13:51:12",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:14",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-13 13:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:47",
+  "updated_at": "2026-11-13T15:00:47",
+  "topic_ref": "IG-01",
+  "review": {
+    "requested_by": "shrutik@galvor.com",
+    "requested_by_name": "Shrutik Rathod",
+    "requested_at": "2026-11-09T11:08:28",
+    "reviewers": [
+      "sunil@galvor.com",
+      "shrutik@galvor.com"
+    ],
+    "reviewer_names": [
+      "Sunil Humne",
+      "Shrutik Rathod"
+    ],
+    "approved_by": "Shrutik Rathod",
+    "approved_at": "2026-11-09T11:09:53"
+  },
+  "rescheduled_from": "2026-11-09",
+  "reminders": {
+    "pre": "2026-11-13T12:32:12",
+    "due": "2026-11-13T13:00:45",
+    "missed": "2026-11-13T15:00:46"
+  },
+  "due": "Missed — post, reschedule or skip"
+}

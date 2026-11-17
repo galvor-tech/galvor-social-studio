@@ -1,0 +1,88 @@
+{
+  "id": "ig-2027-02-04-january-check-in-which-resolutions-survived",
+  "slug": "january-check-in-which-resolutions-survived",
+  "platform": "instagram",
+  "date": "2027-02-04",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Meme / Relatable",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "February check-in: which creative resolutions survived January?",
+  "hook": "First week of February. Time for an honest check-in.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "First week of February. Time for an honest check-in.\n\nWhich of these made it through January on your team?\n\nOne change per test.\nAds judged in weeks, not days.\nLearnings written down where people can find them.\nNew ideas, not the same ad in new colours.\n\nIf your score is one out of four, you are in good company. Resolutions rarely fail because people stop caring. They fail because they never got a slot in the diary.\n\nSo pick one, and give it a recurring half hour every second week.\n\nTell us your score out of four. Follow @galvor.ai for more.",
+  "first_comment": "",
+  "hashtags": [
+    "#creativestrategy",
+    "#performancemarketing",
+    "#marketingtips",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "List card in Galvor violet and gold titled Which resolutions survived January? Four lines: One change per test. Judged in weeks, not days. Learnings written down. New ideas, not new colours.",
+  "cta": "Comment a score out of four; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "February check-in",
+        "headline": "Which *resolutions* survived January?",
+        "items": [
+          {
+            "title": "One change per test",
+            "detail": "So you know what made the difference"
+          },
+          {
+            "title": "Judged in weeks",
+            "detail": "Not on day three"
+          },
+          {
+            "title": "Learnings written down",
+            "detail": "Where the team can find them"
+          },
+          {
+            "title": "New ideas",
+            "detail": "Not the same ad in new colours"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a growth lead one month into the year's plan. The old hook said \"31 January\" but the slot is 6 Feb, so it now says first week of February. The old caption promised the team would post its own score in the comments; removed, because that is a commitment I cannot make for the team. It also leaned on a 3 Jan resolutions carousel that may have been rewritten, so this post stands alone. Argument: a resolution survives when it has a recurring slot. No numbers from the facts bank.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2027-02-06 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-06 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2027-02-06 11:00 to 2027-02-04 13:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:25:08",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "IG-135",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

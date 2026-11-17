@@ -1,0 +1,1333 @@
+[
+  {
+    "date": "2026-11-10",
+    "end_date": null,
+    "name": "Govardhan Puja 2026",
+    "category": "festival",
+    "region": "North/West",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+      "https://dekhopanchang.com/en/festivals/govardhan-puja",
+      "https://www.ajmerastro.com/hi/blog/govardhan-puja-bhai-dooj-2026-muhurat-vidhi"
+    ],
+    "notes": "Sources disagree: Drik Panchang/Dekho Panchang/AjmerAstro give Tue 10 Nov (Pratipada at sunrise); DoPT restricted holiday list gives Mon 9 Nov. Gujarati New Year (Bestu Varas) is the same Pratipada."
+  },
+  {
+    "date": "2026-11-11",
+    "end_date": null,
+    "name": "Bhai Dooj 2026",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+      "https://www.staffnews.in/2025/07/list-of-holidays-2026-restricted-holidays.html"
+    ],
+    "notes": "Bhaiya Dooj / Bhau Beej."
+  },
+  {
+    "date": "2026-11-11",
+    "end_date": null,
+    "name": "11.11 Singles' Day sale",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Singles%27_Day",
+      "https://www.alibabagroup.com/"
+    ],
+    "notes": "Fixed date (11 Nov). Many Indian D2C brands/marketplaces run 11.11 sales."
+  },
+  {
+    "date": "2026-11-14",
+    "end_date": null,
+    "name": "Children's Day (Bal Diwas)",
+    "category": "global_day",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Children%27s_Day_(India)",
+      "https://www.calendarlabs.com/holidays/india/childrens-day.php"
+    ],
+    "notes": "Fixed date, Nehru's birth anniversary."
+  },
+  {
+    "date": "2026-11-15",
+    "end_date": null,
+    "name": "Chhath Puja 2026 (Sandhya Arghya)",
+    "category": "festival",
+    "region": "East (Bihar/Jharkhand/East UP)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+      "https://www.staffnews.in/2025/07/list-of-holidays-2026-restricted-holidays.html"
+    ],
+    "notes": "Main day per Drik and DoPT RH list. 4-day festival: Nahay Khay ~13 Nov, Kharna ~14 Nov, Usha Arghya ~16 Nov (span from secondary sources)."
+  },
+  {
+    "date": "2026-11-24",
+    "end_date": null,
+    "name": "Guru Nanak Jayanti 2026 (Gurpurab) / Kartik Purnima",
+    "category": "festival",
+    "region": "Pan-India (esp. Punjab/North)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026"
+    ],
+    "notes": "Central govt gazetted holiday (Tue). Drik lists Kartika Purnima 24 Nov. Dev Diwali (Varanasi) falls on Kartik Purnima."
+  },
+  {
+    "date": "2026-11-26",
+    "end_date": null,
+    "name": "Constitution Day (Samvidhan Divas)",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_Day_(India)",
+      "https://www.mygov.in/"
+    ],
+    "notes": "Fixed date, observed since 2015."
+  },
+  {
+    "date": "2026-11-27",
+    "end_date": null,
+    "name": "Black Friday 2026",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.klaviyo.com/uk/bfcm/calendar",
+      "https://www.shopback.com/blog/finance/us-cyber-monday-nov-30-vs-black-friday-nov-27-2026-strategy"
+    ],
+    "notes": "Day after US Thanksgiving (26 Nov 2026)."
+  },
+  {
+    "date": "2026-11-28",
+    "end_date": null,
+    "name": "Small Business Saturday 2026",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://business.vic.gov.au/learning-and-advice/hub/2025-small-business-guide-to-online-shopping-days-click-frenzy,-black-friday-and-more",
+      "https://www.saturdaygift.com/when-is/small-business-saturday/"
+    ],
+    "notes": "US-origin; relevant for D2C/small-brand content."
+  },
+  {
+    "date": "2026-11-30",
+    "end_date": null,
+    "name": "Cyber Monday 2026",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.klaviyo.com/uk/bfcm/calendar",
+      "https://www.shopback.com/blog/finance/us-cyber-monday-nov-30-vs-black-friday-nov-27-2026-strategy"
+    ],
+    "notes": ""
+  },
+  {
+    "date": "2026-12-01",
+    "end_date": null,
+    "name": "Myntra End of Reason Sale (EORS) - December edition",
+    "category": "sale",
+    "region": "Pan-India",
+    "confidence": "estimate",
+    "sources": [
+      "https://www.myntra.com/",
+      "https://en.wikipedia.org/wiki/Myntra"
+    ],
+    "notes": "ESTIMATE: EORS typically runs twice a year (around June and December); exact dates announced by Myntra a few weeks prior. Date is a month placeholder."
+  },
+  {
+    "date": "2026-12-12",
+    "end_date": null,
+    "name": "12.12 sale day",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Double_12_Shopping_Festival",
+      "https://en.wikipedia.org/wiki/Singles%27_Day"
+    ],
+    "notes": "Fixed date (12 Dec); widely used by Indian marketplaces/D2C brands for 12.12 sales."
+  },
+  {
+    "date": "2026-12-24",
+    "end_date": null,
+    "name": "National Consumer Day (India)",
+    "category": "global_day",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/National_Consumer_Day_(India)",
+      "https://consumeraffairs.nic.in/"
+    ],
+    "notes": "Fixed date (Consumer Protection Act 1986 enacted 24 Dec)."
+  },
+  {
+    "date": "2026-12-25",
+    "end_date": null,
+    "name": "Christmas 2026",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+      "https://www.calendarlabs.com/holidays/india/2026"
+    ],
+    "notes": "Central govt gazetted holiday (Fri)."
+  },
+  {
+    "date": "2026-12-31",
+    "end_date": null,
+    "name": "Q3 FY2026-27 end / New Year's Eve",
+    "category": "business",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.incometax.gov.in/",
+      "https://en.wikipedia.org/wiki/Fiscal_year#India"
+    ],
+    "notes": "Indian FY runs 1 Apr-31 Mar; Q3 ends 31 Dec."
+  },
+  {
+    "date": "2027-01-01",
+    "end_date": null,
+    "name": "New Year's Day 2027",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "RH in central govt list (Fri)."
+  },
+  {
+    "date": "2027-01-12",
+    "end_date": null,
+    "name": "National Youth Day (Swami Vivekananda Jayanti)",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/National_Youth_Day_(India)",
+      "https://yas.gov.in/"
+    ],
+    "notes": "Fixed date (12 Jan)."
+  },
+  {
+    "date": "2027-01-13",
+    "end_date": "2027-01-14",
+    "name": "Lohri 2027",
+    "category": "festival",
+    "region": "North (Punjab/Haryana/Delhi)",
+    "confidence": "estimate",
+    "sources": [
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.bhaktibharat.com/festival/lohri",
+      "https://astroyogi.com/festival/lohri"
+    ],
+    "notes": "Sources disagree: Hindu Blog/Bhakti Bharat/days.to give Wed 13 Jan (traditional fixed date); Astroyogi and Hindutone (citing Drik sankranti moment 9:14 PM on 14 Jan) give Thu 14 Jan. Plan content for evening of 13 Jan, with 14 Jan as possible observance."
+  },
+  {
+    "date": "2027-01-14",
+    "end_date": "2027-01-15",
+    "name": "Makar Sankranti / Uttarayan 2027",
+    "category": "festival",
+    "region": "Pan-India (Uttarayan: Gujarat)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Sources disagree on the single day: DoPT RH list and CalendarLabs give Thu 14 Jan; Drik Panchang gives Fri 15 Jan (Sankranti moment 9:14 PM on 14 Jan, so Punya Kaal on 15 Jan). Treat 14-15 Jan as the window; rituals mostly on 15 Jan."
+  },
+  {
+    "date": "2027-01-15",
+    "end_date": null,
+    "name": "Pongal (Thai Pongal) 2027",
+    "category": "festival",
+    "region": "South (Tamil Nadu)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "CalendarLabs lists Makar Sankranti/Pongal on 14 Jan; majority (DoPT, Drik, Hindu Blog) say 15 Jan. Bhogi ~14 Jan, Mattu Pongal ~16 Jan."
+  },
+  {
+    "date": "2027-01-16",
+    "end_date": null,
+    "name": "National Startup Day (India)",
+    "category": "business",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://pib.gov.in/PressReleasePage.aspx?PRID=1790269",
+      "https://www.startupindia.gov.in/"
+    ],
+    "notes": "Declared by PM in Jan 2022; observed every 16 Jan."
+  },
+  {
+    "date": "2027-01-20",
+    "end_date": "2027-01-26",
+    "name": "Republic Day sales (Amazon Great Republic Day / Flipkart Republic Day Sale)",
+    "category": "sale",
+    "region": "Pan-India",
+    "confidence": "estimate",
+    "sources": [
+      "https://www.amazon.in/",
+      "https://www.flipkart.com/"
+    ],
+    "notes": "ESTIMATE: marketplaces typically run Republic Day sales in mid-to-late January (roughly 13-26 Jan). Dates not announced yet."
+  },
+  {
+    "date": "2027-01-26",
+    "end_date": null,
+    "name": "Republic Day",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Gazetted holiday (Tue)."
+  },
+  {
+    "date": "2027-01-28",
+    "end_date": null,
+    "name": "Data Privacy Day",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Data_Privacy_Day",
+      "https://www.coe.int/en/web/data-protection/data-protection-day"
+    ],
+    "notes": "Fixed date (28 Jan). Relevant with India's DPDP Act."
+  },
+  {
+    "date": "2027-02-01",
+    "end_date": null,
+    "name": "Nasscom Technology & Leadership Forum (NTLF) 2027",
+    "category": "industry",
+    "region": "West (Mumbai)",
+    "confidence": "tbc",
+    "sources": [
+      "https://nasscom.in/ntlf/",
+      "https://cxotoday.com/press-release/ntlf-2024-to-focus-on-shaping-the-techade-through-ai-human-dynamics-and-global-innovation/"
+    ],
+    "notes": "TBC: 2027 dates not announced. Recent editions held in Mumbai in late Feb (2024: 20-21 Feb; 2025: 24-25 Feb). Date is a month placeholder."
+  },
+  {
+    "date": "2027-02-01",
+    "end_date": null,
+    "name": "Union Budget 2027-28",
+    "category": "business",
+    "region": "Pan-India",
+    "confidence": "estimate",
+    "sources": [
+      "https://ddindia.co.in/2026/08/govt-begins-preparations-for-union-budget-2027-28-pre-budget-meetings-from-oct-12/",
+      "https://upstox.com/news/business-news/latest-updates/budget-presentation-on-february-1-why-government-presents-union-budget-on-this-date/article-187382"
+    ],
+    "notes": "Expected Mon 1 Feb 2027 per convention since 2017 and PTI report ('likely'). Budget Session dates not yet officially notified."
+  },
+  {
+    "date": "2027-02-11",
+    "end_date": null,
+    "name": "Vasant Panchami / Saraswati Puja 2027",
+    "category": "festival",
+    "region": "Pan-India (esp. North/East)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Thu."
+  },
+  {
+    "date": "2027-02-11",
+    "end_date": null,
+    "name": "International Day of Women and Girls in Science",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.un.org/en/observances/women-and-girls-in-science-day",
+      "https://www.unesco.org/en/days/women-girls-science"
+    ],
+    "notes": "UN day, fixed 11 Feb."
+  },
+  {
+    "date": "2027-02-14",
+    "end_date": null,
+    "name": "Valentine's Day",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Valentine%27s_Day",
+      "https://www.calendarlabs.com/holidays/fun/valentines-day.php"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-02-19",
+    "end_date": null,
+    "name": "Chhatrapati Shivaji Maharaj Jayanti",
+    "category": "festival",
+    "region": "West (Maharashtra)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://en.wikipedia.org/wiki/Shiv_Jayanti"
+    ],
+    "notes": "Maharashtra state holiday (fixed 19 Feb by state govt). Relevant for Mumbai HQ."
+  },
+  {
+    "date": "2027-02-28",
+    "end_date": null,
+    "name": "National Science Day (India)",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/National_Science_Day",
+      "https://dst.gov.in/"
+    ],
+    "notes": "Fixed date (Raman effect)."
+  },
+  {
+    "date": "2027-03-01",
+    "end_date": null,
+    "name": "SaaSBoomi / AIBoomi Annual 2027",
+    "category": "industry",
+    "region": "South",
+    "confidence": "tbc",
+    "sources": [
+      "https://gracker.ai/events/aiboomi-annual-2026/",
+      "https://www.saasboomi.org/"
+    ],
+    "notes": "TBC: not announced. 2026 edition (rebranded AIBoomi Annual) reportedly 18-20 Mar 2026, Chennai (single aggregator source). Month placeholder."
+  },
+  {
+    "date": "2027-03-06",
+    "end_date": null,
+    "name": "Maha Shivaratri 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Sat."
+  },
+  {
+    "date": "2027-03-08",
+    "end_date": null,
+    "name": "International Women's Day",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.un.org/en/observances/womens-day",
+      "https://www.internationalwomensday.com/"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-03-10",
+    "end_date": null,
+    "name": "Eid ul-Fitr 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "moon_sighting",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/indian/muslim-festivals/eid-al-fitr/eid-al-fitr-date-time.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Expected Wed 10 Mar (DoPT gazetted, Drik, CalendarLabs). Subject to moon sighting; some sources/states show Tue 9 Mar."
+  },
+  {
+    "date": "2027-03-15",
+    "end_date": null,
+    "name": "World Consumer Rights Day",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.consumersinternational.org/what-we-do/world-consumer-rights-day/",
+      "https://en.wikipedia.org/wiki/World_Consumer_Rights_Day"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-03-21",
+    "end_date": null,
+    "name": "Holika Dahan 2027",
+    "category": "festival",
+    "region": "North/West/Central",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/festivals/holi/festivals-holika-dahan-timings.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Drik: Sun 21 Mar, muhurat 6:33-8:55 PM (Delhi); Purnima 6:21 PM 21 Mar to 4:13 PM 22 Mar. Sources disagree: DoPT restricted list gives Holika Dahan on Mon 22 Mar."
+  },
+  {
+    "date": "2027-03-22",
+    "end_date": null,
+    "name": "Holi (Rangwali Holi / Dhulandi) 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/festivals/holi/festivals-holika-dahan-timings.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html"
+    ],
+    "notes": "Sources disagree: Drik Panchang, Hindu Blog and CalendarLabs give Mon 22 Mar; central govt (DoPT) gazetted Holi holiday is Tue 23 Mar (offices closed 23 Mar; some regions may play colours on 23 Mar). Recommend posting on 22 Mar."
+  },
+  {
+    "date": "2027-03-26",
+    "end_date": null,
+    "name": "Good Friday 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://publicholidays.com/easter/"
+    ],
+    "notes": ""
+  },
+  {
+    "date": "2027-03-28",
+    "end_date": null,
+    "name": "Easter Sunday 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://publicholidays.com/easter/"
+    ],
+    "notes": "Western Easter."
+  },
+  {
+    "date": "2027-03-31",
+    "end_date": null,
+    "name": "Indian financial year end FY2026-27 (Q4 end)",
+    "category": "business",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.incometax.gov.in/",
+      "https://en.wikipedia.org/wiki/Fiscal_year#India"
+    ],
+    "notes": "Fixed. Budget-flush / year-end planning content."
+  },
+  {
+    "date": "2027-04-01",
+    "end_date": null,
+    "name": "Start of FY2027-28 / April Fools' Day",
+    "category": "business",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.incometax.gov.in/",
+      "https://en.wikipedia.org/wiki/April_Fools%27_Day"
+    ],
+    "notes": "New Indian financial year begins; also April Fools' Day (global_day)."
+  },
+  {
+    "date": "2027-04-07",
+    "end_date": null,
+    "name": "Gudi Padwa / Ugadi 2027 (also Chaitra Navratri begins)",
+    "category": "festival",
+    "region": "West (Maharashtra) / South (Karnataka, AP, Telangana)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "CalendarLabs lists Thu 8 Apr (disagrees); Drik, DoPT and Hindu Blog give Wed 7 Apr. Also Cheti Chand."
+  },
+  {
+    "date": "2027-04-14",
+    "end_date": null,
+    "name": "Baisakhi / Vaisakhi 2027",
+    "category": "festival",
+    "region": "North (Punjab/Haryana)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/festivals/vaisakhi/vaisakhi-date-time.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://templesinindiainfo.com/?p=28870"
+    ],
+    "notes": "Mesha Sankranti 3:03 AM. Same day: Vishu (Kerala), Puthandu (Tamil New Year). Bengali New Year (Poila Baisakh) / Bohag Bihu on 15 Apr per DoPT RH list."
+  },
+  {
+    "date": "2027-04-14",
+    "end_date": null,
+    "name": "Dr. B.R. Ambedkar Jayanti",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ambedkar_Jayanti",
+      "https://publicholidays.in/"
+    ],
+    "notes": "Fixed date (14 Apr). Not in the 2027 Delhi gazetted list; usually notified separately / state holiday (incl. Maharashtra)."
+  },
+  {
+    "date": "2027-04-15",
+    "end_date": null,
+    "name": "Ram Navami 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Thu."
+  },
+  {
+    "date": "2027-04-19",
+    "end_date": null,
+    "name": "Mahavir Jayanti 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/mahavir-jayanti.php",
+      "https://publicholidays.in/mahavir-jayanti/"
+    ],
+    "notes": "Mon. Some panchang settings (non-India locations) show 18 Apr."
+  },
+  {
+    "date": "2027-04-20",
+    "end_date": null,
+    "name": "Hanuman Jayanti 2027",
+    "category": "festival",
+    "region": "North/West",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Tue."
+  },
+  {
+    "date": "2027-04-21",
+    "end_date": null,
+    "name": "World Creativity and Innovation Day",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.un.org/en/observances/creativity-and-innovation-day",
+      "https://en.wikipedia.org/wiki/World_Creativity_and_Innovation_Day"
+    ],
+    "notes": "UN day; on-brand for a creative-intelligence company."
+  },
+  {
+    "date": "2027-04-22",
+    "end_date": null,
+    "name": "Earth Day",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.earthday.org/",
+      "https://www.un.org/en/observances/earth-day"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-05-01",
+    "end_date": null,
+    "name": "Goafest 2027",
+    "category": "industry",
+    "region": "West (Goa)",
+    "confidence": "tbc",
+    "sources": [
+      "https://www.indianbroadcastingworld.com/?p=94317",
+      "https://www.printweek.in/article/goafest-confirms-dates-for-19th-edition/40rdnngk8bhw10ay7tn75cy2nh"
+    ],
+    "notes": "TBC: 2027 dates not announced. 2026 (19th edition) was 20-22 May in Goa. Month placeholder."
+  },
+  {
+    "date": "2027-05-01",
+    "end_date": null,
+    "name": "Google Marketing Live 2027",
+    "category": "industry",
+    "region": "Global",
+    "confidence": "tbc",
+    "sources": [
+      "https://business.google.com/us/google-marketing-live/",
+      "https://blog.google/products/ads-commerce/"
+    ],
+    "notes": "TBC: typically held in May; 2027 date not announced. Month placeholder."
+  },
+  {
+    "date": "2027-05-01",
+    "end_date": null,
+    "name": "Labour Day / Maharashtra Day / Gujarat Day",
+    "category": "national",
+    "region": "West (Maharashtra, Gujarat) / Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://en.wikipedia.org/wiki/Maharashtra_Day"
+    ],
+    "notes": "Fixed date; Maharashtra state holiday (Mumbai HQ)."
+  },
+  {
+    "date": "2027-05-09",
+    "end_date": null,
+    "name": "Akshaya Tritiya 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+      "https://hindutone.com/festivals/akshaya-tritiya-2027/"
+    ],
+    "notes": "Sun. Big gold/jewellery and auspicious-purchase moment for D2C."
+  },
+  {
+    "date": "2027-05-09",
+    "end_date": null,
+    "name": "Mother's Day 2027",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.calendardate.com/mothers_day_2027.htm",
+      "https://days.to/when-is/mothers-day/2027"
+    ],
+    "notes": "2nd Sunday of May. Also Rabindranath Tagore Jayanti per DoPT RH (9 May)."
+  },
+  {
+    "date": "2027-05-17",
+    "end_date": null,
+    "name": "Eid al-Adha (Bakrid) 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "moon_sighting",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://www.officeholidays.com/holidays/india/eid-al-adha"
+    ],
+    "notes": "Expected Mon 17 May; subject to moon sighting (some sources show 16 or 18 May)."
+  },
+  {
+    "date": "2027-05-20",
+    "end_date": null,
+    "name": "Buddha Purnima 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Thu."
+  },
+  {
+    "date": "2027-06-01",
+    "end_date": null,
+    "name": "Myntra End of Reason Sale (EORS) - June edition",
+    "category": "sale",
+    "region": "Pan-India",
+    "confidence": "estimate",
+    "sources": [
+      "https://www.myntra.com/",
+      "https://en.wikipedia.org/wiki/Myntra"
+    ],
+    "notes": "ESTIMATE: EORS typically held around June and December; exact dates TBA by Myntra. Date is a month placeholder."
+  },
+  {
+    "date": "2027-06-16",
+    "end_date": null,
+    "name": "Muharram (Ashura) 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "moon_sighting",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://timeanddate.com/holidays/india/muharram"
+    ],
+    "notes": "Expected Wed 16 Jun (DoPT gazetted, timeanddate tentative). Subject to moon sighting; CalendarLabs/publicholidays.in show Tue 15 Jun. Observance of mourning - avoid celebratory content."
+  },
+  {
+    "date": "2027-06-20",
+    "end_date": null,
+    "name": "Father's Day 2027",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://publicholidays.com/fathers-day/",
+      "https://failflow.com/holidays/2027"
+    ],
+    "notes": "3rd Sunday of June."
+  },
+  {
+    "date": "2027-06-21",
+    "end_date": "2027-06-25",
+    "name": "Cannes Lions 2027",
+    "category": "industry",
+    "region": "Global",
+    "confidence": "estimate",
+    "sources": [
+      "https://www.expobeds.com/event/cannes-lions/2027",
+      "https://www.clocate.com/cannes-lions/13981/"
+    ],
+    "notes": "Listed as 21-25 Jun 2027 by event aggregators only; not confirmed on canneslions.com in my search. Treat as estimate."
+  },
+  {
+    "date": "2027-06-21",
+    "end_date": null,
+    "name": "International Day of Yoga",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.un.org/en/observances/yoga-day",
+      "https://yoga.ayush.gov.in/"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-06-27",
+    "end_date": null,
+    "name": "MSME Day (Micro-, Small and Medium-sized Enterprises Day)",
+    "category": "business",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.un.org/en/observances/micro-small-medium-businesses-day",
+      "https://msme.gov.in/"
+    ],
+    "notes": "UN day; relevant to D2C/small-brand founders."
+  },
+  {
+    "date": "2027-06-30",
+    "end_date": null,
+    "name": "World Social Media Day / Q1 FY2027-28 end",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Social_Media_Day",
+      "https://www.calendarlabs.com/holidays/fun/social-media-day.php"
+    ],
+    "notes": "Fixed date (since 2010, Mashable). Also Indian Q1 end."
+  },
+  {
+    "date": "2027-07-05",
+    "end_date": null,
+    "name": "Rath Yatra 2027",
+    "category": "festival",
+    "region": "East (Odisha) / Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Mon."
+  },
+  {
+    "date": "2027-07-10",
+    "end_date": null,
+    "name": "Amazon Prime Day India 2027",
+    "category": "sale",
+    "region": "Pan-India",
+    "confidence": "estimate",
+    "sources": [
+      "https://deccanchronicle.com/business/in-other-news/amazon-india-announces-10th-edition-of-prime-day-set-for-july-46-with-72-hours-of-deals-and-entertainment-1964508",
+      "https://www.zoutons.com/news/amazon-upcoming-sale"
+    ],
+    "notes": "ESTIMATE: Prime Day India is held in July each year (2026 reported 4-6 Jul). 2027 dates not announced; placeholder mid-July."
+  },
+  {
+    "date": "2027-08-15",
+    "end_date": null,
+    "name": "Milad-un-Nabi / Id-e-Milad 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "moon_sighting",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Expected 15 Aug; subject to moon sighting."
+  },
+  {
+    "date": "2027-08-15",
+    "end_date": null,
+    "name": "Independence Day",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Sun. Same day: Milad-un-Nabi (expected, moon sighting) and Parsi New Year (Navroz) per DoPT lists."
+  },
+  {
+    "date": "2027-08-17",
+    "end_date": null,
+    "name": "Raksha Bandhan 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Tue. Major gifting moment for D2C."
+  },
+  {
+    "date": "2027-08-25",
+    "end_date": null,
+    "name": "Janmashtami 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Wed. Hindu Blog notes 24/25 Aug (Smarta vs Vaishnava); gazetted holiday 25 Aug."
+  },
+  {
+    "date": "2027-09-01",
+    "end_date": null,
+    "name": "D2C summits India 2027 (Inc42 D2C & Retail Summit, e4m D2C Summit, D2C Insider FRONTIER, TiE D2C Summit)",
+    "category": "industry",
+    "region": "Pan-India",
+    "confidence": "tbc",
+    "sources": [
+      "https://inc42.com/irl/",
+      "https://www.exchange4media.com/marketing-news/e4m-d2c-summit-50-to-explore-growth-strategies-transforming-indias-d2c-landscape-157582.html"
+    ],
+    "notes": "TBC: no 2027 dates announced. 2026 references: TiE D2C Summit 25 Feb (Delhi), e4m D2C Summit 5.0 10 Sep, D2C Insider FRONTIER 10 Oct (Mumbai); Inc42 2027 'announcing soon'. Month placeholder."
+  },
+  {
+    "date": "2027-09-04",
+    "end_date": null,
+    "name": "Ganesh Chaturthi 2027",
+    "category": "festival",
+    "region": "West (Maharashtra) / Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Sat. 10-day Ganeshotsav; Anant Chaturdashi (visarjan) date not separately verified. Huge in Mumbai."
+  },
+  {
+    "date": "2027-09-05",
+    "end_date": null,
+    "name": "Teachers' Day (India)",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Teachers%27_Day#India",
+      "https://www.education.gov.in/"
+    ],
+    "notes": "Fixed date (Dr. S. Radhakrishnan's birthday)."
+  },
+  {
+    "date": "2027-09-12",
+    "end_date": null,
+    "name": "Onam (Thiruvonam) 2027",
+    "category": "festival",
+    "region": "South (Kerala)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Sun. CalendarLabs lists Sat 11 Sep (disagrees); Drik, DoPT and Hindu Blog give 12 Sep."
+  },
+  {
+    "date": "2027-09-15",
+    "end_date": null,
+    "name": "Engineers' Day (India)",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Engineer%27s_Day#India",
+      "https://www.calendarlabs.com/holidays/india/engineers-day.php"
+    ],
+    "notes": "Fixed date (M. Visvesvaraya's birthday)."
+  },
+  {
+    "date": "2027-09-25",
+    "end_date": "2027-10-10",
+    "name": "Amazon Great Indian Festival / Flipkart Big Billion Days 2027",
+    "category": "sale",
+    "region": "Pan-India",
+    "confidence": "estimate",
+    "sources": [
+      "https://www.fonearena.com/blog/?p=492788",
+      "https://www.91mobiles.com/hub/amazon-great-indian-festival-2026-sale-date-offers-revealed/"
+    ],
+    "notes": "ESTIMATE: festive sales start 3-5 weeks before Diwali (2026: Amazon GIF from 8 Oct, BBD from 9 Oct, Diwali 8 Nov). With Diwali on 29 Oct 2027, expect a start roughly late Sep 2027. Not announced; window is a placeholder."
+  },
+  {
+    "date": "2027-09-30",
+    "end_date": null,
+    "name": "Sharad Navratri 2027 begins (Ghatasthapana) / Q2 FY end",
+    "category": "festival",
+    "region": "Pan-India (Garba: Gujarat/Mumbai)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/navratri/ashwin-shardiya-navratri-dates.html?year=2027",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://templesinindiainfo.com/2027-shardiya-navratri-dates-navratri-festival-dates-2027"
+    ],
+    "notes": "Thu. Hindu Blog notes 1 Oct in some regions (30 Sep in western India). Also Indian Q2 end (30 Sep)."
+  },
+  {
+    "date": "2027-10-01",
+    "end_date": null,
+    "name": "India Mobile Congress 2027",
+    "category": "industry",
+    "region": "North (New Delhi)",
+    "confidence": "tbc",
+    "sources": [
+      "https://www.showsbee.com/fairs/89804-India-Mobile-Congress-2027.html",
+      "https://www.tribuneindia.com/news/business/jyotiraditya-scindia-announces-10th-edition-of-india-mobile-congress-2026-from-mwc-barcelona/"
+    ],
+    "notes": "TBC: 2027 dates TBD (Yashobhoomi, New Delhi). Editions are held in October (2026: 7-10 Oct). Month placeholder."
+  },
+  {
+    "date": "2027-10-01",
+    "end_date": null,
+    "name": "TechSparks 2027 (YourStory)",
+    "category": "industry",
+    "region": "South (Bengaluru)",
+    "confidence": "tbc",
+    "sources": [
+      "https://yourstory.com/2026/06/techsparks-2026-bengaluru-new-tech-order-entrepreneurs-startup-ecosystem",
+      "https://hub.causo.ai/events/techsparks"
+    ],
+    "notes": "TBC: 2027 not announced. 2026 edition was 13-15 Oct, Bengaluru. Month placeholder."
+  },
+  {
+    "date": "2027-10-02",
+    "end_date": null,
+    "name": "Gandhi Jayanti",
+    "category": "national",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Sat."
+  },
+  {
+    "date": "2027-10-06",
+    "end_date": "2027-10-09",
+    "name": "Durga Puja 2027 (Maha Saptami to Vijaya Dashami)",
+    "category": "festival",
+    "region": "East (West Bengal/Assam/Odisha)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Saptami 6 Oct, Ashtami 7 Oct, Navami 8 Oct (DoPT RH + Drik), Dashami 9 Oct. Hindu Blog shows puja from Shashthi 5 Oct."
+  },
+  {
+    "date": "2027-10-09",
+    "end_date": null,
+    "name": "Dussehra (Vijaya Dashami) 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Sat. CalendarLabs lists Sun 10 Oct (disagrees); DoPT/Drik/Hindu Blog give 9 Oct."
+  },
+  {
+    "date": "2027-10-10",
+    "end_date": null,
+    "name": "World Mental Health Day",
+    "category": "global_day",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.who.int/campaigns/world-mental-health-day",
+      "https://en.wikipedia.org/wiki/World_Mental_Health_Day"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-10-18",
+    "end_date": null,
+    "name": "Karva Chauth 2027",
+    "category": "festival",
+    "region": "North",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Mon."
+  },
+  {
+    "date": "2027-10-27",
+    "end_date": null,
+    "name": "Dhanteras 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/festivals/dhanteras/festivals-dhanteras-puja-timings.html?year=2027",
+      "https://dekhopanchang.com/en/festivals/dhanteras/2027",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Wed (Drik New Delhi: Trayodashi 1:03 AM-10:49 PM 27 Oct). A Drik US-location page shows 26 Oct - not applicable to India."
+  },
+  {
+    "date": "2027-10-28",
+    "end_date": null,
+    "name": "Naraka Chaturdashi / Choti Diwali 2027",
+    "category": "festival",
+    "region": "Pan-India (South: main Deepavali day)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/?p=166871",
+      "https://www.gconnect.in/top-stories/central-government-holiday-list-2027.html"
+    ],
+    "notes": "Thu. Some southern states may observe Deepavali on this day."
+  },
+  {
+    "date": "2027-10-29",
+    "end_date": null,
+    "name": "Diwali (Lakshmi Puja) 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Fri."
+  },
+  {
+    "date": "2027-10-30",
+    "end_date": null,
+    "name": "Govardhan Puja 2027",
+    "category": "festival",
+    "region": "North/West",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871"
+    ],
+    "notes": "Sat. Gujarati New Year same Pratipada."
+  },
+  {
+    "date": "2027-10-31",
+    "end_date": null,
+    "name": "Bhai Dooj 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Sun."
+  },
+  {
+    "date": "2027-11-04",
+    "end_date": null,
+    "name": "Chhath Puja 2027 (Sandhya Arghya)",
+    "category": "festival",
+    "region": "East (Bihar/Jharkhand/East UP)",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+      "https://www.staffnews.in/?p=166871",
+      "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+    ],
+    "notes": "Thu. 4-day festival around this date."
+  },
+  {
+    "date": "2027-11-11",
+    "end_date": null,
+    "name": "11.11 Singles' Day sale",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Singles%27_Day",
+      "https://www.alibabagroup.com/"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-11-14",
+    "end_date": null,
+    "name": "Guru Nanak Jayanti 2027 (Gurpurab) / Children's Day",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027",
+      "https://publicholidays.in/guru-nanak-jayanti/"
+    ],
+    "notes": "Sun. Some sites (BankBazaar, UniversalTimeDate) say 13 Nov; DoPT, CalendarLabs, Dekho Panchang give 14 Nov. Children's Day (fixed 14 Nov) is the same day."
+  },
+  {
+    "date": "2027-11-26",
+    "end_date": null,
+    "name": "Black Friday 2027 / Constitution Day",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.gelato.com/blog/ecommerce-holiday-calendar-2027",
+      "https://gogou.pages.dev/black-friday-2027-countdown/"
+    ],
+    "notes": "Day after US Thanksgiving (25 Nov 2027). Also India's Constitution Day (26 Nov)."
+  },
+  {
+    "date": "2027-11-27",
+    "end_date": null,
+    "name": "Small Business Saturday 2027",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.gelato.com/blog/ecommerce-holiday-calendar-2027",
+      "https://www.saturdaygift.com/when-is/small-business-saturday/"
+    ],
+    "notes": ""
+  },
+  {
+    "date": "2027-11-29",
+    "end_date": null,
+    "name": "Cyber Monday 2027",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.calendardate.com/cyber_monday_2027.htm",
+      "https://calendar-12.com/holidays/cyber_monday/2027"
+    ],
+    "notes": ""
+  },
+  {
+    "date": "2027-12-01",
+    "end_date": null,
+    "name": "Myntra End of Reason Sale (EORS) - December edition",
+    "category": "sale",
+    "region": "Pan-India",
+    "confidence": "estimate",
+    "sources": [
+      "https://www.myntra.com/",
+      "https://en.wikipedia.org/wiki/Myntra"
+    ],
+    "notes": "ESTIMATE: month placeholder; dates TBA."
+  },
+  {
+    "date": "2027-12-12",
+    "end_date": null,
+    "name": "12.12 sale day",
+    "category": "sale",
+    "region": "Global",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Double_12_Shopping_Festival",
+      "https://en.wikipedia.org/wiki/Singles%27_Day"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-12-24",
+    "end_date": null,
+    "name": "National Consumer Day (India) / Christmas Eve",
+    "category": "global_day",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/National_Consumer_Day_(India)",
+      "https://www.staffnews.in/?p=166871"
+    ],
+    "notes": "Fixed date."
+  },
+  {
+    "date": "2027-12-25",
+    "end_date": null,
+    "name": "Christmas 2027",
+    "category": "festival",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+      "https://www.calendarlabs.com/holidays/india/2027"
+    ],
+    "notes": "Sat."
+  },
+  {
+    "date": "2027-12-31",
+    "end_date": null,
+    "name": "Q3 FY2027-28 end / New Year's Eve",
+    "category": "business",
+    "region": "Pan-India",
+    "confidence": "confirmed",
+    "sources": [
+      "https://www.incometax.gov.in/",
+      "https://en.wikipedia.org/wiki/Fiscal_year#India"
+    ],
+    "notes": ""
+  }
+]

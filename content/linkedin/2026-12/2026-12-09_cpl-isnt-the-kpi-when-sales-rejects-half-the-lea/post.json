@@ -1,0 +1,62 @@
+{
+  "id": "li-2026-12-09-cpl-isnt-the-kpi-when-sales-rejects-half-the-lea",
+  "slug": "cpl-isnt-the-kpi-when-sales-rejects-half-the-lea",
+  "platform": "linkedin",
+  "date": "2026-12-09",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Measurement",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Rank ads on orders that stayed, not orders placed",
+  "hook": "The ad with the cheapest orders can be your most expensive ad.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "The ad with the cheapest orders can be your most expensive ad.\nAds Manager counts an order when it is placed. Your bank counts it when it is delivered and kept.\n\nFor an Indian D2C brand selling cash on delivery, a lot can happen in between. The parcel is refused at the door, or it comes back a week later.\n\nMeta sees none of that. It keeps finding more people like the ones who placed the order.\n\nHere is the check I would run before the next budget review.\n\n1. Export orders by ad for a month that has fully closed, so deliveries and returns have settled.\n\n2. Join each order to its final status: kept, refused or returned.\n\n3. Work out cost per order again, counting kept orders only.\n\n4. Rank the ads again.\n\nThen look at which ads moved. If one drops several places, watch its opening. An offer-led hook and a problem-led hook can bring very different buyers at the same cost per order.\n\nThe ad decides who shows up. Rank it on the orders that stayed.",
+  "first_comment": "How we read each creative choice against cost per order: https://galvor.ai/platform/decode/\n\nFollow Galvor for more checks like this one.",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#D2CIndia",
+    "#MarketingAnalytics"
+  ],
+  "alt_text": "",
+  "cta": "Soft: follow Galvor, Decode link in first comment",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: this is written as a check you would run, with no claim that Galvor has run it for a client. Confirm you are happy to recommend it. If Galvor has joined delivery or return status to ad-level orders for any brand, one anonymised line about what moved would make the post much stronger.\nTopic changed. The old post was about cost per lead and sales rejecting leads. Most of our readers sell orders, so the same argument is made here for cash on delivery and returns. The old hook also implied a number (half the leads) that is not in the facts bank.\nHook shape: single-line bomb, with a second line of context.\nNumbers: none.\nReader: a growth lead at a D2C brand with a meaningful share of cash on delivery orders.\nDecoded #8 goes out the same day but is on agents, so it is not linked here.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-09 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:24",
+  "updated_at": "2026-11-16T21:20:00",
+  "topic_ref": "R31 (D2C edition)",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

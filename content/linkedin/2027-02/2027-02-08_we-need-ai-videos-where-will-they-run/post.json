@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-02-08-we-need-ai-videos-where-will-they-run",
+  "slug": "we-need-ai-videos-where-will-they-run",
+  "platform": "linkedin",
+  "date": "2027-02-08",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Better Briefs",
+  "job": "Educate",
+  "format": "text",
+  "series": "Brief to Live",
+  "title": "“We need AI videos”: three questions that turn it into a brief",
+  "hook": "“We need AI videos” is a request about the tool.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "“We need AI videos” is a request about the tool.\nIt says how you want the videos made and leaves out what to make.\n\nThree questions turn that sentence into a brief a team can work from. The first is where the videos will run.\n\n1. Where will it run? Name the placement, since a platform name is too wide. A Reels ad, a product page video and a marketplace listing video are three different films. Length, shape and how early the product must appear all follow from the answer.\n\n2. What must it do there? One job. Stop a new buyer mid-scroll, answer a doubt for someone comparing, or bring a past buyer back.\n\n3. What will it run next to? This one gets skipped. If the new video looks like the ads already running, it competes with your own work. In Galvor's analysis of video ads launched May to Sep 2026, new ads that looked like many running ads got 36% less first-month spend.\n\nOnly after these three does the making question come up. Sometimes AI is the right way to make it. Sometimes a creator in her own kitchen is.\n\nDecide the job first. How it gets made is the last line of the brief.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Text-only post, no image.",
+  "cta": "Follow Galvor (first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Reader: a founder or brand lead about to ask an agency or team for 'AI videos'. Shape: a question worth answering, then three questions to copy. Hook shape: punchy plus context. Written as a method with no personal anecdote, so nothing to confirm beyond Shrutik's sign-off.\nNumbers used: 36% (new ads that looked like many running ads got 36% less first-month spend; Galvor analysis of video ads launched May to Sep 2026, Decoded #3), used once in this group.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-08 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:03",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh9",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

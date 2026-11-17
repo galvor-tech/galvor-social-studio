@@ -1,0 +1,140 @@
+{
+  "id": "li-2027-01-13-ad-of-the-week-3-the-gifting-ad-that-sells-the-p",
+  "slug": "ad-of-the-week-3-the-gifting-ad-that-sells-the-p",
+  "platform": "linkedin",
+  "date": "2027-01-13",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Attract",
+  "format": "carousel",
+  "series": "Ad of the Week",
+  "title": "Ad of the Week #3: in a gifting ad, write the hook for the giver",
+  "hook": "In a gifting ad, the buyer and the user are different people.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "In a gifting ad, the buyer and the user are different people.\nThat changes who the first three seconds should talk to.\n\nAd of the Week #3 is a pattern, shown on a made-up example: a gifting ad for a candle brand. No real brand and no real results.\n\nA normal product ad answers 'do I want this?'. A gifting ad has to answer the giver's question: 'will they like it, and will it look like I thought about it?'\n\nSo the opening names the person receiving the gift. The product arrives as the answer. The giver's worries get handled before the price.\n\nValentine's briefs get written this month. Swipe for the structure, and one caution from our data.",
+  "first_comment": "The caution on slide 7 comes from Decoded #3. Read Decoded #3 on galvor.ai\n\nFollow Galvor for Ad of the Week.",
+  "hashtags": [
+    "#AdCreative",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Eight-slide carousel, Ad of the Week #3. Cover: The gifting ad sells the person. Then: a product ad compared with a gifting ad; seconds 0 to 3, name who it is for; seconds 3 to 6, the product arrives as the answer; three worries of the giver to handle before the price; four different recipients to build ads around; a stat that a new message over a familiar first shot got 16 percent less first-month spend; and a closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; save for the next gifting brief",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Ad of the Week #3",
+        "headline": "The gifting ad sells *the person*",
+        "sub": "A pattern, shown on a made-up example."
+      },
+      {
+        "layout": "compare",
+        "kicker": "Who is buying",
+        "headline": "Two ads, *two buyers*",
+        "left_title": "Product ad",
+        "left": [
+          "Buyer is the user",
+          "Asks: do I want this?",
+          "Opens on the product"
+        ],
+        "right_title": "Gifting ad",
+        "right": [
+          "Buyer is the giver",
+          "Asks: will they like it?",
+          "Opens on the person"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Seconds 0 to 3 (made-up example)",
+        "headline": "Name *who it is for*",
+        "body": "A candle brand.\n\nFirst line on screen: 'For the friend who just moved cities.'\n\nNo logo yet and no discount. The giver has already thought of someone before the product appears."
+      },
+      {
+        "layout": "text",
+        "kicker": "Seconds 3 to 6",
+        "headline": "The product arrives as *the answer*",
+        "body": "The candle is unboxed in a half-empty flat.\n\nThe viewer sees the gift being received. That is the moment the giver is paying for.\n\nThen one reason it suits that person, said once."
+      },
+      {
+        "layout": "list",
+        "kicker": "Before the price",
+        "headline": "Handle the *giver's worries*",
+        "items": [
+          "Will it arrive in time — say the delivery date",
+          "Will it look thoughtful — show the unboxing",
+          "What if it is wrong — say the exchange rule"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "For your variations",
+        "headline": "Change the *person*, keep the product",
+        "items": [
+          "The friend who just moved cities",
+          "The dad who says he wants nothing",
+          "The colleague you barely know",
+          "The sister who has everything"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "One caution",
+        "stat": "16%",
+        "headline": "less first-month spend for a new message over a *familiar first shot*",
+        "sub": "So each new person needs a new opening shot, too.",
+        "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "cta",
+        "headline": "Write the hook for *the giver*.",
+        "sub": "Save this before your Valentine's brief.",
+        "actions": [
+          "Follow Galvor",
+          "Save for your next gifting brief"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: the structure (name the recipient, product as the answer, giver's worries before price) is written as a pattern, with a made-up candle ad. If you have seen it hold in decoded ads, say so in one line. If not, it stays as a pattern to test.\nHook shape: punchy plus context.\nNumbers: 16% less first-month spend for a new message over a familiar first shot (Galvor analysis, new video ads launched May-Sep 2026, facts bank). On the stat slide only.\nThe example is made up and labelled as made up. No real brand is torn down.\nTiming changed from December gifting to Valentine's briefs, because the slot is 13 Jan.\nReader: a brand or creative manager writing a Valentine's gifting brief.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:53:17",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-13 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:19",
+  "updated_at": "2026-11-16T21:20:00",
+  "topic_ref": "AotW-3",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

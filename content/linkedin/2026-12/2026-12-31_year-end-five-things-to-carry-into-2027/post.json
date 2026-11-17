@@ -1,0 +1,112 @@
+{
+  "id": "li-2026-12-31-year-end-five-things-to-carry-into-2027",
+  "slug": "year-end-five-things-to-carry-into-2027",
+  "platform": "linkedin",
+  "date": "2026-12-31",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Brand Memory / POV",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Year end: five questions for your 2026 ad account before you plan 2027",
+  "hook": "Five questions to ask your 2026 ad account before you plan 2027.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Five questions to ask your 2026 ad account before you plan 2027.\nIndia Inc closes Q3 today, and January planning starts on Monday.\n\nMost plans for a new year start from a budget. Yours can start from what the last year already taught you, which is sitting in your account.\n\nThe slides have five questions. Each can be answered from your own ads in an afternoon, without any tool.\n\nTwo of them use findings from our analysis of new video ads launched from May to September 2026. One uses a column Meta added to Ads Manager this year.\n\nAnswer them in writing. The page you end up with is your first brief of 2027.",
+  "first_comment": "Read Decoded #10 on galvor.ai",
+  "hashtags": [
+    "#D2CIndia",
+    "#PerformanceMarketing",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Seven-slide Galvor carousel. Slide 1: five questions for your 2026 ad account before you plan 2027. Slide 2: which message kept working in a new look? Slide 3: which style started dear and came good, with the finding that some ad styles start about 35% dearer per order in their first two months and end close to average. Slide 4: how many launches were near-copies? Slide 5: what does your creative diversity column say, with one brand's score moving from 63 to 92 out of 100. Slide 6: which creator would you brief again? Slide 7: write the answers down, follow Galvor.",
+  "cta": "Soft: save for planning week; follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Year end · 2026",
+        "headline": "Five questions for your *2026 ad account* before you plan 2027",
+        "sub": "Each one can be answered from your own ads."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 1",
+        "headline": "Which message kept working in a *new look*?",
+        "body": "Find the promise that sold across more than one ad this year.\n\nThat message has earned a place in 2027. Give it a new first shot before you go looking for a new idea."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Question 2",
+        "stat": "35%",
+        "headline": "Which style started dear and *came good*?",
+        "sub": "Some ad styles start about 35% dearer per order in their first two months and end close to average.",
+        "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 3",
+        "headline": "How many launches were *near-copies*?",
+        "body": "Lay the year's ads out as thumbnails and count the ones a stranger would call the same ad.\n\nThat share is production budget you can move to something different next year."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Question 4",
+        "stat": "63 → 92",
+        "headline": "What does your *creative diversity* column say?",
+        "sub": "One brand's score out of 100, two months after acting on our recommendations. Meta began showing the column in late August 2026.",
+        "source": "Source: Galvor analysis · Decoded #3"
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 5",
+        "headline": "Which creator would you *brief again*?",
+        "body": "List the creators you paid this year. Mark the ones whose second video did better than their first.\n\nThose are relationships to keep. The rest were one-off experiments, and it helps to say so."
+      },
+      {
+        "layout": "cta",
+        "headline": "Write the answers down. That page is your *first brief* of 2027.",
+        "sub": "The longer version is in Decoded #10.",
+        "actions": [
+          "Follow Galvor",
+          "Save this for planning week"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: punchy plus context. Reader: a growth lead writing the January to March plan. A question-led audit, not a list of lessons, so it does not repeat Decoded #10. Numbers: 35% dearer per order in the first two months (second and last use in this group; Galvor analysis, Decoded #3); creative diversity score 63 to 92 out of 100 for one brand two months after Galvor's recommended changes (only use; Galvor analysis, Decoded #3). Meta's 'Creative diversity' column appearing from late August 2026 is from Meta's public statements as cited in Decoded #3. Check that 31 Dec is still the Q3 close line the team wants.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:55:10",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-31 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:29",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-yearend",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ig-2026-11-14-meme-30-new-ads-meta-sees-one",
+  "slug": "meme-30-new-ads-meta-sees-one",
+  "platform": "instagram",
+  "date": "2026-11-14",
+  "time": "11:00",
+  "voice": "company",
+  "pillar": "Meme / Relatable",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Meme: 30 new ads, Meta sees one",
+  "hook": "Thirty new looks. One buyer, one reason.",
+  "status": "designed",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Thirty new looks. One buyer, one reason.\n\nIf every ad in the batch talks to the same person, at the same moment, with the same pitch, Meta's new system reads them as close to one ad.\n\nDifferent backdrop. Same buyer. Same result.\n\nTag the person who briefs “just make 30 variations” 😅\n(We still love you.)",
+  "first_comment": "",
+  "hashtags": [
+    "#marketingmemes",
+    "#metaads",
+    "#adcreative",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Statement card in Galvor violet and gold. Text: Agency: here are 30 new ads. Meta: cool, that's one ad. Below: different backdrops, same buyer, same reason.",
+  "cta": "Tag a teammate",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "Agency: “Here are 30 new ads.”\nMeta: “*Cool. That's one ad.*”",
+        "sub": "Different backdrops. Same buyer. Same reason."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:14",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-14 11:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:13",
+  "updated_at": "2026-11-11T01:04:14",
+  "topic_ref": "IG-06"
+}

@@ -1,0 +1,639 @@
+{
+ "posts": [
+  {
+   "id": "li-2026-11-25-how-i-spot-creative-fatigue-before-costs-rise",
+   "title": "Tired ad or slow starter: reading fatigue from history",
+   "hook": "Tired ads and slow starters look the same on a cost chart.",
+   "caption": "Tired ads and slow starters look the same on a cost chart.\nOne needs a new opening. The other needs you to leave it alone.\n\nBoth show a cost per order above your account average, so the cost column cannot separate them.\n\nHistory can. An ad can only be tired if it was once good.\n\nIn Galvor's analysis of video ads launched May to September 2026, some ad styles started about 35% dearer per order in their first two months and ended close to average over their life. Cut those in week one and you never see the second half.\n\nSwipe for the order I check things in, and the four calls it leads to.",
+   "first_comment": "Read Decoded #6 on galvor.ai",
+   "hashtags": ["#PerformanceMarketing", "#MetaAds", "#AdCreative"],
+   "alt_text": "Seven-slide carousel. Cover: Tired ad or slow starter? Then: fatigue needs a before; a comparison of a slow starter and a tired ad; four signals to read together (hook rate, frequency, hold rate, cost per order); a stat that some ad styles start 35 percent dearer per order in their first two months; the four calls (scale, refresh, cut, test); and a closing slide asking readers to follow Galvor.",
+   "cta": "Follow Galvor; first comment points to Decoded #6 (same day, same topic)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Creative fatigue",
+      "headline": "Tired ad or *slow starter*?",
+      "sub": "They look the same on a cost chart. Here is how I tell them apart."
+     },
+     {
+      "layout": "text",
+      "kicker": "Start here",
+      "headline": "Fatigue needs a *before*",
+      "body": "An ad can only be tired if it was once good.\n\nSo the first check is history. Did this ad ever beat your account average for a couple of weeks?\n\nIf it never did, you are looking at something else."
+     },
+     {
+      "layout": "compare",
+      "kicker": "Same chart",
+      "headline": "Same cost, *different ad*",
+      "left_title": "Slow starter",
+      "left": ["Never beat your average", "Cost easing week on week", "Hook rate steady"],
+      "right_title": "Tired ad",
+      "right": ["Beat your average before", "Cost rising week on week", "Hook rate sliding"]
+     },
+     {
+      "layout": "list",
+      "kicker": "The order I check",
+      "headline": "Four signals, *read together*",
+      "items": [
+       "Hook rate — falling while the cost of reach holds",
+       "Frequency — the same people, seeing it again",
+       "Hold rate — people stop, then leave sooner",
+       "Cost per order — the last one to move"
+      ]
+     },
+     {
+      "layout": "stat",
+      "kicker": "Why I wait",
+      "stat": "35%",
+      "headline": "dearer per order in the first two months, for *some ad styles*",
+      "sub": "They ended close to average over their life.",
+      "source": "Source: Galvor analysis · video ads launched May–Sep 2026"
+     },
+     {
+      "layout": "list",
+      "kicker": "The call",
+      "headline": "Scale, cut, *refresh*, test",
+      "items": [
+       "Scale — still beating average, signals steady",
+       "Refresh — the message sells, the opening is tired",
+       "Cut — never was good, and is not improving",
+       "Test — too little delivery to judge yet"
+      ]
+     },
+     {
+      "layout": "cta",
+      "headline": "Read the history *before* the cost.",
+      "sub": "Save this for your next weekly review.",
+      "actions": ["Follow Galvor", "Read Decoded #6 on galvor.ai"]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Raj: the check order (hook rate, frequency, hold rate, cost per order) and the 'beat your average for a couple of weeks' test are written as your working method. Confirm they match how you actually read fatigue, or correct the order. A real anonymised example of a slow starter that was nearly cut would make slide 3 stronger.\nHook shape: punchy plus context.\nNumbers: 35% dearer per order in the first two months (Galvor analysis, video ads launched May-Sep 2026, facts bank). Used in the caption and on the stat slide.\nReader: a head of performance who decides each week which ads to pause.\nFirst comment points only to Decoded #6 (Creative Fatigue: When to Refresh, When to Cut), which goes out the same morning."
+  },
+  {
+   "id": "li-2026-12-02-poll-guess-which-new-ad-won",
+   "title": "Poll: which kind of new ad got more first-month spend",
+   "hook": "Three kinds of new ad. Only one got more spend.",
+   "caption": "Three kinds of new ad. Only one got more spend.\nYour next brief probably contains all three.\n\nWe took every new video ad launched from May to September 2026 across the brands we work with, and looked at how much spend each one got in its first month.\n\nThen we sorted them into three kinds.\n\nA. A proven message, shot in a new look.\nB. A new message, over a familiar first shot.\nC. A new ad that looks like many ads already running.\n\nOne kind got clearly more first-month spend. The other two got less.\n\nIt matters this week because sale season has just ended, and December briefs tend to be written from the looks that are already in the account.\n\nVote below. I will post the answer, with the numbers, in the comments tomorrow.",
+   "first_comment": "",
+   "hashtags": ["#CreativeStrategy", "#MetaAds", "#PerformanceMarketing"],
+   "alt_text": "",
+   "cta": "Vote in the poll; answer posted as a comment the next day",
+   "script": null,
+   "poll": {
+    "question": "Which kind of new ad got more first-month spend?",
+    "options": ["Proven message, new look", "New message, familiar shot", "Looks like running ads"],
+    "duration": "1 week"
+   },
+   "creative": {"size": "feed", "slides": []},
+   "notes": "Hook shape: stacked.\nPost the answer as a comment the next day (Thu 3 Dec), from Raj's profile:\n'Answer: A. A proven message in a new look got 47% more first-month spend. A new message over a familiar first shot got 16% less: the script changed, but the ad still looked like one already running. New ads that looked like many running ads got 36% less. A new reason to buy needs a new first shot. Source: Galvor analysis of new video ads launched May to Sep 2026. Read Decoded #3 on galvor.ai'\nNumbers: none in the caption or poll. The answer comment uses 47%, 16% and 36% (facts bank, Decoded #3).\nFirst comment is left empty on purpose so the answer is not given away. Decoded #7 goes out the same day but is on a different topic, so it is not linked here."
+  },
+  {
+   "id": "li-2026-12-09-cpl-isnt-the-kpi-when-sales-rejects-half-the-lea",
+   "title": "Rank ads on orders that stayed, not orders placed",
+   "hook": "The ad with the cheapest orders can be your most expensive ad.",
+   "caption": "The ad with the cheapest orders can be your most expensive ad.\nAds Manager counts an order when it is placed. Your bank counts it when it is delivered and kept.\n\nFor an Indian D2C brand selling cash on delivery, a lot can happen in between. The parcel is refused at the door, or it comes back a week later.\n\nMeta sees none of that. It keeps finding more people like the ones who placed the order.\n\nHere is the check I would run before the next budget review.\n\n1. Export orders by ad for a month that has fully closed, so deliveries and returns have settled.\n\n2. Join each order to its final status: kept, refused or returned.\n\n3. Work out cost per order again, counting kept orders only.\n\n4. Rank the ads again.\n\nThen look at which ads moved. If one drops several places, watch its opening. An offer-led hook and a problem-led hook can bring very different buyers at the same cost per order.\n\nThe ad decides who shows up. Rank it on the orders that stayed.",
+   "first_comment": "How we read each creative choice against cost per order: https://galvor.ai/platform/decode/\n\nFollow Galvor for more checks like this one.",
+   "hashtags": ["#PerformanceMarketing", "#D2CIndia", "#MarketingAnalytics"],
+   "alt_text": "",
+   "cta": "Soft: follow Galvor, Decode link in first comment",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "topic_ref": "R31 (D2C edition)",
+   "notes": "CONFIRM WITH Raj: this is written as a check you would run, with no claim that Galvor has run it for a client. Confirm you are happy to recommend it. If Galvor has joined delivery or return status to ad-level orders for any brand, one anonymised line about what moved would make the post much stronger.\nTopic changed. The old post was about cost per lead and sales rejecting leads. Most of our readers sell orders, so the same argument is made here for cash on delivery and returns. The old hook also implied a number (half the leads) that is not in the facts bank.\nHook shape: single-line bomb, with a second line of context.\nNumbers: none.\nReader: a growth lead at a D2C brand with a meaningful share of cash on delivery orders.\nDecoded #8 goes out the same day but is on agents, so it is not linked here."
+  },
+  {
+   "id": "li-2026-12-16-an-engineer-in-a-clients-marketing-review",
+   "title": "The four-call test for every chart in a weekly review",
+   "hook": "A chart that cannot change a decision is decoration.",
+   "caption": "A chart that cannot change a decision is decoration.\nI use that as a build rule. You can use it on your own weekly ad review.\n\nTake the deck or dashboard your team opens every Monday. For each chart, ask which of four calls it could change.\n\nScale this ad.\nCut this ad.\nRefresh this ad.\nTest something new.\n\nIf the answer is none, the chart is reporting. Reporting is fine in a monthly note. In a weekly review it eats the minutes you needed for the real argument: why did that ad do well, and what do we make next?\n\nThis is the rule we build to at Galvor. A screen has to end in one of those four words. If we cannot say which one, the screen is not finished.\n\nTwo views usually pass the test. Cost per order by ad. And what your good ads have in common. Blended account averages usually fail it, because an average cannot tell you which ad to touch.\n\nTry it on Monday. Count the charts, then count the decisions.",
+   "first_comment": "Follow Galvor for more on getting from dashboards to decisions.",
+   "hashtags": ["#MarketingAnalytics", "#PerformanceMarketing", "#AIinMarketing"],
+   "alt_text": "",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "topic_ref": "R30 / R38",
+   "notes": "CONFIRM WITH Raj: (1) that 'a screen has to end in scale, cut, refresh or test' is a rule you really build to; (2) the old draft opened with you sitting in a client's weekly marketing review as the only engineer. I could not verify that it happened, so it has been removed. If it did happen, add two real lines about what the team argued over and the post gets better.\nTopic changed. Old: a first-person story from a client's marketing review. New: a test any team can run on its own weekly review (which of four calls can each chart change).\nHook shape: single-line bomb.\nNumbers: none.\nReader: a head of growth who runs a Monday review with a long dashboard."
+  },
+  {
+   "id": "li-2026-12-23-human-in-the-loop-is-a-feature-not-a-confession",
+   "title": "Where the human stands: three questions before you trust an agent",
+   "hook": "Our AI co-worker can recommend a budget move. It cannot make one.",
+   "caption": "Our AI co-worker can recommend a budget move. It cannot make one.\nThat was a design choice, and I would make it again.\n\nThe fair doubt about any agent in a marketing team is simple: what happens when it is wrong?\n\nMy answer is to decide, before building anything, where a person stands. Three questions sort it.\n\nCan the mistake be undone for free? A wrong tag on an ad can. Let the system act, and review in bulk.\n\nDoes the mistake spend money? A budget shift does. The system shows its reasoning and a person approves. Galvor never touches the media budget.\n\nCould the mistake hurt the brand? A claim in a script could. A person reads it before it goes anywhere.\n\nThe engineering work is making that review quick: the recommendation, the evidence and the expected result in one place. Someone who can see why can say yes or no in a couple of minutes.\n\nIf you are evaluating an agent this quarter, ask the vendor to draw this map. Where does it act alone, and where does it wait?\n\nAn agent you can overrule is one you can let near real money.",
+   "first_comment": "Read Decoded #8 on galvor.ai",
+   "hashtags": ["#AIinMarketing", "#PerformanceMarketing", "#D2C"],
+   "alt_text": "",
+   "cta": "First comment points to Decoded #8 (Agents, Not Headcount)",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "CONFIRM WITH Raj: the three tiers describe how Galvor places a person (tags reviewed in bulk; budget suggestions approved by a person; script claims read by a person before use). They come from the earlier draft and from 'we never touch the media budget' and 'Vira shows its thinking'. Confirm each tier matches the product today.\nHook shape: punchy plus context.\nNumbers: none.\nReader: a CMO or head of growth who is evaluating an agent product and worries about it acting on its own.\nThe old hook ('a feature, not a confession') was dropped because it only makes sense to people who build AI products. The argument is kept and turned into a map a buyer can ask any vendor for."
+  },
+  {
+   "id": "li-2026-12-30-ad-of-the-week-2-the-first-three-seconds",
+   "title": "Ad of the Week #2: log the first three seconds in four fields",
+   "hook": "Hook rate says an opening worked. It cannot say why.",
+   "caption": "Hook rate says an opening worked. It cannot say why.\nThe first three seconds can, if you write them down the same way every time.\n\nAd of the Week #2 is a method, shown on a made-up example: a festive gifting ad for a tea brand. No real brand and no real numbers.\n\nI log four things about the opening of an ad. What is in the first frame. What the first words promise. Who is on screen. When the product shows up.\n\nSame four fields, same order, every ad. After twenty ads you can sort the sheet and see which kind of opening your good ads share.\n\nA quiet week is a good time to log this year's ads.",
+   "first_comment": "Decode tags ads this way on 50+ attributes, so you do not have to keep the sheet by hand: https://galvor.ai/platform/decode/\n\nFollow Galvor for Ad of the Week.",
+   "hashtags": ["#AdCreative", "#CreativeStrategy", "#MetaAds"],
+   "alt_text": "Seven-slide carousel, Ad of the Week #2. Cover: The first three seconds, written down. Then: why averages hide the opening; the four fields to log (first frame, first words, who is on screen, when the product appears); a made-up worked example of a festive gifting ad for a tea brand; a vague log compared with a useful log; what sorting twenty logged ads shows; and a closing slide asking readers to follow Galvor.",
+   "cta": "Follow Galvor; save for January briefs",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Ad of the Week #2",
+      "headline": "The first *three seconds*, written down",
+      "sub": "A logging method, shown on a made-up gifting ad."
+     },
+     {
+      "layout": "text",
+      "kicker": "The problem",
+      "headline": "Averages hide the *opening*",
+      "body": "Hook rate tells you people stayed past the opening.\n\nIt cannot tell you what was in it. So two ads with the same hook rate teach you nothing about the next brief.\n\nThe fix is a log. Four fields, the same for every ad."
+     },
+     {
+      "layout": "list",
+      "kicker": "The log",
+      "headline": "Four fields, *every ad*",
+      "items": [
+       "First frame — what you see before anything moves",
+       "First words — the promise, spoken or on screen",
+       "Who — founder, creator, customer or nobody",
+       "Product in — the second it first appears"
+      ]
+     },
+     {
+      "layout": "text",
+      "kicker": "Worked example (made up)",
+      "headline": "A festive *gifting ad* for a tea brand",
+      "body": "First frame: hands tying a ribbon on a box.\n\nFirst words: 'For the aunt who has everything.'\n\nWho: a customer, at home.\n\nProduct in: second two, when the box opens."
+     },
+     {
+      "layout": "compare",
+      "kicker": "Be specific",
+      "headline": "Vague log or *useful log*",
+      "left_title": "Vague",
+      "left": ["UGC style", "Good hook", "Festive feel"],
+      "right_title": "Useful",
+      "right": ["Customer, at home", "Gift for a hard-to-please aunt", "Product at second two"]
+     },
+     {
+      "layout": "list",
+      "kicker": "Then sort",
+      "headline": "What twenty logged ads *show you*",
+      "items": [
+       "Sort by first frame — what your good ads share",
+       "Sort by product in — early or late, by cost per order",
+       "Read the blanks — openings you have never tried"
+      ]
+     },
+     {
+      "layout": "cta",
+      "headline": "Log the opening. *Then* read the average.",
+      "sub": "Four fields, twenty ads, one sheet.",
+      "actions": ["Follow Galvor", "Save this for your January briefs"]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Raj: the four fields (first frame, first words, who is on screen, when the product appears) are written as what you log. Confirm, or swap in the fields you actually use from Decode's attribute list.\nHook shape: punchy plus context.\nNumbers: 50+ attributes (facts bank), in the first comment only.\nThe worked example is made up and labelled as made up on the slide and in the caption. No real brand is torn down.\nReader: a creative strategist or performance lead with a quiet last week of December.\nDecoded #11 goes out the same day but is on test calendars, so the first comment points to Decode instead."
+  },
+  {
+   "id": "li-2027-01-06-what-it-means-for-an-ai-agent-to-review-its-own",
+   "title": "Four questions for any agent that 'learns from its mistakes'",
+   "hook": "'Our agent learns from its mistakes' should make you ask one thing.",
+   "caption": "'Our agent learns from its mistakes' should make you ask one thing.\nWhat did it write down before the mistake?\n\nLearning needs a record. Without one, an agent that changes its behaviour is only drifting. These are the four questions I would put to any vendor, and the standard we hold our own work to.\n\n1. Does each recommendation record what it expected? 'Scale this ad' is a guess until it says what should happen, and by when.\n\n2. Is it scored against what happened? A recommendation nobody scores is an opinion.\n\n3. When it was wrong, can it tell thin data from bad reasoning? An ad with too few orders teaches nothing. That miss should be flagged and left alone.\n\n4. Who approves a change to the rules? An agent that quietly rewrites itself is an agent nobody can audit. A person should see the miss first.\n\nNone of this is clever. It is bookkeeping: a prediction, a result and a note on the gap, kept for every call.\n\nIn a Monday review, that is what learning should look like. You open the record and see where the system was wrong.",
+   "first_comment": "Follow Galvor for more on how we build agents a marketing team can check.",
+   "hashtags": ["#AIinMarketing", "#MarketingAnalytics", "#BrandMemory"],
+   "alt_text": "",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "CONFIRM WITH Raj: the post says these four points are 'the standard we hold our own work to'. Confirm that Galvor's recommendations record an expected result, are compared with what happened, separate thin data from wrong reasoning, and that a person sees a miss before any rule changes. The earlier draft described an overnight job doing this. If that is accurate, add one line saying so. If any of the four is not yet true, cut the phrase 'and the standard we hold our own work to'.\nHook shape: punchy plus context.\nNumbers: none.\nReader: a buyer comparing agent products who has heard 'it learns' from every one of them.\nDifferent from the 23 Dec post: that one is about where a person approves before the system acts. This one is about the record kept after it acts.\nDecoded #12 goes out the same day but is on the fortnightly creative cycle, so it is not linked here."
+  },
+  {
+   "id": "li-2027-01-13-ad-of-the-week-3-the-gifting-ad-that-sells-the-p",
+   "title": "Ad of the Week #3: in a gifting ad, write the hook for the giver",
+   "hook": "In a gifting ad, the buyer and the user are different people.",
+   "caption": "In a gifting ad, the buyer and the user are different people.\nThat changes who the first three seconds should talk to.\n\nAd of the Week #3 is a pattern, shown on a made-up example: a gifting ad for a candle brand. No real brand and no real results.\n\nA normal product ad answers 'do I want this?'. A gifting ad has to answer the giver's question: 'will they like it, and will it look like I thought about it?'\n\nSo the opening names the person receiving the gift. The product arrives as the answer. The giver's worries get handled before the price.\n\nValentine's briefs get written this month. Swipe for the structure, and one caution from our data.",
+   "first_comment": "The caution on slide 7 comes from Decoded #3. Read Decoded #3 on galvor.ai\n\nFollow Galvor for Ad of the Week.",
+   "hashtags": ["#AdCreative", "#CreativeStrategy", "#D2CIndia"],
+   "alt_text": "Eight-slide carousel, Ad of the Week #3. Cover: The gifting ad sells the person. Then: a product ad compared with a gifting ad; seconds 0 to 3, name who it is for; seconds 3 to 6, the product arrives as the answer; three worries of the giver to handle before the price; four different recipients to build ads around; a stat that a new message over a familiar first shot got 16 percent less first-month spend; and a closing slide asking readers to follow Galvor.",
+   "cta": "Follow Galvor; save for the next gifting brief",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Ad of the Week #3",
+      "headline": "The gifting ad sells *the person*",
+      "sub": "A pattern, shown on a made-up example."
+     },
+     {
+      "layout": "compare",
+      "kicker": "Who is buying",
+      "headline": "Two ads, *two buyers*",
+      "left_title": "Product ad",
+      "left": ["Buyer is the user", "Asks: do I want this?", "Opens on the product"],
+      "right_title": "Gifting ad",
+      "right": ["Buyer is the giver", "Asks: will they like it?", "Opens on the person"]
+     },
+     {
+      "layout": "text",
+      "kicker": "Seconds 0 to 3 (made-up example)",
+      "headline": "Name *who it is for*",
+      "body": "A candle brand.\n\nFirst line on screen: 'For the friend who just moved cities.'\n\nNo logo yet and no discount. The giver has already thought of someone before the product appears."
+     },
+     {
+      "layout": "text",
+      "kicker": "Seconds 3 to 6",
+      "headline": "The product arrives as *the answer*",
+      "body": "The candle is unboxed in a half-empty flat.\n\nThe viewer sees the gift being received. That is the moment the giver is paying for.\n\nThen one reason it suits that person, said once."
+     },
+     {
+      "layout": "list",
+      "kicker": "Before the price",
+      "headline": "Handle the *giver's worries*",
+      "items": [
+       "Will it arrive in time — say the delivery date",
+       "Will it look thoughtful — show the unboxing",
+       "What if it is wrong — say the exchange rule"
+      ]
+     },
+     {
+      "layout": "list",
+      "kicker": "For your variations",
+      "headline": "Change the *person*, keep the product",
+      "items": [
+       "The friend who just moved cities",
+       "The dad who says he wants nothing",
+       "The colleague you barely know",
+       "The sister who has everything"
+      ]
+     },
+     {
+      "layout": "stat",
+      "kicker": "One caution",
+      "stat": "16%",
+      "headline": "less first-month spend for a new message over a *familiar first shot*",
+      "sub": "So each new person needs a new opening shot, too.",
+      "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+     },
+     {
+      "layout": "cta",
+      "headline": "Write the hook for *the giver*.",
+      "sub": "Save this before your Valentine's brief.",
+      "actions": ["Follow Galvor", "Save for your next gifting brief"]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Raj: the structure (name the recipient, product as the answer, giver's worries before price) is written as a pattern, with a made-up candle ad. If you have seen it hold in decoded ads, say so in one line. If not, it stays as a pattern to test.\nHook shape: punchy plus context.\nNumbers: 16% less first-month spend for a new message over a familiar first shot (Galvor analysis, new video ads launched May-Sep 2026, facts bank). On the stat slide only.\nThe example is made up and labelled as made up. No real brand is torn down.\nTiming changed from December gifting to Valentine's briefs, because the slot is 13 Jan.\nReader: a brand or creative manager writing a Valentine's gifting brief."
+  },
+  {
+   "id": "li-2027-01-20-same-category-three-brands-three-hooks",
+   "title": "Same category, three hooks: a 20-minute Ad Library exercise",
+   "hook": "Line up three ads from your category. Read only the openings.",
+   "caption": "Line up three ads from your category. Read only the openings.\nWhat they share tells you where your next ad will blend in.\n\nThis is a 20-minute exercise with the public Meta Ad Library. I have shown it on a made-up set of three sunscreen ads, so no real brand is being judged.\n\nSort each opening into one of three lanes. It opens on a problem, on proof, or on a person. Then count.\n\nOne caution on what the count means. The library shows what a brand is running. It does not show what is selling. So a crowded lane is a fact about the feed.\n\nThe empty lane is a test worth running on your own ads.",
+   "first_comment": "Follow Galvor for more ways to read public ads without guessing at anyone's results.",
+   "hashtags": ["#CreativeStrategy", "#AdCreative", "#MetaAds"],
+   "alt_text": "Seven-slide carousel. Cover: Same category. Three hooks. Then: what to collect from the public Ad Library; the three lanes an opening can take (problem, proof, person); a made-up example of three sunscreen ads; what the count can and cannot tell you; the empty lane as your test brief; and a closing slide asking readers to follow Galvor.",
+   "cta": "Follow Galvor; try the exercise this week",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Hook side-by-side",
+      "headline": "Same category. *Three hooks.*",
+      "sub": "A 20-minute exercise with the public Ad Library."
+     },
+     {
+      "layout": "list",
+      "kicker": "The set-up",
+      "headline": "What to *collect*",
+      "items": [
+       "Three to five brands — in your category",
+       "Their newest video ads — from the public Ad Library",
+       "The first three seconds — and nothing after",
+       "One row per ad — in a sheet"
+      ]
+     },
+     {
+      "layout": "list",
+      "kicker": "The three lanes",
+      "headline": "Every opening picks *one*",
+      "items": [
+       "Problem — names what is wrong",
+       "Proof — shows a result or a test",
+       "Person — someone you would listen to"
+      ]
+     },
+     {
+      "layout": "text",
+      "kicker": "Made-up example",
+      "headline": "Three *sunscreen* ads",
+      "body": "Ad one opens on a white cast in a selfie. Problem.\n\nAd two opens on a white mark on a dark sleeve. Problem.\n\nAd three opens on a dermatologist holding the tube. Person.\n\nNobody opens on proof."
+     },
+     {
+      "layout": "compare",
+      "kicker": "Stay honest",
+      "headline": "What the count *can tell you*",
+      "left_title": "It can",
+      "left": ["What the feed looks like", "Which lane is crowded", "Which lane is empty"],
+      "right_title": "It cannot",
+      "right": ["What is selling", "What anyone spends", "Why an ad is still live"]
+     },
+     {
+      "layout": "text",
+      "kicker": "The brief",
+      "headline": "The empty lane is *your test*",
+      "body": "In the example, proof is open. So the brief writes itself: open on a UV camera, or a wear test at the beach.\n\nSame product and same message, with a first shot the category is not using.\n\nThen let your own cost per order decide."
+     },
+     {
+      "layout": "cta",
+      "headline": "Read the openings. *Count the lanes.*",
+      "sub": "Try it on your category this week.",
+      "actions": ["Follow Galvor", "Save this exercise"]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Raj: the old draft said you had lined up three real sunscreen ads. That could not be verified, and naming or implying real brands is against the rules, so the example is now made up and labelled. If you want to run the exercise for real on a category and report only what is visible (no brand names, no results), the post can carry that instead.\nThe three lanes (problem, proof, person) are a simple sorting scheme written for this post. Confirm it does not clash with Decode's hook types, or swap in those names.\nHook shape: punchy plus context.\nNumbers: none.\nReader: a creative strategist who already browses the Ad Library and wants a way to turn it into a brief."
+  },
+  {
+   "id": "li-2027-01-27-ad-of-the-week-4-the-sale-ad-that-doesnt-open-wi",
+   "title": "Ad of the Week #4: the sale ad that opens without the discount",
+   "hook": "During a sale, the discount is the one thing every ad shares.",
+   "caption": "During a sale, the discount is the one thing every ad shares.\nSo it is the weakest thing to open with.\n\nAd of the Week #4 is a pattern from sale season, shown on a made-up Republic Day ad for a cookware brand. No real brand and no real results.\n\nThe structure: open on the reason to want the product, show it doing its job, then land the offer as the reason to act today.\n\nThere is a delivery reason too. In Galvor's analysis of new video ads launched May to September 2026, six or more look-alikes launched within three days each got 48% less first-month spend. Sale week is when teams launch six versions of one banner.",
+   "first_comment": "The look-alike finding is from Decoded #3. Read Decoded #3 on galvor.ai\n\nFollow Galvor for Ad of the Week.",
+   "hashtags": ["#AdCreative", "#D2CIndia", "#MetaAds"],
+   "alt_text": "Eight-slide carousel, Ad of the Week #4. Cover: The sale ad that opens without the discount. Then: why the discount is wallpaper in sale week; the structure of reason first and offer last; a made-up Republic Day ad for a cookware brand; a stat that six or more look-alikes launched within three days each got 48 percent less first-month spend; six sale ads made two ways; three checks on a sale batch; and a closing slide asking readers to follow Galvor.",
+   "cta": "Follow Galvor; save for the next sale brief",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Ad of the Week #4",
+      "headline": "The sale ad that opens *without the discount*",
+      "sub": "A pattern, shown on a made-up Republic Day ad."
+     },
+     {
+      "layout": "text",
+      "kicker": "The problem",
+      "headline": "In sale week, the discount is *wallpaper*",
+      "body": "Every brand in the feed has an offer.\n\nSo a percentage in the first frame tells the viewer nothing about you. It tells them there is a sale, which they knew.\n\nThe offer is a reason to act today. It is rarely the reason to want the thing."
+     },
+     {
+      "layout": "list",
+      "kicker": "The structure",
+      "headline": "Reason first, *offer last*",
+      "items": [
+       "Seconds 0 to 3 — the reason to want it",
+       "Seconds 3 to 8 — the product doing its job",
+       "Seconds 8 to 12 — the offer and the end date"
+      ]
+     },
+     {
+      "layout": "text",
+      "kicker": "Made-up example",
+      "headline": "A *cookware* brand, Republic Day sale",
+      "body": "Opens on a dosa lifting clean off the pan. No text.\n\nThen the pan, the hand, the flip.\n\nThen: 'Republic Day sale. Ends Sunday.'\n\nThe viewer wants the pan before they hear the price."
+     },
+     {
+      "layout": "stat",
+      "kicker": "The delivery reason",
+      "stat": "48%",
+      "headline": "less first-month spend, each, for *six or more look-alikes* launched within three days",
+      "sub": "Sale week is when six versions of one banner go live together.",
+      "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+     },
+     {
+      "layout": "compare",
+      "kicker": "Same budget",
+      "headline": "Six sale ads, *two ways*",
+      "left_title": "Look-alikes",
+      "left": ["One banner", "Six offer lines", "One first shot"],
+      "right_title": "Real variety",
+      "right": ["One offer", "Six reasons to buy", "Six first shots"]
+     },
+     {
+      "layout": "list",
+      "kicker": "Before the next sale",
+      "headline": "Three checks on the *sale batch*",
+      "items": [
+       "Cover the offer — does the ad still say why?",
+       "Line up the first frames — do any two match?",
+       "Count the batch — are six of them one ad?"
+      ]
+     },
+     {
+      "layout": "cta",
+      "headline": "Sell the reason. *Then* the price.",
+      "sub": "Save this for your next sale brief.",
+      "actions": ["Follow Galvor", "Save for your next sale"]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Raj: 'reason first, offer last' is written as a pattern on a made-up cookware ad. The only data claim is the look-alike finding. If Galvor has decoded sale-week ads and can say anything about discount-first openings, add it. Otherwise the post stands as a structure to test.\nHook shape: punchy plus context.\nNumbers: 48% less first-month spend for six or more look-alikes launched within three days (Galvor analysis, new video ads launched May-Sep 2026, facts bank). In the caption and on the stat slide.\nThe example is made up and labelled as made up. No real brand is torn down.\nTiming: the slot is the day after Republic Day, so it reads as a look back at sale week and a note for the next one. The seconds on slide 3 are a guide for a short ad, not a finding.\nReader: a performance marketer who has just launched a batch of Republic Day sale ads."
+  },
+  {
+   "id": "li-2027-02-03-hook-teardown-why-this-opening-earns-the-next-th",
+   "title": "Hook teardown: the delete test",
+   "hook": "A hook that stops the scroll can still lose the sale.",
+   "caption": "A hook that stops the scroll can still lose the sale.\nIts second job is to set up the next shot, and that job is easy to skip.\n\nThere is a quick test for it. Delete the first three seconds of your ad and play the rest. If the ad still makes complete sense, nothing after the hook needed it. The hook was decoration.\n\nIn your numbers this can show up as a healthy hook rate with a weak hold rate. People stop, then leave.\n\nThe fix in the video is small. Write the hook as a question that the second shot has to answer, with the product in the answer.\n\nThe example is a made-up ad, drawn as a storyboard. No real brand.\n\nVideo below, 43 seconds.",
+   "first_comment": "We tag the hook on its own, apart from pacing, cast and call to action, on every ad we decode: https://galvor.ai/platform/decode/\n\nFollow Galvor for more teardowns.",
+   "hashtags": ["#AdCreative", "#CreativeStrategy", "#PerformanceMarketing"],
+   "alt_text": "Vertical video cover: Good hook. Why do they leave? One test for the first three seconds, with a Watch the test button.",
+   "cta": "Follow Galvor (closing line of the video)",
+   "script": {
+    "duration": "43s",
+    "setup": "Idea: a growth lead whose ads stop the scroll but lose people a few seconds later gets one test that shows why. On-screen title (first frame): 'Good hook. Why do they leave?' Expectation the title sets: one clear reason and something to try today. The script gives the reason in the first ten seconds, then beats it with a test that takes a minute and a fix for the hook itself. The example ad is made up (a protein bar) and drawn as a simple storyboard of panels. No real brand, no real ad, no results.",
+    "scenes": [
+     {
+      "time": "0–4s",
+      "visual": "Title text over a six-panel storyboard of a made-up protein bar ad. The first panel glows, the others are dim.",
+      "voiceover": "Your hook stops people. Then they leave at second five. Here's why.",
+      "on_screen": "Good hook. Why do they leave?"
+     },
+     {
+      "time": "4–8s",
+      "visual": "A thumb scrolling a phone feed stops on the first panel.",
+      "voiceover": "Most teams think a hook has one job. Stop the scroll.",
+      "on_screen": "The belief: stop the scroll"
+     },
+     {
+      "time": "8–13s",
+      "visual": "An arrow draws from panel one to panel two. Panel two lights up.",
+      "voiceover": "It has two. Stop them, and set up the very next shot.",
+      "on_screen": "A hook has two jobs"
+     },
+     {
+      "time": "13–18s",
+      "visual": "A short tag list appears beside the storyboard: hook, pacing, cast, call to action. The word hook is circled.",
+      "voiceover": "We tag the hook on its own, on every ad we decode. So here's one test.",
+      "on_screen": "One test"
+     },
+     {
+      "time": "18–23s",
+      "visual": "Panel one is crossed out and slides away. The remaining five panels play in order.",
+      "voiceover": "Delete the first three seconds. Play the rest. Does the ad still make sense?",
+      "on_screen": "Delete the first three seconds"
+     },
+     {
+      "time": "23–28s",
+      "visual": "The five panels sit complete without the first. The removed panel greys out at the side.",
+      "voiceover": "If yes, your hook was decoration. Nothing after it needed it.",
+      "on_screen": "Still makes sense? Decoration."
+     },
+     {
+      "time": "28–33s",
+      "visual": "The greyed panel is wiped clean and a question mark is drawn on it.",
+      "voiceover": "That only finds the gap. To close it, write the hook as a question.",
+      "on_screen": "Write the hook as a question"
+     },
+     {
+      "time": "33–38s",
+      "visual": "New panel one: a person at a desk, clock at four, text of the question. New panel two: the bar being unwrapped at the same desk.",
+      "voiceover": "'Why am I hungry by four?' Then shot two answers it, with the product.",
+      "on_screen": "Shot two answers it"
+     },
+     {
+      "time": "38–43s",
+      "visual": "Panels one and two join with a line. Galvor logo end card.",
+      "voiceover": "A hook is a promise. The next shot pays it. Follow Galvor for more.",
+      "on_screen": "Follow Galvor"
+     }
+    ],
+    "music": "No music, or a very low instrumental bed under the voice.",
+    "notes": "Native LinkedIn upload, vertical, under 60 seconds. Burn in subtitles. Use the cover slide as the thumbnail. Numbers used: none. The storyboard is a drawn, made-up ad, so no real brand appears. About 100 spoken words."
+   },
+   "poll": null,
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Hook teardown",
+      "headline": "Good hook. *Why do they leave?*",
+      "sub": "One test for the first three seconds.",
+      "play": "Watch the test"
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Raj: (1) the delete test and 'write the hook as a question' are written as your method. Confirm you would say them on camera. (2) The line 'we tag the hook on its own, on every ad we decode' follows from Decode's attribute list (hook, cast, pacing, CTA, setting). Confirm. (3) The script needs proof of what we looked at. No sample is claimed, because none is in the facts bank. If you have a real count of decoded ads where the hook did not connect to the second shot, add it in scene 4.\nTopic sharpened. The old script walked through one public ad frame by frame. This one teaches a test on a made-up storyboard, so no real brand's ad is torn down, and it no longer repeats the 30 Dec carousel on the first three seconds.\nHook shape: single-line bomb, with a second line of context.\nNumbers: none.\nReader: a growth lead with a good hook rate and a weak hold rate."
+  },
+  {
+   "id": "li-2027-02-10-five-things-the-ads-told-us-in-2026",
+   "title": "Five things our ad data showed in 2026, each with its number",
+   "hook": "Five things our ad data showed in 2026. Each with its number.",
+   "caption": "Five things our ad data showed in 2026. Each with its number.\nAll five come from Galvor's analysis of ads launched from May to September across the brands we work with.\n\nThe short version: Meta's delivery now favours an ad that looks different from what you already run, and some ad styles need longer before you judge them.\n\nTwo limits. The analysis covers brands we work with, so treat each finding as a pattern to test in your own account. And four of the five are about spend and cost in the early weeks, which is delivery. Whether an ad sells over its life is a separate question.\n\nSwipe for the five.",
+   "first_comment": "Read Decoded #9 on galvor.ai",
+   "hashtags": ["#CreativeStrategy", "#MetaAds", "#D2C"],
+   "alt_text": "Eight-slide carousel. Cover: Five things the ads told us in 2026. Then five stat slides: new ads that looked like many running ads got 36 percent less first-month spend; a proven message in a new look got 47 percent more; six or more look-alikes launched within three days each got 48 percent less; some ad styles start 35 percent dearer per order in the first two months; one brand's creative diversity score went from 63 to 92 out of 100. Then four moves for this quarter and a closing slide asking readers to follow Galvor.",
+   "cta": "Follow Galvor; first comment points to Decoded #9 (2026 in Creative)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "2026 in creative",
+      "headline": "Five things the ads *told us* in 2026",
+      "sub": "Each with its number and its source."
+     },
+     {
+      "layout": "stat",
+      "kicker": "One · Look-alikes",
+      "stat": "36%",
+      "headline": "less first-month spend for new ads that *looked like many running ads*",
+      "sub": "A new file is only new if it looks new.",
+      "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+     },
+     {
+      "layout": "stat",
+      "kicker": "Two · New look",
+      "stat": "47%",
+      "headline": "more first-month spend for a *proven message in a new look*",
+      "sub": "Keep the message that sells. Change how it looks.",
+      "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+     },
+     {
+      "layout": "stat",
+      "kicker": "Three · Batches",
+      "stat": "48%",
+      "headline": "less, each, for *six or more look-alikes* launched within three days",
+      "sub": "Launching more of the same did not help.",
+      "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+     },
+     {
+      "layout": "stat",
+      "kicker": "Four · Slow starters",
+      "stat": "35%",
+      "headline": "dearer per order in the first two months, for *some ad styles*",
+      "sub": "They ended close to average over their life.",
+      "source": "Source: Galvor analysis · video ads launched May–Sep 2026"
+     },
+     {
+      "layout": "stat",
+      "kicker": "Five · It can be fixed",
+      "stat": "63 → 92",
+      "headline": "One brand's *creative diversity score*, out of 100, within two months",
+      "sub": "After Galvor's recommended changes.",
+      "source": "Source: Galvor analysis · one brand, as reported in Decoded #3"
+     },
+     {
+      "layout": "list",
+      "kicker": "What to do with it",
+      "headline": "Four moves for *this quarter*",
+      "items": [
+       "Audit the look — line up your live first frames",
+       "Keep proven messages — reshoot them in a new look",
+       "Stop batch copies — fewer ads, more different",
+       "Judge later — some styles need weeks"
+      ]
+     },
+     {
+      "layout": "cta",
+      "headline": "Every ad should make *the next one better*.",
+      "sub": "The year in creative is in Decoded #9.",
+      "actions": ["Follow Galvor", "Read Decoded #9 on galvor.ai"]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Raj: (1) the first comment and closing slide point to Decoded #9 (What a Year of Ads Taught Us: 2026 in Creative) because it matches the topic. The five numbers here are from Decoded #3. Check that #9 as published does not contradict them. If it carries newer numbers, they must be added to the facts bank before this post can use them. (2) Confirm the 35% finding and the 63 to 92 score sit in the same May-Sep 2026 analysis, so the source lines are right.\nHook shape: dense.\nNumbers, all from the facts bank (Decoded #3, Galvor analysis of new video ads launched May-Sep 2026): 36% less, 47% more, 48% less, 35% dearer per order, creative diversity score 63 to 92 out of 100. Each appears on one stat slide. None is in the caption.\nThe title says 2026 but the data window is May to September. The caption says so.\nReader: a head of performance planning the next quarter's creative."
+  },
+  {
+   "id": "li-2027-02-17-this-ad-ran-for-60-days-is-a-question",
+   "title": "A long-running ad proves only that nobody switched it off",
+   "hook": "A long-running ad has proved one thing: nobody switched it off.",
+   "caption": "A long-running ad has proved one thing: nobody switched it off.\nThat is all the Meta Ad Library can tell you about it.\n\nIt happens in most competitor reviews. Someone finds an ad that has been live for 60 days, and the room decides it must be working.\n\nThe library shows that an ad is active and when it started. It does not show budget, results, or whether the ad sits in a test or a scaling campaign. An ad can stay live because it sells, because it is cheap to leave on, or because nobody tidied the account.\n\nSo I treat the duration as a question, and look for three things around it.\n\n1. Versions. Did new cuts of the same ad appear over time? Then someone is still investing in it.\n\n2. What stayed fixed. If the opening holds while the offer and the ending change, the opening is the part they trust.\n\n3. What stopped. Similar ads from the same brand that ended early tell you more than the one that survived.\n\nEven then, what you have is a guess about their ad. The proof can only come from a test in your own account.\n\nIt is why we never state a competitor's results from public data.",
+   "first_comment": "Follow Galvor for more on what public ad data can and cannot tell you.",
+   "hashtags": ["#MetaAds", "#AdCreative", "#PerformanceMarketing"],
+   "alt_text": "",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {"size": "feed", "slides": []},
+   "notes": "CONFIRM WITH Raj: the three things to look for (versions over time, what stayed fixed, what stopped) are written as your method for reading a long-running ad. Confirm, or replace with what you actually check. No specific review or meeting is claimed.\nHook shape: single-line bomb.\nNumbers: none from the facts bank. '60 days' is the example duration from the topic bank (R12), used as an illustration and not as a statistic.\nReader: a performance marketer who runs competitor reviews from the Ad Library.\nThe old closing question was removed. The post now ends on the house rule about public data."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+One of our early pilots didn't work. It taught us more than any smooth demo has.
+
+The brand was a good fit on paper. The team was keen. The product did what we said it would. A month later, nothing had changed in how they made ads.
+
+When we sat down to understand why, the answer wasn't the software.
+
+We had never agreed on the one business question the pilot was meant to answer. We shared insights every week. They were interesting. Nobody owned turning them into the next brief.
+
+So the insights stayed insights.
+
+Three things we changed after that:
+
+→ Every pilot now starts with one written question, agreed with the person who owns the budget.
+→ Every insight ends in a decision: scale, cut, refresh or test. If it can't, it doesn't go in the deck.
+→ Someone on the client side owns the next brief. If nobody does, we wait before starting.
+
+The last one costs us pilots. Some teams aren't ready to own the next brief yet, and that's fine.
+
+A smooth demo shows the product works. A failed pilot shows whether the team will use it. The second is the one that matters.
+
+#BuildingInPublic #AIinMarketing #D2C

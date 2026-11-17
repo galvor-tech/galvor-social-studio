@@ -1,0 +1,274 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}{{ p.title or p.hook }} · Galvor Social Studio{% endblock %}
+{% block body %}
+{% set imgs = files|select('ne','carousel.pdf')|list %}
+<div class="row" style="margin-bottom:6px">{{ m.plat(p.platform) }}{{ m.status(p.status) }}<span class="pill ghost">{{ p.format }}</span>{% if p.topic_ref %}<span class="pill ghost">{{ p.topic_ref }}</span>{% endif %}{% for f in fest %}<span class="pill fest">{{ f.name }}</span>{% endfor %}<span class="grow"></span>
+  <button class="btn sm" onclick="api('/api/post/{{ p.id }}/open-folder')">📁 Open folder</button>
+  <a class="btn sm" href="/post/{{ p.id }}/download">⬇ Download all</a>
+  {% if p.platform == 'newsletter' %}<a class="btn sm primary" href="/decoded/{{ p.id }}">✍ Open in the Decoded editor</a>{% endif %}
+  {% if p.platform != 'newsletter' %}<a class="btn sm" href="{{ kit_url }}" target="_blank" title="Open on your phone to post">📱 Phone kit</a>{% endif %}
+  <div style="position:relative"><button class="btn sm" onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='block'?'none':'block'">More ▾</button>
+    <div class="card" style="display:none;position:absolute;right:0;top:36px;z-index:5;width:220px;padding:8px">
+      <button class="btn sm" style="width:100%;margin-bottom:6px" onclick="dup()">Duplicate</button>
+      {% if p.platform=='linkedin' %}<button class="btn sm" style="width:100%;margin-bottom:6px" onclick="dup('instagram')">Adapt for Instagram</button>{% endif %}
+      {% if p.platform=='instagram' %}<button class="btn sm" style="width:100%;margin-bottom:6px" onclick="dup('linkedin')">Adapt for LinkedIn</button>{% endif %}
+      <div class="small muted" style="margin:6px 0 4px">Repurpose with AI (lands in the next free slot)</div>
+      {% if p.platform=='linkedin' %}<button class="btn sm" style="width:100%;margin-bottom:6px" onclick="repurpose('ig_carousel')">→ Instagram carousel</button><button class="btn sm" style="width:100%;margin-bottom:6px" onclick="repurpose('ig_reel')">→ Instagram reel script</button>{% endif %}
+      {% if p.platform=='instagram' or p.format != 'carousel' %}<button class="btn sm" style="width:100%;margin-bottom:6px" onclick="repurpose('li_carousel')">→ LinkedIn carousel</button>{% endif %}
+      <button class="btn sm" style="width:100%;margin-bottom:6px" onclick="repurpose('nl_section')">→ Decoded section</button>
+      <button class="btn sm" style="width:100%;margin-bottom:6px" onclick="setStatus('{{ p.id }}','skipped')">Skip this slot</button>
+      <button class="btn sm danger" style="width:100%" onclick="del()">Delete post</button>
+    </div></div>
+</div>
+<h1 style="font-size:26px">{{ p.title or p.hook }}</h1>
+<p class="sub">{{ p.date|d('%A %d %B %Y') }} · {{ p.time }} IST · {{ m.vchip(p.voice) }} · {{ p.pillar }} · {{ p.job }}{% if p.theme %} · Theme: {{ p.theme }}{% endif %}</p>
+
+{% set dec = (p.script_decision or {}).choice or 'pending' %}
+{% if p.platform != 'newsletter' and p.status in ['idea','draft'] %}
+<div class="card" style="padding:14px 16px;margin-bottom:12px;border-left:4px solid {{ '#1E9E6A' if dec=='use' else 'var(--accent)' }}">
+  {% if dec == 'use' %}
+  <div class="row"><b class="grow">Script chosen{% if p.script_decision.by %} by {{ p.script_decision.by }}{% endif %}. Media can be made now.</b>
+    <span class="small muted">A brief is waiting for the Claude terminal in queue/media.</span>
+    <button class="btn sm" onclick="decide('reset')">Undo</button></div>
+  {% else %}
+  <div class="row"><b class="grow">Step 1: read the script. No media is made until you decide.</b>
+    <button class="btn sm primary" onclick="saveAll().then(ok=>ok&&decide('use'))">Use this script</button>
+    <button class="btn sm" onclick="document.getElementById('ownbox').style.display='block'">Write new from my content</button></div>
+  {% if dec == 'rewrite' %}<p class="small" style="margin:8px 0 0">You asked for a new script from your own content. It is waiting for the Claude terminal.</p>{% endif %}
+  {% if (p.script_decision or {}).rewritten %}<p class="small" style="margin:8px 0 0">This script was rewritten from your content. Read it again, then choose.</p>{% endif %}
+  <div id="ownbox" style="display:none;margin-top:10px">
+    <textarea class="in" id="owntext" style="min-height:130px" placeholder="Paste the content to write from: notes, a transcript, a finding, a draft. The new script uses only this.">{{ (p.script_decision or {}).content or '' }}</textarea>
+    <div class="row" style="margin-top:8px"><button class="btn sm primary" onclick="decide('new','studio')">Write it here now (uses the AI budget)</button>
+      <button class="btn sm" onclick="decide('new','terminal')">Save for the Claude terminal (no API charge)</button></div>
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+<div class="statusbar card" style="padding:12px 16px">
+  <b class="small">Workflow</b>
+  {% if p.status in ['idea','draft','designed'] %}<button class="btn sm soft" onclick="saveAll().then(ok=>ok&&setStatus('{{ p.id }}','in_review'))" {{ 'disabled' if blocking }}>Send for review</button>{% endif %}
+  {% if p.status in ['idea','draft','designed'] %}<span class="small muted">Reviewer: {{ reviewers|map(attribute='name')|join(', ') }}</span>{% endif %}
+  {% if p.status == 'in_review' %}<span class="small">Waiting on <b>{{ ((p.review or {}).reviewer_names or (reviewers|map(attribute='name')|list))|join(', ') }}</b>{% if (p.review or {}).requested_by_name %} · sent by {{ p.review.requested_by_name }}{% endif %}</span>
+    {% if can_approve %}<button class="btn sm soft" onclick="setStatus('{{ p.id }}','approved')" {{ 'disabled' if blocking }}>Approve</button><button class="btn sm" onclick="var n=prompt('What needs changing?');if(n!==null)setStatus('{{ p.id }}','draft',{note:n})">Send back</button>{% endif %}{% endif %}
+  {% if p.status == 'approved' %}<button class="btn sm soft" onclick="setStatus('{{ p.id }}','scheduled')">Schedule for {{ p.date|d }} {{ p.time }}</button>{% endif %}
+  {% if p.status == 'scheduled' %}<button class="btn sm" onclick="setStatus('{{ p.id }}','approved')">Unschedule</button>{% if p.platform != 'newsletter' %}<button class="btn sm soft" onclick="publishNow()">Publish now via API</button>{% endif %}{% endif %}
+  {% if p.status != 'published' %}<button class="btn sm" onclick="markPublished('{{ p.id }}')">Mark as posted</button>{% else %}<span class="small">Live {{ (p.published_at or '')[:16]|replace('T',' ') }} {% if p.published_url %}· <a href="{{ p.published_url }}" target="_blank" style="color:var(--accent)">view post</a>{% endif %}</span>{% endif %}
+  <span class="grow"></span>
+  {% if blocking %}<span class="pill err">Fix blocking issues to move forward</span>{% endif %}
+  <button class="btn sm primary" onclick="saveAll()">Save</button>
+</div>
+
+<div class="editor">
+<div>
+  <div class="tabs" id="tabs">
+    <button data-t="copy" class="on">Copy</button>
+    <button data-t="creative">Creative ({{ (p.creative or {}).slides|length if (p.creative or {}).slides else 0 }} slides)</button>
+    {% if p.format in ['video','reel'] or p.script %}<button data-t="script">Script</button>{% endif %}
+    {% if p.format == 'poll' %}<button data-t="poll">Poll</button>{% endif %}
+    {% if p.platform == 'newsletter' %}<button data-t="nl">Newsletter</button>{% endif %}
+    <button data-t="details">Details</button>
+    <button data-t="ai">AI assist</button>
+    <button data-t="results">Results</button>
+  </div>
+
+  <section class="tab on" id="t-copy">
+    <div class="card">
+      <div class="row"><h4 class="grow">{{ 'LinkedIn newsletter intro' if p.platform=='newsletter' else 'Caption' }}</h4><button class="btn sm" onclick="copyCaption()">Copy caption + hashtags</button></div>
+      <textarea class="in caption" id="caption" oninput="count()">{{ p.caption }}</textarea>
+      <div class="counter" id="capcount"></div>
+      <label class="f">Hashtags <small>(space-separated, max 5)</small></label>
+      <div class="row" style="gap:6px"><input class="in grow" id="hashtags" value="{{ (p.hashtags or [])|join(' ') }}">
+        <select class="in" style="max-width:220px" onchange="if(this.value){document.getElementById('hashtags').value=this.value;count&&count();dirty=true;this.selectedIndex=0}">
+          <option value="">Use a saved set…</option>{% for name, tags in hashtag_sets.items() if (p.platform=='linkedin') == name.startswith('LinkedIn') %}<option value="{{ tags|join(' ') }}">{{ name }}</option>{% endfor %}</select></div>
+      <label class="f">First comment <small>{{ '(link + CTA — LinkedIn penalises links in the post body)' if p.platform=='linkedin' else '(optional)' }}</small></label>
+      <div class="row"><textarea class="in grow" id="first_comment" style="min-height:70px">{{ p.first_comment }}</textarea><button class="btn sm" onclick="copyText(document.getElementById('first_comment').value,'First comment copied')">Copy</button></div>
+      {% if p.platform != 'newsletter' %}<label class="f">Tracked link <small>(for first comment, story link sticker, DMs — shows up in GA as this post)</small></label>
+      <div class="row"><input class="in grow" readonly value="{{ utm_link(p) }}"><button class="btn sm" onclick="copyText('{{ utm_link(p) }}','Tracked link copied')">Copy</button></div>{% endif %}
+      <label class="f">Image alt text</label>
+      <textarea class="in" id="alt_text" style="min-height:60px">{{ p.alt_text }}</textarea>
+      <label class="f">Call to action <small>(internal)</small></label>
+      <input class="in" id="cta" value="{{ p.cta }}">
+    </div>
+  </section>
+
+  <section class="tab" id="t-creative">
+    <div class="card">
+      <div class="row"><h4 class="grow">Slides</h4>
+        <select class="in" id="csize" style="width:auto">{% for s in sizes %}<option {{ 'selected' if (p.creative or {}).size==s }}>{{ s }}</option>{% endfor %}</select>
+        <button class="btn sm" onclick="addSlide()">+ Slide</button>
+        <button class="btn sm primary" id="renderBtn" onclick="renderImgs()">Render images</button></div>
+      <p class="muted small">Logo top-left, violet/gold theme and footer are locked by the template. Wrap words in <code>*asterisks*</code> to highlight them in gold. List items: one per line, use “Title — detail”.</p>
+      <div id="slides"></div>
+    </div>
+  </section>
+
+  <section class="tab" id="t-script">
+    <div class="card" id="vidcard">
+      <div class="row"><h4 class="grow">🎬 Video <span class="muted small">(raea render · Whisper timing: every caption and cue lands on the spoken word)</span></h4></div>
+      {% set v = p.video or {} %}
+      {% if v.files %}<div class="row" style="gap:12px;flex-wrap:wrap;margin:8px 0">{% for f in v.files %}
+        <div><video src="/media/{{ p.id }}/{{ f }}" controls preload="metadata" style="height:320px;border-radius:10px;background:#000"></video>
+          <div class="small"><a class="btn sm" href="/media/{{ p.id }}/{{ f }}" download>⬇ {{ f }}</a></div></div>{% endfor %}
+        <div class="small" style="max-width:420px"><b>Made</b> {{ (v.made_at or '')[:16]|replace('T',' ') }} ({{ v.mode }}).
+          {% if v.srt %}<a href="/media/{{ p.id }}/{{ v.srt }}" download style="color:var(--accent)">Captions .srt</a> for the platform's own captions.{% endif %}
+          <details><summary>Quality check</summary><pre style="white-space:pre-wrap;font-size:12px">{{ v.report }}</pre></details></div></div>{% endif %}
+      <div class="row" style="gap:8px;flex-wrap:wrap">
+        <button class="btn sm primary" onclick="makeVideo('motion')">Make motion video (AI voice)</button>
+        <label class="btn sm">Captions on my footage…<input type="file" accept="video/*" style="display:none" onchange="makeVideo('footage', this.files[0])"></label>
+        <span class="small muted">Motion: script → Gemini voice → Whisper timings → kinetic type, ~10 min. Footage: upload the filmed take, ~5 min a shape.</span>
+      </div>
+      <pre id="vidlog" class="small" style="display:none;white-space:pre-wrap;background:var(--bg-soft);border:1px solid var(--line);border-radius:10px;padding:8px;margin-top:8px;max-height:220px;overflow:auto"></pre>
+    </div>
+    <div class="card">
+      <div class="row"><h4 class="grow">Scene-by-scene script</h4><button class="btn sm primary" onclick="aiScript()">✨ {{ 'Rewrite' if (p.script or {}).scenes else 'Write' }} script with AI</button><button class="btn sm" onclick="addScene()">+ Scene</button></div>
+      <div class="two" style="display:grid;grid-template-columns:1fr 1fr;gap:10px">
+        <div><label class="f">Duration</label><input class="in" id="sc_duration" value="{{ (p.script or {}).duration }}"></div>
+        <div><label class="f">Audio / music</label><input class="in" id="sc_music" value="{{ (p.script or {}).music }}"></div>
+      </div>
+      <label class="f">Setup / shoot notes</label><textarea class="in" id="sc_setup" style="min-height:60px">{{ (p.script or {}).setup }}</textarea>
+      <div class="scene small muted" style="margin-top:14px"><b>Time</b><b>Visual</b><b>Voiceover / dialogue</b><b>On-screen text</b><span></span></div>
+      <div id="scenes"></div>
+      <label class="f">Notes</label><textarea class="in" id="sc_notes" style="min-height:60px">{{ (p.script or {}).notes }}</textarea>
+    </div>
+  </section>
+
+  <section class="tab" id="t-poll">
+    <div class="card">
+      <label class="f">Question <small>(≤140 chars)</small></label><input class="in" id="poll_q" value="{{ (p.poll or {}).question }}">
+      <label class="f">Options <small>(one per line, 2–4, ≤30 chars each)</small></label><textarea class="in" id="poll_o">{{ ((p.poll or {}).options or [])|join('\n') }}</textarea>
+      <label class="f">Duration</label><select class="in" id="poll_d">{% for d in ['1 day','3 days','1 week','2 weeks'] %}<option {{ 'selected' if (p.poll or {}).duration==d or (not (p.poll or {}).duration and d=='1 week') }}>{{ d }}</option>{% endfor %}</select>
+    </div>
+  </section>
+
+  {% if p.platform == 'newsletter' %}{% set nl = p.newsletter or {} %}
+  <section class="tab" id="t-nl">
+    <div class="card">
+      <dl class="kv"><dt>Issue</dt><dd>#{{ nl.issue }}</dd><dt>Preview text</dt><dd>{{ nl.preview_text }}</dd><dt>Next issue</dt><dd>{{ nl.next_issue }}</dd></dl>
+      <h4 style="margin-top:16px">Subject lines</h4><ul>{% for s in nl.subject_lines or [] %}<li>{{ s }} <button class="btn sm" onclick='copyText({{ s|tojson }})'>Copy</button></li>{% endfor %}</ul>
+      <h4>Key takeaways</h4><ul>{% for s in nl.key_takeaways or [] %}<li>{{ s }}</li>{% endfor %}</ul>
+      <h4>Outline</h4>{% for o in nl.outline or [] %}<p><b>{{ o.heading }}</b></p><ul>{% for pt in o.points %}<li>{{ pt }}</li>{% endfor %}</ul>{% endfor %}
+      <h4>Data the team must pull before sending</h4><ul>{% for s in nl.data_needed or [] %}<li>{{ s }}</li>{% endfor %}</ul>
+      <h4>Repurpose into</h4><ul>{% for s in nl.repurpose or [] %}<li>{{ s }}</li>{% endfor %}</ul>
+      <div class="row"><h4 class="grow">Draft</h4><button class="btn sm" onclick="copyText(document.getElementById('nl_draft').value,'Draft copied')">Copy draft</button></div>
+      <textarea class="in" id="nl_draft" style="min-height:520px;font-family:Georgia,serif">{{ nl.draft_markdown }}</textarea>
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="tab" id="t-details">
+    <div class="card">
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px">
+        <div><label class="f">Date</label><input class="in" type="date" id="date" value="{{ p.date }}"></div>
+        <div><label class="f">Time (IST)</label><input class="in" type="time" id="time" value="{{ p.time }}"></div>
+        <div><label class="f">Voice / profile</label><select class="in" id="voice" {{ 'disabled' if p.platform=='instagram' }}>{% for k, v in VOICES.items() %}<option value="{{ k }}" {{ 'selected' if p.voice==k }}>{{ v.name }} — {{ v.role }}</option>{% endfor %}</select></div>
+        <div><label class="f">Format</label><select class="in" id="format">{% for f in FORMATS[p.platform] %}<option {{ 'selected' if p.format==f }}>{{ f }}</option>{% endfor %}</select></div>
+        <div><label class="f">Pillar</label><select class="in" id="pillar">{% for f in PILLARS[p.platform] %}<option {{ 'selected' if p.pillar==f }}>{{ f }}</option>{% endfor %}</select></div>
+        <div><label class="f">Job</label><select class="in" id="job">{% for f in JOBS %}<option {{ 'selected' if p.job==f }}>{{ f }}</option>{% endfor %}</select></div>
+        <div><label class="f">Series</label><input class="in" id="series" value="{{ p.series }}"></div>
+        <div><label class="f">Festival / key date</label><input class="in" id="festival" value="{{ p.festival or '' }}"></div>
+        <div><label class="f">Topic ref</label><input class="in" id="topic_ref" value="{{ p.topic_ref or '' }}"></div>
+      </div>
+      <label class="f">Internal title</label><input class="in" id="title" value="{{ p.title }}">
+      <label class="f">Hook (first line)</label><input class="in" id="hook" value="{{ p.hook }}">
+      <label class="f">Notes / production checklist</label><textarea class="in" id="notes" style="min-height:120px">{{ p.notes }}</textarea>
+      <h4 style="margin-top:18px">History</h4>
+      <div class="history">{% for a in (p.approvals or [])|reverse %}<div>{{ a.at[:16]|replace('T',' ') }} — {{ a.action }}</div>{% else %}No history yet.{% endfor %}
+      {% for l in (p.publish_log or [])|reverse %}<div>{{ l.at[:16]|replace('T',' ') }} — {{ l.error or ('Published ' ~ (l.result.url or '')) }}</div>{% endfor %}</div>
+    </div>
+  </section>
+
+  <section class="tab" id="t-ai">
+    <div class="card">
+      <h4>AI assist</h4>
+      <p class="muted small">Uses {{ ai_status.provider if ai_status.ready else 'no provider yet (add a key in Settings)' }}. Output follows the brand guide and is re-checked; unsaved edits are saved first.</p>
+      <div class="row" style="gap:8px;margin:10px 0">
+        {% for ins in ['Make the hook sharper','Shorten by 30%','More specific to Indian D2C','Make it sound more like the author','Add a soft CTA','Turn into a 7-slide carousel','Write 3 alternative hooks in notes'] %}
+        <button class="btn sm" onclick="aiRun({{ ins|tojson }})">{{ ins }}</button>{% endfor %}
+      </div>
+      <textarea class="in" id="ai_ins" placeholder="Or write your own instruction…"></textarea>
+      <div class="row" style="margin-top:10px"><button class="btn primary" onclick="aiRun(document.getElementById('ai_ins').value)">Apply instruction</button>
+        <button class="btn" onclick="aiRun(document.getElementById('ai_ins').value,'draft')">Redraft from scratch</button><span id="aispin"></span></div>
+    </div>
+  </section>
+
+  <section class="tab" id="t-results">
+    <div class="card">
+      <h4>Post results</h4><p class="muted small">Pull numbers 7 days after posting (LinkedIn: post analytics; Instagram: Insights).</p>
+      <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px" id="metrics">
+        {% for k in ['impressions','reach','reactions','comments','reposts','shares','saves','clicks','followers_gained','profile_visits','dms','demo_requests'] %}
+        <div><label class="f">{{ k|replace('_',' ')|capitalize }}</label><input class="in" data-k="{{ k }}" value="{{ (p.metrics or {}).get(k) if (p.metrics or {}).get(k) is not none else '' }}"></div>{% endfor %}
+      </div>
+      <label class="f">Live URL</label><input class="in" id="published_url" value="{{ p.published_url }}">
+      <button class="btn primary" style="margin-top:12px" onclick="saveMetrics()">Save results</button>
+    </div>
+  </section>
+</div>
+
+<aside class="preview">
+  <div class="viewer">
+    {% if imgs %}
+    <img id="big" src="/media/{{ p.id }}/{{ imgs[0] }}?v={{ p.updated_at }}" alt="">
+    {% if imgs|length > 1 %}<div class="thumbs">{% for f in imgs %}<img src="/media/{{ p.id }}/{{ f }}?v={{ p.updated_at }}" class="{{ 'on' if loop.first }}" onclick="document.getElementById('big').src=this.src;document.querySelectorAll('.thumbs img').forEach(i=>i.classList.remove('on'));this.classList.add('on')">{% endfor %}</div>{% endif %}
+    <div class="row small" style="margin-top:10px">{% for f in files %}<a class="btn sm" href="/media/{{ p.id }}/{{ f }}" download>{{ f }}</a>{% endfor %}</div>
+    {% else %}<div class="empty">No images yet. Add slides in the Creative tab and click <b>Render images</b>.</div>{% endif %}
+  </div>
+  <div class="card" style="margin-top:16px">
+    <h4>Quality check</h4>
+    <ul class="issues" id="issues">
+      {% for i in issues %}<li class="{{ i.severity }}"><b>{{ i.field }}</b> — {{ i.message }}</li>{% else %}<li class="ok">All checks pass.</li>{% endfor %}
+    </ul>
+  </div>
+  {% if p.platform != 'newsletter' %}
+  <div class="card"><h4>Feed preview</h4><div class="li-preview" id="feedprev"></div></div>
+  {% endif %}
+</aside>
+</div>
+<script>
+const POST = {{ p|tojson }};
+const PID = POST.id;
+const LIMIT = {{ {'linkedin':3000,'instagram':2200,'newsletter':100000}[p.platform] }};
+const SEE = {{ {'linkedin':210,'instagram':125,'newsletter':0}[p.platform] }};
+const LAYOUTS = {{ layouts|tojson }};
+</script>
+<script src="{{ url_for('static', filename='js/post.js') }}"></script>
+<script>
+async function decide(choice, how) {
+  const body = {decision: choice, how: how};
+  if (choice === 'new') { body.content = document.getElementById('owntext').value; if (how === 'studio') toast('Writing a new script from your content… (30 to 60 s)', 60000); }
+  const j = await api('/api/post/' + encodeURIComponent(PID) + '/decision', body);
+  if (!j.ok) return toast(j.error || 'Failed', 6000);
+  if (j.message) toast(j.message, 3000);
+  setTimeout(() => location.href = '/post/' + encodeURIComponent(j.id || PID), 600);
+}
+</script>
+<script>
+async function aiScript() {
+  const ins = prompt('Anything the script should do? (optional, e.g. "make it 30 s", "open with the 36% stat")\nUnsaved edits on this page are replaced.', '');
+  if (ins === null) return;
+  toast('Writing the script with AI… (20–40 s)', 40000);
+  const j = await api('/api/post/' + encodeURIComponent(PID) + '/script', {instruction: ins});
+  if (!j.ok) return toast(j.error || 'Failed', 7000);
+  if (j.message) alert(j.message);
+  toast('Script written: ' + j.scenes + ' scenes ✓');
+  setTimeout(() => location.reload(), 700);
+}
+async function makeVideo(mode, file) {
+  let r;
+  if (mode === 'footage') { if (!file) return; const fd = new FormData(); fd.append('mode', 'footage'); fd.append('file', file);
+    toast('Uploading the take…', 20000); r = await (await fetch('/api/post/' + encodeURIComponent(PID) + '/video', {method: 'POST', body: fd})).json(); }
+  else { if (!confirm('Make the motion video from this script? It records a new AI voice if the words changed (about 10 minutes, in the background).')) return;
+    r = await api('/api/post/' + encodeURIComponent(PID) + '/video', {mode}); }
+  if (!r.ok) return toast(r.error, 7000);
+  toast('Video started — you can keep working.'); pollVideo();
+}
+async function pollVideo() {
+  const el = document.getElementById('vidlog'); if (!el) return; el.style.display = 'block';
+  const r = await (await fetch('/api/post/' + encodeURIComponent(PID) + '/video')).json();
+  el.textContent = (r.log || []).join('\n') || 'Starting…';
+  if (r.running) return setTimeout(pollVideo, 4000);
+  if (r.ok === false) { toast('Video failed — see the log', 7000); return; }
+  if (r.files) { toast('Video ready ✓'); setTimeout(() => location.reload(), 900); }
+}
+fetch('/api/post/' + encodeURIComponent(PID) + '/video').then(r => r.json()).then(r => { if (r.running) pollVideo(); });
+</script>
+{% endblock %}

@@ -1,0 +1,63 @@
+{
+  "id": "ig-2026-11-11-bhai-dooj-greeting",
+  "slug": "bhai-dooj-greeting",
+  "platform": "instagram",
+  "date": "2026-11-11",
+  "time": "11:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Bhai Dooj greeting",
+  "hook": "Happy Bhai Dooj from team Galvor.",
+  "status": "designed",
+  "festival": "Bhai Dooj",
+  "theme": "From dashboards to decisions",
+  "caption": "Happy Bhai Dooj from team Galvor.\n\nHere's to the siblings who remember everything. Your first bike. Your worst haircut. The time you broke the TV remote and blamed the cat.\n\nGood brands should remember like that too. What worked last festive season. What didn't. Which hook your buyers actually stopped for.\n\nPlenty of data, no memory? Not this year.\n\nTag the sibling who never lets you forget anything 👇",
+  "first_comment": "",
+  "hashtags": [
+    "#BhaiDooj",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Festival card in Galvor violet and gold with string lights and a diya. Text reads Happy Bhai Dooj, with a white card saying: here's to the ones who always have your back. Below: like a brand that remembers what worked.",
+  "cta": "Tag a sibling",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🪔",
+        "kicker": "Bhai Dooj",
+        "greeting": "Happy Bhai Dooj",
+        "headline": "Here's to the ones who *always* have your back.",
+        "sub": "Like a brand that remembers what worked."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "Festival post replaces the Wednesday reel; the reel moves to Thu 12 Nov 13:00.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:14",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-11 11:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:02",
+  "updated_at": "2026-11-11T13:00:20",
+  "topic_ref": "IG-03",
+  "reminders": {
+    "due": "2026-11-11T11:58:19",
+    "missed": "2026-11-11T13:00:20"
+  },
+  "due": "Missed — post, reschedule or skip"
+}

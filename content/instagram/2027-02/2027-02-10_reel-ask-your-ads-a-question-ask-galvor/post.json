@@ -1,0 +1,134 @@
+{
+  "id": "ig-2027-02-10-reel-ask-your-ads-a-question-ask-galvor",
+  "slug": "reel-ask-your-ads-a-question-ask-galvor",
+  "platform": "instagram",
+  "date": "2027-02-10",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Product / Demo",
+  "job": "De-risk",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: three questions your dashboard can't answer (Ask Galvor)",
+  "hook": "Three questions your ads dashboard can't answer.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "Three questions your ads dashboard can't answer.\n\n1. What do our ten best ads have in common?\n2. Which reason to buy have we stopped testing?\n3. What have we never tried with this buyer?\n\nA dashboard is built for how much. A brief needs why, and what next.\n\nTry answering these by hand for your last quarter. Or type them into Ask Galvor in plain words. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#adstrategy",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Three questions dashboards can't answer. The reel shows three questions appearing over a dashboard: what do winners share, what did we stop testing, and what have we never tried. It ends with Ask Galvor, where questions are typed in plain words. End card: follow @galvor.ai.",
+  "cta": "Follow @galvor.ai",
+  "script": {
+    "duration": "38s",
+    "setup": "Idea: a head of performance who has plenty of dashboards and suspects another tool means another chart gets three questions that change a brief, and sees that Ask Galvor takes questions in plain words. On-screen title: Three questions dashboards can't answer. Expectation set: three questions. The script delivers them and beats the expectation by making each one usable without any tool. Outline: what winners share (second-best, first); what we stopped testing; what we have never tried with this buyer (best); Ask Galvor.",
+    "scenes": [
+      {
+        "time": "0–3s",
+        "visual": "A busy dashboard of charts. Three question marks float over it.",
+        "voiceover": "Three questions your ads dashboard can't answer.",
+        "on_screen": "Three questions dashboards can't answer"
+      },
+      {
+        "time": "3–7s",
+        "visual": "The charts shrink under a label reading how much. Two empty labels appear: why, what next.",
+        "voiceover": "Dashboards are built for how much. Briefs need why.",
+        "on_screen": "How much versus why"
+      },
+      {
+        "time": "7–12s",
+        "visual": "Ten dummy ad tiles line up in rank order. A bracket tries to link them.",
+        "voiceover": "Question one: what do our best ten ads have in common?",
+        "on_screen": "1. What do winners share?"
+      },
+      {
+        "time": "12–17s",
+        "visual": "The rank numbers stay. The space for the shared reason stays blank.",
+        "voiceover": "A dashboard ranks them. It won't tell you the shared reason.",
+        "on_screen": "Ranked, never explained"
+      },
+      {
+        "time": "17–21s",
+        "visual": "A shelf of reasons to buy. Some have dust on them.",
+        "voiceover": "Question two: which reason to buy have we stopped testing?",
+        "on_screen": "2. What did we stop testing?"
+      },
+      {
+        "time": "21–25s",
+        "visual": "A blank brief slides in and waits.",
+        "voiceover": "The third is the one that changes the next brief.",
+        "on_screen": "This one changes the brief"
+      },
+      {
+        "time": "25–29s",
+        "visual": "A grid of buyer against idea. Several squares are empty and start to glow.",
+        "voiceover": "Question three: what have we never tried with this buyer?",
+        "on_screen": "3. What have we never tried?"
+      },
+      {
+        "time": "29–34s",
+        "visual": "A plain text box with the label Ask Galvor. Question one is typed into it.",
+        "voiceover": "In Ask Galvor, you type questions about your ads in plain words.",
+        "on_screen": "Ask Galvor, in plain words"
+      },
+      {
+        "time": "34–38s",
+        "visual": "End card with the Galvor logo. Chime.",
+        "voiceover": "Better questions make better briefs. Follow @galvor.ai.",
+        "on_screen": "Better questions, better briefs"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Scene 8 must use the real Ask Galvor screen or a faithful redraw approved by the product team. Do not show an answer the product has not actually given."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "Three questions *dashboards can't answer*",
+        "sub": "And where to ask them.",
+        "play": "Watch the three questions"
+      },
+      {
+        "layout": "cta",
+        "headline": "Better questions make *better briefs.*",
+        "sub": "Ask your ads in plain words with Ask Galvor.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the Ask Galvor topic and earned the product mention by teaching three questions first. No numbers used. To confirm with the product team: that Ask Galvor handles questions like these three today; if not, swap in three it does handle and keep the structure. The only product claim made is that Ask Galvor takes a question about your ads in plain words. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-10 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:32",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-127",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ig-2026-12-04-five-questions-to-ask-before-any-campaign-starts",
+  "slug": "five-questions-to-ask-before-any-campaign-starts",
+  "platform": "instagram",
+  "date": "2026-12-04",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Convert",
+  "format": "carousel",
+  "series": "",
+  "title": "Five decisions to make before a campaign goes live",
+  "hook": "The best time to decide when to cut an ad is before it goes live.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "The best time to decide when to cut an ad is before it goes live.\n\nAfter launch, everyone reads the numbers their own way, and the review turns into a debate.\n\nFive decisions settle it in advance: what the ad is testing, what it is compared with, the one number that judges it, how long it runs, and what happens if it wins or loses.\n\nThe last slide is a card you can fill in for each campaign. Save it.\n\nWant help setting these rules for your account? Link in bio. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#performancemarketing",
+    "#metaads",
+    "#adstrategy",
+    "#marketingtips",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: five decisions to make before a campaign goes live. Slide 2: after launch everyone reads the numbers their own way. Slide 3: decide what you are testing and against what. Slide 4: decide the one number and how long it runs. Slide 5: decide what happens next if it wins or loses. Slide 6: a six-line pre-launch card to fill in per campaign. Slide 7: rules first, results second, follow @galvor.ai.",
+  "cta": "Save the pre-launch card; talk to us via link in bio",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Quick tip",
+        "headline": "*5 decisions* to make before a campaign goes live",
+        "sub": "Made after launch, they turn into arguments."
+      },
+      {
+        "layout": "text",
+        "kicker": "Why before",
+        "headline": "After launch, everyone *reads the numbers their way*",
+        "body": "One person wants to give it more time. Another wants it switched off today.\n\nRules agreed in advance settle that before the review begins."
+      },
+      {
+        "layout": "list",
+        "kicker": "Decisions 1 and 2",
+        "headline": "What are we *testing*, and against what?",
+        "items": [
+          "The one thing this ad changes: hook, cast, offer or look",
+          "The ad it will be compared with"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Decisions 3 and 4",
+        "headline": "What counts as a *result*?",
+        "items": [
+          "The one number that decides, such as cost per order",
+          "How long it runs before anyone judges it"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Decision 5",
+        "headline": "What happens *next*, either way?",
+        "items": [
+          "If it wins: what we scale and what we brief next",
+          "If it loses: what we cut and what we stop briefing"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "The *pre-launch card*, one per campaign",
+        "items": [
+          "We are testing:",
+          "Compared with:",
+          "Judged on:",
+          "Judged after:",
+          "If it wins, we:",
+          "If it loses, we:"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Rules first. *Results second.*",
+        "sub": "Want help setting these for your account? Link in bio.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the pre-launch card",
+          "Talk to us: link in bio"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Job: Convert, so the closing ask is the link in bio. Reader: a head of growth who sits in weekly creative reviews. One argument: agree the scale and cut rules before launch so the review is a decision and not a debate. Shape: checklist ending in a fill-in card. No numbers used. Topic sharpened: the old 'five questions before any campaign starts' was a brief checklist and repeated the 18 Jan one-page brief; this version is about decision rules, the brief itself is left to 18 Jan.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:52:24",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-04 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:12",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:40",
+  "updated_at": "2026-11-16T21:23:12",
+  "topic_ref": "IG-12",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

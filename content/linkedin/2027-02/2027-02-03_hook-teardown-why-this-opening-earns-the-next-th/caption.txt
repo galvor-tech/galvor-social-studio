@@ -1,0 +1,14 @@
+A hook that stops the scroll can still lose the sale.
+Its second job is to set up the next shot, and that job is easy to skip.
+
+There is a quick test for it. Delete the first three seconds of your ad and play the rest. If the ad still makes complete sense, nothing after the hook needed it. The hook was decoration.
+
+In your numbers this can show up as a healthy hook rate with a weak hold rate. People stop, then leave.
+
+The fix in the video is small. Write the hook as a question that the second shot has to answer, with the product in the answer.
+
+The example is a made-up ad, drawn as a storyboard. No real brand.
+
+Video below, 43 seconds.
+
+#AdCreative #CreativeStrategy #PerformanceMarketing

@@ -1,0 +1,1948 @@
+[
+ {
+  "date": "2026-11-10",
+  "end_date": null,
+  "name": "Govardhan Puja / Diwali Padwa / Gujarati New Year 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra, Karnataka, West Bengal",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://dekhopanchang.com/en/festivals/govardhan-puja",
+   "https://www.ajmerastro.com/hi/blog/govardhan-puja-bhai-dooj-2026-muhurat-vidhi",
+   "https://www.staffnews.in/2025/07/list-of-holidays-2026-restricted-holidays.html",
+   "https://www.punenow.com/?p=52110"
+  ],
+  "notes": "Sources disagree: Drik Panchang/Dekho Panchang/AjmerAstro give Tue 10 Nov (Pratipada at sunrise); DoPT restricted holiday list gives Mon 9 Nov. Gujarati New Year (Bestu Varas) is the same Pratipada. Kept 10 Nov (Pratipada at sunrise). DoPT RH is on 9 Nov. State holidays: Maharashtra (Diwali Balipratipada 10 Nov), Karnataka (Balipadyami 10 Nov), West Bengal (additional Kali Puja days 9-10 Nov)."
+ },
+ {
+  "date": "2026-11-11",
+  "end_date": null,
+  "name": "Bhai Dooj 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra, West Bengal",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://www.staffnews.in/2025/07/list-of-holidays-2026-restricted-holidays.html",
+   "https://www.punenow.com/?p=52110",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Bhaiya Dooj / Bhau Beej. Maharashtra special holiday (Bhau Beej); West Bengal Bhratridwitiya (+12 Nov)."
+ },
+ {
+  "date": "2026-11-13",
+  "end_date": "2026-11-16",
+  "name": "Chhath Puja 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "East",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal (16 Nov additional day)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://www.staffnews.in/2025/07/list-of-holidays-2026-restricted-holidays.html",
+   "https://www.drikpanchang.com/chhath/chhath-puja-calendar.html?year=2026",
+   "https://hindutone.com/festivals/chhath-puja-2026/",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Main day (Sandhya Arghya) Sun 15 Nov per Drik and DoPT RH. Nahay Khay 13 Nov, Kharna 14 Nov, Usha Arghya 16 Nov (Drik Chhath calendar; Hindutone agrees; one blog's 14 Nov Nahay Khay is an outlier). West Bengal gives an additional Chhath holiday Mon 16 Nov. Delhi: RH only per aggregators (2025 had a separate declaration). Bihar/Jharkhand normally declare state holidays (not verified)."
+ },
+ {
+  "date": "2026-11-14",
+  "end_date": null,
+  "name": "Labh Panchami 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "West",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-november.html?year=2026",
+   "https://shubhpanchang.com/festivals/laabh-pancham"
+  ],
+  "notes": "Kartik Shukla Panchami (Sat). Gujarati business new-year start (Labh Pancham); also Jain Gyan Panchami. Drik and ShubhPanchang agree."
+ },
+ {
+  "date": "2026-11-21",
+  "end_date": null,
+  "name": "Tulsi Vivah 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://hindutone.com/festivals/tulsi-vivah-2026-date-vidhi/"
+  ],
+  "notes": "Dwadashi, Sat 21 Nov (Drik). Dev Uthani/Prabodhini Ekadashi is Fri 20 Nov; many families hold Tulsi Vivah on the Ekadashi itself. Start of the wedding season."
+ },
+ {
+  "date": "2026-11-24",
+  "end_date": null,
+  "name": "Guru Nanak Jayanti (Gurpurab) 2026",
+  "category": "festival",
+  "religion": "Sikh",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://www.punenow.com/?p=52110"
+  ],
+  "notes": "Central govt gazetted holiday (Tue 24 Nov). Also a holiday in Maharashtra, Delhi and West Bengal 2026 lists. Same day as Kartik Purnima/Dev Deepawali (separate entry)."
+ },
+ {
+  "date": "2026-11-24",
+  "end_date": null,
+  "name": "Guru Tegh Bahadur Martyrdom Day 2026",
+  "category": "festival",
+  "religion": "Sikh",
+  "region": "North",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2025/07/list-of-holidays-2026-restricted-holidays.html",
+   "https://orsl.usc.edu/life/sikh-holy-days-calendar/"
+  ],
+  "notes": "Shaheedi Divas, fixed 24 Nov (Nanakshahi) per DoPT RH. SGPC's lunar date (Maghar sudi 5) falls ~14 Dec 2026 (Punjab may observe then). Solemn observance."
+ },
+ {
+  "date": "2026-11-24",
+  "end_date": null,
+  "name": "Karthigai Deepam 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Tamil Nadu",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-november.html?year=2026",
+   "https://happyfares.in/blog/?p=13129"
+  ],
+  "notes": "Tamil festival of lamps (Tiruvannamalai Maha Deepam). Not on Tamil Nadu's 2026 holiday list."
+ },
+ {
+  "date": "2026-11-24",
+  "end_date": null,
+  "name": "Kartik Purnima / Dev Deepawali 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Uttar Pradesh",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://shubhpanchang.com/festivals/dev-diwali",
+   "https://www.festivalsofindia.in/kartik-purnima"
+  ],
+  "notes": "Purnima ~11:42 PM 23 Nov to 8:23 PM 24 Nov (New Delhi), so it covers both sunrise (snan/daan) and pradosh (Dev Deepawali ghats in Varanasi) on 24 Nov. A tourism site's 25 Nov is an outlier."
+ },
+ {
+  "date": "2026-11-27",
+  "end_date": null,
+  "name": "Kanakadasa Jayanti 2026",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "Karnataka",
+  "holiday": "none",
+  "state_holidays": "Karnataka",
+  "confidence": "confirmed",
+  "sources": [
+   "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/",
+   "https://www.sakshipost.com/news/national/karnataka-2026-holiday-calendar-released-check-general-restricted-local-holidays"
+  ],
+  "notes": "Birth anniversary of poet-saint Kanakadasa; Karnataka general holiday (Fri 27 Nov) in 2026 list."
+ },
+ {
+  "date": "2026-12-20",
+  "end_date": null,
+  "name": "Gita Jayanti 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://hindutone.com/festivals/gita-jayanti-2026-date-mokshada-ekadashi/"
+  ],
+  "notes": "Mokshada Ekadashi, Sun 20 Dec (Drik New Delhi). A Dec 19 date seen elsewhere matches Drik's US-location page, not India."
+ },
+ {
+  "date": "2026-12-20",
+  "end_date": null,
+  "name": "Vaikuntha Ekadashi 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "South",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://www.drikpanchang.com/ekadashis/vaikuntha/vaikuntha-ekadashi-date-time.html?year=2027"
+  ],
+  "notes": "Margazhi (Dhanu) Shukla Ekadashi, Sun 20 Dec (Dhanu Sankranti is 16 Dec). Big in Tirumala/Srirangam. Drik confirms NO Vaikuntha Ekadashi falls in calendar year 2027 (next is early Jan 2028)."
+ },
+ {
+  "date": "2026-12-23",
+  "end_date": null,
+  "name": "Datta Jayanti 2026",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Maharashtra",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026",
+   "https://hindutone.com/festivals/gita-jayanti-2026-date-mokshada-ekadashi/"
+  ],
+  "notes": "Margashirsha Purnima, Wed 23 Dec. Widely observed in Maharashtra/Karnataka."
+ },
+ {
+  "date": "2026-12-23",
+  "end_date": null,
+  "name": "Hazrat Ali Jayanti 2026",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.staffnews.in/2025/07/list-of-holidays-2026-restricted-holidays.html",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2026"
+  ],
+  "notes": "13 Rajab 1448; DoPT RH Wed 23 Dec. Subject to moon sighting (could be 24 Dec)."
+ },
+ {
+  "date": "2026-12-24",
+  "end_date": null,
+  "name": "Christmas Eve 2026",
+  "category": "festival",
+  "religion": "Christian",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2025/07/list-of-holidays-2026-restricted-holidays.html",
+   "https://www.calendarlabs.com/holidays/india/2026"
+  ],
+  "notes": "DoPT RH (Thu)."
+ },
+ {
+  "date": "2026-12-25",
+  "end_date": null,
+  "name": "Christmas 2026",
+  "category": "festival",
+  "religion": "Christian",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+   "https://www.calendarlabs.com/holidays/india/2026"
+  ],
+  "notes": "Central govt gazetted holiday (Fri). Holiday in every state list (MH, KA, DL, TN, WB, KL)."
+ },
+ {
+  "date": "2027-01-14",
+  "end_date": null,
+  "name": "Lohri 2027",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "North",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.bhaktibharat.com/festival/lohri",
+   "https://astroyogi.com/festival/lohri",
+   "https://www.drikpanchang.com/sankranti/makar-sankranti-date-time.html?year=2027"
+  ],
+  "notes": "CONFLICT RESOLVED: Hindu Blog/Bhakti Bharat/days.to give Wed 13 Jan (habitual fixed date); Drik gives Thu 14 Jan. Rule: Lohri is the eve of Makar Sankranti; the Sankranti moment is 9:14 PM on 14 Jan (after sunset), so Sankranti is observed 15 Jan and Lohri on the night of 14 Jan. Some Punjabi families may still light the fire on 13 Jan."
+ },
+ {
+  "date": "2027-01-14",
+  "end_date": "2027-01-15",
+  "name": "Makar Sankranti / Uttarayan 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "Karnataka",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+  ],
+  "notes": "Sources disagree on the single day: DoPT RH list and CalendarLabs give Thu 14 Jan; Drik Panchang gives Fri 15 Jan (Sankranti moment 9:14 PM on 14 Jan, so Punya Kaal on 15 Jan). Treat 14-15 Jan as the window; rituals mostly on 15 Jan. DoPT RH is 14 Jan. Karnataka (2026 list) gives Makara Sankranti a general holiday; Gujarat celebrates Uttarayan kite festival 14-15 Jan. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-01-15",
+  "end_date": null,
+  "name": "Guru Gobind Singh Jayanti 2027",
+  "category": "festival",
+  "religion": "Sikh",
+  "region": "North",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.drikpanchang.com/festivals/month/festivals-january.html?year=2027",
+   "https://orsl.usc.edu/life/sikh-holy-days-calendar/"
+  ],
+  "notes": "Prakash Purab, Poh Sudi 7 (SGPC Bikrami lunar date) = Fri 15 Jan; DoPT RH agrees. Original Nanakshahi calendar fixes 5 Jan; Indian observance follows 15 Jan. No second occurrence in Dec 2027 (next ~early Jan 2028)."
+ },
+ {
+  "date": "2027-01-15",
+  "end_date": null,
+  "name": "Magh Bihu (Bhogali Bihu) 2027",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "Assam",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "CONFLICT RESOLVED: DoPT RH lists 'Makar Sankranti/Magha Bihu' on Thu 14 Jan (conventional date); Drik and Hindu Blog give Fri 15 Jan. Rule: Magh 1 begins the day after a post-sunset Sankranti (9:14 PM 14 Jan), so Magh Bihu = 15 Jan; Uruka (feast night/meji eve) is 14 Jan."
+ },
+ {
+  "date": "2027-01-15",
+  "end_date": "2027-01-17",
+  "name": "Pongal 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Tamil Nadu",
+  "holiday": "restricted",
+  "state_holidays": "Tamil Nadu",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/?p=166871",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "CalendarLabs lists Makar Sankranti/Pongal on 14 Jan; majority (DoPT, Drik, Hindu Blog) say 15 Jan. Bhogi ~14 Jan, Mattu Pongal ~16 Jan. Tamil Nadu 2027 holidays: Pongal 15 Jan, Thiruvalluvar Day (Mattu Pongal) 16 Jan, Uzhavar Thirunal 17 Jan. DoPT RH 15 Jan. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-01-22",
+  "end_date": null,
+  "name": "Thaipusam 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Tamil Nadu",
+  "holiday": "none",
+  "state_holidays": "Tamil Nadu",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html"
+  ],
+  "notes": "Poosam nakshatra 10:24 AM 22 Jan to 7:31 AM 23 Jan (Drik). Tamil Nadu 2027 state holiday (Fri 22 Jan). Outlier dates (13 or 23 Jan) rejected. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-01-23",
+  "end_date": null,
+  "name": "Shab-e-Barat 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "West Bengal (2026 pattern)",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.officeholidays.com/amp/holidays/india/shab-e-barat",
+   "https://www.bangladatetoday.com/blog/shab-e-barat-shab-e-qadr-2027-dates"
+  ],
+  "notes": "15 Sha'ban 1448: night of Sat 23 Jan (observed day Sun 24 Jan). Subject to moon sighting; may shift a day later. West Bengal gave a holiday for Shab-e-Barat in 2026 (pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-01-26",
+  "end_date": null,
+  "name": "Republic Day 2027",
+  "category": "festival",
+  "religion": "National",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/2027"
+  ],
+  "notes": "Gazetted holiday (Tue). National festival; holiday in all states."
+ },
+ {
+  "date": "2027-02-06",
+  "end_date": null,
+  "name": "Mauni Amavasya 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-february.html?year=2027",
+   "https://hindutone.com/festivals/amavasya-2027-dates-list/"
+  ],
+  "notes": "Magha Amavasya, Sat 6 Feb (Amavasya ~7:06 PM 5 Feb to 9:26 PM 6 Feb, so it prevails at sunrise 6 Feb). Holy-dip day; annular solar eclipse the same day per Drik."
+ },
+ {
+  "date": "2027-02-07",
+  "end_date": null,
+  "name": "Losar 2027",
+  "category": "festival",
+  "religion": "Buddhist",
+  "region": "Sikkim",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://monlam.org/activity/tibetan-new-year-losar/",
+   "https://www.officeholidays.com/holidays/india/sikkim/losar"
+  ],
+  "notes": "Tibetan New Year (Fire Sheep year 2154), Sun 7 Feb; Sonam Losar (Sikkim) also 7 Feb per officeholidays/publicholidays.in (estimates until Sikkim gazette). Celebrated in Sikkim, Ladakh, Himachal (Dharamshala), Arunachal. An officeholidays page showing 21 Feb for India appears erroneous."
+ },
+ {
+  "date": "2027-02-09",
+  "end_date": "2027-03-09",
+  "name": "Ramadan 2027 (begins)",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://ummid.com/news/2026/11/1/100-days-until-ramadan-2027-countdown-begins.html",
+   "https://www.ganeshaspeaks.com/festival-calendars/information/RAMADAN"
+  ],
+  "notes": "First roza expected Tue 9 Feb (alternate Wed 10 Feb) in India, subject to moon sighting; Gulf-style 8 Feb rejected for India. Month runs until Eid ul-Fitr (~10 Mar)."
+ },
+ {
+  "date": "2027-02-10",
+  "end_date": null,
+  "name": "Ash Wednesday 2027",
+  "category": "festival",
+  "religion": "Christian",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.calendardate.com/ash_wednesday_2027.htm",
+   "https://www.catholicchurchtimes.com/calendar/easter/2027"
+  ],
+  "notes": "Start of Lent (46 days before Easter 28 Mar). Relevant for Mumbai/Goa/Kerala Christian communities."
+ },
+ {
+  "date": "2027-02-11",
+  "end_date": null,
+  "name": "Vasant Panchami / Saraswati Puja 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Thu. DoPT RH. West Bengal gives Saraswati Puja a holiday (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-02-13",
+  "end_date": null,
+  "name": "Ratha Saptami 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "South",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-february.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Magha Shukla Saptami (Surya Jayanti), Sat 13 Feb. Bhishma Ashtami 14 Feb."
+ },
+ {
+  "date": "2027-02-19",
+  "end_date": null,
+  "name": "Chhatrapati Shivaji Maharaj Jayanti 2027",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "Maharashtra",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/?p=166871",
+   "https://en.wikipedia.org/wiki/Shiv_Jayanti",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.punenow.com/?p=52110"
+  ],
+  "notes": "Maharashtra state holiday (fixed 19 Feb by state govt). Relevant for Mumbai HQ. DoPT RH (Fri 19 Feb). Maharashtra state holiday (fixed date; 2026 list). The tithi-based Shiv Jayanti (Phalguna Krishna Tritiya) is also observed by some groups. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-02-20",
+  "end_date": null,
+  "name": "Guru Ravidas Jayanti 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/hindu-saints/ravidas/guru-ravidas-jayanti.html?year=2027",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://publicholidays.in/guru-ravidas-jayanti/"
+  ],
+  "notes": "Magha Purnima, Sat 20 Feb (Drik and DoPT RH agree). Major for the Ravidassia community (Punjab, UP). Dates of 5 or 9 Feb on some sites are wrong."
+ },
+ {
+  "date": "2027-03-05",
+  "end_date": null,
+  "name": "Jamat-ul-Vida 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.drikpanchang.com/festivals/month/festivals-march.html?year=2027"
+  ],
+  "notes": "Last Friday of Ramadan, Fri 5 Mar (DoPT RH and Drik agree). Depends on Ramadan moon sighting."
+ },
+ {
+  "date": "2027-03-06",
+  "end_date": null,
+  "name": "Maha Shivaratri 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra, Karnataka, Kerala",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/",
+   "https://www.punenow.com/?p=52110"
+  ],
+  "notes": "Sat. DoPT RH. Kerala 2027 list holiday (6 Mar); Maharashtra and Karnataka give Mahashivratri a holiday in their lists (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-03-06",
+  "end_date": null,
+  "name": "Shab-e-Qadr 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.officeholidays.com/holidays/india/night-of-destiny",
+   "https://www.wincalendar.com/in/Lailatul-Qadr"
+  ],
+  "notes": "27th night of Ramadan, night of Sat 6 Mar (CalendarLabs: 7 Mar). Follows from a 9 Feb Ramadan start; moon-sighting dependent."
+ },
+ {
+  "date": "2027-03-10",
+  "end_date": null,
+  "name": "Eid ul-Fitr 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.drikpanchang.com/calendars/indian/muslim-festivals/eid-al-fitr/eid-al-fitr-date-time.html?year=2027",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+  ],
+  "notes": "Expected Wed 10 Mar (DoPT gazetted, Drik, CalendarLabs). Subject to moon sighting; some sources/states show Tue 9 Mar. Holiday in all major states (TN and Kerala 2027 lists: 10 Mar). Tamil Nadu/West Bengal may add an adjacent day."
+ },
+ {
+  "date": "2027-03-21",
+  "end_date": null,
+  "name": "Holika Dahan 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal (Doljatra, 2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/holi/festivals-holika-dahan-timings.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://hindutone.com/festivals/holi-2027/"
+  ],
+  "notes": "CONFLICT RESOLVED: Drik (muhurat 6:33-8:55 PM, New Delhi), Hindu Blog and Hindutone give Sun 21 Mar; DoPT RH lists 'Holika Dahan, Dolyatra' on Mon 22 Mar. Rule: Holika Dahan needs Purnima during Pradosh; Purnima runs 6:21 PM 21 Mar to 4:13 PM 22 Mar, so only the evening of 21 Mar qualifies. Bengal's Dol Jatra (Dol Purnima) is 22 Mar (Purnima at sunrise) - matches DoPT's 22 Mar. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-03-21",
+  "end_date": null,
+  "name": "Jamshedi Navroz 2027",
+  "category": "festival",
+  "religion": "Parsi",
+  "region": "West",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-march.html?year=2027",
+   "https://en.wikipedia.org/wiki/Nowruz"
+  ],
+  "notes": "Fasli (spring-equinox) Parsi New Year, Sun 21 Mar; the equinox falls ~01:55 IST on 21 Mar, which supports 21 over 20 Mar. Distinct from the Shahenshahi Parsi New Year (15 Aug). Large Parsi community in Mumbai."
+ },
+ {
+  "date": "2027-03-22",
+  "end_date": null,
+  "name": "Holi 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/holi/festivals-holika-dahan-timings.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://hindutone.com/festivals/holi-2027/",
+   "https://www.punenow.com/?p=52110"
+  ],
+  "notes": "CONFLICT RESOLVED: Drik Panchang, Hindu Blog, Hindutone and CalendarLabs give Mon 22 Mar for colours (the morning after Holika Dahan of 21 Mar); DoPT's gazetted Holi holiday is Tue 23 Mar (it treats 22 Mar as Dol Purnima and puts Holi on Chaitra Krishna Pratipada at sunrise, 23 Mar). Recommendation: post on 22 Mar; central offices are closed 23 Mar. Maharashtra (Dhulivandan) and Delhi give Holi a state holiday - check their 2027 GRs for 22 vs 23 Mar."
+ },
+ {
+  "date": "2027-03-23",
+  "end_date": "2027-03-25",
+  "name": "Hola Mohalla 2027",
+  "category": "festival",
+  "religion": "Sikh",
+  "region": "Punjab",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://orsl.usc.edu/life/sikh-holy-days-calendar/",
+   "https://www.calendarlabs.com/holidays/sikh/hola-mohalla.php"
+  ],
+  "notes": "Day after Holi (Chet vadi 1), Anandpur Sahib; festival span 23-25 Mar per USC. SikhiWiki reportedly says 22 Mar; 23 Mar chosen since Hola Mohalla begins the day after the Holi full moon."
+ },
+ {
+  "date": "2027-03-26",
+  "end_date": null,
+  "name": "Good Friday 2027",
+  "category": "festival",
+  "religion": "Christian",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://publicholidays.com/easter/",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+  ],
+  "notes": "Holiday in all major state lists."
+ },
+ {
+  "date": "2027-03-28",
+  "end_date": null,
+  "name": "Easter Sunday 2027",
+  "category": "festival",
+  "religion": "Christian",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/?p=166871",
+   "https://publicholidays.com/easter/",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.catholicchurchtimes.com/calendar/easter/2027"
+  ],
+  "notes": "Western Easter. DoPT RH. Palm Sunday 21 Mar."
+ },
+ {
+  "date": "2027-04-07",
+  "end_date": "2027-04-15",
+  "name": "Chaitra Navratri 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "Ghatasthapana Wed 7 Apr; ends with Ram Navami Thu 15 Apr. DoPT RH '1st Navratra' 7 Apr. Hindu (Vikram Samvat 2084) New Year same day."
+ },
+ {
+  "date": "2027-04-07",
+  "end_date": null,
+  "name": "Gudi Padwa / Ugadi 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Maharashtra",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra, Karnataka, Tamil Nadu",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://www.punenow.com/?p=52110",
+   "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+  ],
+  "notes": "CalendarLabs lists Thu 8 Apr (disagrees); Drik, DoPT and Hindu Blog give Wed 7 Apr. Also Cheti Chand. DoPT RH (Chaitra Sukladi/Gudi Padava/Ugadi). State holiday in Maharashtra and Karnataka (2026 pattern) and Tamil Nadu (Telugu New Year, 2027 list). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-04-08",
+  "end_date": null,
+  "name": "Cheti Chand 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "West",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-april.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "CONFLICT RESOLVED: DoPT RH bundles Cheti Chand with Ugadi on Wed 7 Apr; Drik (Jhulelal Jayanti) and Hindu Blog give Thu 8 Apr. Rule: Sindhi new year falls on Chaitra Shukla Dwitiya (the day the new moon is first sighted), which is 8 Apr. Sindhi community (Mumbai/Ulhasnagar, Gujarat). Holiday status refers to the RH on 7 Apr."
+ },
+ {
+  "date": "2027-04-09",
+  "end_date": null,
+  "name": "Gangaur 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Rajasthan",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-april.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Chaitra Shukla Tritiya (Gauri Teej), Fri 9 Apr. Rajasthan (state holiday there, not verified for 2027)."
+ },
+ {
+  "date": "2027-04-14",
+  "end_date": null,
+  "name": "Ambedkar Jayanti 2027",
+  "category": "festival",
+  "religion": "National",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "Maharashtra, Karnataka, Tamil Nadu, West Bengal, Kerala",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/",
+   "https://www.punenow.com/?p=52110"
+  ],
+  "notes": "Dr B.R. Ambedkar's birth anniversary (fixed 14 Apr; Bhim Jayanti, very big in Mumbai/Chaitya Bhoomi). Not on the DoPT 2027 compulsory/RH lists published July 2026; the central govt has in recent years declared it a public holiday by a separate notification - check. State holiday in Tamil Nadu and Kerala (2027 lists) and Maharashtra, Karnataka, West Bengal (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-04-14",
+  "end_date": null,
+  "name": "Baisakhi / Vaisakhi 2027",
+  "category": "festival",
+  "religion": "Sikh",
+  "region": "Punjab",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/vaisakhi/vaisakhi-date-time.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://templesinindiainfo.com/?p=28870",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "CORRECTED: seed note said Mesha Sankranti 3:03 AM; Drik's Vaisakhi page gives 03:33 PM on Wed 14 Apr (New Delhi). Vaisakhi is 14 Apr (DoPT RH 'Vaisakhi/Vishu/Meshadi'). Because the Sankranti is in the afternoon, Vishu, Pohela Boishakh and Bohag Bihu shift to 15 Apr (separate entries); Puthandu stays 14 Apr."
+ },
+ {
+  "date": "2027-04-14",
+  "end_date": null,
+  "name": "Puthandu (Tamil New Year) 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Tamil Nadu",
+  "holiday": "restricted",
+  "state_holidays": "Tamil Nadu",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-april.html?year=2027",
+   "https://hindutone.com/festivals/solar-new-year-2027-puthandu-vishu-baisakhi-bihu/",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "Chithirai 1, Wed 14 Apr. Tamil rule: Sankranti (3:33 PM) before sunset -> same day. Tamil Nadu 2027 holiday (with Ambedkar Jayanti). DoPT RH 'Meshadi (Tamil New Year's Day)'. Hindu Blog's 14 Apr agrees. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-04-15",
+  "end_date": null,
+  "name": "Pohela Boishakh (Bengali New Year) 2027",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "West Bengal",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-april.html?year=2027",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Thu 15 Apr (DoPT RH 'Vaisakhadi (Bengal)' agrees). Bengal rule: Sankranti between sunrise and midnight -> next day. Bangladesh uses fixed 14 Apr. West Bengal Nababarsha holiday (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-04-15",
+  "end_date": null,
+  "name": "Ram Navami 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.calendarlabs.com/holidays/india/2027"
+  ],
+  "notes": "Thu. Maharashtra and West Bengal holiday (2026 pattern)."
+ },
+ {
+  "date": "2027-04-15",
+  "end_date": "2027-04-16",
+  "name": "Rongali / Bohag Bihu 2027",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "Assam",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.officeholidays.com/holidays/india/assam/bohag-bihu"
+  ],
+  "notes": "Manuh Bihu / Assamese New Year Thu 15 Apr (DoPT RH 'Bahag Bihu' 15 Apr); Goru Bihu 14 Apr. Assam state holidays usually span 14-16 Apr."
+ },
+ {
+  "date": "2027-04-15",
+  "end_date": null,
+  "name": "Vishu 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Kerala",
+  "holiday": "restricted",
+  "state_holidays": "Kerala",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-april.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "CONFLICT RESOLVED: DoPT RH bundles Vishu with 14 Apr; Drik (Vishu Kani), Hindu Blog, Hindutone and the official Kerala 2027 holiday list give Thu 15 Apr. Rule: Mesha Sankranti at 3:33 PM is past the Kerala afternoon cut-off, so Medam 1 = next day. Holiday status refers to the RH on 14 Apr. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-04-19",
+  "end_date": null,
+  "name": "Mahavir Jayanti 2027",
+  "category": "festival",
+  "religion": "Jain",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/mahavir-jayanti.php",
+   "https://publicholidays.in/mahavir-jayanti/",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html"
+  ],
+  "notes": "Mon. Some panchang settings (non-India locations) show 18 Apr. Holiday in MH, KA, DL, WB (2026 pattern) and TN (2027 list)."
+ },
+ {
+  "date": "2027-04-20",
+  "end_date": null,
+  "name": "Hanuman Jayanti 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Tue. Chaitra Purnima. Telugu Hanuman Jayanti is separate (~31 May)."
+ },
+ {
+  "date": "2027-05-01",
+  "end_date": null,
+  "name": "Maharashtra Day 2027",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "Maharashtra",
+  "holiday": "none",
+  "state_holidays": "Maharashtra",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.punenow.com/?p=52110",
+   "https://en.wikipedia.org/wiki/Maharashtra_Day"
+  ],
+  "notes": "Maharashtra Din (state formation, fixed 1 May; also Gujarat Day and Labour Day). Maharashtra state holiday every year; Karnataka/TN/Kerala/WB give May Day. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-05-09",
+  "end_date": null,
+  "name": "Akshaya Tritiya 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "Karnataka (Basava Jayanti)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://hindutone.com/festivals/akshaya-tritiya-2027/",
+   "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+  ],
+  "notes": "Sun. Big gold/jewellery and auspicious-purchase moment for D2C. Basava Jayanti (Karnataka holiday) falls on Akshaya Tritiya (Vaishakha Shukla Tritiya); in 2027 that is Sunday 9 May. Parashurama Jayanti 8 May. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-05-09",
+  "end_date": null,
+  "name": "Rabindranath Tagore Jayanti 2027",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "West Bengal",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Pochise Boishakh (25 Boishakh), Sun 9 May; DoPT RH. West Bengal holiday (2026 list: 9 May). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-05-17",
+  "end_date": null,
+  "name": "Eid al-Adha (Bakrid) 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.officeholidays.com/holidays/india/eid-al-adha",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+  ],
+  "notes": "Expected Mon 17 May; subject to moon sighting (some sources show 16 or 18 May). Holiday in all major states (TN, Kerala 2027 lists: 17 May)."
+ },
+ {
+  "date": "2027-05-20",
+  "end_date": null,
+  "name": "Buddha Purnima 2027",
+  "category": "festival",
+  "religion": "Buddhist",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.calendarlabs.com/holidays/india/2027"
+  ],
+  "notes": "Thu. Maharashtra, Delhi, West Bengal holiday (2026 pattern)."
+ },
+ {
+  "date": "2027-06-04",
+  "end_date": null,
+  "name": "Vat Savitri Vrat 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-june.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Jyeshtha Amavasya (Amanta/North India), Fri 4 Jun; same day as Shani Jayanti (Hindu Blog lists Shani Jayanti 4 Jun). Maharashtra/Gujarat observe Vat Purnima instead (18 Jun)."
+ },
+ {
+  "date": "2027-06-07",
+  "end_date": null,
+  "name": "Islamic New Year (Muharram 1449) 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/indian/muslim-festivals/al-hijra/islamic-newyear-date-time.html?year=2027",
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html"
+  ],
+  "notes": "CONFLICT RESOLVED: Drik gives Sun 6 Jun (and Ashura 15 Jun); DoPT gazettes Ashura on Wed 16 Jun, which implies 1 Muharram on 7 Jun. 7 Jun chosen to stay consistent with the DoPT Ashura date. Moon-sighting dependent."
+ },
+ {
+  "date": "2027-06-16",
+  "end_date": null,
+  "name": "Muharram (Ashura) 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://timeanddate.com/holidays/india/muharram",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://www.drikpanchang.com/calendars/indian/muslim-festivals/al-hijra/islamic-newyear-date-time.html?year=2027"
+  ],
+  "notes": "Expected Wed 16 Jun (DoPT gazetted, timeanddate tentative). Subject to moon sighting; CalendarLabs/publicholidays.in show Tue 15 Jun. Observance of mourning - avoid celebratory content. Tamil Nadu 2027 list and Drik use 15 Jun; DoPT's 16 Jun kept."
+ },
+ {
+  "date": "2027-06-18",
+  "end_date": null,
+  "name": "Vat Purnima 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Maharashtra",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-june.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Jyeshtha Purnima, Fri 18 Jun - the Maharashtra/Gujarat/Karnataka (Purnimanta-region) form of Vat Savitri. Important for Mumbai audience."
+ },
+ {
+  "date": "2027-07-05",
+  "end_date": null,
+  "name": "Jagannath Rath Yatra 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Odisha",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/?p=166871",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Mon. DoPT RH. Drik: Jagannath Rathyatra 5 Jul. West Bengal List II holiday (2026 pattern); Odisha state holiday. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-07-18",
+  "end_date": null,
+  "name": "Guru Purnima 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Ashadha Purnima (Vyasa Purnima), Sun 18 Jul. Also Buddhist Dharma Chakra Pravartana Day."
+ },
+ {
+  "date": "2027-08-04",
+  "end_date": null,
+  "name": "Hariyali Teej 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-august.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Shravana Shukla Tritiya, Wed 4 Aug. Rajasthan/Haryana/UP."
+ },
+ {
+  "date": "2027-08-06",
+  "end_date": null,
+  "name": "Nag Panchami 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-august.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Shravana Shukla Panchami, Fri 6 Aug."
+ },
+ {
+  "date": "2027-08-13",
+  "end_date": null,
+  "name": "Varalakshmi Vratam 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "South",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-august.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Friday before Shravana Purnima, 13 Aug. Karnataka, AP, Telangana, Tamil Nadu."
+ },
+ {
+  "date": "2027-08-15",
+  "end_date": null,
+  "name": "Independence Day 2027",
+  "category": "festival",
+  "religion": "National",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/2027"
+  ],
+  "notes": "Sun. Same day: Milad-un-Nabi (expected, moon sighting) and Parsi New Year (Navroz) per DoPT lists. National festival; holiday in all states."
+ },
+ {
+  "date": "2027-08-15",
+  "end_date": null,
+  "name": "Milad-un-Nabi / Id-e-Milad 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html"
+  ],
+  "notes": "Expected 15 Aug; subject to moon sighting. Coincides with Independence Day (Sun). Tamil Nadu and Kerala 2027 lists also show 15 Aug."
+ },
+ {
+  "date": "2027-08-15",
+  "end_date": null,
+  "name": "Parsi New Year (Navroz) 2027",
+  "category": "festival",
+  "religion": "Parsi",
+  "region": "Maharashtra",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.officeholidays.com/amp/holidays/india/maharashtra/parsi-new-year",
+   "https://www.punenow.com/?p=52110"
+  ],
+  "notes": "Shahenshahi Navroz, Sun 15 Aug (DoPT RH; same as 2026; shifts only after the 2028 leap day). Maharashtra state holiday (2026 pattern). Khordad Sal ~20 Aug (calculated, not listed). One weak source says 16 Aug - rejected. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-08-17",
+  "end_date": null,
+  "name": "Raksha Bandhan 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Tue. Major gifting moment for D2C. DoPT RH. Same day: Narali Purnima (Mumbai Koli fishing community). West Bengal List II holiday (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-08-25",
+  "end_date": null,
+  "name": "Janmashtami 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+  ],
+  "notes": "Wed. Hindu Blog notes 24/25 Aug (Smarta vs Vaishnava); gazetted holiday 25 Aug. Midnight puja 12:01-12:45 AM 26 Aug. Kerala list has Sreekrishna Jayanthi on 24 Aug (Malayalam calendar)."
+ },
+ {
+  "date": "2027-08-26",
+  "end_date": null,
+  "name": "Dahi Handi (Gopalkala) 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Maharashtra",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-august.html?year=2027",
+   "https://templesinindiainfo.com/2027-sri-krishna-janmashtami-pooja-date-and-puja-timings/"
+  ],
+  "notes": "Day after Janmashtami (Janmashtami 25 Aug with midnight puja into 26 Aug). Huge in Mumbai/Thane. Not on the Maharashtra 2026 holiday list; some sites show 24-25 Aug from solar-calendar pages."
+ },
+ {
+  "date": "2027-08-28",
+  "end_date": "2027-09-04",
+  "name": "Paryushan Parva (Shwetambar) 2027",
+  "category": "festival",
+  "religion": "Jain",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/jain/calendar/jain-calendar.html?year=2027",
+   "https://orsl.usc.edu/life/jain-holy-days-calendar/"
+  ],
+  "notes": "CONFLICT RESOLVED: Drik (India location) gives Sat 28 Aug - Sat 4 Sep with Samvatsari 4 Sep; USC gives 27 Aug - 3 Sep. Drik chosen: Samvatsari is on Bhadrapada Shukla Chaturthi (4 Sep), while 3 Sep is Tritiya. Large Jain community in Mumbai; avoid non-veg/food-promo content. Digambar Das Lakshana follows (separate entry)."
+ },
+ {
+  "date": "2027-09-03",
+  "end_date": null,
+  "name": "Hartalika Teej 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Bhadrapada Shukla Tritiya, Fri 3 Sep. Observed in Maharashtra, North India, Nepal."
+ },
+ {
+  "date": "2027-09-04",
+  "end_date": null,
+  "name": "Ganesh Chaturthi 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Maharashtra",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra, Karnataka, Tamil Nadu",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://www.punenow.com/?p=52110",
+   "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+  ],
+  "notes": "Sat. 10-day Ganeshotsav; Anant Chaturdashi (visarjan) date not separately verified. Huge in Mumbai. DoPT RH. State holiday in Maharashtra and Karnataka (2026 pattern) and Tamil Nadu (2027 list). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-09-05",
+  "end_date": "2027-09-14",
+  "name": "Das Lakshana Parva (Digambar Paryushan) 2027",
+  "category": "festival",
+  "religion": "Jain",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "estimate",
+  "sources": [
+   "https://www.drikpanchang.com/jain/calendar/jain-calendar.html?year=2027",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027"
+  ],
+  "notes": "ESTIMATE: Digambar 10-day festival from Bhadrapada Shukla Panchami to Anant Chaturdashi (14 Sep); Kshamavani ~15-16 Sep. Inferred from Drik tithis; exact 2027 dates not published by a second source."
+ },
+ {
+  "date": "2027-09-12",
+  "end_date": null,
+  "name": "Onam (Thiruvonam) 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Kerala",
+  "holiday": "restricted",
+  "state_holidays": "Kerala",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.drikpanchang.com/festivals/onam/onam-thiruvonam-date.html?year=2027",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+  ],
+  "notes": "CONFLICT RESOLVED: CalendarLabs says Sat 11 Sep and AstroSage 13 Sep; Drik, DoPT RH and Hindu Blog give Sun 12 Sep. Rule: Thiruvonam nakshatra runs ~2:58 AM 12 Sep to 6:04 AM 13 Sep, so it prevails through the day on 12 Sep. 11 Sep is First Onam (Uthradom). Kerala holiday (falls on a Sunday in the 2027 list). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-09-14",
+  "end_date": null,
+  "name": "Ganesh Visarjan (Anant Chaturdashi) 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Maharashtra",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Bhadrapada Shukla Chaturdashi, Tue 14 Sep - end of 10-day Ganeshotsav; massive immersion processions in Mumbai. Mumbai district often notifies a local holiday (not verified for 2027)."
+ },
+ {
+  "date": "2027-09-16",
+  "end_date": "2027-09-29",
+  "name": "Pitru Paksha 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "16-29 Sep (Drik, Hindu Blog). Some sources count Bhadrapada Purnima (15 Sep) as day 1. Period of mourning ancestors: avoid launch/celebratory posts."
+ },
+ {
+  "date": "2027-09-29",
+  "end_date": null,
+  "name": "Mahalaya 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "West Bengal",
+  "holiday": "none",
+  "state_holidays": "West Bengal, Karnataka (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://publicholidays.in/mahalaya-amavasye/",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Sarva Pitru (Mahalaya) Amavasya, Wed 29 Sep; Devi Paksha begins (Bengal). Hindu Blog's 'Mahalaya 10 Oct' is an error. West Bengal and Karnataka (Mahalaya Amavasye) holiday per 2026 pattern. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-09-30",
+  "end_date": "2027-10-08",
+  "name": "Sharad Navratri 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/navratri/ashwin-shardiya-navratri-dates.html?year=2027",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://templesinindiainfo.com/2027-shardiya-navratri-dates-navratri-festival-dates-2027",
+   "https://www.drikpanchang.com/navratri/shardiya-navratri-ghatasthapana.html?year=2027"
+  ],
+  "notes": "CONFLICT RESOLVED: Hindu Blog says 1 Oct in some regions; Drik gives Thu 30 Sep (Ghatasthapana 8:05-10:12 AM). Rule: Pratipada runs 8:05 AM 30 Sep to 5:34 AM 1 Oct and touches no sunrise; Ghatasthapana needs Pratipada in the first third of the day, which exists only on 30 Sep. Garba/Dandiya nights 30 Sep-8 Oct (big in Mumbai/Gujarat)."
+ },
+ {
+  "date": "2027-10-02",
+  "end_date": null,
+  "name": "Gandhi Jayanti 2027",
+  "category": "festival",
+  "religion": "National",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/2027"
+  ],
+  "notes": "Sat. National festival; holiday in all states. Dry day."
+ },
+ {
+  "date": "2027-10-06",
+  "end_date": "2027-10-10",
+  "name": "Durga Puja 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "West Bengal",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/?p=166871",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Maha Saptami 6 Oct, Ashtami 7 Oct, Navami 8 Oct per DoPT RH (Dussehra Saptami/Mahashtami/Mahanavami) and Drik; Hindu Blog has puja from Shashthi 5 Oct. Drik's Bengal listing puts Bengal Maha Navami on 9 Oct and Vijayadashami/visarjan (Bijoya) on 10 Oct, so end_date is 10 Oct. West Bengal gives multiple Puja holidays (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-10-07",
+  "end_date": null,
+  "name": "Durga Ashtami 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-october.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "Maha Ashtami, Thu 7 Oct (DoPT RH 'Dussehra (Mahashtami)'). Kanya pujan in North India. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-10-08",
+  "end_date": null,
+  "name": "Maha Navami / Ayudha Puja 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "Tamil Nadu, Karnataka, West Bengal",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-october.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html"
+  ],
+  "notes": "Fri 8 Oct (DoPT RH 'Dussehra (Mahanavmi)'). Tamil Nadu 2027 holiday (Ayudha Puja 8 Oct); Karnataka Mahanavami/Ayudha Puja holiday (2026 pattern). Drik's Bengal listing shows Bengal Navami 9 Oct. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-10-09",
+  "end_date": null,
+  "name": "Dussehra (Vijaya Dashami) 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Sat. CalendarLabs lists Sun 10 Oct (disagrees); DoPT/Drik/Hindu Blog give 9 Oct. Holiday in all major states."
+ },
+ {
+  "date": "2027-10-14",
+  "end_date": null,
+  "name": "Sharad Purnima / Kojagiri Purnima 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "West Bengal (Lakshmi Puja, 2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Thu 14 Oct. Purnima 6:49 PM 14 Oct to 7:16 PM 15 Oct; Kojagiri/Kojagara (moonlit-night Lakshmi puja, Maharashtra/Bengal) needs Purnima at midnight -> 14 Oct. Ashwin Purnima fast is 15 Oct. Bengal Lakshmi Puja (Kojagori) on 14 Oct; West Bengal gave Lakshmi Puja holidays in 2026 (pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-10-15",
+  "end_date": null,
+  "name": "Valmiki Jayanti 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "restricted",
+  "state_holidays": "Karnataka (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/hindu-saints/valmiki/maharishi-valmiki-jayanti.html?year=2027",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "Ashwin Purnima at sunrise, Fri 15 Oct (Drik and DoPT RH agree). Karnataka state holiday (2026 pattern). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-10-18",
+  "end_date": null,
+  "name": "Karva Chauth 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "Mon. DoPT RH (Karaka Chaturthi)."
+ },
+ {
+  "date": "2027-10-22",
+  "end_date": null,
+  "name": "Ahoi Ashtami 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "North",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-october.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Kartika Krishna Ashtami (Purnimanta), Fri 22 Oct."
+ },
+ {
+  "date": "2027-10-27",
+  "end_date": null,
+  "name": "Dhanteras 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/dhanteras/festivals-dhanteras-puja-timings.html?year=2027",
+   "https://dekhopanchang.com/en/festivals/dhanteras/2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Wed (Drik New Delhi: Trayodashi 1:03 AM-10:49 PM 27 Oct). A Drik US-location page shows 26 Oct - not applicable to India. Peak gold/utensils buying day."
+ },
+ {
+  "date": "2027-10-28",
+  "end_date": null,
+  "name": "Kali Puja 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "West Bengal",
+  "holiday": "none",
+  "state_holidays": "West Bengal (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/diwali/kali-puja/bengal-kalipuja-date-time.html?year=2027",
+   "https://www.officeholidays.com/holidays/india/odisha/kali-puja",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "CONFLICT RESOLVED (vs Diwali 29 Oct): Amavasya runs 8:47 PM 28 Oct to 7:05 PM 29 Oct. Kali Puja needs Amavasya at midnight (Nishita 11:39 PM-12:31 AM) -> Thu 28 Oct; Lakshmi Puja needs Amavasya at Pradosh -> 29 Oct. West Bengal Kali Puja holiday (2026 pattern; also Assam, Odisha). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-10-28",
+  "end_date": null,
+  "name": "Naraka Chaturdashi / Choti Diwali 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "Tamil Nadu, Kerala",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/?p=166871",
+   "https://www.gconnect.in/top-stories/central-government-holiday-list-2027.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+  ],
+  "notes": "Thu. Some southern states may observe Deepavali on this day. DoPT RH. Tamil Nadu and Kerala 2027 lists give Deepavali on 28 Oct (South India's main Deepavali day). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-10-29",
+  "end_date": null,
+  "name": "Diwali (Lakshmi Puja) 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.calendarlabs.com/holidays/india/2027"
+  ],
+  "notes": "Fri. Same day: Bandi Chhor Divas (Sikh) and Mahavir Nirvan (Jain; Vira Nirvana new year next day). Tamil Nadu/Kerala observe Deepavali on 28 Oct."
+ },
+ {
+  "date": "2027-10-30",
+  "end_date": null,
+  "name": "Govardhan Puja / Diwali Padwa / Gujarati New Year 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra, Karnataka (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.punenow.com/?p=52110",
+   "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/"
+  ],
+  "notes": "Sat. Gujarati New Year same Pratipada. DoPT RH (30 Oct). Maharashtra (Diwali Balipratipada) and Karnataka (Balipadyami) holiday per 2026 pattern. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-10-31",
+  "end_date": null,
+  "name": "Bhai Dooj 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "Maharashtra, West Bengal (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.punenow.com/?p=52110",
+   "https://wbxpress.com/holiday-list-west-bengal-government-employees-2026/"
+  ],
+  "notes": "Sun. DoPT RH (31 Oct, Sunday). Maharashtra (Bhau Beej) and West Bengal (Bhai Phonta) holiday per 2026 pattern. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-11-01",
+  "end_date": null,
+  "name": "Kannada Rajyotsava 2027",
+  "category": "festival",
+  "religion": "Regional",
+  "region": "Karnataka",
+  "holiday": "none",
+  "state_holidays": "Karnataka",
+  "confidence": "confirmed",
+  "sources": [
+   "https://teamleaseregtech.com/updates/article/49462/karnataka-govt-issued-the-list-of-holidays-for-2026/",
+   "https://en.wikipedia.org/wiki/Karnataka_Rajyotsava"
+  ],
+  "notes": "Karnataka formation day, fixed 1 Nov (Monday in 2027). Karnataka general holiday every year (it fell on a Sunday in 2026). State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-11-02",
+  "end_date": "2027-11-05",
+  "name": "Chhath Puja 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "East",
+  "holiday": "restricted",
+  "state_holidays": "West Bengal (2026 pattern)",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/?p=166871",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html",
+   "https://www.drikpanchang.com/chhath/chhath-puja-calendar.html?year=2027",
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+  ],
+  "notes": "Main day (Sandhya Arghya) Thu 4 Nov per DoPT RH, Drik and Hindu Blog. Drik Chhath calendar: Nahay Khay 2 Nov, Kharna 3 Nov, Sandhya Arghya 4 Nov, Usha Arghya 5 Nov (a search snippet claiming 1-4 Nov was wrong). West Bengal/Delhi have given additional/declared Chhath holidays in past years. State-holiday info: Tamil Nadu (G.O. 613, 6 Oct 2026) and Kerala (NI Act G.O. 2026) 2027 lists are published; Maharashtra, Karnataka, Delhi and West Bengal 2027 lists were not yet published on 8 Nov 2026, so their state_holidays are inferred from the 2026 lists. Re-check once the GRs come out (MH usually early Dec)."
+ },
+ {
+  "date": "2027-11-03",
+  "end_date": null,
+  "name": "Labh Panchami 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "West",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/month/festivals-november.html?year=2027",
+   "https://www.bhaktibharat.com/en/festival/labh-panchami"
+  ],
+  "notes": "Kartik Shukla Panchami, Wed 3 Nov (Panchami 6:01 PM 2 Nov to 7:31 PM 3 Nov, prevails at sunrise 3 Nov)."
+ },
+ {
+  "date": "2027-11-04",
+  "end_date": null,
+  "name": "Skanda Sashti (Soorasamharam) 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Tamil Nadu",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/vrats/skanda-sashti-dates.html?year=2027",
+   "https://www.drikpanchang.com/festivals/month/festivals-november.html?year=2027"
+  ],
+  "notes": "Soorasamharam Thu 4 Nov; six-day Kanda Sashti fast from Sat 30 Oct. Tiruchendur. Same day as Chhath Sandhya Arghya."
+ },
+ {
+  "date": "2027-11-11",
+  "end_date": null,
+  "name": "Tulsi Vivah 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Dwadashi, Thu 11 Nov. Dev Uthani Ekadashi Wed 10 Nov; some families do Tulsi Vivah on 10 Nov."
+ },
+ {
+  "date": "2027-11-13",
+  "end_date": null,
+  "name": "Dev Deepawali 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Uttar Pradesh",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/diwali/dev-diwali/dev-deepawali-date-time.html?year=2027",
+   "https://pixidia.com/en/dev-deepawali-2027-varanasi-ganges-experiences/"
+  ],
+  "notes": "CONFLICT RESOLVED: often assumed to be on Kartik Purnima (14 Nov), but Purnima runs 9:55 AM 13 Nov to 8:55 AM 14 Nov; Dev Deepawali needs Purnima at Pradosh, so Varanasi ghats light up Sat 13 Nov (evening 5:11-7:48 PM). Kartik Purnima snan/Guru Nanak Jayanti stay on 14 Nov."
+ },
+ {
+  "date": "2027-11-14",
+  "end_date": null,
+  "name": "Guru Nanak Jayanti (Gurpurab) 2027",
+  "category": "festival",
+  "religion": "Sikh",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://publicholidays.in/guru-nanak-jayanti/"
+  ],
+  "notes": "Sun. Some sites (BankBazaar, UniversalTimeDate) say 13 Nov; DoPT, CalendarLabs, Dekho Panchang give 14 Nov. Children's Day (fixed 14 Nov) is the same day. Maharashtra, Delhi, West Bengal also give Guru Nanak Jayanti (2026 pattern)."
+ },
+ {
+  "date": "2027-11-14",
+  "end_date": null,
+  "name": "Kartik Purnima 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html"
+  ],
+  "notes": "Sun 14 Nov: Purnima prevails at sunrise (holy dip, daan). Same day as Guru Nanak Jayanti (DoPT gazetted 14 Nov) and Children's Day. Dev Deepawali is the previous evening (13 Nov)."
+ },
+ {
+  "date": "2027-11-24",
+  "end_date": null,
+  "name": "Guru Tegh Bahadur Martyrdom Day 2027",
+  "category": "festival",
+  "religion": "Sikh",
+  "region": "North",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://orsl.usc.edu/life/sikh-holy-days-calendar/"
+  ],
+  "notes": "Fixed 24 Nov (Nanakshahi) per DoPT RH. SGPC lunar date ~3 Dec 2027 (inferred, not verified)."
+ },
+ {
+  "date": "2027-12-09",
+  "end_date": null,
+  "name": "Gita Jayanti 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Pan-India",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Mokshada Ekadashi, Thu 9 Dec. (This Ekadashi is before Dhanu Sankranti 16 Dec, so it is not Vaikuntha Ekadashi.)"
+ },
+ {
+  "date": "2027-12-12",
+  "end_date": null,
+  "name": "Hazrat Ali Jayanti 2027",
+  "category": "festival",
+  "religion": "Muslim",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "moon_sighting",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.drikpanchang.com/festivals/month/festivals-december.html?year=2027"
+  ],
+  "notes": "13 Rajab 1449; DoPT RH Sun 12 Dec, Drik agrees. Moon-sighting dependent."
+ },
+ {
+  "date": "2027-12-12",
+  "end_date": null,
+  "name": "Karthigai Deepam 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Tamil Nadu",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "estimate",
+  "sources": [
+   "https://www.drikpanchang.com/festivals/karthigai-deepam/karthigai-deepam-date-time.html?year=2027",
+   "https://www.drikpanchang.com/festivals/month/festivals-december.html?year=2027"
+  ],
+  "notes": "Sun 12 Dec per Drik (Krittika 5:37 PM 11 Dec to 4:41 PM 12 Dec). Tiruvannamalai may light the Maha Deepam on the evening of 11 Dec since Krittika covers that evening - verify with temple announcement. Not on TN 2027 holiday list."
+ },
+ {
+  "date": "2027-12-13",
+  "end_date": null,
+  "name": "Datta Jayanti 2027",
+  "category": "festival",
+  "religion": "Hindu",
+  "region": "Maharashtra",
+  "holiday": "none",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2027",
+   "https://www.hindu-blog.com/2026/10/hindu-festivals-2027-calendar-important.html"
+  ],
+  "notes": "Margashirsha Purnima, Mon 13 Dec."
+ },
+ {
+  "date": "2027-12-24",
+  "end_date": null,
+  "name": "Christmas Eve 2027",
+  "category": "festival",
+  "religion": "Christian",
+  "region": "Pan-India",
+  "holiday": "restricted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html",
+   "https://www.calendarlabs.com/holidays/india/2027"
+  ],
+  "notes": "DoPT RH (Fri)."
+ },
+ {
+  "date": "2027-12-25",
+  "end_date": null,
+  "name": "Christmas 2027",
+  "category": "festival",
+  "religion": "Christian",
+  "region": "Pan-India",
+  "holiday": "gazetted",
+  "state_holidays": "",
+  "confidence": "confirmed",
+  "sources": [
+   "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "https://www.calendarlabs.com/holidays/india/2027",
+   "https://www.goodreturns.in/news/tamil-nadu-holidays-2027-government-announces-24-public-holidays-check-full-list-and-long-weekends-1543037.html",
+   "https://teamleaseregtech.com/updates/article/60696/government-of-kerala-public-holidays-under-the-negotiable-instruments-/"
+  ],
+  "notes": "Sat. Holiday in all major states."
+ }
+]

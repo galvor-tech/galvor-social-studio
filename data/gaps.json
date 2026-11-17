@@ -1,0 +1,423 @@
+[
+  {
+    "id": "g01",
+    "group": "Instagram foundation",
+    "title": "Set up the @galvor.ai profile for B2B",
+    "why": "Instagram has no plan yet; the profile is the landing page for every post.",
+    "how": "Name field: 'Galvor | Creative Intelligence'. Bio: 'Know why your ads win. Decoding D2C ads, every two weeks. Free category decode ↓'. Category: Software. Switch to a Business account (needed for Insights and the API).",
+    "priority": "High",
+    "status": "todo",
+    "owner": "",
+    "updated": "2026-11-08T01:33:30"
+  },
+  {
+    "id": "g02",
+    "group": "Instagram foundation",
+    "title": "Link-in-bio page with UTM links",
+    "why": "Instagram captions can't link; every 'link in bio' needs a destination you can measure.",
+    "how": "One page (e.g. galvor.ai/links): Decoded archive, free category decode, brief template, book a call. UTM: ?utm_source=instagram&utm_medium=social&utm_campaign=<post id>.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g03",
+    "group": "Instagram foundation",
+    "title": "Story highlights",
+    "why": "Highlights are the permanent menu for new visitors.",
+    "how": "Decoded · Teardowns · Proof · Team · Ask us. Render covers in the studio theme (story size, festival or cover layout).",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g04",
+    "group": "Instagram foundation",
+    "title": "Reels production kit and a batching day",
+    "why": "Reels need faces and B-roll; without a routine they're the first thing to slip.",
+    "how": "Phone + clip-on mic + ring light. Film 4 reels every alternate Thursday afternoon from the scripts in the studio. Use Instagram's licensed audio only.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g05",
+    "group": "Instagram foundation",
+    "title": "Cross-post reels to YouTube Shorts (@galvor.ai)",
+    "why": "The YouTube channel exists but isn't in any plan; Shorts reuse costs nothing.",
+    "how": "Upload each reel to Shorts the same day with the same caption.",
+    "priority": "Low",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g06",
+    "group": "Distribution",
+    "title": "Employee and founder advocacy rota",
+    "why": "Personal profiles drive most reach (plan, Review 3); the first hour decides distribution.",
+    "how": "Each author pings the team when a post goes live; 3 real comments inside 60 minutes. KC: 3–5 comments + 1 reshare a week.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g07",
+    "group": "Distribution",
+    "title": "LinkedIn Thought Leader Ads on the best founder post each month",
+    "why": "Boosting a proven organic post is the cheapest paid reach to exact job titles.",
+    "how": "Small monthly test aimed at D2C founders, CMOs and growth heads in India; boost only posts beating the median by 2×.",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g08",
+    "group": "Distribution",
+    "title": "Collab posts with clients and creators",
+    "why": "Instagram Collab posts and co-authored LinkedIn posts reach both audiences.",
+    "how": "Only with written permission; start with creator campaigns Shrutik runs.",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g09",
+    "group": "Distribution",
+    "title": "Subscribe CTA on every Decoded promo",
+    "why": "Newsletter subscribers are owned reach — notified of every issue.",
+    "how": "First comment + last slide: 'Subscribe to Decoded'.",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g10",
+    "group": "Conversion",
+    "title": "Lead magnets that match the soft asks",
+    "why": "Posts promise a one-page brief template and a free category decode; both must exist before those posts go out.",
+    "how": "Brief template as a PDF in the studio theme + a 'Get a free category decode' form on galvor.ai with a 'Where did you hear about us?' field.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g11",
+    "group": "Conversion",
+    "title": "UTM convention for every link",
+    "why": "Without UTMs, LinkedIn and Instagram traffic is invisible in analytics.",
+    "how": "utm_source=linkedin|instagram · utm_medium=social · utm_campaign=<studio post id> · utm_content=<voice>.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g12",
+    "group": "Conversion",
+    "title": "'How did you first hear of Galvor?' field in the sales pipeline",
+    "why": "Day 90 is judged on pipeline, not likes (plan, Review 4).",
+    "how": "Required field in the Galvor CRM; Sunil and KC ask it on every first call.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g13",
+    "group": "Conversion",
+    "title": "Saved replies and a DM playbook",
+    "why": "Fast, consistent replies to 'decode', 'brief' and pricing DMs.",
+    "how": "Three saved replies per platform; reply within 2 business hours.",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g14",
+    "group": "Proof",
+    "title": "Written permission from 2 clients for named case studies",
+    "why": "January's theme is proof; without permission the stories stay anonymous and thinner.",
+    "how": "Ask in November; offer a co-branded carousel and a newsletter feature.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g15",
+    "group": "Proof",
+    "title": "Three client video testimonials (30–45 s)",
+    "why": "Faces plus results are the highest-trust content on both platforms.",
+    "how": "Shrutik records after a successful cycle. Three questions: before, what changed, what you'd tell a peer.",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g16",
+    "group": "Governance",
+    "title": "Second admin on every account",
+    "why": "86% of page posts came from one admin (metrics file) — a single point of failure.",
+    "how": "2+ super admins on the LinkedIn page; 2 people with Instagram access via Meta Business Suite.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g17",
+    "group": "Governance",
+    "title": "Negative comment and crisis policy",
+    "why": "A plan for criticism, spam and competitor jabs avoids rushed replies.",
+    "how": "Reply once with facts, move details to DM, never delete criticism (hide only spam/abuse), escalate to Sunil.",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g18",
+    "group": "Governance",
+    "title": "Claims and permissions check before approval",
+    "why": "No client names, no competitor spend claims, every number sourced — the studio's checks enforce most of it.",
+    "how": "Approver reviews the Quality check panel; Sunil approves anything that names a client or makes a claim.",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g19",
+    "group": "Measurement",
+    "title": "Monday 15-minute metrics ritual",
+    "why": "The weekly tracker only works if someone fills it in.",
+    "how": "Every Monday after the huddle: add the week on Analytics and enter 7-day results on last week's posts.",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g20",
+    "group": "Measurement",
+    "title": "Monthly competitor social review",
+    "why": "Know what other ad-intelligence and martech brands post and what lands.",
+    "how": "Last Friday of the month: 30 minutes, 5 accounts, note 3 formats or angles to test.",
+    "priority": "Low",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g21",
+    "group": "Events & PR",
+    "title": "Pick 2027 events (Goafest, D2C summits, SaaSBoomi)",
+    "why": "In-person events give the best content and the warmest leads; dates are still TBC in the key-dates calendar.",
+    "how": "Decide by January; plan before/during/after posts for each.",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g22",
+    "group": "Events & PR",
+    "title": "A founder podcast or LinkedIn Live once a quarter",
+    "why": "Long-form conversation builds authority faster than posts alone.",
+    "how": "Sunil plus a client or operator; cut into 5 clips for both platforms.",
+    "priority": "Low",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g23",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Tagline: Know why your ads win. Creative Marketing Intelligence Platform that learns your brand.",
+    "why": "Now: The Creative Marketing Intelligence Platform that learns your brand.. Leads with the buyer's outcome and matches the website's core claim",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g24",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "About / Overview: Media got optimized to the decimal. The content running through it didn't.\n\nGalvor is the creative marketing intelligence platform for D2C performance teams. We explain why an ad worked or failed — then use that evidence to plan and produce the next one.\n\n→ Decode: every ad tagged across 50+ attributes and priced by CPO or CAC. We price the attribute, not the ad.\n→ Brand Memory: creatives, briefs, feedback and learnings in one place.\n→ Create: Vira turns winning formulas into scripts, cuts and finished ads.\n→ Ask Galvor: plain-English answers from your data, returned as a brief.\n→ Run: managed Decode → Prove → Create → Ship loop every 14 days.\n\nPublished scoring method · never touches your media budget · human approval on every action.\nClient-reported: +67% RoAS fashion, +112% beauty, +91% wellness.\nBest fit: D2C brands spending $50K+/month (₹40L+) on paid social, 20+ creatives/month.\n→ galvor.ai",
+    "why": "Now: Built around the '4Cs' (Creative, Creator, Contributor, Competitor), 2.4M+ signals per brand, 40%→90% prediction accuracy, RoAS results. LinkedIn and galvor.ai currently describe different products; visitors who click through get confused",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g25",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Industry: Software Development",
+    "why": "Now: Marketing Services. Signals a product company for search, hiring and investors; marketing terms stay in Specialties",
+    "how": "",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g26",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Specialties: Creative Intelligence, Creative Analytics, Ad Creative Strategy, Performance Marketing, D2C Marketing, D2C Brands, Meta Ads, Paid Social, Creative Testing, AI Ad Generation, UGC and Creator Ads, CAC Optimization, RoAS Optimization, Marketing AI, Brand Memory, Managed Creative Service",
+    "why": "Now: GenAI Marketing Intelligence, RoAS Prediction, Competitor Intelligence, AI Workforce for Marketing, Predictive Analytics, Influencer Vetting. Matches the words D2C marketers search for; removes outdated positioning",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g27",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Location: Mumbai, Maharashtra — set as primary",
+    "why": "Now: Mumbai, Maharastra (typo). Typo hurts credibility",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g28",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Website URL: https://galvor.ai",
+    "why": "Now: galvor.ai.",
+    "how": "",
+    "priority": "Low",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g29",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Custom button: Visit website → https://galvor.ai/?utm_source=linkedin&utm_medium=company_page&utm_campaign=cta_button (or /demo)",
+    "why": "Now: Not confirmed. Makes LinkedIn traffic measurable in analytics",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g30",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Banner: 1128×191 (upload 4200×700). 'Know why your ads win.' + 'Decode 50+ creative attributes · Priced by CAC · Built for D2C' + galvor.ai →. Keep text centre-right (logo covers bottom-left on mobile)",
+    "why": "Now: Not audited. Banner is the first thing visitors see",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g31",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Logo: 400×400 PNG, check it's legible at feed size",
+    "why": "Now: Existing.",
+    "how": "",
+    "priority": "Low",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g32",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Contact email / phone: hello@galvor.ai",
+    "why": "Now: Not listed. Gives inbound leads a direct route",
+    "how": "",
+    "priority": "Low",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g33",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Page verification: Verify using a galvor.ai work email",
+    "why": "Now: Not verified. Verification badge adds trust",
+    "how": "",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g34",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Admins: 2+ Super admins; team as Content admins",
+    "why": "Now: Unknown. Page isn't locked if one person leaves",
+    "how": "",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g35",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Products tab: Add 'Galvor' as a Product page and collect reviews",
+    "why": "Now: None. Appears in LinkedIn product search; adds social proof",
+    "how": "",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g36",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Showcase pages: Don't create yet (wait until ~5K followers)",
+    "why": "Now: None. At 955 followers it would split the audience",
+    "how": "",
+    "priority": "Low",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g37",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Pinned / featured post: Pin the Gritzo × HealthKart post, then a case-study carousel",
+    "why": "Now: None. Visitors see proof first",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g38",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Follower invites: Use the ~250 monthly invite credits; every employee invites relevant connections",
+    "why": "Now: Not used regularly. Cheapest follower growth",
+    "how": "",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g39",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Notifications: Turn on mention + comment alerts; reply within 1 hour",
+    "why": "Now: Unknown. Early replies boost reach",
+    "how": "",
+    "priority": "Medium",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g40",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Content mix: Weekly: 1 Decode teardown, 1 case-study carousel, 1 POV, 1 product/demo clip. Festival ≤ 1 in 8",
+    "why": "Now: ~30% festival/culture posts, 0 case studies, no carousels or video. Puts posting slots into content that drives pipeline",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g41",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Posting cadence: 4 posts/week from the page, 3 per week from each founder",
+    "why": "Now: ~1.2 posts/week.",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  },
+  {
+    "id": "g42",
+    "group": "LinkedIn page setup (from your tracker)",
+    "title": "Employee profiles: See Employee Advocacy tab",
+    "why": "Now: Not aligned. Employee profiles drive most of the reach",
+    "how": "",
+    "priority": "High",
+    "status": "todo",
+    "owner": ""
+  }
+]

@@ -1,0 +1,34 @@
+When delivery drops after a Meta update, "the algorithm changed" is the easy answer. In our data, the algorithm is mostly reading the creative we gave it.
+
+Meta has been public about what changed.
+
+Andromeda, its ad retrieval system, scores over a billion ads a second. Meta says that is 100× the 2024 system, with +2.4% conversions on Facebook since 2025.
+
+A system that fast doesn't need six copies of one idea. It needs options that are actually different.
+
+Here is what we saw in Galvor's analysis of every new video ad launched May–Sep 2026 across the brands we work with:
+
+New ads that looked like many running ads got 36% less first-month spend.
+Six or more look-alikes launched within three days each got 48% less.
+A new message over a familiar first shot got 16% less.
+A proven message in a new look got 47% more.
+
+My read, as someone who builds the tagging: near-duplicates behave like one bet. Same creator, same hook, same room, different end card. That is one idea split six ways.
+
+So the fix usually isn't a new campaign structure. It sits in the brief.
+
+Before your next batch, compare your live ads on four attributes:
+Hook: do the first 3 seconds say something different?
+Cast: same creator, same face?
+Setting: home, store, outdoors, studio?
+Problem framing: price, proof, routine, gifting?
+
+If two ads match on all four, count them as one.
+
+The "Creative diversity" column started appearing in late August and reached most accounts in the last week of October. Worth opening this week.
+
+From dashboards to decisions: the number is already there. The decision is what you brief next.
+
+Follow Galvor for more engineering teardowns of how ad delivery reads your creative.
+
+#MetaAds #CreativeStrategy #D2CIndia

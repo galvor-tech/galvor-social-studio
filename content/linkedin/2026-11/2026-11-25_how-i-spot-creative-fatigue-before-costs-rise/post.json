@@ -1,0 +1,135 @@
+{
+  "id": "li-2026-11-25-how-i-spot-creative-fatigue-before-costs-rise",
+  "slug": "how-i-spot-creative-fatigue-before-costs-rise",
+  "platform": "linkedin",
+  "date": "2026-11-25",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Measurement",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Tired ad or slow starter: reading fatigue from history",
+  "hook": "Tired ads and slow starters look the same on a cost chart.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Tired ads and slow starters look the same on a cost chart.\nOne needs a new opening. The other needs you to leave it alone.\n\nBoth show a cost per order above your account average, so the cost column cannot separate them.\n\nHistory can. An ad can only be tired if it was once good.\n\nIn Galvor's analysis of video ads launched May to September 2026, some ad styles started about 35% dearer per order in their first two months and ended close to average over their life. Cut those in week one and you never see the second half.\n\nSwipe for the order I check things in, and the four calls it leads to.",
+  "first_comment": "Read Decoded #6 on galvor.ai",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#MetaAds",
+    "#AdCreative"
+  ],
+  "alt_text": "Seven-slide carousel. Cover: Tired ad or slow starter? Then: fatigue needs a before; a comparison of a slow starter and a tired ad; four signals to read together (hook rate, frequency, hold rate, cost per order); a stat that some ad styles start 35 percent dearer per order in their first two months; the four calls (scale, refresh, cut, test); and a closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; first comment points to Decoded #6 (same day, same topic)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Creative fatigue",
+        "headline": "Tired ad or *slow starter*?",
+        "sub": "They look the same on a cost chart. Here is how I tell them apart."
+      },
+      {
+        "layout": "text",
+        "kicker": "Start here",
+        "headline": "Fatigue needs a *before*",
+        "body": "An ad can only be tired if it was once good.\n\nSo the first check is history. Did this ad ever beat your account average for a couple of weeks?\n\nIf it never did, you are looking at something else."
+      },
+      {
+        "layout": "compare",
+        "kicker": "Same chart",
+        "headline": "Same cost, *different ad*",
+        "left_title": "Slow starter",
+        "left": [
+          "Never beat your average",
+          "Cost easing week on week",
+          "Hook rate steady"
+        ],
+        "right_title": "Tired ad",
+        "right": [
+          "Beat your average before",
+          "Cost rising week on week",
+          "Hook rate sliding"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "The order I check",
+        "headline": "Four signals, *read together*",
+        "items": [
+          "Hook rate — falling while the cost of reach holds",
+          "Frequency — the same people, seeing it again",
+          "Hold rate — people stop, then leave sooner",
+          "Cost per order — the last one to move"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "Why I wait",
+        "stat": "35%",
+        "headline": "dearer per order in the first two months, for *some ad styles*",
+        "sub": "They ended close to average over their life.",
+        "source": "Source: Galvor analysis · video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "list",
+        "kicker": "The call",
+        "headline": "Scale, cut, *refresh*, test",
+        "items": [
+          "Scale — still beating average, signals steady",
+          "Refresh — the message sells, the opening is tired",
+          "Cut — never was good, and is not improving",
+          "Test — too little delivery to judge yet"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Read the history *before* the cost.",
+        "sub": "Save this for your next weekly review.",
+        "actions": [
+          "Follow Galvor",
+          "Read Decoded #6 on galvor.ai"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: the check order (hook rate, frequency, hold rate, cost per order) and the 'beat your average for a couple of weeks' test are written as your working method. Confirm they match how you actually read fatigue, or correct the order. A real anonymised example of a slow starter that was nearly cut would make slide 3 stronger.\nHook shape: punchy plus context.\nNumbers: 35% dearer per order in the first two months (Galvor analysis, video ads launched May-Sep 2026, facts bank). Used in the caption and on the stat slide.\nReader: a head of performance who decides each week which ads to pause.\nFirst comment points only to Decoded #6 (Creative Fatigue: When to Refresh, When to Cut), which goes out the same morning.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:52:10",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-25 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:06",
+  "updated_at": "2026-11-16T21:20:00",
+  "topic_ref": "R37",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

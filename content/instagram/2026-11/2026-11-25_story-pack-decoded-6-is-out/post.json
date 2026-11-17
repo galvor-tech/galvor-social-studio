@@ -1,0 +1,91 @@
+{
+  "id": "ig-2026-11-25-story-pack-decoded-6-is-out",
+  "slug": "story-pack-decoded-6-is-out",
+  "platform": "instagram",
+  "date": "2026-11-25",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Attract",
+  "format": "story",
+  "series": "",
+  "title": "Story pack: Decoded #6 is out (Creative Fatigue)",
+  "hook": "Three kinds of ad fatigue look the same on a dashboard. Only one means cut.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Story pack (no feed caption).\n\nAnnounces Decoded #6: Creative Fatigue: When to Refresh, When to Cut. Frame 1 is the issue title. Frame 2 gives the three kinds of fatigue. Frame 3 is the poll. Frame 4 sends people to the issue with a link sticker.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Four vertical story frames. Frame 1: Decoded #6, Creative Fatigue: When to Refresh, When to Cut, out today. Frame 2 lists three kinds of fatigue: tired opening, refresh it; saturated audience, shift it; reason to buy stopped working, cut it. Frame 3 is a poll: your best ad gets dearer, first move? Frame 4 asks people to read Decoded #6 free using the link sticker.",
+  "cta": "Tap the link sticker to read Decoded #6",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "New issue · Decoded #6",
+        "headline": "Creative Fatigue: *When to Refresh,* When to Cut",
+        "sub": "Out today. Free to read."
+      },
+      {
+        "layout": "list",
+        "kicker": "Inside",
+        "headline": "Three kinds of fatigue look *the same* on a dashboard",
+        "items": [
+          "Tired opening: refresh it",
+          "Saturated audience: shift it",
+          "Reason to buy stopped working: cut it"
+        ]
+      },
+      {
+        "layout": "poll",
+        "kicker": "Your turn",
+        "headline": "Your best ad gets dearer. *First move?*",
+        "options": [
+          "Pause it",
+          "Refresh the opening",
+          "Check why first"
+        ],
+        "sub": "Vote with the poll sticker."
+      },
+      {
+        "layout": "cta",
+        "headline": "Read Decoded *#6* free.",
+        "sub": "Includes a ten-minute check to run before anyone hits pause.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Tap the link sticker"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Interactive ask: poll sticker on frame 3 with the three options as written. Frame 4: link sticker to Decoded #6; update the bio link the same morning. No numbers used. To confirm before posting: the final issue still names the three kinds of fatigue and the ten-minute check (taken from the current draft outline of #6).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-01 12:30)"
+    },
+    {
+      "at": "2026-11-11T01:58:27",
+      "action": "Moved to the issue day 2026-11-25 and renumbered ({'#5': '#6'})"
+    },
+    {
+      "at": "2026-11-16T21:23:57",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:11",
+  "updated_at": "2026-11-16T21:23:57",
+  "topic_ref": "IG-19",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

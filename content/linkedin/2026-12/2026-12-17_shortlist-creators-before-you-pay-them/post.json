@@ -1,0 +1,67 @@
+{
+  "id": "li-2026-12-17-shortlist-creators-before-you-pay-them",
+  "slug": "shortlist-creators-before-you-pay-them",
+  "platform": "linkedin",
+  "date": "2026-12-17",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Creators & Testing",
+  "job": "De-risk",
+  "format": "image",
+  "series": "",
+  "title": "Five checks on a creator's last ten videos before you agree a fee",
+  "hook": "A creator can have real followers and still sell nothing for you.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "A creator can have real followers and still sell nothing for you.\nMost shortlists check the audience. Few check the videos.\n\nBefore you agree a fee, watch the creator's last ten videos and ask:\n\n1. Do the first three seconds give a reason to keep watching, or only a greeting?\n2. Have they sold in your category or price range before?\n3. On paid posts, do the comments ask about the product?\n4. Do they speak your buyer's language and know their context?\n5. Is there a format they repeat well, for your second video to build on?\n\nA creator who passes four of the five is worth a paid test video. One who passes two is a guess with an invoice attached.\n\nThe audit costs you an evening. A wrong creator costs the fee and the month.",
+  "first_comment": "Galvor Scout is our creator shortlisting module. More at galvor.ai. Follow Galvor for one usable method a week.",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#D2CIndia",
+    "#PerformanceMarketing"
+  ],
+  "alt_text": "List card on a violet background titled: Five checks on a creator's last ten videos. First three seconds: a reason to watch? Sold in your category or price range? Paid posts: product questions in comments? Language and context match your buyer? A repeatable format for video two?",
+  "cta": "Soft: follow Galvor; Scout mentioned in first comment only",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "Creator shortlist",
+        "headline": "Five checks on a creator's *last ten videos*",
+        "items": [
+          "First three seconds: a reason to watch?",
+          "Sold in your category or price range?",
+          "Paid posts: product questions in comments?",
+          "Language and context match your buyer?",
+          "A repeatable format for video two?"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: single-line bomb. Reader: a brand manager about to sign creators for January. Checklist shape; the product (Scout) appears only in the first comment. No statistics. 'Last ten videos' and 'four of the five' are suggested working rules, not findings; soften if the team prefers.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:34",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-OPEN-07",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

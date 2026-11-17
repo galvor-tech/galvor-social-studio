@@ -1,0 +1,19 @@
+A pilot without a business question is just a longer demo.
+
+It runs for six weeks, everyone finds it interesting, and nobody can say what to do next.
+
+That is an avoidable way for a software pilot to die. So here is the one-page note I would want written before any pilot starts, including a pilot with Galvor.
+
+Line one: the question, in money terms. 'Which creative choices are raising our cost per order?' is a question. 'Let us see what the tool can do' is a tour.
+
+Line two: the decision the answer will change, and the name of the person who will make it. If no budget or brief moves either way, do not run the pilot.
+
+Line three: the result that would make us stop. Agree it on day one, while nobody has anything to defend.
+
+Then put the review date in the calendar before the kick-off.
+
+A vendor who resists that page is telling you something. A buyer who cannot fill it in is not ready yet, and it is kinder to say so early.
+
+The page takes twenty minutes. It protects the six weeks.
+
+#D2C #MarketingAnalytics #AIinMarketing

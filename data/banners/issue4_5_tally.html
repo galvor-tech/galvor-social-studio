@@ -1,0 +1,40 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Jakarta;src:url("file:///D:/galvor_linkedin/studio/static/fonts/PlusJakartaSans.ttf");font-weight:200 800}
+@font-face{font-family:Inter;src:url("file:///D:/galvor_linkedin/studio/static/fonts/Inter.ttf");font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#09090F}
+.stage{position:relative;width:1920px;height:1080px;overflow:hidden;text-align:center;
+  background:radial-gradient(1200px 520px at 960px 1120px, rgba(124,58,237,.45), transparent 70%),
+             radial-gradient(800px 400px at 960px -160px, rgba(124,58,237,.18), transparent 70%),#09090F}
+.kicker{position:absolute;left:0;right:0;top:110px;display:flex;justify-content:center;align-items:center;gap:18px;
+  font-family:Consolas,monospace;font-size:28px;letter-spacing:.26em;color:#A685FF;text-transform:uppercase}
+.kicker img{width:44px;height:44px}
+h1{position:absolute;left:0;right:0;top:215px;font-family:Jakarta,sans-serif;font-weight:800;font-size:122px;line-height:1.04;letter-spacing:-.035em;color:#fff}
+h1 .p{color:transparent;background:linear-gradient(95deg,#C9ADFF,#9A6BFF);-webkit-background-clip:text;background-clip:text}
+.fs{margin-left:-.07em}
+.tally{position:absolute;left:0;right:0;top:640px;display:flex;justify-content:center;align-items:flex-end;gap:64px}
+.grp{position:relative;display:flex;gap:22px;height:250px;align-items:flex-end}
+.st{width:20px;height:230px;border-radius:10px;background:linear-gradient(180deg,#4A4566,#2C2944)}
+.slash{position:absolute;left:-26px;top:96px;width:calc(100% + 52px);height:18px;border-radius:9px;background:linear-gradient(90deg,#4A4566,#3A3654);transform:rotate(-24deg)}
+.one{width:26px;height:300px;border-radius:13px;background:linear-gradient(180deg,#FFE3A0,#F5B53D 60%,#D98E14);
+  box-shadow:0 0 30px rgba(255,190,80,.9),0 0 90px rgba(255,170,60,.55)}
+.onewrap{position:relative;margin-left:40px;display:flex;flex-direction:column;align-items:center}
+.onelbl{position:absolute;top:-62px;font-family:Consolas,monospace;font-size:24px;letter-spacing:.22em;color:#FFD889;white-space:nowrap}
+.sub{position:absolute;left:0;right:0;bottom:56px;font-family:Inter,sans-serif;font-size:28px;color:#BDB6D6}
+.sub b{color:#fff;font-weight:600}
+</style></head>
+<body><div class="stage">
+  <div class="kicker"><img src="mark.png" alt="">Decoded by Galvor <span>•</span> Issue #4</div>
+  <h1>We Shortlisted 20 Creators<span class="fs">.</span><br><span class="p">The Brand Picked One<span class="fs">.</span></span></h1>
+  <div class="tally">
+    <!-- 19 grey marks: three bundles of five, then four loose -->
+    <div class="grp"><i class="st"></i><i class="st"></i><i class="st"></i><i class="st"></i><span class="slash"></span></div>
+    <div class="grp"><i class="st"></i><i class="st"></i><i class="st"></i><i class="st"></i><span class="slash"></span></div>
+    <div class="grp"><i class="st"></i><i class="st"></i><i class="st"></i><i class="st"></i><span class="slash"></span></div>
+    <div class="grp"><i class="st"></i><i class="st"></i><i class="st"></i><i class="st"></i></div>
+    <div class="onewrap"><div class="onelbl">PICKED</div><div class="one"></div></div>
+  </div>
+  <div class="sub">The story behind <b>Galvor Scout</b>, by Raj Dhakad</div>
+</div></body></html>

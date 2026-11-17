@@ -1,0 +1,914 @@
+{
+ "posts": [
+  {
+   "id": "li-2026-11-19-some-ads-start-expensive-and-end-average",
+   "title": "Finding: some ad styles start dear and end average (check before you cut)",
+   "hook": "Some ads look like losers for two months, then end up average.",
+   "caption": "Some ads look like losers for two months, then end up average.\nCut them in week two and you never find out which kind you had.\n\nWe looked at every new video ad launched between May and September 2026 across the brands we work with. Some ad styles started about 35% dearer per order in their first two months. Over their whole life they ended close to average.\n\nBefore you cut an ad on early cost per order, check three things:\n\n1. Have you run this style before? Look at how it behaved over its full run last time.\n2. Is the ad new, or a copy of something already live?\n3. Did you write down a review date before launch?\n\nAn early number is a first reading. Give the ad the time its style has needed before.",
+   "first_comment": "Read Decoded #3 on galvor.ai",
+   "hashtags": [
+    "#PerformanceMarketing",
+    "#MetaAds",
+    "#MarketingAnalytics"
+   ],
+   "alt_text": "Stat card on a violet background: 35% dearer per order in the first two months, then close to average over the ad's life. Source: Galvor analysis of ads launched May to September 2026.",
+   "cta": "none (Decoded #3 in first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "stat",
+      "kicker": "Early cost per order",
+      "stat": "35%",
+      "headline": "dearer per order in the first *two months*, then close to average over the ad's life",
+      "sub": "Check how a style behaved over its full run before you cut it in week two.",
+      "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+     }
+    ]
+   },
+   "notes": "Hook shape: punchy plus context. Reader: a performance lead who cuts new ads on week-two cost per order. Numbers: 35% dearer per order in the first two months, ending close to average (Galvor analysis, Decoded #3, ads launched May to Sep 2026). First use of the 35% figure in this group (second use: 31 Dec carousel)."
+  },
+  {
+   "id": "li-2026-11-20-weekly-reshare-festive-season-maths",
+   "title": "Festive-season maths: count your look-alikes before sale week",
+   "hook": "Six look-alike ads in three days: each got 48% less spend.",
+   "caption": "Six look-alike ads in three days: each got 48% less spend.\nThat is the festive-season habit most D2C teams are about to repeat next week.\n\nSale weeks push teams to launch more. More sizes, more cuts, more versions of the ad that worked in October.\n\nOur analysis of new video ads launched from May to September 2026 says the extra versions pay back poorly.\n\nNew ads that looked like many ads already running got 36% less first-month spend.\n\nWhen six or more look-alikes went live within three days, each one got 48% less.\n\nOur reading: near-copies end up sharing one budget. You pay to make six ads and get the reach of far fewer.\n\nA count you can do before Black Friday week:\n\nLay every planned ad side by side as thumbnails.\nGroup the ones a stranger would call the same ad.\nKeep the strongest one from each group and hold the rest back.\nPut the saved production time into one ad that looks different.\n\nA short launch list where every ad has a reason to exist will teach you more than a full folder.",
+   "first_comment": "Read Decoded #3 on galvor.ai",
+   "hashtags": [
+    "#PerformanceMarketing",
+    "#D2CIndia",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "",
+   "cta": "none (Decoded #3 in first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "Hook shape: dense. Reader: a D2C growth lead planning the Black Friday launch list. Written as a standalone post that sums up the week's theme (from dashboards to decisions); it does not depend on any other post existing. Numbers: 48% less first-month spend each for six or more look-alikes within three days; 36% less for new ads that looked like many running ads (Galvor analysis, Decoded #3, ads launched May to Sep 2026). First use of both figures in this group. 'Near-copies share one budget' is marked as our reading, not a measured mechanism."
+  },
+  {
+   "id": "li-2026-11-24-guru-nanak-jayanti-greeting",
+   "title": "Guru Nanak Jayanti greeting",
+   "hook": "Warm wishes on Guru Nanak Jayanti from all of us at Galvor.",
+   "caption": "Warm wishes on Guru Nanak Jayanti from all of us at Galvor.\n\nGuru Nanak Dev Ji taught people to work honestly, share what they have and stay humble. Good words to carry into any working day.\n\nWishing you and your family peace and light this Gurpurab.",
+   "first_comment": "",
+   "hashtags": [
+    "#GuruNanakJayanti",
+    "#Gurpurab"
+   ],
+   "alt_text": "Festive greeting on a violet background with a lamp: Happy Gurpurab. Honest work, shared with others. Wishing you peace and light. From all of us at Galvor.",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "festival",
+      "motif": "🪔",
+      "kicker": "Guru Nanak Jayanti",
+      "greeting": "Happy Gurpurab",
+      "headline": "Honest work, shared with others. Wishing you *peace and light.*",
+      "sub": "From all of us at Galvor."
+     }
+    ]
+   },
+   "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No product mention, no numbers. Date to verify before posting: 24 Nov 2026."
+  },
+  {
+   "id": "li-2026-11-26-before-the-sale-decide-what-it-should-teach-you",
+   "title": "Before the sale: three lines that turn it into a test",
+   "hook": "The sale starts tomorrow. Decide today what it should teach you.",
+   "caption": "The sale starts tomorrow. Decide today what it should teach you.\nMost sale reports say what sold. Few say what the brand learned about its ads.\n\nA sale is the biggest ad test most D2C brands run all year, and it usually runs without a question.\n\nPick one question before Black Friday goes live.\n\nFor example: at the same discount, does an ad that leads with the offer do better than an ad that leads with the product?\n\nThen write three lines:\n\nThe question, in one sentence.\nThe two ads that answer it, identical except for the one thing you are testing.\nWhat you will do in December if the first is ahead, and if the second is.\n\nOn Monday you will have revenue either way. These three lines add an answer you can brief from.",
+   "first_comment": "Decoded #7, out next Wednesday, covers what to do once the sale ends. Follow Galvor to get it.",
+   "hashtags": [
+    "#D2CIndia",
+    "#PerformanceMarketing",
+    "#AdCreative"
+   ],
+   "alt_text": "List card on a violet background titled: Three lines to write before the sale goes live. The one question this sale should answer. Two ads, identical except for one thing. Your December move for each result.",
+   "cta": "Soft: follow Galvor for Decoded #7",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "list",
+      "kicker": "Before the sale",
+      "headline": "Three lines to write *before* the sale goes live",
+      "items": [
+       "The one question this sale should answer",
+       "Two ads, identical except for one thing",
+       "Your December move for each result"
+      ]
+     }
+    ]
+   },
+   "notes": "Hook shape: punchy plus context. Reader: a D2C founder or growth lead the day before Black Friday. No numbers used. Decoded #7 (2 Dec) is the matching issue but is not out on this date, so the first comment points forward to it."
+  },
+  {
+   "id": "li-2026-11-27-black-friday-creative-checklist-for-indian-d2c",
+   "title": "Black Friday: five creative checks for the sale weekend",
+   "hook": "Black Friday is live. Five creative checks are still worth running today.",
+   "caption": "Black Friday is live. Five creative checks are still worth running today.\nThe sale runs through the weekend, so there is time to fix what is in the account.\n\nThe checks in the slides:\n\n1. Count your look-alikes.\n2. Put your proven message in a new look.\n3. Name every ad so you can read it in December.\n4. Fix the review date before you look at the numbers.\n5. Save the evidence on Monday.\n\nThe first two come from our analysis of new video ads launched from May to September 2026. The other three are habits that cost nothing.\n\nSave this for the next sale too.",
+   "first_comment": "Read Decoded #3 on galvor.ai",
+   "hashtags": [
+    "#D2CIndia",
+    "#BlackFriday",
+    "#AdCreative"
+   ],
+   "alt_text": "Seven-slide Galvor carousel. Slide 1: five creative checks for the sale weekend. Slide 2: 48% less first-month spend for each ad when six or more look-alikes launched within three days. Slide 3: a new message over a familiar first shot got 16% less first-month spend, a proven message in a new look got 47% more. Slide 4: name every ad with message, look, offer and creator. Slide 5: decide the review date before you open the dashboard. Slide 6: on Monday save the ad files, the spend and cost per order, and one line on what you would repeat. Slide 7: follow Galvor.",
+   "cta": "Soft: save the checklist; follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Black Friday · Indian D2C",
+      "headline": "Five creative checks for the *sale weekend*",
+      "sub": "A checklist you can run today."
+     },
+     {
+      "layout": "stat",
+      "kicker": "Check 1 · Count your look-alikes",
+      "stat": "48%",
+      "headline": "less first-month spend each when *six or more look-alikes* launched in three days",
+      "sub": "Group the near-copies. Keep the strongest one from each group.",
+      "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+     },
+     {
+      "layout": "compare",
+      "kicker": "Check 2 · New look, proven message",
+      "headline": "What to change in a *sale ad*",
+      "left_title": "New message, familiar first shot",
+      "left": [
+       "16% less first-month spend",
+       "Looks like what is already live"
+      ],
+      "right_title": "Proven message, new look",
+      "right": [
+       "47% more first-month spend",
+       "Same promise, fresh first shot"
+      ],
+      "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+     },
+     {
+      "layout": "text",
+      "kicker": "Check 3 · Name every ad",
+      "headline": "Name ads so *December* can read them",
+      "body": "Put four things in every ad name: the message, the look, the offer and the creator.\n\nA name built that way can be sorted and compared later. A name like Final_v3 cannot."
+     },
+     {
+      "layout": "text",
+      "kicker": "Check 4 · Fix the review date",
+      "headline": "Decide *when* you will judge each ad",
+      "body": "Write the review date next to each ad before you open the dashboard.\n\nSome ad styles start dearer per order and settle later. A date agreed in advance stops a nervous Saturday cut."
+     },
+     {
+      "layout": "list",
+      "kicker": "Check 5 · Save the evidence",
+      "headline": "On Monday, *save* three things",
+      "items": [
+       "Each ad file, with its final name",
+       "Spend and cost per order for each ad",
+       "One line on what you would repeat"
+      ]
+     },
+     {
+      "layout": "cta",
+      "headline": "Make this sale teach the *next one*",
+      "sub": "One usable checklist or method every week.",
+      "actions": [
+       "Follow Galvor",
+       "Save this checklist"
+      ]
+     }
+    ]
+   },
+   "notes": "Hook shape: punchy plus context. Reader: a performance marketer running an Indian D2C account on Black Friday. Checklist shape. Numbers: 48% less (second and last use in this group); 16% less and 47% more (first use). All from the Galvor analysis in Decoded #3, ads launched May to Sep 2026. The compare slide has no source field in the template, so the source is stated in the caption; add it as small text on slide 3 if the layout allows."
+  },
+  {
+   "id": "li-2026-12-03-proof-a-clean-skincare-brand-tripled-its-hook-ra",
+   "title": "Proof (beauty): 3× hook rate, and the hook audit anyone can copy",
+   "hook": "A skincare brand tripled its hook rate. We never touched the budget.",
+   "caption": "A skincare brand tripled its hook rate. We never touched the budget.\nThe result is published. The first step of the method is something you can run this week without us.\n\nThe numbers for this clean skincare and serum D2C brand (anonymised, on galvor.ai): 3× hook rate, +112% RoAS and 30% less wasted spend.\n\nOne brand's numbers will not be yours. The method travels.\n\nThe slides show a hook audit for your own account: sort your last 20 ads by how they open, compare hook rate by group, and brief the next batch from what you find.\n\nEvery ad should make the next one better.",
+   "first_comment": "The published results and the method: https://galvor.ai/results/\n\nComment “decode” and we will decode your category, free.",
+   "hashtags": [
+    "#D2CIndia",
+    "#CreativeStrategy",
+    "#AdCreative"
+   ],
+   "alt_text": "Seven-slide Galvor carousel. Slide 1: a skincare brand tripled its hook rate, here is the audit to copy. Slide 2: 3× hook rate for an anonymised clean skincare and serum D2C brand. Slide 3: +112% RoAS with 30% less wasted spend. Slide 4: sort your last 20 ads by how they open. Slide 5: compare hook rate by group, where hook rate is three-second views divided by impressions. Slide 6: brief the next batch from the pattern and keep one or two ads for a new opening. Slide 7: follow Galvor, comment decode for a free category decode. Source: galvor.ai/results.",
+   "cta": "Direct: comment “decode” for a free category decode",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Proof · Beauty D2C",
+      "headline": "A skincare brand *tripled* its hook rate. Here is the audit to copy.",
+      "sub": "Anonymised client · results published on galvor.ai"
+     },
+     {
+      "layout": "stat",
+      "kicker": "Hook rate",
+      "stat": "3×",
+      "headline": "hook rate for a clean skincare and serum *D2C brand*",
+      "source": "Source: galvor.ai/results · anonymised client"
+     },
+     {
+      "layout": "stat",
+      "kicker": "Return on ad spend",
+      "stat": "+112%",
+      "headline": "RoAS, with *30% less* wasted spend",
+      "sub": "We work on what goes into the ads. The media budget stays with the brand.",
+      "source": "Source: galvor.ai/results · anonymised client"
+     },
+     {
+      "layout": "list",
+      "kicker": "Hook audit · Step 1",
+      "headline": "Sort your last 20 ads by *how they open*",
+      "items": [
+       "The problem, said out loud",
+       "The product in hand",
+       "A face talking to camera",
+       "The result shown first",
+       "Text on screen only"
+      ]
+     },
+     {
+      "layout": "text",
+      "kicker": "Hook audit · Step 2",
+      "headline": "Compare *hook rate* by group",
+      "body": "Hook rate is three-second views divided by impressions.\n\nWork it out for each group, not each ad. One ad can be a fluke. A group of five that all hold attention is a pattern you can brief from."
+     },
+     {
+      "layout": "text",
+      "kicker": "Hook audit · Step 3",
+      "headline": "Brief the next batch from the *pattern*",
+      "body": "Make most of the next batch open the way your strongest group does.\n\nKeep one or two ads for an opening you have never tried, so the audit has something new to read in a fortnight."
+     },
+     {
+      "layout": "cta",
+      "headline": "Want this done across *50+ attributes*?",
+      "sub": "We will decode your category, free.",
+      "actions": [
+       "Follow Galvor",
+       "Comment “decode”",
+       "Results link in the first comment"
+      ]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Sunil: the period these published results cover, and that 'we never touched its media budget' is accurate for this client (the spec states it as Galvor's general rule). Do not add the client name. Hook shape: punchy plus context. Reader: a growth lead who distrusts vendor case studies. Proof plus a method to copy, so the post is useful even to a reader who never buys. Numbers: 3× hook rate, +112% RoAS, 30% less wasted spend (galvor.ai/results, anonymised beauty client); used only in this post. The 'last 20 ads' is a suggested sample size, not a statistic."
+  },
+  {
+   "id": "li-2026-12-04-weekly-reshare-creative-fatigue",
+   "title": "Creative fatigue: the order the signals move, and refresh or cut",
+   "hook": "By the time cost per order moves, the ad is already tired.",
+   "caption": "By the time cost per order moves, the ad is already tired.\nThis week it matters more than usual: the ads that carried your sale have been shown to the same people for days.\n\nCost per order is the last number to react. If you wait for it, you pay for the delay.\n\nThe order we check, earliest sign first:\n\nHook rate. Fewer people stay past the first three seconds.\nHold rate. Those who stay leave sooner.\nFrequency. The same people are seeing it again and again.\nCost per order. Only now does the bill change.\n\nThen one decision: refresh or cut.\n\nRefresh when the hook has faded but the people who do watch still buy. The message is working and the opening is worn out. Keep the message and shoot a new first three seconds.\n\nCut when hook rate is steady and orders have still dropped. People are watching and choosing not to buy. A new opening will not fix that.\n\nLook at the early numbers on Monday, before the bill tells you.",
+   "first_comment": "Read Decoded #6 on galvor.ai",
+   "hashtags": [
+    "#PerformanceMarketing",
+    "#MetaAds",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "",
+   "cta": "none (Decoded #6 in first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Raj: the order of signals (hook rate, hold rate, frequency, cost per order) and the refresh-or-cut rule match what Decoded #6 says; adjust the wording to the issue if they differ. Hook shape: punchy plus context. Reader: a media buyer in the week after Black Friday. Standalone post on the week's theme; not a reshare. No numbers used."
+  },
+  {
+   "id": "li-2026-12-10-the-two-week-loop",
+   "title": "Why we review creative every two weeks, and the four-part agenda",
+   "hook": "A quarterly creative review looks at ads that have already been replaced.",
+   "caption": "A quarterly creative review looks at ads that have already been replaced.\nA weekly one looks at ads that have not settled. We run ours every two weeks.\n\nTwo weeks is long enough for a new ad to gather data you can read, and short enough for the finding to change the next brief.\n\nFour parts, same order every time:\n\nDecode. What ran, and what each ad was made of: hook, cast, pacing, setting, CTA.\nProve. Which attributes moved cost per order, and which only looked good.\nCreate. The next briefs, written from what was proved.\nRun. What to scale, what to cut, where to shift spend.\n\nOne rule: the meeting ends when the next brief has changed because of it.\n\nYou can run this from a spreadsheet. The cadence is what most teams are missing.",
+   "first_comment": "Decoded #12, out in January, walks through a full fortnightly cycle. Follow Galvor to get it.",
+   "hashtags": [
+    "#CreativeStrategy",
+    "#PerformanceMarketing",
+    "#D2C"
+   ],
+   "alt_text": "List card on a violet background titled: Four questions, every two weeks. Decode: what was each ad made of? Prove: which attribute moved cost per order? Create: what does the next brief change? Run: what do we scale, cut or shift?",
+   "cta": "Soft: follow Galvor for Decoded #12",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "list",
+      "kicker": "The fortnightly review",
+      "headline": "Four questions, *every two weeks*",
+      "items": [
+       "Decode: what was each ad made of?",
+       "Prove: which attribute moved cost per order?",
+       "Create: what does the next brief change?",
+       "Run: what do we scale, cut or shift?"
+      ]
+     }
+    ]
+   },
+   "notes": "Hook shape: stacked. Reader: a head of growth who reviews creative monthly or quarterly and doubts a fortnightly cadence is worth the time. Written as a method the reader can run without the product. No statistics; 'every two weeks' is the loop cadence from the facts bank. Decoded #12 (6 Jan) is the matching issue but is not out on this date."
+  },
+  {
+   "id": "li-2026-12-11-weekly-reshare-sunil-on-agents-not-headcount",
+   "title": "Agents, not headcount: three tests before an agent decides alone",
+   "hook": "Before you give an AI agent a job, list your team's decisions.",
+   "caption": "Before you give an AI agent a job, list your team's decisions.\nMost plans list tasks, which is how the agent ends up producing reports nobody asked for.\n\nTake one week of your marketing team's work and sort it into two columns.\n\nMoving information: pulling numbers, renaming files, building the Monday deck, chasing a creator for a draft.\n\nDeciding: which ad to cut, what the next brief says, whether a creator gets a second video.\n\nIn the first column an agent can take the whole job. For the second column, three tests are worth applying before an agent decides anything alone:\n\nCan it be undone? Pausing an ad can be reversed tomorrow. A signed creator contract cannot.\nDoes it come up every week? Frequent decisions give you enough cases to check the agent's record.\nCan it show its working? If you cannot see why it chose, you cannot correct it.\n\nA decision that passes all three can go to the agent. The others stay with a person, and the agent prepares the evidence.\n\nDone properly, your team gets its hours back for the second column.",
+   "first_comment": "Read Decoded #8 on galvor.ai",
+   "hashtags": [
+    "#AIinMarketing",
+    "#D2C",
+    "#GrowthMarketing"
+   ],
+   "alt_text": "",
+   "cta": "none (Decoded #8 in first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Sunil: the three tests (reversible, frequent, shows its working) agree with the position in Decoded #8 and in his own post this week. Hook shape: punchy plus context. Reader: a D2C founder or CMO deciding where AI agents fit in a small marketing team. Standalone post on the week's theme; it does not quote or depend on a personal post. No numbers used."
+  },
+  {
+   "id": "li-2026-12-17-shortlist-creators-before-you-pay-them",
+   "title": "Five checks on a creator's last ten videos before you agree a fee",
+   "hook": "A creator can have real followers and still sell nothing for you.",
+   "caption": "A creator can have real followers and still sell nothing for you.\nMost shortlists check the audience. Few check the videos.\n\nBefore you agree a fee, watch the creator's last ten videos and ask:\n\n1. Do the first three seconds give a reason to keep watching, or only a greeting?\n2. Have they sold in your category or price range before?\n3. On paid posts, do the comments ask about the product?\n4. Do they speak your buyer's language and know their context?\n5. Is there a format they repeat well, for your second video to build on?\n\nA creator who passes four of the five is worth a paid test video. One who passes two is a guess with an invoice attached.\n\nThe audit costs you an evening. A wrong creator costs the fee and the month.",
+   "first_comment": "Galvor Scout is our creator shortlisting module. More at galvor.ai. Follow Galvor for one usable method a week.",
+   "hashtags": [
+    "#CreatorMarketing",
+    "#D2CIndia",
+    "#PerformanceMarketing"
+   ],
+   "alt_text": "List card on a violet background titled: Five checks on a creator's last ten videos. First three seconds: a reason to watch? Sold in your category or price range? Paid posts: product questions in comments? Language and context match your buyer? A repeatable format for video two?",
+   "cta": "Soft: follow Galvor; Scout mentioned in first comment only",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "list",
+      "kicker": "Creator shortlist",
+      "headline": "Five checks on a creator's *last ten videos*",
+      "items": [
+       "First three seconds: a reason to watch?",
+       "Sold in your category or price range?",
+       "Paid posts: product questions in comments?",
+       "Language and context match your buyer?",
+       "A repeatable format for video two?"
+      ]
+     }
+    ]
+   },
+   "notes": "Hook shape: single-line bomb. Reader: a brand manager about to sign creators for January. Checklist shape; the product (Scout) appears only in the first comment. No statistics. 'Last ten videos' and 'four of the five' are suggested working rules, not findings; soften if the team prefers."
+  },
+  {
+   "id": "li-2026-12-18-weekly-reshare-sunil-on-pilots",
+   "title": "The one-page pilot brief: five lines before any pilot starts",
+   "hook": "Six weeks, a tidy deck, and nobody can say if it worked.",
+   "caption": "Six weeks, a tidy deck, and nobody can say if it worked.\nThat is how most vendor pilots end, and the cause is usually visible on day one.\n\nA pilot that starts without a decision attached cannot finish with one.\n\nBefore any pilot begins, with us or with anyone else, put five lines on one page:\n\nThe business question. One sentence a finance head would understand.\nThe baseline. The number today, and the period it comes from.\nThe yes result. What you will see if it works, and what you buy or expand when you do.\nThe no result. What you will see if it does not, and what you stop.\nThe end date, and the one person who makes the call.\n\nThe third and fourth lines carry the page. If both results lead to the same next step, the pilot answers nothing and you can skip it.\n\nYear end is when pilots for the new quarter get agreed. Ask every vendor for this page before the kick-off call. A vendor who resists writing down the no result has told you something useful.",
+   "first_comment": "Follow Galvor for one usable method a week.",
+   "hashtags": [
+    "#D2C",
+    "#GrowthMarketing",
+    "#AIinMarketing"
+   ],
+   "alt_text": "",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "Hook shape: punchy plus context. Reader: a CMO agreeing vendor pilots for the January quarter. Standalone checklist on the week's theme (pilots); it does not quote a personal post or describe any real pilot. No numbers used. If the team has a real, permitted pilot example, one line of it would strengthen the middle; the post stands without it."
+  },
+  {
+   "id": "li-2026-12-24-the-one-belief-were-taking-into-2027",
+   "title": "The belief we carry into 2027: ad learnings belong to the brand (the handover test)",
+   "hook": "When your media buyer leaves, your ad learnings usually leave too.",
+   "caption": "When your media buyer leaves, your ad learnings usually leave too.\nThe one belief we are carrying into 2027: what a brand learns from its ads should belong to the brand.\n\nMost D2C teams have plenty of data and no memory. The numbers sit in the ad account. The reasons sit in one person's head, an agency's deck or a WhatsApp thread.\n\nA test for this quiet week: imagine a new hire starts on 4 January. Using only what is written down, could they brief your next ad?\n\nFor each ad that mattered, they would need four things:\n\nWhat the ad was made of.\nWhat happened when it ran.\nWhat the team decided because of it.\nWhere the file is.\n\nIf that record exists, your 2026 spend bought knowledge as well as orders. If not, January starts from zero.",
+   "first_comment": "Follow Galvor for one usable method a week.",
+   "hashtags": [
+    "#BrandMemory",
+    "#D2CIndia",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "Statement card on a violet background: What a brand learns from its ads should belong to the brand. Below: the handover test. Could a new hire brief your next ad from your records alone?",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "statement",
+      "headline": "What a brand learns from its ads should *belong to the brand.*",
+      "sub": "The handover test: could a new hire brief your next ad from your records alone?"
+     }
+    ]
+   },
+   "notes": "Hook shape: punchy plus context. Reader: a D2C founder who has changed agency or media buyer at least once. A belief plus one test the reader can run in the quiet week. No numbers used. The old hook ('this year we changed our minds about a lot of things') was dropped because it implied a team story we cannot verify."
+  },
+  {
+   "id": "li-2026-12-25-christmas-greeting-the-best-gifts-come-from-some",
+   "title": "Christmas greeting: the best gifts come from someone who paid attention",
+   "hook": "Merry Christmas from all of us at Galvor.",
+   "caption": "Merry Christmas from all of us at Galvor.\n\nThe gifts people remember are usually the ones that show someone was paying attention. We hope today brings you a few of those, and some proper rest.\n\nThe dashboards will keep until Monday.",
+   "first_comment": "",
+   "hashtags": [
+    "#MerryChristmas",
+    "#D2CIndia"
+   ],
+   "alt_text": "Festive greeting on a violet background with a Christmas tree: Merry Christmas. The best gifts come from someone who paid attention. Warm wishes from all of us at Galvor.",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "festival",
+      "motif": "🎄",
+      "kicker": "Christmas 2026",
+      "greeting": "Merry Christmas",
+      "headline": "The best gifts come from someone who *paid attention.*",
+      "sub": "Warm wishes from all of us at Galvor."
+     }
+    ]
+   },
+   "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No product mention, no numbers."
+  },
+  {
+   "id": "li-2026-12-31-year-end-five-things-to-carry-into-2027",
+   "title": "Year end: five questions for your 2026 ad account before you plan 2027",
+   "hook": "Five questions to ask your 2026 ad account before you plan 2027.",
+   "caption": "Five questions to ask your 2026 ad account before you plan 2027.\nIndia Inc closes Q3 today, and January planning starts on Monday.\n\nMost plans for a new year start from a budget. Yours can start from what the last year already taught you, which is sitting in your account.\n\nThe slides have five questions. Each can be answered from your own ads in an afternoon, without any tool.\n\nTwo of them use findings from our analysis of new video ads launched from May to September 2026. One uses a column Meta added to Ads Manager this year.\n\nAnswer them in writing. The page you end up with is your first brief of 2027.",
+   "first_comment": "Read Decoded #10 on galvor.ai",
+   "hashtags": [
+    "#D2CIndia",
+    "#PerformanceMarketing",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "Seven-slide Galvor carousel. Slide 1: five questions for your 2026 ad account before you plan 2027. Slide 2: which message kept working in a new look? Slide 3: which style started dear and came good, with the finding that some ad styles start about 35% dearer per order in their first two months and end close to average. Slide 4: how many launches were near-copies? Slide 5: what does your creative diversity column say, with one brand's score moving from 63 to 92 out of 100. Slide 6: which creator would you brief again? Slide 7: write the answers down, follow Galvor.",
+   "cta": "Soft: save for planning week; follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Year end · 2026",
+      "headline": "Five questions for your *2026 ad account* before you plan 2027",
+      "sub": "Each one can be answered from your own ads."
+     },
+     {
+      "layout": "text",
+      "kicker": "Question 1",
+      "headline": "Which message kept working in a *new look*?",
+      "body": "Find the promise that sold across more than one ad this year.\n\nThat message has earned a place in 2027. Give it a new first shot before you go looking for a new idea."
+     },
+     {
+      "layout": "stat",
+      "kicker": "Question 2",
+      "stat": "35%",
+      "headline": "Which style started dear and *came good*?",
+      "sub": "Some ad styles start about 35% dearer per order in their first two months and end close to average.",
+      "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+     },
+     {
+      "layout": "text",
+      "kicker": "Question 3",
+      "headline": "How many launches were *near-copies*?",
+      "body": "Lay the year's ads out as thumbnails and count the ones a stranger would call the same ad.\n\nThat share is production budget you can move to something different next year."
+     },
+     {
+      "layout": "stat",
+      "kicker": "Question 4",
+      "stat": "63 → 92",
+      "headline": "What does your *creative diversity* column say?",
+      "sub": "One brand's score out of 100, two months after acting on our recommendations. Meta began showing the column in late August 2026.",
+      "source": "Source: Galvor analysis · Decoded #3"
+     },
+     {
+      "layout": "text",
+      "kicker": "Question 5",
+      "headline": "Which creator would you *brief again*?",
+      "body": "List the creators you paid this year. Mark the ones whose second video did better than their first.\n\nThose are relationships to keep. The rest were one-off experiments, and it helps to say so."
+     },
+     {
+      "layout": "cta",
+      "headline": "Write the answers down. That page is your *first brief* of 2027.",
+      "sub": "The longer version is in Decoded #10.",
+      "actions": [
+       "Follow Galvor",
+       "Save this for planning week"
+      ]
+     }
+    ]
+   },
+   "notes": "Hook shape: punchy plus context. Reader: a growth lead writing the January to March plan. A question-led audit, not a list of lessons, so it does not repeat Decoded #10. Numbers: 35% dearer per order in the first two months (second and last use in this group; Galvor analysis, Decoded #3); creative diversity score 63 to 92 out of 100 for one brand two months after Galvor's recommended changes (only use; Galvor analysis, Decoded #3). Meta's 'Creative diversity' column appearing from late August 2026 is from Meta's public statements as cited in Decoded #3. Check that 31 Dec is still the Q3 close line the team wants."
+  },
+  {
+   "id": "li-2027-01-01-new-year-greeting-make-every-ad-in-2027-teach-th",
+   "title": "New Year greeting: may every ad in 2027 teach the next one",
+   "hook": "Happy New Year from all of us at Galvor.",
+   "caption": "Happy New Year from all of us at Galvor.\n\nOne wish for your 2027: that every ad you run leaves you knowing a little more than the one before it.\n\nThank you for reading, arguing and sharing with us last year. See you on Monday.",
+   "first_comment": "",
+   "hashtags": [
+    "#HappyNewYear",
+    "#D2CIndia"
+   ],
+   "alt_text": "Festive greeting on a violet background with fireworks: Happy New Year. May every ad in 2027 teach the next one. From all of us at Galvor.",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "festival",
+      "motif": "🎆",
+      "kicker": "New Year 2027",
+      "greeting": "Happy New Year",
+      "headline": "May every ad in 2027 *teach the next one.*",
+      "sub": "From all of us at Galvor."
+     }
+    ]
+   },
+   "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No numbers."
+  },
+  {
+   "id": "li-2027-01-08-weekly-reshare-ai-content-needs-a-control-layer",
+   "title": "AI creative needs three gates: brand, difference, learning",
+   "hook": "AI made ads cheap to produce. It also made look-alikes free.",
+   "caption": "AI made ads cheap to produce. It also made look-alikes free.\nFor a D2C team using AI to multiply its creative output, the hard job has moved from making to choosing.\n\nIn our analysis of new video ads launched from May to September 2026, new ads that looked like many ads already running got 36% less first-month spend.\n\nA generator fed on what you already ran tends to hand back more of what you already ran. Volume goes up and the account sees the same idea again.\n\nSo put three gates between the generator and the ad account.\n\nBrand gate. With the logo covered, would a customer still recognise this as you?\n\nDifference gate. Place it next to your live ads. If a stranger cannot tell it apart from one of them, it does not go live.\n\nLearning gate. Write one line on what this ad will tell you that the others cannot. An ad without that line waits.\n\nA person holds each gate. The model can prepare the evidence for all three.\n\nAn ad that gets through has a reason to exist, however it was made.",
+   "first_comment": "Read Decoded #3 on galvor.ai",
+   "hashtags": [
+    "#AIinMarketing",
+    "#AdCreative",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "",
+   "cta": "none (Decoded #3 in first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "Hook shape: stacked. Reader: a creative or growth lead who has just started producing ads with AI tools. Standalone post on the week's theme; not a reshare. Numbers: 36% less first-month spend for new ads that looked like many running ads (second and last use in this group; Galvor analysis, Decoded #3, ads launched May to Sep 2026). 'A generator tends to hand back more of what you already ran' is an inference, worded as a tendency. The data predates most AI-made ads, so the post does not claim the 36% was measured on AI creative."
+  },
+  {
+   "id": "li-2027-01-14-harvest-festivals-lohri-makar-sankranti-pongal",
+   "title": "Harvest festivals greeting: Lohri, Makar Sankranti, Uttarayan, Pongal",
+   "hook": "Lohri, Makar Sankranti, Uttarayan and Pongal: four names for one shared idea, giving thanks for the harvest as the days grow longer.",
+   "caption": "Lohri, Makar Sankranti, Uttarayan and Pongal: four names for one shared idea, giving thanks for the harvest as the days grow longer.\n\nHowever you are celebrating this week, with a bonfire, a kite, til-gud or a pot of pongal, warm wishes from all of us at Galvor.\n\nMay what you planted last year come good in this one.",
+   "first_comment": "",
+   "hashtags": [
+    "#MakarSankranti",
+    "#Pongal",
+    "#Lohri"
+   ],
+   "alt_text": "Festive greeting on a violet background with a kite: Happy Sankranti. May what you planted last year come good in this one. Warm wishes from all of us at Galvor.",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "festival",
+      "motif": "🪁",
+      "kicker": "Lohri · Makar Sankranti · Pongal",
+      "greeting": "Happy Sankranti",
+      "headline": "May what you planted last year *come good* in this one.",
+      "sub": "Warm wishes from all of us at Galvor."
+     }
+    ]
+   },
+   "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No product mention, no numbers. The old hook listed a date for each festival; dates were removed so nothing can be wrong. Verify the 2027 date of Makar Sankranti (14 or 15 Jan) before posting."
+  },
+  {
+   "id": "li-2027-01-16-national-startup-day-a-note-from-mumbai",
+   "title": "National Startup Day: three things Galvor decided not to do",
+   "hook": "Three things we decided Galvor would not do.",
+   "caption": "Three things we decided Galvor would not do.\nIt is National Startup Day, and what a company refuses to do describes it better than a feature list.\n\nWe will not touch your media budget. Our work is the creative that goes into it, and advice is easier to trust when the adviser does not control the spend.\n\nWe will not give an ad a single score. An ad is a hook, a cast, a pace, a setting and a call to action. We price each attribute against cost per order, because briefs are written attribute by attribute.\n\nWe will not hide the reasoning. Vira, our digital co-worker, shows its thinking, so a marketer can disagree with a single step.\n\nTo founders building from India today: write down what your company will not do. It explains you faster than a tagline.",
+   "first_comment": "Follow Galvor for one usable method a week.",
+   "hashtags": [
+    "#NationalStartupDay",
+    "#D2CIndia",
+    "#AIinMarketing"
+   ],
+   "alt_text": "List card on a violet background for National Startup Day titled: Three things Galvor will not do. Touch your media budget. Give an ad a single score. Hide how a recommendation was reached.",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "list",
+      "kicker": "National Startup Day",
+      "headline": "Three things Galvor *will not do*",
+      "items": [
+       "Touch your media budget",
+       "Give an ad a single score",
+       "Hide how a recommendation was reached"
+      ]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Sunil: that these three positions (never touch the media budget, price the attribute and not the ad, Vira shows its thinking) may be stated publicly as things Galvor will not do. All three come from the spec's description of the product. Hook shape: punchy plus context. Reader: fellow founders and D2C leaders. A belief post with one exercise to copy; the old 'honest note from our desk' framing was dropped because it needed a team story we cannot verify. No numbers used."
+  },
+  {
+   "id": "li-2027-01-21-proof-a-wellness-d2c-brand-stops-guessing",
+   "title": "Proof (wellness): testing the category's default style, and how to set the test up",
+   "hook": "In wellness, aspirational content is the default. One brand tested it.",
+   "caption": "In wellness, aspirational content is the default. One brand tested it.\nThe result is published, and the test design is yours to copy.\n\nThe numbers for this Ayurvedic supplements D2C brand (anonymised, on galvor.ai): a 2.6× uplift versus aspirational content, +135% hold rate and +91% RoAS.\n\nThis does not mean aspirational content is bad. It means every category has a default style that nobody questions, and the default deserves one fair test.\n\nThe slides show how to set that test up on your own account.\n\nIf you would like us to find the default in your category, we will decode it free. Details are in the first comment.",
+   "first_comment": "The published results: https://galvor.ai/results/\n\nComment “decode” or book a time at talk.galvor.ai and we will decode your category, free.",
+   "hashtags": [
+    "#D2CIndia",
+    "#CreativeStrategy",
+    "#PerformanceMarketing"
+   ],
+   "alt_text": "Seven-slide Galvor carousel. Slide 1: a supplements brand tested its category's default style. Slide 2: 2.6× uplift versus aspirational content for an anonymised Ayurvedic supplements D2C brand. Slide 3: +135% hold rate alongside +91% RoAS. Slide 4: name your category's default style by looking at ten brands. Slide 5: make its opposite with the same message. Slide 6: run both for a fortnight and price the difference in cost per order. Slide 7: follow Galvor, comment decode for a free category decode. Source: galvor.ai/results.",
+   "cta": "Direct: comment “decode” or book at talk.galvor.ai for a free category decode",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Proof · Wellness D2C",
+      "headline": "A supplements brand tested its category's *default style*",
+      "sub": "Anonymised client · results published on galvor.ai"
+     },
+     {
+      "layout": "stat",
+      "kicker": "The test",
+      "stat": "2.6×",
+      "headline": "uplift versus *aspirational* content",
+      "source": "Source: galvor.ai/results · anonymised client"
+     },
+     {
+      "layout": "stat",
+      "kicker": "Hold rate",
+      "stat": "+135%",
+      "headline": "hold rate, alongside *+91% RoAS*",
+      "source": "Source: galvor.ai/results · anonymised client"
+     },
+     {
+      "layout": "text",
+      "kicker": "Step 1",
+      "headline": "Name your category's *default*",
+      "body": "Open the ad libraries of ten brands in your category and note the style most of them share.\n\nIn wellness it is often the calm, aspirational lifestyle shot. In yours it may be the founder story or the before and after."
+     },
+     {
+      "layout": "text",
+      "kicker": "Step 2",
+      "headline": "Make its *opposite*, with the same message",
+      "body": "Keep the promise, the offer and the product identical.\n\nChange only the style. If the default is polished, shoot plain. If it is aspirational, show the routine as it really looks."
+     },
+     {
+      "layout": "text",
+      "kicker": "Step 3",
+      "headline": "Price the *difference*",
+      "body": "Run both for a full fortnight at similar spend.\n\nCompare hold rate and cost per order. Then write one line: in our category, this style costs this much more or less per order."
+     },
+     {
+      "layout": "cta",
+      "headline": "Want your category's default *found and tested*?",
+      "sub": "We will decode your category, free.",
+      "actions": [
+       "Follow Galvor",
+       "Comment “decode”",
+       "Link in the first comment"
+      ]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Sunil: what kind of content was compared against aspirational content for the 2.6× figure, and the period. The post avoids describing the other content because the facts bank does not say. Do not add the client name. Hook shape: punchy plus context. Reader: a D2C founder or growth lead ready to talk (job: Convert). Proof plus a test design to copy. Numbers: 2.6× uplift vs aspirational content, +135% hold rate, +91% RoAS (galvor.ai/results, anonymised wellness client); used only in this post. 'Ten brands' and 'a fortnight' are suggested working rules."
+  },
+  {
+   "id": "li-2027-01-22-weekly-reshare-sunil-on-ai-generated-vs-ai-infor",
+   "title": "AI-generated vs AI-informed: the four-line brief (keep, change, avoid, measure)",
+   "hook": "The best AI ad brief starts with an old ad.",
+   "caption": "The best AI ad brief starts with an old ad.\nSpecifically, the message from the ad that has already sold for you.\n\nTwo findings from our analysis of new video ads launched from May to September 2026:\n\nA proven message in a new look got 47% more first-month spend.\nA new message over a familiar first shot got 16% less.\n\nMost prompts run the other way. “Make ten fresh concepts for our serum” asks for new messages, and the tool tends to wrap them in the look it has seen most.\n\nA four-line brief that follows the data:\n\nKeep: the one promise that has sold before, in the customer's words.\nChange: the first shot, the setting and the person on screen.\nAvoid: describe the ads you are running now, so the tool steers away from them.\nMeasure: the single number that decides whether this version stays.\n\nThat is what we mean by AI-informed creative. Your own results set the brief, and the model does the making.\n\nUse the tool for speed. Let your history choose the direction.",
+   "first_comment": "Read Decoded #3 on galvor.ai",
+   "hashtags": [
+    "#AIinMarketing",
+    "#AdCreative",
+    "#D2C"
+   ],
+   "alt_text": "",
+   "cta": "none (Decoded #3 in first comment)",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "Hook shape: single-line bomb. Reader: a brand or creative manager writing prompts for an AI ad generator. Standalone how-to on the week's theme; it does not quote or depend on a personal post. Numbers: 47% more first-month spend for a proven message in a new look; 16% less for a new message over a familiar first shot (second and last use of both in this group; Galvor analysis, Decoded #3, ads launched May to Sep 2026). 'The tool tends to wrap them in the look it has seen most' is an inference, worded as a tendency."
+  },
+  {
+   "id": "li-2027-01-26-republic-day-greeting",
+   "title": "Republic Day greeting",
+   "hook": "Happy Republic Day from all of us at Galvor.",
+   "caption": "Happy Republic Day from all of us at Galvor.\n\nOn this day the Constitution came into effect, and a young republic wrote down what it wanted to be.\n\nWishing you a proud and restful 26th of January.",
+   "first_comment": "",
+   "hashtags": [
+    "#RepublicDay",
+    "#India"
+   ],
+   "alt_text": "Festive greeting on a violet background: Happy Republic Day. To the country that wrote down what it wanted to be. Warm wishes from all of us at Galvor.",
+   "cta": "none",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "festival",
+      "motif": "✨",
+      "kicker": "26 January",
+      "greeting": "Happy Republic Day",
+      "headline": "To the country that wrote down *what it wanted to be.*",
+      "sub": "Warm wishes from all of us at Galvor."
+     }
+    ]
+   },
+   "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No product mention, no numbers, no sale talk. The motif is a sparkle because flag emoji do not render in the image template."
+  },
+  {
+   "id": "li-2027-01-28-data-privacy-day-how-we-treat-brand-ad-data",
+   "title": "Data Privacy Day: six questions before you connect your ad account",
+   "hook": "Six questions to ask before you connect your ad account to anything.",
+   "caption": "Six questions to ask before you connect your ad account to anything.\nIt is Data Privacy Day, and most D2C teams grant access in one click, mid-demo.\n\nYour ad account holds your spend, your creative and what your customers respond to. Any tool that reads it, ours included, should answer these in writing:\n\n1. Do you need read access or manage access, and why?\n2. Who inside your company can see our data?\n3. Is our data used to train models or build benchmarks that other brands see?\n4. If it is pooled, how is it anonymised?\n5. What happens to our data when we leave, and how soon?\n6. Can we see a log of what was accessed?\n\nA good vendor has the answers ready. A slow or vague reply is an answer too.",
+   "first_comment": "Follow Galvor for one usable method a week.",
+   "hashtags": [
+    "#DataPrivacyDay",
+    "#D2C",
+    "#AIinMarketing"
+   ],
+   "alt_text": "List card on a violet background for Data Privacy Day titled: Ask before you connect your ad account. Read access or manage access, and why? Who at your company sees our data? Does our data train models others use? If pooled, how is it anonymised? What happens to it when we leave? Can we see an access log?",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "list",
+      "kicker": "Data Privacy Day",
+      "headline": "Ask before you *connect your ad account*",
+      "items": [
+       "Read access or manage access, and why?",
+       "Who at your company sees our data?",
+       "Does our data train models others use?",
+       "If pooled, how is it anonymised?",
+       "What happens to it when we leave?",
+       "Can we see an access log?"
+      ]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Sunil: Galvor must have its own written answers to all six questions ready before this goes live, because readers will ask. The post makes no claim about Galvor's data practices, since none are in the spec. Hook shape: punchy plus context. Reader: a founder or head of growth about to trial an analytics or AI tool. Checklist shape. No numbers used."
+  },
+  {
+   "id": "li-2027-01-29-weekly-reshare-sunils-five-questions-for-ai-vend",
+   "title": "Label every creative finding: proven, signal or hunch",
+   "hook": "Most creative learnings are one ad's result with a confident name.",
+   "caption": "Most creative learnings are one ad's result with a confident name.\n“UGC works for us” often means one video did well in one week.\n\nA finding from a single ad is worth keeping. It is also worth labelling honestly, because the next brief will be built on it.\n\nThree labels cover it:\n\nProven. The same pattern showed up across several ads and more than one review cycle.\nSignal. Seen once, or in a small sample. Worth a deliberate test.\nHunch. Someone's reading of the account, with no comparison behind it yet.\n\nThen decide what each label is allowed to do.\n\nA brief can lean on a proven finding without discussion. A signal gets one slot in the next batch, built to confirm it or end it. A hunch is written down with its owner's name, and is tested or dropped by the following review.\n\nNothing moves up a label because a senior person likes it.\n\nAfter a few cycles the proven list will be short. That is normal, and it is the list to put real money behind.\n\nThe Republic Day sale has just handed you a pile of single results. Label them before you brief February.",
+   "first_comment": "Follow Galvor for one usable method a week.",
+   "hashtags": [
+    "#MarketingAnalytics",
+    "#CreativeStrategy",
+    "#PerformanceMarketing"
+   ],
+   "alt_text": "",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "CONFIRM WITH Raj: that proven, signal and hunch match how Galvor labels findings internally (the spec's rule is that small samples are 'a signal' or 'a pattern to test'); rename the labels if the team uses other words. Hook shape: single-line bomb. Reader: a head of performance who doubts whether creative insights can be trusted (job: De-risk). No numbers used. TOPIC REPLACED: the old slot reshared a personal post on five questions for AI vendors. That would repeat the vendor-question checklist on 28 Jan and depended on a post that may not exist."
+  },
+  {
+   "id": "li-2027-02-04-what-90-days-of-posting-taught-us",
+   "title": "Ninety days of posting, reviewed like an ad account: four patterns and a review format",
+   "hook": "Ninety days of posting, reviewed the way we review ads.",
+   "caption": "Ninety days of posting, reviewed the way we review ads.\nFour patterns, what we are changing because of each, and a review format you can copy.\n\nWe tell brands that every ad should make the next one better. A content calendar deserves the same treatment, so we went through our own page and a week of public posts from companies in our space.\n\nThe patterns are in the slides.\n\nNone of this is a law. It is one page and one short window, which makes each finding a signal to test.\n\nIf you run a B2B page of your own, the review format on slide six is yours to take.",
+   "first_comment": "Follow Galvor for one usable method a week.",
+   "hashtags": [
+    "#D2C",
+    "#GrowthMarketing",
+    "#CreativeStrategy"
+   ],
+   "alt_text": "Seven-slide Galvor carousel. Slide 1: ninety days of posting, reviewed like an ad account. Slide 2: people reach further than pages. Slide 3: how-to posts drew more response than product posts. Slide 4: templated daily series fade fast. Slide 5: follower count did not predict response. Slide 6: a 90-day review for any B2B page: sort posts by type, check people's profiles against the page, name one thing to stop and one to start, label each finding a signal until repeated. Slide 7: follow Galvor.",
+   "cta": "Soft: save the review format; follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Building Galvor",
+      "headline": "Ninety days of posting, *reviewed like an ad account*",
+      "sub": "Four patterns, and what we are changing."
+     },
+     {
+      "layout": "text",
+      "kicker": "Pattern 1",
+      "headline": "People reach further than *pages*",
+      "body": "Posts from a team member's own profile reached far more people than posts from the company page.\n\nWhat we are changing: the page now backs the people on the team and stops trying to out-post them."
+     },
+     {
+      "layout": "text",
+      "kicker": "Pattern 2",
+      "headline": "How-to posts drew more than *product posts*",
+      "body": "In a week of public posts from companies in our space, posts a reader could copy the same day drew the most response. Feature announcements drew almost none.\n\nWhat we are changing: one usable method in every post."
+     },
+     {
+      "layout": "text",
+      "kicker": "Pattern 3",
+      "headline": "Templated daily series *fade fast*",
+      "body": "Series that repeat one template every day drew very little response on the public pages we looked at.\n\nWhat we are changing: fewer posts, each with its own argument."
+     },
+     {
+      "layout": "text",
+      "kicker": "Pattern 4",
+      "headline": "Follower count did not predict *response*",
+      "body": "Among the pages we looked at, larger ones often drew less response per post than smaller ones.\n\nWhat we are changing: we judge a post by its comments and saves, and treat follower growth as a result."
+     },
+     {
+      "layout": "list",
+      "kicker": "Copy this",
+      "headline": "A 90-day review for *any B2B page*",
+      "items": [
+       "Sort posts by type, then compare response",
+       "Check people's profiles against the page",
+       "Name one thing to stop and one to start",
+       "Label each finding a signal until repeated"
+      ]
+     },
+     {
+      "layout": "cta",
+      "headline": "Every post should make the *next one better*",
+      "sub": "One usable method a week.",
+      "actions": [
+       "Follow Galvor",
+       "Save the review format"
+      ]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH the marketing lead: every pattern must be checked against the real November to January numbers on Results → Awareness before posting, and each slide edited to match. What the draft rests on today: pattern 1 is the spec's Aug to Oct 2026 finding that posts from Sunil's profile reached far more people than the page (that predates these 90 days); patterns 2 to 4 are observations from the public competitor posts saved in data/competitor_posts.json and data/competitors_research.json, described without naming anyone. Hook shape: punchy plus context. Reader: B2B marketers and founders who run a company page. No numbers used ('90-day' is the plan length)."
+  },
+  {
+   "id": "li-2027-02-05-weekly-reshare-reporting-became-learning",
+   "title": "From reporting to learning: every row of the report ends in a verb",
+   "hook": "A report that ends without a decision is a receipt.",
+   "caption": "A report that ends without a decision is a receipt.\nIt proves the money was spent and says nothing about Monday.\n\nMost weekly ad reports carry the same columns: spend, impressions, clicks, cost per order, return. All of them describe what happened.\n\nOne change turns the same report into something a team can act on. Every row must end in one of four verbs.\n\nScale. It is working and has room.\nCut. It has had a fair run and is not paying.\nRefresh. The message sells and the look is tired.\nTest. We do not know yet, and here is the ad that will tell us.\n\nA row that cannot take a verb does not belong in the report. That alone shortens most decks.\n\nThen add one line under the table: what we learned this fortnight that changes the next brief. If that line is blank two reports running, the team is reporting and has stopped learning.\n\nAgencies and in-house teams can make this change without new data or new tools. The numbers stay the same and the last column is new.\n\nFrom dashboards to decisions is a short trip once every row has a verb.",
+   "first_comment": "Follow Galvor for one usable method a week.",
+   "hashtags": [
+    "#PerformanceMarketing",
+    "#MarketingAnalytics",
+    "#D2C"
+   ],
+   "alt_text": "",
+   "cta": "Soft: follow Galvor",
+   "script": null,
+   "poll": null,
+   "creative": {
+    "size": "feed",
+    "slides": []
+   },
+   "notes": "Hook shape: single-line bomb. Reader: an agency account lead or in-house performance marketer who builds the weekly report. Standalone method on the week's theme (reporting became learning); it does not quote a personal post or describe a client meeting. No numbers used. Scale, cut, refresh, test is the phrase from the spec."
+  }
+ ]
+}

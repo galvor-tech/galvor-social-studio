@@ -1,0 +1,35 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Team · Galvor Social Studio{% endblock %}
+{% block body %}
+<h1>Team</h1>
+<p class="sub">Who can sign in, what they can do, and who approves what. Only people listed here (with an active Galvor email) can open the studio once sign-in is on.</p>
+<div class="grid g2" style="margin-bottom:6px">
+  <div class="card small"><h4>Roles</h4>
+    <b>Admin</b>: everything, including Settings, Team and deleting posts; can approve any post.<br>
+    <b>Approver</b>: approves the posts routed to them.<br>
+    <b>Editor</b>: creates and edits posts and sends them for review.<br>
+    <b>Viewer</b>: read only.</div>
+  <div class="card small"><h4>Who reviews what</h4>
+    <b>Personal LinkedIn posts</b> go to the person whose voice it is (they approve their own words).<br>
+    <b>Company page, Instagram and newsletter</b> go to everyone ticked “Brand sign-off”.<br>
+    Any post that <b>names a client or looks like a spend/ROAS claim</b> also goes to brand sign-off (Sunil, per the plan).</div>
+</div>
+<form method="post" class="panel">
+  <table class="tbl">
+    <tr><th>Name</th><th>Galvor email</th><th>Title</th><th>Role</th><th>Voice they own</th><th>Brand sign-off</th><th>Active</th></tr>
+    {% for t in team + [{'name':'','email':'','title':'','role':'editor','voice':'','brand_signoff':false,'active':true}] %}{% set i = loop.index0 %}
+    <tr>
+      <td><input class="in" name="name_{{ i }}" value="{{ t.name }}" placeholder="{{ 'Add a person' if not t.name }}"></td>
+      <td><input class="in" name="email_{{ i }}" value="{{ t.email }}" placeholder="name@galvor.com" style="{{ 'border-color:var(--red)' if t.name and not t.email }}">{% if t.name and not t.email %}<div class="small" style="color:var(--red)">Add an email so they get notified</div>{% endif %}</td>
+      <td><input class="in" name="title_{{ i }}" value="{{ t.title }}"></td>
+      <td><select class="in" name="role_{{ i }}">{% for r in roles %}<option {{ 'selected' if t.role==r }}>{{ r }}</option>{% endfor %}</select></td>
+      <td><select class="in" name="voice_{{ i }}"><option value="">—</option>{% for k, v in VOICES.items() if k != 'company' %}<option value="{{ k }}" {{ 'selected' if t.voice==k }}>{{ v.name }}</option>{% endfor %}</select></td>
+      <td style="text-align:center"><input type="checkbox" name="signoff_{{ i }}" value="1" {{ 'checked' if t.brand_signoff }}></td>
+      <td style="text-align:center"><input type="checkbox" name="active_{{ i }}" value="1" {{ 'checked' if t.active }}></td>
+    </tr>
+    {% endfor %}
+  </table>
+  <input type="hidden" name="n" value="{{ team|length }}">
+  <div class="panel-b"><button class="btn primary">Save team</button> <span class="muted small">Leave the last row blank to add no one. Untick “Active” to remove access.</span></div>
+</form>
+{% endblock %}

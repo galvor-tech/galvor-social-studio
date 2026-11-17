@@ -1,0 +1,54 @@
+{
+  "id": "li-2027-04-20-your-competitors-ads-are-a-free-research-report",
+  "slug": "your-competitors-ads-are-a-free-research-report",
+  "platform": "linkedin",
+  "date": "2027-04-20",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Brand Memory / POV",
+  "job": "Convert",
+  "format": "text",
+  "series": "",
+  "title": "Your competitors' ads are a free research report",
+  "hook": "Your competitors' ads are a free research report, if you read them honestly.",
+  "status": "draft",
+  "festival": null,
+  "theme": "New FY, new creative system",
+  "caption": "Your competitors' ads are a free research report, if you read them honestly.\n\nEvery brand in your category is running experiments in public. New hooks, new offers, new creators, new formats. The Meta Ad Library shows you most of it.\n\nMost teams read it badly. They screenshot the ads they like, call the long-running ones winners, and copy the look.\n\nReading it honestly means three things.\n\nFirst, separate what you can see from what you can't. You can see what's running, how often it changes and what it says. You can't see budget, results or why it was made.\n\nSecond, look for movement, not snapshots. What did a competitor stop doing? What did they test three versions of? Iteration tells you where they're paying attention.\n\nThird, read for the buyer. Who is each ad for, and what reason to buy does it give? That's where gaps show up: buyers in your category nobody is talking to.\n\nWe never claim a competitor's spend or results from public data. But a careful read tells you which questions to test on your own ads.\n\nIf you'd like us to decode your category this way, comment \"category\" and I'll reach out.",
+  "first_comment": "",
+  "hashtags": [
+    "#MetaAds",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Title card on a violet background: Your competitors' ads are a free research report, if you read them honestly.",
+  "cta": "soft: comment 'category'",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Category research",
+        "headline": "Your competitors' ads are a free research report, if you read them *honestly*.",
+        "sub": "Read what's visible. Never guess spend."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Sunil (or Shrutik) replies to every 'category' comment within the hour and moves interested people to DM.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:23",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-04-20 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:23",
+  "updated_at": "2026-11-11T01:04:23",
+  "topic_ref": "S19"
+}

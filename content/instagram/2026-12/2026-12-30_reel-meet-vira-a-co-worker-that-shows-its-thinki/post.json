@@ -1,0 +1,134 @@
+{
+  "id": "ig-2026-12-30-reel-meet-vira-a-co-worker-that-shows-its-thinki",
+  "slug": "reel-meet-vira-a-co-worker-that-shows-its-thinki",
+  "platform": "instagram",
+  "date": "2026-12-30",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Product / Demo",
+  "job": "Convert",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: three questions for any AI ad advice (meet Vira)",
+  "hook": "An AI tool says cut this ad. Ask it three questions first.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "An AI tool says cut this ad. Ask it three questions first.\n\n1. What did you look at? Which ads, which dates?\n2. What would you do: scale, cut or shift?\n3. What result would prove you wrong?\n\nIf a tool can't answer, treat the advice as a guess.\n\nVira, Galvor's digital co-worker, shows its thinking with every call, so your team can check it before anyone acts. See Vira on galvor.ai, link in bio. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#performancemarketing",
+    "#adstrategy",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Before you trust AI ad advice. The reel shows three questions to ask any AI recommendation: what did you look at, what would you do, and what would prove you wrong. It then introduces Vira, Galvor's digital co-worker that shows its thinking. End card: see Vira at galvor.ai, follow @galvor.ai.",
+  "cta": "See Vira at galvor.ai, link in bio; follow @galvor.ai",
+  "script": {
+    "duration": "40s",
+    "setup": "Idea: a head of growth who is being offered AI recommendations on which ads to scale or cut, and is ready to try one, gets three questions that separate advice from guesses, then meets Vira. On-screen title: Before you trust AI ad advice. Expectation set: a caution about AI. The script beats it with a usable test and a product that is built to pass it. Outline: what did you look at; what would you do (second-best, first); what would prove you wrong (best); Vira shows its thinking.",
+    "scenes": [
+      {
+        "time": "0–5s",
+        "visual": "A chat bubble on a dashboard says: cut this ad. A cursor hovers over a confirm button.",
+        "voiceover": "AI tools now tell you which ads to scale and cut.",
+        "on_screen": "Before you trust AI ad advice"
+      },
+      {
+        "time": "5–10s",
+        "visual": "The confirm button pauses. A magnifying glass moves over the chat bubble.",
+        "voiceover": "Most teams check if the advice sounds right. Check its working.",
+        "on_screen": "Check its working"
+      },
+      {
+        "time": "10–15s",
+        "visual": "Question one appears. Dummy ad tiles and a date range light up behind it.",
+        "voiceover": "Question one: what did you look at? Which ads, which dates?",
+        "on_screen": "1. What did you look at?"
+      },
+      {
+        "time": "15–19s",
+        "visual": "Question two appears. Three buttons: scale, cut, shift.",
+        "voiceover": "Question two: what would you do? Scale, cut or shift?",
+        "on_screen": "2. Scale, cut or shift?"
+      },
+      {
+        "time": "19–24s",
+        "visual": "The first two questions tick themselves. The third card stays face down and glows.",
+        "voiceover": "Those two are easy. The third one sorts advice from guesses.",
+        "on_screen": "The third sorts the guesses"
+      },
+      {
+        "time": "24–28s",
+        "visual": "The third card flips over.",
+        "voiceover": "Question three: what result would prove you wrong?",
+        "on_screen": "3. What proves you wrong?"
+      },
+      {
+        "time": "28–32s",
+        "visual": "The name Vira appears with a short reasoning panel opening beside a recommendation.",
+        "voiceover": "Vira, Galvor's digital co-worker, shows its thinking with every call.",
+        "on_screen": "Vira shows its thinking"
+      },
+      {
+        "time": "32–36s",
+        "visual": "A person icon reads the panel, then presses the button.",
+        "voiceover": "Advice you can check is advice you can act on.",
+        "on_screen": "Check it, then act"
+      },
+      {
+        "time": "36–40s",
+        "visual": "End card with the Galvor logo, the word Vira and a link-in-bio arrow. Chime.",
+        "voiceover": "See Vira, link in bio. Follow @galvor.ai.",
+        "on_screen": "See Vira. Link in bio."
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Scene 7 must use a real Vira screen or a faithful redraw approved by the product team. Do not mock up a feature that does not exist."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "Before you trust *AI ad advice*",
+        "sub": "Three questions to ask it first.",
+        "play": "Watch the three questions"
+      },
+      {
+        "layout": "cta",
+        "headline": "Meet *Vira.* It shows its thinking.",
+        "sub": "See it on galvor.ai, link in bio.",
+        "actions": [
+          "Follow @galvor.ai",
+          "See Vira, link in bio"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the Vira topic and the Convert job, and earned the product mention by teaching the three questions first. No numbers used. To confirm with the product team: (1) what Vira shows next to a recommendation, so scene 7 matches the real screen; (2) that the bio link on the day goes to a Vira page on galvor.ai. The only product claims made are from the brand guide: Vira is a digital co-worker that shows its thinking, and Galvor's actions are scale, cut and shift. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-30 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:42",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-25",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

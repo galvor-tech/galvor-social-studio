@@ -1,0 +1,53 @@
+{
+  "id": "li-2027-03-23-a-pilot-that-failed-taught-us-more",
+  "slug": "a-pilot-that-failed-taught-us-more",
+  "platform": "linkedin",
+  "date": "2027-03-23",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Building Galvor",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "A pilot that failed taught us more",
+  "hook": "One of our early pilots didn't work. It taught us more than any smooth demo has.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Year-end budgets: spend that teaches",
+  "caption": "One of our early pilots didn't work. It taught us more than any smooth demo has.\n\nThe brand was a good fit on paper. The team was keen. The product did what we said it would. A month later, nothing had changed in how they made ads.\n\nWhen we sat down to understand why, the answer wasn't the software.\n\nWe had never agreed on the one business question the pilot was meant to answer. We shared insights every week. They were interesting. Nobody owned turning them into the next brief.\n\nSo the insights stayed insights.\n\nThree things we changed after that:\n\n→ Every pilot now starts with one written question, agreed with the person who owns the budget.\n→ Every insight ends in a decision: scale, cut, refresh or test. If it can't, it doesn't go in the deck.\n→ Someone on the client side owns the next brief. If nobody does, we wait before starting.\n\nThe last one costs us pilots. Some teams aren't ready to own the next brief yet, and that's fine.\n\nA smooth demo shows the product works. A failed pilot shows whether the team will use it. The second is the one that matters.",
+  "first_comment": "",
+  "hashtags": [
+    "#BuildingInPublic",
+    "#AIinMarketing",
+    "#D2C"
+  ],
+  "alt_text": "Quote card on a violet background: A smooth demo shows the product works. A failed pilot shows whether the team will use it.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "A smooth demo shows the product works. A failed pilot shows whether the team *will use it*.",
+        "sub": "What Galvor changed after a pilot that didn't work."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Sunil: anchor this to a real, anonymised pilot and correct the details. If no such pilot exists, swap for S32 (one painful problem vs ten features).\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-03-23 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:18",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "S47"
+}

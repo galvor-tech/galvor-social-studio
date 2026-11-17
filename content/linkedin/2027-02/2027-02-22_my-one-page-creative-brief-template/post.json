@@ -1,0 +1,101 @@
+{
+  "id": "li-2027-02-22-my-one-page-creative-brief-template",
+  "slug": "my-one-page-creative-brief-template",
+  "platform": "linkedin",
+  "date": "2027-02-22",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Better Briefs",
+  "job": "Convert",
+  "format": "carousel",
+  "series": "Brief to Live",
+  "title": "My one-page creative brief template",
+  "hook": "My one-page creative brief template. Comment \"brief\" and I'll send it.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "My one-page creative brief template. Comment \"brief\" and I'll send it.\n\nTwo weeks ago I shared the five questions I ask before any campaign starts. This is the brief that goes with them.\n\nOne page. Nine fields. Nothing a creator or editor won't read.\n\nWho it's for: one buyer, in one sentence.\nThe moment: when they'd see this and what they're doing.\nThe reason to buy: the one thing that should make them act.\nThe objection: what stops them, and how the ad answers it.\nPlacement: where it runs, the format and the length.\nMust-haves: when the product appears, claims allowed, subtitles, language.\nWhat the last campaign taught us: one line, from the data.\nApprovals: names and dates.\nDone looks like: what we'll measure, and when we'll judge it.\n\nThe field most briefs skip is the seventh. It's the one that stops every campaign starting from zero.\n\nA good brief removes ambiguity. It doesn't add pages.\n\nComment \"brief\" and I'll send you the editable version.",
+  "first_comment": "I'll DM the template to everyone who comments \"brief\". It'll also be in my Featured section this week.",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#CreatorMarketing",
+    "#D2CIndia"
+  ],
+  "alt_text": "Six-slide carousel of a one-page creative brief with nine fields: buyer, moment, reason to buy, objection, placement, must-haves, what the last campaign taught, approvals, and what done looks like.",
+  "cta": "soft: comment 'brief'",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Brief to Live",
+        "headline": "My one-page creative brief. *Nine fields.* Nothing extra.",
+        "sub": "Comment \"brief\" and I'll send the editable version."
+      },
+      {
+        "layout": "list",
+        "kicker": "Fields 1–4",
+        "headline": "Who, when, *why*, and what stops them",
+        "items": [
+          "Who it's for — one buyer, one sentence",
+          "The moment — when they'd see it",
+          "Reason to buy — the one thing that makes them act",
+          "The objection — and how the ad answers it"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Fields 5–9",
+        "headline": "Where, rules, *memory*, approvals, done",
+        "items": [
+          "Placement — where, format, length",
+          "Must-haves — product timing, claims, subtitles",
+          "What last time taught us — one line, from data",
+          "Approvals — names and dates",
+          "Done looks like — what we judge, and when"
+        ]
+      },
+      {
+        "layout": "statement",
+        "headline": "Field 7 is the one most briefs *skip*.",
+        "sub": "It's what stops every campaign starting from zero."
+      },
+      {
+        "layout": "text",
+        "kicker": "Rule of thumb",
+        "headline": "If a creator won't read it, *cut it*.",
+        "body": "One page. Short lines. No brand-history essay.\n\nA good brief removes ambiguity. It doesn't add pages."
+      },
+      {
+        "layout": "cta",
+        "headline": "Want the *editable* version?",
+        "sub": "One page, nine fields, ready for your next kickoff.",
+        "actions": [
+          "Follow Galvor",
+          "Comment \"brief\""
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Prepare the editable template (Google Doc + PDF) before posting and add it to Shrutik's Featured section. Reply to every 'brief' comment within the first hour.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:56:46",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-22 12:30)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:33",
+  "updated_at": "2026-11-11T01:04:21",
+  "topic_ref": "Sh5"
+}

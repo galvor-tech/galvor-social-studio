@@ -1,0 +1,652 @@
+{
+ "daily": {
+  "2026-08-18": {
+   "profile_views": 5,
+   "reach": 2,
+   "total_interactions": 0,
+   "views": 3,
+   "website_clicks": 0
+  },
+  "2026-08-19": {
+   "profile_views": 1,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 4,
+   "website_clicks": 0
+  },
+  "2026-08-20": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-21": {
+   "profile_views": 7,
+   "reach": 2,
+   "total_interactions": 0,
+   "views": 7,
+   "website_clicks": 0
+  },
+  "2026-08-22": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-23": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-24": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-25": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-26": {
+   "profile_views": 5,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-27": {
+   "profile_views": 2,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 1,
+   "website_clicks": 0
+  },
+  "2026-08-28": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-29": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-30": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-08-31": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-01": {
+   "profile_views": 4,
+   "reach": 2,
+   "total_interactions": 0,
+   "views": 22,
+   "website_clicks": 0
+  },
+  "2026-09-02": {
+   "profile_views": 2,
+   "reach": 1,
+   "total_interactions": 2,
+   "views": 2,
+   "website_clicks": 0
+  },
+  "2026-09-03": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-04": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-05": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-06": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-07": {
+   "profile_views": 2,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 8,
+   "website_clicks": 0
+  },
+  "2026-09-08": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-09": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-10": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-11": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-12": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-13": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-14": {
+   "profile_views": 1,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 11,
+   "website_clicks": 0
+  },
+  "2026-09-15": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-16": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-17": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-18": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-19": {
+   "profile_views": 2,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 11,
+   "website_clicks": 0
+  },
+  "2026-09-20": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-21": {
+   "profile_views": 4,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-22": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-23": {
+   "profile_views": 1,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 8,
+   "website_clicks": 0
+  },
+  "2026-09-24": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-25": {
+   "profile_views": 2,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 3,
+   "website_clicks": 0
+  },
+  "2026-09-26": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-27": {
+   "profile_views": 10,
+   "reach": 2,
+   "total_interactions": 0,
+   "views": 4,
+   "website_clicks": 0
+  },
+  "2026-09-28": {
+   "profile_views": 4,
+   "reach": 2,
+   "total_interactions": 0,
+   "views": 31,
+   "website_clicks": 0
+  },
+  "2026-09-29": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-09-30": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-01": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-02": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-03": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-04": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-05": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-06": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-07": {
+   "profile_views": 3,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-08": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-09": {
+   "profile_views": 3,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-10": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-11": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-12": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-13": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-14": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-15": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-16": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-17": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-18": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-19": {
+   "profile_views": 3,
+   "reach": 3,
+   "total_interactions": 3,
+   "views": 11,
+   "website_clicks": 0
+  },
+  "2026-10-20": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-21": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-22": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-23": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-24": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-25": {
+   "profile_views": 4,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 18,
+   "website_clicks": 0
+  },
+  "2026-10-26": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-27": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-28": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-29": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-30": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-10-31": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-11-01": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-11-02": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-11-03": {
+   "profile_views": 3,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-11-04": {
+   "profile_views": 1,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 4,
+   "website_clicks": 0
+  },
+  "2026-11-05": {
+   "profile_views": 4,
+   "reach": 20,
+   "total_interactions": 6,
+   "views": 38,
+   "website_clicks": 0
+  },
+  "2026-11-06": {
+   "profile_views": 8,
+   "reach": 62,
+   "total_interactions": 4,
+   "views": 110,
+   "website_clicks": 0
+  },
+  "2026-11-07": {
+   "profile_views": 4,
+   "reach": 10,
+   "total_interactions": 4,
+   "views": 42,
+   "website_clicks": 0
+  },
+  "2026-11-08": {
+   "profile_views": 1,
+   "reach": 1,
+   "total_interactions": 1,
+   "views": 8,
+   "website_clicks": 0
+  },
+  "2026-11-09": {
+   "profile_views": 2,
+   "reach": 2,
+   "total_interactions": 0,
+   "views": 5,
+   "website_clicks": 0
+  },
+  "2026-11-10": {
+   "profile_views": 2,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  },
+  "2026-11-11": {
+   "profile_views": 3,
+   "reach": 1,
+   "total_interactions": 0,
+   "views": 3,
+   "website_clicks": 0
+  },
+  "2026-11-12": {
+   "profile_views": 4,
+   "reach": 39,
+   "total_interactions": 5,
+   "views": 91,
+   "website_clicks": 1
+  },
+  "2026-11-13": {
+   "profile_views": 0,
+   "reach": 3,
+   "total_interactions": 0,
+   "views": 5,
+   "website_clicks": 0
+  },
+  "2026-11-14": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 1,
+   "website_clicks": 0
+  },
+  "2026-11-15": {
+   "profile_views": 0,
+   "reach": 0,
+   "total_interactions": 0,
+   "views": 0,
+   "website_clicks": 0
+  }
+ },
+ "follower_totals": {},
+ "last_synced": "2026-11-16T23:36:13",
+ "manual_sources": [
+  {
+   "at": "2026-11-16T23:36:13",
+   "files": [
+    "Views.csv",
+    "reach.csv",
+    "visits.csv",
+    "link_clicks.csv",
+    "content_communications.csv"
+   ],
+   "what": "Meta Business Suite daily exports, 18 Aug to 15 Nov 2026"
+  }
+ ],
+ "manual_upload_at": "2026-11-16T23:36:13",
+ "media": {},
+ "profile": {}
+}

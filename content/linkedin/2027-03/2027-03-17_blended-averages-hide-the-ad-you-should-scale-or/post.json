@@ -1,0 +1,109 @@
+{
+  "id": "li-2027-03-17-blended-averages-hide-the-ad-you-should-scale-or",
+  "slug": "blended-averages-hide-the-ad-you-should-scale-or",
+  "platform": "linkedin",
+  "date": "2027-03-17",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Measurement",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Blended averages hide the ad you should scale or cut",
+  "hook": "Blended averages hide the ad you should scale or cut.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Year-end budgets: spend that teaches",
+  "caption": "Blended averages hide the ad you should scale or cut.\n\nAn ad set shows a healthy cost per order. Everyone moves on.\n\nInside it, one ad is doing most of the work at a great cost. Two are average. One has been fatigued for weeks. The average looks fine because the good one is carrying the bad one.\n\nI see this whenever we break an account down to the ad level, and then to the attribute level.\n\nWhat I look at instead of the blend:\n→ cost per order by ad, not by ad set\n→ how each ad's cost has moved over its life, not just this week\n→ each ad's share of spend versus its share of orders\n→ which attributes the efficient ads share: hook, cast, format, offer\n\nThe fourth one is the useful one. It tells you what to make next, not just what to switch off.\n\nOne more thing. New ads often look worse in their first weeks. In our analysis, some ad styles started about 35% dearer per order in their first two months and ended close to average over their life. Don't cut a new ad just because the blend says so.\n\nA dashboard should end in four words: scale, cut, refresh, test.",
+  "first_comment": "",
+  "hashtags": [
+    "#MarketingAnalytics",
+    "#MetaAds",
+    "#PerformanceMarketing"
+  ],
+  "alt_text": "Six-slide carousel: blended averages hide which ads to scale or cut. Look at cost per order by ad, over each ad's life, spend share vs order share, and shared attributes. Some new ad styles start about 35% dearer per order before settling near average.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Measurement",
+        "headline": "Blended averages hide the ad you should *scale or cut*.",
+        "sub": "What I check instead of the ad-set number."
+      },
+      {
+        "layout": "text",
+        "kicker": "The problem",
+        "headline": "One good ad can *carry* a bad one.",
+        "body": "The ad set looks healthy.\n\nInside it: one efficient ad, two average ones, and one that's been fatigued for weeks."
+      },
+      {
+        "layout": "list",
+        "kicker": "Instead of the blend",
+        "headline": "Four things I *look at*",
+        "items": [
+          "Cost per order by ad — not by ad set",
+          "Cost over the ad's life — not just this week",
+          "Share of spend vs share of orders",
+          "Attributes the efficient ads share"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "Before you cut",
+        "stat": "~35%",
+        "headline": "dearer per order in the first two months, for some ad styles",
+        "sub": "They ended close to average over their life.",
+        "source": "Source: Galvor analysis · Decoded #3, ads launched May–Sep 2026"
+      },
+      {
+        "layout": "compare",
+        "kicker": "Decisions",
+        "headline": "Blend vs *ad level*",
+        "left_title": "Blended view",
+        "left": [
+          "\"The ad set is fine\"",
+          "Pause by gut feel",
+          "Same brief next month"
+        ],
+        "right_title": "Ad + attribute view",
+        "right": [
+          "Scale the carrier",
+          "Refresh the fatigued one",
+          "Brief from what worked"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "End every review in four words: *scale, cut, refresh, test*.",
+        "sub": "What the ad data really says, every week.",
+        "actions": [
+          "Follow Galvor",
+          "Save this for your next account review"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "35% figure from Decoded #3 (facts bank).\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:57:04",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-03-17 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:43",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "R36"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "li-2027-01-26-five-questions-to-ask-any-ai-marketing-vendor-in",
+  "slug": "five-questions-to-ask-any-ai-marketing-vendor-in",
+  "platform": "linkedin",
+  "date": "2027-01-26",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "AI & the Team",
+  "job": "De-risk",
+  "format": "carousel",
+  "series": "",
+  "title": "Five questions to ask any AI marketing vendor, including us",
+  "hook": "Five questions to ask any AI marketing vendor. Ask us too.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Five questions to ask any AI marketing vendor. Ask us too.\n\nA demo shows a product on its best day. These questions show the other days.\n\nThey cover what the vendor refuses to do, whether the product can explain itself, where it goes wrong, what you keep if you leave, and whose working week has to change.\n\nSend them before the demo and ask for the answers in writing. A written answer gets checked by more people than a spoken one, and you can hold it against the contract later.\n\nThe five are in the slides. I would want Galvor held to the same list.",
+  "first_comment": "Follow Galvor for more buyer-side checklists.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#D2C",
+    "#MarketingAnalytics"
+  ],
+  "alt_text": "Seven-slide carousel. Five questions for any AI marketing vendor: what do you refuse to do, can it show why, what does it get wrong, what do we keep if we leave, and whose week changes. Each slide says what a good answer sounds like.",
+  "cta": "Soft: save the five questions; follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Before the demo",
+        "headline": "*Five questions* to ask any AI marketing vendor. Including us.",
+        "sub": "Send them first. Ask for the answers in writing."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 1",
+        "headline": "What do you *refuse* to do?",
+        "body": "Clear limits tell you what a product is for.\n\nA good answer names something the vendor has chosen not to build. 'We do everything' is a warning."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 2",
+        "headline": "Can it show *why*, in words my team can check?",
+        "body": "Ask to see the reasoning behind one recommendation.\n\nIf your growth lead cannot argue with it, they cannot trust it either."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 3",
+        "headline": "What does it *get wrong*, and how would we know?",
+        "body": "Every system has blind spots.\n\nA vendor who knows theirs can tell you where a person still has to check the work."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 4",
+        "headline": "What do we *keep* if we leave?",
+        "body": "Your ads taught the system something.\n\nAsk what you can take with you: the tags, the findings, the history. Get it in writing."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 5",
+        "headline": "Whose *week* changes, and how?",
+        "body": "A tool that changes nobody's routine changes nothing.\n\nAsk which meeting, which report and which person will work differently in the first month."
+      },
+      {
+        "layout": "cta",
+        "headline": "Send these *before* your next demo",
+        "sub": "Save the list. Ask for written answers.",
+        "actions": [
+          "Follow Galvor",
+          "Save the five questions"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil: the post says 'ask us too' and 'I would want Galvor held to the same list'. Before it goes out he should have Galvor's own answers ready, above all to question 4 (what a client can export if they leave), because people will ask in the comments. If he wants, the answers can go in as a second comment. Hook shape: punchy plus context. Reader: a founder or CMO shortlisting AI marketing tools for the new financial year. Argument: five written questions expose what a demo hides. No numbers used. The slot falls on Republic Day (festival field is empty, so no greeting was added); expect lower reach on a holiday.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:53:47",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-26 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:17:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:29",
+  "updated_at": "2026-11-16T21:17:36",
+  "topic_ref": "S29",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ig-2026-12-03-63-to-92-one-brands-creative-diversity-score",
+  "slug": "63-to-92-one-brands-creative-diversity-score",
+  "platform": "instagram",
+  "date": "2026-12-03",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Data Drop",
+  "job": "De-risk",
+  "format": "image",
+  "series": "",
+  "title": "Data drop: one brand's creative diversity score, 63 to 92",
+  "hook": "One brand's creative diversity score went from 63 to 92 out of 100.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "One brand's creative diversity score went from 63 to 92 out of 100.\n\nThat was two months after it made the changes Galvor recommended. It is one brand, so treat it as a signal and not a promise.\n\nWhat the score is asking: are your ads different from each other, or the same ad in new colours?\n\nA quick check you can run today. Put the first frames of your live ads side by side. Count how many you could tell apart with the sound off. If the honest answer is two, you are running two ads.\n\nSource: Decoded #3 by Galvor. Follow @galvor.ai for more.",
+  "first_comment": "Read Decoded #3 on galvor.ai",
+  "hashtags": [
+    "#metaads",
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Stat card in Galvor violet and gold. Large figure: 63 to 92. Text: one brand's creative diversity score, out of 100, two months after Galvor's recommended changes. Source line: Decoded #3 by Galvor, one anonymised brand.",
+  "cta": "Follow @galvor.ai; Decoded #3 in first comment",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "stat",
+        "kicker": "Data drop",
+        "stat": "63 → 92",
+        "headline": "One brand's *creative diversity* score, out of 100",
+        "sub": "Two months after Galvor's recommended changes.",
+        "source": "Source: Decoded #3 by Galvor · one anonymised brand"
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Numbers used: creative diversity score 63 to 92 out of 100, two months after Galvor's recommended changes (facts bank, Decoded #3). Used once in this group. Framed as one brand and a signal, per rule 7. Reader: a growth lead who has seen the Creative diversity column in the account and is unsure what to do with it. The first-frames check is a copyable method, not a Galvor measurement.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-12-05 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-05 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:12",
+      "action": "Moved from 2026-12-05 11:00 to 2026-12-03 13:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:20",
+  "updated_at": "2026-11-16T21:48:12",
+  "topic_ref": "IG-21",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

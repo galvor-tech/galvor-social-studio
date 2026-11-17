@@ -1,0 +1,58 @@
+{
+  "id": "li-2026-11-30-creator-work-happens-on-whatsapp",
+  "slug": "creator-work-happens-on-whatsapp",
+  "platform": "linkedin",
+  "date": "2026-11-30",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Creator Ops India",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Creator work runs on WhatsApp: four habits that make the chat a workflow",
+  "hook": "Creator work in India runs on WhatsApp. No tool will change that.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Creator work in India runs on WhatsApp. No tool will change that.\nSo the useful question for a brand team is how to make a chat behave like a workflow.\n\nThe usual advice is to move creators into your project tool. A creator working with several brands will not keep a separate login for each one. They will reply where they already are.\n\nFour habits make the chat do most of a tracker's work.\n\n1. One group per campaign. Put the brand and the go-live date in the group name.\n\n2. The brief is one pinned message. Must-haves first, as a numbered list, so a creator can reply “point 3 is not clear”.\n\n3. One ask per message. Three asks in one paragraph get one answer.\n\n4. Voice notes are fine for talking. Every decision gets typed back in one line: “Confirming: shoot on Thursday, opening option 2.”\n\nThen the step that happens outside the chat. At the end of each day, every decision and every date moves into one tracker the brand can open.\n\nThe chat is where the work gets done. The tracker is where the client reads it.\n\nMeet creators where they already work, and keep the record where the brand can find it.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#D2CIndia",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Text-only post, no image.",
+  "cta": "Follow Galvor (first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that he runs creator campaigns this way (one group per campaign, pinned numbered brief, one ask per message, decisions typed back, end-of-day tracker update). He can swap in his own habits if they differ.\nReader: a brand manager or agency lead running creator campaigns in India. Shape: a belief we hold against the usual process advice, then a checklist. Hook shape: single-line bomb. Numbers used: none.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-30 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:18",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh11",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

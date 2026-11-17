@@ -1,0 +1,134 @@
+{
+  "id": "ig-2026-12-09-reel-brief-to-live-a-creator-campaign-in-30-seco",
+  "slug": "reel-brief-to-live-a-creator-campaign-in-30-seco",
+  "platform": "instagram",
+  "date": "2026-12-09",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Behind the Scenes",
+  "job": "Attract",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: the four-line creator brief",
+  "hook": "A creator brief that fits on one phone screen. Four lines.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "A creator brief that fits on one phone screen. Four lines.\n\n1. Who it is for. One buyer, in plain words.\n2. The one reason to buy.\n3. The first shot: what viewers see first.\n4. The one thing never to say or show.\n\nTen talking points can't fit in thirty seconds, so the creator ends up reading the brief aloud. Give them four lines and leave the rest to them. That is what you hired them for.\n\nSave this for your next brief. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#ugcads",
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: The four-line creator brief. The reel shows a long brief shrinking to four lines on a phone screen: one buyer, one reason to buy, the first shot, and the one no-go. End card: follow @galvor.ai.",
+  "cta": "Save for your next brief; follow @galvor.ai",
+  "script": {
+    "duration": "38s",
+    "setup": "Idea: a brand or creative manager whose creator videos come back sounding like the brief read aloud gets a brief short enough to act on. On-screen title: The four-line creator brief. Expectation set: four lines I can copy. The script gives all four, then beats the expectation with the fifth point: everything not in the brief belongs to the creator. Outline: buyer and reason to buy (what to say); first shot (how it opens); the one no-go; the rest is theirs.",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "A multi-page brief scrolls past fast, then folds down to four lines on one phone screen.",
+        "voiceover": "A creator brief in four lines. Most run to pages.",
+        "on_screen": "The four-line creator brief"
+      },
+      {
+        "time": "4–8s",
+        "visual": "Ten bullet points try to squeeze into a thirty-second timeline bar. Most fall off.",
+        "voiceover": "Ten points can't fit in thirty seconds. So pick four.",
+        "on_screen": "Ten points won't fit"
+      },
+      {
+        "time": "8–13s",
+        "visual": "Line one writes itself on the phone screen. A simple outline of one person appears.",
+        "voiceover": "Line one: who is this for? One buyer, in plain words.",
+        "on_screen": "1. One buyer"
+      },
+      {
+        "time": "13–17s",
+        "visual": "Line two writes itself. Three candidate reasons appear and two are crossed out.",
+        "voiceover": "Line two: the one reason to buy. Only one.",
+        "on_screen": "2. One reason to buy"
+      },
+      {
+        "time": "17–21s",
+        "visual": "The first two lines group under a label. A play button appears below them.",
+        "voiceover": "That covers what to say. Now, how it starts.",
+        "on_screen": "Now, how it starts"
+      },
+      {
+        "time": "21–25s",
+        "visual": "Line three writes itself. An empty first frame fills with a rough sketch.",
+        "voiceover": "Line three: the first shot. Describe what viewers see first.",
+        "on_screen": "3. The first shot"
+      },
+      {
+        "time": "25–29s",
+        "visual": "Line four writes itself with a small stop sign beside it.",
+        "voiceover": "Line four: the one thing never to say or show.",
+        "on_screen": "4. The one no-go"
+      },
+      {
+        "time": "29–34s",
+        "visual": "The rest of the screen is left open and tagged with a creator icon.",
+        "voiceover": "Everything else belongs to the creator. That's why you hired them.",
+        "on_screen": "The rest is theirs"
+      },
+      {
+        "time": "34–38s",
+        "visual": "End card with the four lines stacked and the Galvor logo. Chime.",
+        "voiceover": "Four lines, one screen. Follow @galvor.ai.",
+        "on_screen": "Follow @galvor.ai"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. No creator, client or campaign is named or implied."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "The *four-line* creator brief",
+        "sub": "Fits on one phone screen.",
+        "play": "Watch the four lines"
+      },
+      {
+        "layout": "cta",
+        "headline": "Four lines. *The rest is theirs.*",
+        "sub": "Save this for your next brief.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that these four lines match how the team briefs creators, and whether he has one real brief line (anonymised) worth showing in scene 3 or 4. The script stands without it.\nTopic sharpened: the old reel promised a look at a real campaign from brief to post, which needs footage and a client story. This version teaches the brief itself and is different from the 17 Feb reel (approvals). No numbers used. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-09 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:57",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:54",
+  "updated_at": "2026-11-16T21:23:57",
+  "topic_ref": "IG-15",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

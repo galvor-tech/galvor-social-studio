@@ -1,0 +1,66 @@
+{
+  "id": "li-2027-01-26-republic-day-greeting",
+  "slug": "republic-day-greeting",
+  "platform": "linkedin",
+  "date": "2027-01-26",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Republic Day greeting",
+  "hook": "Happy Republic Day from all of us at Galvor.",
+  "status": "draft",
+  "festival": "Republic Day",
+  "theme": "The learning loop",
+  "caption": "Happy Republic Day from all of us at Galvor.\n\nOn this day the Constitution came into effect, and a young republic wrote down what it wanted to be.\n\nWishing you a proud and restful 26th of January.",
+  "first_comment": "",
+  "hashtags": [
+    "#RepublicDay",
+    "#India"
+  ],
+  "alt_text": "Festive greeting on a violet background: Happy Republic Day. To the country that wrote down what it wanted to be. Warm wishes from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "✨",
+        "kicker": "26 January",
+        "greeting": "Happy Republic Day",
+        "headline": "To the country that wrote down *what it wanted to be.*",
+        "sub": "Warm wishes from all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No product mention, no numbers, no sale talk. The motif is a sparkle because flag emoji do not render in the image template.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-26 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:17",
+  "updated_at": "2026-11-16T21:22:01",
+  "topic_ref": "Festival: Republic Day",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

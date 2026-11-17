@@ -1,0 +1,26 @@
+How to make an AI pilot easy for finance and legal to say yes to.
+
+Most AI pilots in marketing don't die in the demo. They die three weeks later, in an email thread between finance, legal and the marketing head.
+
+I've been on both sides of that thread. The questions are almost always the same, and almost never answered in the proposal.
+
+What data will you access, and what won't you touch?
+What does it cost, and when can we stop?
+Who signs off on anything the system recommends?
+What does success look like on day 30, in one number?
+What happens to our data if we end the pilot?
+
+When the proposal answers these before they're asked, the pilot moves in days, not weeks.
+
+What we've learned to put on page one:
+→ one business question the pilot will answer
+→ a fixed end date and a fixed fee
+→ read-only access wherever possible
+→ a human approves every recommendation
+→ a written exit: what's returned, what's deleted
+
+None of this is clever. It's respect for the people whose job is to say no.
+
+The carousel has the one-page version. Use it for your next pilot, with us or with anyone else.
+
+#AIinMarketing #D2C #GrowthMarketing

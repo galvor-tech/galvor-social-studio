@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-01-22-weekly-reshare-sunil-on-ai-generated-vs-ai-infor",
+  "slug": "weekly-reshare-sunil-on-ai-generated-vs-ai-infor",
+  "platform": "linkedin",
+  "date": "2027-01-22",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Brand Memory / POV",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "AI-generated vs AI-informed: the four-line brief (keep, change, avoid, measure)",
+  "hook": "The best AI ad brief starts with an old ad.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "The best AI ad brief starts with an old ad.\nSpecifically, the message from the ad that has already sold for you.\n\nTwo findings from our analysis of new video ads launched from May to September 2026:\n\nA proven message in a new look got 47% more first-month spend.\nA new message over a familiar first shot got 16% less.\n\nMost prompts run the other way. “Make ten fresh concepts for our serum” asks for new messages, and the tool tends to wrap them in the look it has seen most.\n\nA four-line brief that follows the data:\n\nKeep: the one promise that has sold before, in the customer's words.\nChange: the first shot, the setting and the person on screen.\nAvoid: describe the ads you are running now, so the tool steers away from them.\nMeasure: the single number that decides whether this version stays.\n\nThat is what we mean by AI-informed creative. Your own results set the brief, and the model does the making.\n\nUse the tool for speed. Let your history choose the direction.",
+  "first_comment": "Read Decoded #3 on galvor.ai",
+  "hashtags": [
+    "#AIinMarketing",
+    "#AdCreative",
+    "#D2C"
+  ],
+  "alt_text": "",
+  "cta": "none (Decoded #3 in first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: single-line bomb. Reader: a brand or creative manager writing prompts for an AI ad generator. Standalone how-to on the week's theme; it does not quote or depend on a personal post. Numbers: 47% more first-month spend for a proven message in a new look; 16% less for a new message over a familiar first shot (second and last use of both in this group; Galvor analysis, Decoded #3, ads launched May to Sep 2026). 'The tool tends to wrap them in the look it has seen most' is an inference, worded as a tendency.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-22 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:28",
+  "updated_at": "2026-11-16T21:22:01",
+  "topic_ref": "CO-reshare-w49",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

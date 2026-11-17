@@ -1,0 +1,26 @@
+Every round of feedback needs two columns: must-fix and preference.
+Without them, a creator treats a passing thought and a legal problem as the same size.
+
+Feedback usually arrives as one long list. The reviewer knows which lines are serious. The creator does not, so they either change everything or pick the easy ones.
+
+The test I use to sort a note:
+
+Must-fix means it breaks the brief, the brand rules or the law. A changed claim. The product not visible. The wrong pack. A missing paid partnership label.
+
+Preference means “I would have done it differently”. The music, a word, the colour of a shirt.
+
+Then three steps before anything is sent.
+
+Must-fix notes go first, numbered, each with a timestamp.
+
+Preferences go below, marked “only if it is easy”.
+
+When notes arrive mixed, I ask the reviewer one question: which of these stops us from going live?
+
+That question does most of the sorting. Most lists have fewer must-fix lines than their length suggests.
+
+Share the two columns with the brand as well. It heads off the late “but I asked for that”.
+
+A creator who knows what has to change can change it in one pass.
+
+#CreatorMarketing #CreativeStrategy #D2CIndia

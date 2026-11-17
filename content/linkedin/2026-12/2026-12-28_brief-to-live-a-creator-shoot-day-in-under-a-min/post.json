@@ -1,0 +1,131 @@
+{
+  "id": "li-2026-12-28-brief-to-live-a-creator-shoot-day-in-under-a-min",
+  "slug": "brief-to-live-a-creator-shoot-day-in-under-a-min",
+  "platform": "linkedin",
+  "date": "2026-12-28",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Creator Ops India",
+  "job": "Attract",
+  "format": "video",
+  "series": "Brief to Live",
+  "title": "Brief to Live: four extra takes that save a reshoot",
+  "hook": "Most people see the ad. Almost nobody sees the shoot day.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Most people see the ad. Almost nobody sees the shoot day.\n\nA reshoot is usually decided on the shoot itself, by what did not get filmed.\n\nSo the plan for the day carries four extra takes besides the main one:\n\n1. Three openings for the same script, because the opening is the first thing to test.\n2. The product up close, label readable, held still.\n3. The approved claim, word for word, in one clean take. An edit cannot repair a paraphrased claim.\n4. Ten seconds of the room with nobody talking, to cover cuts.\n\nTick all four before the creator packs up. After that, each missing one is a second shoot day.\n\nBrief to Live is a series on what happens between the brief and the ad going live.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#AdCreative",
+    "#D2CIndia"
+  ],
+  "alt_text": "Vertical video cover. Brief to Live. Headline: The shoot day nobody sees. Sub line: four extra takes that save a reshoot.",
+  "cta": "Follow Galvor (end of video and first comment)",
+  "script": {
+    "duration": "45s",
+    "setup": "Idea: a brand or creative manager loses days to reshoots because the shoot captured only the main take. On-screen title (first frame): 'The shoot day nobody sees'. Expectation it sets: a look behind a creator shoot. The first line meets it; the video beats it with four extra takes to film so the edit rarely needs a reshoot. Order: two easy takes first, then a re-hook, then the claim take, which matters most. Shot vertically on a phone during a real creator shoot, with permission. Blur faces, product names and brand names unless cleared.",
+    "scenes": [
+      {
+        "time": "0–5s",
+        "visual": "A creator setting up a phone on a tripod at home. Title text sits on the first frame.",
+        "voiceover": "Everybody sees the ad. Here is the shoot day behind it.",
+        "on_screen": "The shoot day nobody sees"
+      },
+      {
+        "time": "5–10s",
+        "visual": "A printed shot list on a table with four lines under the main take.",
+        "voiceover": "Most plan for one good take. Plan four extra ones and you rarely need a reshoot.",
+        "on_screen": "Four extra takes"
+      },
+      {
+        "time": "10–15s",
+        "visual": "The creator says a first line to camera three different ways, shown as three quick cuts.",
+        "voiceover": "One. Three openings for the same script. The opening is what gets tested first.",
+        "on_screen": "Three openings, one script"
+      },
+      {
+        "time": "15–20s",
+        "visual": "Close shot of a product held still in a hand, label facing the camera (blurred if not cleared).",
+        "voiceover": "Two. The product up close, label readable, held still.",
+        "on_screen": "Product close, label readable"
+      },
+      {
+        "time": "20–25s",
+        "visual": "Shrutik to camera, holding the shot list.",
+        "voiceover": "Those are easy. The next one saves the most trouble.",
+        "on_screen": "Next: the important one"
+      },
+      {
+        "time": "25–30s",
+        "visual": "The brief on a phone with one line highlighted. The creator reads it, then says it to camera.",
+        "voiceover": "Three. The approved claim, word for word. An edit cannot fix a paraphrase.",
+        "on_screen": "The claim, word for word"
+      },
+      {
+        "time": "30–35s",
+        "visual": "The empty room, camera still rolling, nobody speaking.",
+        "voiceover": "Four. Ten seconds of the room, nobody talking. It covers every cut.",
+        "on_screen": "Ten seconds of quiet room"
+      },
+      {
+        "time": "35–40s",
+        "visual": "A hand ticks four boxes on the shot list while the tripod is folded in the background.",
+        "voiceover": "Tick all four before the creator packs up.",
+        "on_screen": "Tick four before pack-up"
+      },
+      {
+        "time": "40–45s",
+        "visual": "Shrutik to camera. Galvor logo end card.",
+        "voiceover": "A good shoot leaves the edit with choices. Follow Galvor for more.",
+        "on_screen": "Follow Galvor"
+      }
+    ],
+    "music": "Light, low instrumental, kept under the voice.",
+    "notes": "No numbers from the facts bank are used. 'Three openings', 'four extra takes' and 'ten seconds' are instructions, not statistics. Spoken at about 2.3 words a second for 45 seconds. Add a captions file for muted autoplay."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Brief to Live",
+        "headline": "The shoot day *nobody sees*",
+        "sub": "Four extra takes that save a reshoot.",
+        "play": "Watch the shoot day"
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that he asks for these four extra takes on creator shoots (three openings, product close-up, the claim word for word, ten seconds of quiet room), and that there is a real shoot he can film with the creator's and the client's permission. If he has not run a shoot day this way yet, he should say which takes he does ask for and the script changes to match.\nReader: a brand or creative manager who briefs creators. Shape: checklist. Numbers used: none. The current hook line is kept because it is strong; the body is new.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-28 12:30)"
+    },
+    {
+      "at": "2026-11-11T03:32:57",
+      "action": "Script CTA fixed: 'Follow for…' → 'Follow Galvor for…' (house rule)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:17",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh20",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

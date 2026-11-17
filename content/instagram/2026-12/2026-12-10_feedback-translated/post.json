@@ -1,0 +1,82 @@
+{
+  "id": "ig-2026-12-10-feedback-translated",
+  "slug": "feedback-translated",
+  "platform": "instagram",
+  "date": "2026-12-10",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Meme / Relatable",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Relatable: feedback, translated",
+  "hook": "\"Make it pop.\" We have all said it. Nobody can act on it.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "\"Make it pop.\" We have all said it. Nobody can act on it.\n\nVague feedback is usually a real feeling in a hurry. The person is right that something is off. They just have not said where.\n\nA simple format that saves a round of edits. Every note gets three parts:\n\nWhere: the second it happens.\nWhat: the thing on screen.\nChange: what you want instead.\n\n\"Make it pop\" becomes \"at 0:02, show the product before the logo.\" Your editor and your creator can do that today.\n\nSend this to the person who reviews your ads. Follow @galvor.ai for more.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#ugcads",
+    "#marketingtips",
+    "#creativestrategy",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Two-column card in Galvor violet and gold titled Feedback, translated. Left column, What we say: make it pop, make it premium, just a quick change. Right column, What helps: show the product by 0:02, fewer words and slower cuts, change this one line at 0:07.",
+  "cta": "Soft ask: share with a reviewer, follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "compare",
+        "kicker": "Relatable",
+        "headline": "Feedback, *translated*",
+        "left_title": "What we say",
+        "left": [
+          "\"Make it pop\"",
+          "\"Make it premium\"",
+          "\"Just a quick change\""
+        ],
+        "right_title": "What helps",
+        "right": [
+          "Show the product by 0:02",
+          "Fewer words, slower cuts",
+          "Change this one line at 0:07"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a brand or creative manager who writes feedback on creator videos. Kind by design: the joke is on all of us (\"we have all said it\"), never on clients or creators. One usable thing: the where, what, change format. The right-hand lines are examples of specific notes, not rules about what performs. No numbers from the facts bank; 0:02 and 0:07 are timestamps.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-12-12 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-12 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:12",
+      "action": "Moved from 2026-12-12 11:00 to 2026-12-10 13:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:51",
+  "updated_at": "2026-11-16T21:48:12",
+  "topic_ref": "IG-27",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

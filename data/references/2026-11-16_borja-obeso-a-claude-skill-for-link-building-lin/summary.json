@@ -1,0 +1,25 @@
+{
+  "says": "A LinkedIn post describing an AI skill that does link building for a software company in four ways: asking authors of 'best tools' lists to include you, answering journalists' requests for sources, swapping links with other sites, and submitting to directories.",
+  "points": [
+    "Outreach to list articles ('best creative analytics tools') to be added.",
+    "Answering journalist requests for expert comment.",
+    "Backlink exchanges with other sites.",
+    "Directory listings."
+  ],
+  "use": [
+    "List articles matter for Galvor: the competitor research found vendor-written 'best tools' pages own the search results for creative analytics. Being named in the independent ones is worth the outreach.",
+    "Directories: G2, Product Hunt, Capterra and AI tool directories, done once.",
+    "Journalist requests suit Sunil's voice on D2C marketing spend."
+  ],
+  "changes": [
+    "List the 15 independent 'best creative analytics or ad intelligence tools' articles and ask to be included, with one finding from Decoded as the reason.",
+    "Submit Galvor to the main directories with real product screenshots."
+  ],
+  "caution": [
+    "Skip backlink exchanges: swapped links are against search engines' guidelines unless marked as sponsored.",
+    "Mass automated outreach reads as spam; keep it to a short, hand-checked list.",
+    "Only the visible part of the post could be read without sign-in. Paste the full text for a fuller read."
+  ],
+  "by": "Claude terminal",
+  "at": "2026-11-16T17:27:13"
+}

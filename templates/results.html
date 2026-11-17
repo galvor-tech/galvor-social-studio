@@ -1,0 +1,224 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Results · Galvor Social Studio{% endblock %}
+{% macro kpi(label, d, fmt='n', note='') -%}
+<div class="stat"><h5>{{ label }}</h5>
+  <div class="v">{% if d is none or d.value is none %}—{% elif fmt=='pct' %}{{ '%.1f'|format(d.value*100) }}%{% else %}{{ '{:,}'.format(d.value|round|int) }}{% endif %}
+  {% if d and d.pct is not none and d.prev %}<span class="delta {{ 'up' if d.change > 0 else 'down' }}">{{ '▲' if d.change > 0 else '▼' }} {{ '%.0f'|format((d.pct*100)|abs) }}%</span>{% endif %}</div>
+  <p>{% if d and d.prev is not none %}prev {{ ('%.1f%%'|format(d.prev*100)) if fmt=='pct' else '{:,}'.format(d.prev|round|int) }}{% endif %}{{ note }}</p></div>
+{%- endmacro %}
+{% block body %}
+<div class="row"><h1 class="grow">Results</h1>
+  <div class="seg">{% for d in [7, 28, 90] %}<a class="btn sm {{ 'primary' if days==d }}" href="?days={{ d }}&p={{ plat }}">{{ d }} days</a>{% endfor %}</div>
+</div>
+<p class="sub">Everything in one place: you only open LinkedIn and Instagram to post. Instagram updates itself every morning; LinkedIn updates when you drop in its export (weekly, 30 seconds).</p>
+
+<div class="panel">
+  <div class="panel-h lav"><h3>Awareness · all handles</h3>
+    <small>{% if aw.as_of %}{{ aw.from|d('%d %b') }} – {{ aw.as_of|d('%d %b') }} vs the {{ days }} days before · Galvor page + Sunil, Raj, Shrutik + Instagram · from post-level data{% else %}No post data yet{% endif %}</small></div>
+  <div class="grid g4" style="padding:12px 16px;grid-template-columns:repeat(auto-fit,minmax(170px,1fr))">
+  {% for r in aw.rows %}
+    <div class="stat"><h5>{{ r.label }}</h5>
+      <div class="v">{{ '{:,}'.format(r.value|round|int) }}{% if r.pct is not none %}<span class="delta {{ 'up' if r.pct > 0 else 'down' }}">{{ '▲' if r.pct > 0 else '▼' }} {{ '%.0f'|format((r.pct*100)|abs) }}%</span>{% endif %}</div>
+      <p>LinkedIn {{ '{:,}'.format(r.by.linkedin|int) }} · Instagram {{ '{:,}'.format(r.by.instagram|int) }}</p>
+      {% if r.target %}{% set wk = r.value * 7 / (aw.days or 7) %}<div class="meter"><i style="width:{{ [100, (100*wk/r.target)|round]|min }}%"></i></div><p class="small">{{ '{:,}'.format(wk|round|int) }} a week vs target {{ '{:,}'.format(r.target) }}</p>{% endif %}
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+{% set li = k.linkedin or {} %}{% set ig = k.instagram or {} %}
+<div class="panel">
+  <div class="panel-h blue"><h3>LinkedIn · Galvor page</h3>
+    <small>{% if li.period %}{{ li.period[0]|d('%d %b') }} – {{ li.period[1]|d('%d %b') }} vs previous {{ days }} days{% endif %} · last import {{ (li.last_imported or 'never')[:16]|replace('T',' ') }}
+    {% if li.stale %}<b class="lvl-bad"> · out of date — import this week's export</b>{% endif %}</small></div>
+  <div class="grid g4" style="padding:12px 16px">
+    <div class="stat"><h5>Followers</h5><div class="v">{{ '{:,}'.format(li.followers.latest) if li.followers and li.followers.latest else '—' }}</div><p>+{{ (li.followers.value or 0) if li.followers else 0 }} new in the period</p></div>
+    {{ kpi('Impressions', li.impressions) }}
+    {{ kpi('Engagements', li.engagements) }}
+    {{ kpi('Page views', li.page_views) }}
+  </div>
+  {% if li.accounts %}<div class="grid g4" style="padding:0 16px 12px">
+    {% for a, d in li.accounts.items() if a != 'company' %}
+    <div class="stat"><h5>{{ VOICES.get(a, {}).get('name', a) }} (personal)</h5><div class="v">{{ '{:,}'.format(d.impressions.value|int) if d.impressions and d.impressions.value is not none else '—' }}</div>
+      <p>impressions · {{ '{:,}'.format(d.followers.latest) if d.followers and d.followers.latest else '—' }} followers · as of {{ d.as_of|d('%d %b') }}</p></div>
+    {% endfor %}</div>{% endif %}
+</div>
+
+<div class="panel">
+  <div class="panel-h peach"><h3>Instagram · @galvor.ai</h3>
+    <small>{% if ig_connected %}last sync {{ (ig.last_synced or 'not yet')[:16]|replace('T',' ') }}{% if ig.stale %} <b class="lvl-bad">· out of date</b>{% endif %}{% elif ig.last_synced %}numbers entered by hand · last update {{ ig.last_synced[:16]|replace('T',' ') }}{% else %}<b>No numbers yet</b>: upload them by hand at the bottom of this page{% endif %}</small>
+    {% if ig_connected %}<button class="btn sm" style="margin-left:auto" onclick="syncIg(this)">Sync now</button>{% endif %}</div>
+  <div class="grid g4" style="padding:12px 16px">
+    <div class="stat"><h5>Followers</h5><div class="v">{{ '{:,}'.format(ig.followers.latest) if ig.followers and ig.followers.latest else '—' }}</div><p>{% if ig.followers and ig.followers.value is not none %}+{{ ig.followers.value }} new in the period{% else %}172 on 11 Nov (public profile){% endif %}</p></div>
+    {{ kpi('Reach', ig.reach) }}
+    {{ kpi('Engagements', ig.engagements) }}
+    {{ kpi('Saves + shares', ig.saves_shares) }}
+  </div>
+</div>
+
+<div class="grid g2">
+  <div class="panel"><div class="panel-h"><h3>LinkedIn page followers</h3><small>last 90 days</small></div><div style="padding:8px 16px 14px"><svg class="chart" data-series='{{ series.li_followers|tojson }}' data-label="Followers"></svg></div></div>
+  <div class="panel"><div class="panel-h"><h3>LinkedIn page impressions per day</h3><small>last 90 days</small></div><div style="padding:8px 16px 14px"><svg class="chart" data-series='{{ series.li_impressions|tojson }}' data-label="Impressions"></svg></div></div>
+  <div class="panel"><div class="panel-h"><h3>Instagram followers</h3><small>builds up daily after connecting</small></div><div style="padding:8px 16px 14px"><svg class="chart" data-series='{{ series.ig_followers|tojson }}' data-label="Followers"></svg></div></div>
+  <div class="panel"><div class="panel-h"><h3>Instagram reach per day</h3><small>last 30 days are backfilled on first sync</small></div><div style="padding:8px 16px 14px"><svg class="chart" data-series='{{ series.ig_reach|tojson }}' data-label="Reach"></svg></div></div>
+</div>
+
+<div class="panel">
+  <div class="panel-h mint"><h3>Free audit requests</h3><small>The number that matters most. Enter each week's count from the website/CRM (utm_source tells you which platform).</small></div>
+  <div class="row" style="padding:12px 16px;gap:8px;flex-wrap:wrap">
+    <input class="in" type="date" id="au_week" value="{{ today_str }}"><input class="in" id="au_n" type="number" min="0" placeholder="Audits that week" style="width:150px">
+    <input class="in grow" id="au_src" placeholder="Where they came from (e.g. 2 IG bio, 1 LinkedIn comment)"><button class="btn primary sm" onclick="saveAudits()">Save</button>
+  </div>
+  {% if audits %}<div style="padding:0 16px 12px" class="small">{% for a in audits[-8:]|reverse %}<span class="pill">{{ a.week|d('%d %b') }}: <b>{{ a.count }}</b>{% if a.source %} · {{ a.source }}{% endif %}</span> {% endfor %}</div>{% endif %}
+</div>
+
+<div class="panel">
+  <div class="panel-h lav"><h3>Every post</h3><span class="count">{{ table|length }}</span>
+    <small>Score = engagements ÷ your usual (median) for that platform and account. <span class="pill flag-winner">Winner</span> ≥1.5× · <span class="pill flag-flop">Flop</span> ≤0.5×</small>
+    <div class="seg" style="margin-left:auto">{% for v, l in [('all','All'),('linkedin','LinkedIn'),('instagram','Instagram')] %}<a class="btn sm {{ 'primary' if plat==v }}" href="?days={{ days }}&p={{ v }}">{{ l }}</a>{% endfor %}</div></div>
+  <div style="overflow-x:auto">
+  <table class="tbl" style="width:100%">
+    <tr><th>Date</th><th>Post</th><th>Account</th><th>Format</th><th class="num">Reach / impr.</th><th class="num">Engagements</th><th class="num">24h</th><th class="num">7d</th><th class="num">Score</th><th></th></tr>
+    {% for r in table %}
+    <tr>
+      <td class="small">{{ r.date|d('%d %b') }}</td>
+      <td style="max-width:340px">{% if r.post %}<a href="/post/{{ r.post.id }}"><b>{{ r.post.title }}</b></a>{% else %}<span class="muted">{{ (r.text or '')[:80] or '(no text in export)' }}</span> <span class="pill ghost">outside plan</span>{% endif %}</td>
+      <td class="small">{{ m.plat(r.platform) }} {{ VOICES.get(r.account, {}).get('name', r.account) if r.platform=='linkedin' else '' }}</td>
+      <td class="small">{{ r.format or '' }}</td>
+      <td class="num">{{ '{:,}'.format(r.reach|int) if r.reach is not none else '—' }}</td>
+      <td class="num">{{ '{:,}'.format(r.engagements|int) if r.engagements is not none else '—' }}</td>
+      <td class="num small">{{ (r.snap_24h or {}).get('engagements', '—') }}</td>
+      <td class="num small">{{ (r.snap_7d or {}).get('engagements', '—') }}</td>
+      <td class="num">{{ '%.1f×'|format(r.score) if r.score is not none else '—' }} {% if r.flag %}<span class="pill flag-{{ r.flag }}">{{ r.flag|capitalize }}</span>{% endif %}</td>
+      <td>{% if r.url %}<a class="btn sm" target="_blank" href="{{ r.url }}">Open</a>{% endif %}</td>
+    </tr>
+    {% else %}<tr><td colspan="10" class="empty">No posts with data yet.</td></tr>{% endfor %}
+  </table></div>
+</div>
+
+<div class="grid g2">
+{% for pl, pt in pats.items() %}
+  <div class="panel"><div class="panel-h"><h3>What works · {{ 'LinkedIn' if pl=='linkedin' else 'Instagram' }}</h3><small>{{ 'Median per group' if pt.ready else pt.needs }}</small></div>
+    <div style="padding:8px 16px 14px">
+    {% for dim, label in [('format','Format'),('slot','Day + time'),('pillar','Pillar'),('voice','Voice')] %}{% if pt.groups[dim] %}
+      <h4 style="margin:8px 0 4px">{{ label }}</h4>
+      <table class="tbl" style="width:100%"><tr><th>{{ label }}</th><th class="num">Posts</th><th class="num">Median engagements</th><th class="num">Median reach</th></tr>
+      {% for g in pt.groups[dim] %}<tr><td>{{ VOICES.get(g.key, {}).get('name', g.key) if dim=='voice' else g.key }}</td><td class="num">{{ g.n }}</td><td class="num">{{ g.median_engagement }}</td><td class="num">{{ g.median_reach }}</td></tr>{% endfor %}</table>
+    {% endif %}{% else %}<div class="empty">No data yet.</div>{% endfor %}
+    </div></div>
+{% endfor %}
+</div>
+
+<div class="panel">
+  <div class="panel-h blue"><h3>Update LinkedIn numbers</h3><small>Once a week. Page: Admin view → Analytics → Content / Followers / Visitors → Export (last 365 days is fine; re-imports never double count). Personal: Me → Analytics → Export.</small></div>
+  <div style="padding:12px 16px">
+    <label class="drop" id="drop">Drop the .xls / .xlsx exports here, or click to choose<input type="file" id="files" multiple accept=".xls,.xlsx,.csv" style="display:none"></label>
+    <div id="impres" class="small" style="margin-top:8px"></div>
+  </div>
+</div>
+
+<div class="panel" id="igmanual">
+  <div class="panel-h peach"><h3>Update Instagram numbers by hand</h3><small>For when the Meta connection isn't set up. Re-uploading never double counts.</small></div>
+  <div class="grid g2" style="gap:22px;padding:14px 18px">
+    <div>
+      <h4 style="margin:0 0 6px">Post numbers (a CSV file)</h4>
+      <p class="small muted" style="margin:0 0 8px">Either export from Meta Business Suite (Insights → Content → Export data, choose Instagram), or fill in the Studio template with the numbers each post shows under “View insights”.</p>
+      <div class="row" style="gap:8px;flex-wrap:wrap"><label class="btn primary">Upload CSV<input type="file" id="igfile" accept=".csv,.tsv,.txt" style="display:none" onchange="igUpload(this.files[0])"></label>
+        <a class="btn" href="/results/instagram-template.csv">Download template</a></div>
+      <div id="igres" class="small" style="margin-top:8px"></div>
+    </div>
+    <div>
+      <h4 style="margin:0 0 6px">Account numbers for a day</h4>
+      <p class="small muted" style="margin:0 0 8px">From the Instagram app: Professional dashboard → Account insights. Fill in what you have.</p>
+      <div class="grid g2" style="gap:8px">
+        <div><label class="f">Date</label><input class="in" type="date" id="igd" value="{{ today_str }}"></div>
+        <div><label class="f">Followers (total)</label><input class="in" type="number" id="igf" min="0"></div>
+        <div><label class="f">Reach that day</label><input class="in" type="number" id="igr" min="0"></div>
+        <div><label class="f">Profile visits that day</label><input class="in" type="number" id="igp" min="0"></div>
+      </div>
+      <div class="row" style="margin-top:10px"><button class="btn" onclick="igDay()">Save the day</button></div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+async function igUpload(file) {
+  if (!file) return;
+  const fd = new FormData(); fd.append('file', file);
+  document.getElementById('igres').innerHTML = '<span class="spinner"></span> Reading…';
+  let j; try { j = await (await fetch('/api/results/instagram/upload', {method: 'POST', body: fd})).json(); } catch (e) { j = {ok: false, error: "Couldn't reach the Studio."}; }
+  document.getElementById('igres').innerHTML = j.ok
+    ? `✓ ${j.added} new posts, ${j.updated} updated` + (j.matched !== undefined ? `, ${j.matched} matched to the calendar` : '') + ((j.skipped || []).length ? '<br><span class="lvl-warn">Skipped: ' + j.skipped.join('; ') + '</span>' : '')
+    : '<span class="lvl-bad">' + (j.error || 'Failed') + '</span>';
+  if (j.ok && (j.added || j.updated)) setTimeout(() => location.reload(), 2500);
+}
+async function igDay() {
+  const v = id => document.getElementById(id).value;
+  const j = await api('/api/results/instagram/day', {date: v('igd'), followers: v('igf'), reach: v('igr'), profile_views: v('igp')});
+  toast(j.ok ? 'Saved' : (j.error || 'Failed'), 4000); if (j.ok) setTimeout(() => location.reload(), 800);
+}
+// single-series line+area chart with crosshair tooltip (one series per chart: no legend, title names it)
+function drawChart(svg) {
+  const data = JSON.parse(svg.dataset.series || '[]').filter(d => d.value !== null && d.value !== undefined);
+  const W = svg.clientWidth || 520, H = 180, P = {l: 44, r: 10, t: 10, b: 22};
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  if (data.length < 2) { svg.innerHTML = `<text x="${W/2}" y="${H/2}" text-anchor="middle">Not enough data yet</text>`; return; }
+  const xs = data.map((_, i) => P.l + i * (W - P.l - P.r) / (data.length - 1));
+  let lo = Math.min(...data.map(d => d.value)), hi = Math.max(...data.map(d => d.value));
+  if (lo === hi) { lo -= 1; hi += 1; }
+  const pad = (hi - lo) * 0.08; lo = Math.max(0, lo - pad); hi += pad;
+  const y = v => P.t + (H - P.t - P.b) * (1 - (v - lo) / (hi - lo));
+  const fmt = v => Math.round(v).toLocaleString('en-IN');
+  const pts = data.map((d, i) => `${xs[i].toFixed(1)},${y(d.value).toFixed(1)}`);
+  const ticks = [lo, (lo + hi) / 2, hi];
+  svg.innerHTML =
+    ticks.map(t => `<line class="ax" x1="${P.l}" x2="${W - P.r}" y1="${y(t)}" y2="${y(t)}" stroke-dasharray="2 4"/><text x="${P.l - 6}" y="${y(t) + 4}" text-anchor="end">${fmt(t)}</text>`).join('') +
+    `<path class="ar" d="M${pts[0]} L${pts.join(' L')} L${xs[xs.length-1]},${H - P.b} L${xs[0]},${H - P.b} Z"/>` +
+    `<path class="ln" d="M${pts.join(' L')}"/>` +
+    `<text x="${P.l}" y="${H - 4}">${data[0].date.slice(5)}</text><text x="${W - P.r}" y="${H - 4}" text-anchor="end">${data[data.length-1].date.slice(5)}</text>` +
+    `<line class="ax hov" y1="${P.t}" y2="${H - P.b}" style="display:none"/><circle class="hovc" r="4" fill="var(--accent-2)" stroke="var(--bg)" stroke-width="2" style="display:none"/>` +
+    `<rect x="${P.l}" y="0" width="${W - P.l - P.r}" height="${H}" fill="transparent" class="hit"/>`;
+  const tip = document.getElementById('charttip');
+  const hov = svg.querySelector('.hov'), hc = svg.querySelector('.hovc');
+  svg.querySelector('.hit').addEventListener('mousemove', e => {
+    const r = svg.getBoundingClientRect(), x = (e.clientX - r.left) * W / r.width;
+    let i = Math.round((x - P.l) / ((W - P.l - P.r) / (data.length - 1))); i = Math.max(0, Math.min(data.length - 1, i));
+    hov.setAttribute('x1', xs[i]); hov.setAttribute('x2', xs[i]); hov.style.display = '';
+    hc.setAttribute('cx', xs[i]); hc.setAttribute('cy', y(data[i].value)); hc.style.display = '';
+    tip.innerHTML = `<b>${fmt(data[i].value)}</b> ${svg.dataset.label}<br><span class="muted">${data[i].date}</span>`;
+    tip.style.display = 'block'; tip.style.left = (e.pageX + 12) + 'px'; tip.style.top = (e.pageY - 40) + 'px';
+  });
+  svg.querySelector('.hit').addEventListener('mouseleave', () => { hov.style.display = hc.style.display = tip.style.display = 'none'; });
+}
+const tipEl = document.createElement('div'); tipEl.id = 'charttip';
+tipEl.style.cssText = 'position:absolute;display:none;background:var(--bg);border:1px solid var(--line-2);border-radius:8px;padding:6px 10px;font-size:13px;pointer-events:none;box-shadow:0 4px 14px rgba(0,0,0,.08);z-index:50';
+document.body.appendChild(tipEl);
+document.querySelectorAll('svg.chart').forEach(drawChart);
+window.addEventListener('resize', () => document.querySelectorAll('svg.chart').forEach(drawChart));
+
+async function syncIg(b) {
+  b.disabled = true; b.textContent = 'Syncing…';
+  const j = await api('/api/results/sync');
+  toast(j.ok ? 'Instagram synced ✓' : (j.reason || j.error || 'Sync failed'), 6000);
+  if (j.ok) setTimeout(() => location.reload(), 900); else { b.disabled = false; b.textContent = 'Sync now'; }
+}
+async function saveAudits() {
+  const j = await api('/api/results/audits', {week: document.getElementById('au_week').value, count: document.getElementById('au_n').value, source: document.getElementById('au_src').value});
+  toast(j.ok ? 'Saved ✓' : j.error, 4000); if (j.ok) setTimeout(() => location.reload(), 700);
+}
+const drop = document.getElementById('drop'), inp = document.getElementById('files');
+async function upload(files) {
+  const fd = new FormData(); [...files].forEach(f => fd.append('files', f));
+  document.getElementById('impres').innerHTML = '<span class="spinner"></span> Importing…';
+  const r = await fetch('/api/results/import', {method: 'POST', body: fd}); const j = await r.json();
+  document.getElementById('impres').innerHTML = (j.imported || []).map(x => `✓ ${x.kind.replace(/_/g, ' ')} · ${x.account} · ${x.days || 0} days, ${x.posts || 0} posts, ${x.matched || 0} matched to the plan`).join('<br>') +
+    (j.errors && j.errors.length ? '<br><b class="lvl-bad">' + j.errors.join('<br>') + '</b>' : '');
+  if (j.ok) setTimeout(() => location.reload(), 2500);
+}
+inp.addEventListener('change', () => upload(inp.files));
+['dragover', 'dragenter'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add('on'); }));
+['dragleave', 'drop'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove('on'); }));
+drop.addEventListener('drop', e => upload(e.dataTransfer.files));
+</script>
+{% endblock %}

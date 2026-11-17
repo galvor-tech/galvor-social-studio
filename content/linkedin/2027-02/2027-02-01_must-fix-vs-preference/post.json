@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-02-01-must-fix-vs-preference",
+  "slug": "must-fix-vs-preference",
+  "platform": "linkedin",
+  "date": "2027-02-01",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Feedback & Approvals",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Must-fix vs preference: sort feedback before it goes to the creator",
+  "hook": "Every round of feedback needs two columns: must-fix and preference.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "Every round of feedback needs two columns: must-fix and preference.\nWithout them, a creator treats a passing thought and a legal problem as the same size.\n\nFeedback usually arrives as one long list. The reviewer knows which lines are serious. The creator does not, so they either change everything or pick the easy ones.\n\nThe test I use to sort a note:\n\nMust-fix means it breaks the brief, the brand rules or the law. A changed claim. The product not visible. The wrong pack. A missing paid partnership label.\n\nPreference means “I would have done it differently”. The music, a word, the colour of a shirt.\n\nThen three steps before anything is sent.\n\nMust-fix notes go first, numbered, each with a timestamp.\n\nPreferences go below, marked “only if it is easy”.\n\nWhen notes arrive mixed, I ask the reviewer one question: which of these stops us from going live?\n\nThat question does most of the sorting. Most lists have fewer must-fix lines than their length suggests.\n\nShare the two columns with the brand as well. It heads off the late “but I asked for that”.\n\nA creator who knows what has to change can change it in one pass.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Text-only post, no image.",
+  "cta": "Follow Galvor (first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that he sorts feedback into must-fix and preference before sending it to creators, and that the test (breaks the brief, the brand rules or the law) is how he draws the line. 'Most lists have fewer must-fix lines than their length suggests' is an observation with no data behind it; he should cut it if it does not match what he sees.\nReader: a brand manager who gives feedback on creator cuts. Shape: checklist with one question to copy. Hook shape: punchy plus context. Numbers used: none.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-01 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:52",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh22",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

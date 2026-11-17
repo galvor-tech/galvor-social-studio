@@ -1,0 +1,60 @@
+{
+  "id": "li-2027-02-23-galvor-year-in-review-three-beliefs-that-held-tw",
+  "slug": "galvor-year-in-review-three-beliefs-that-held-tw",
+  "platform": "linkedin",
+  "date": "2027-02-23",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Building Galvor",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Galvor year in review: three beliefs that held, two that changed",
+  "hook": "Galvor’s year in review: three beliefs that haven’t changed, and two that have.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "Galvor’s year in review: three beliefs that haven’t changed, and two that have.\n\nHaven’t changed:\n\n1. Every ad should make the next one better. Most brands spend on ads and don’t learn from them. That was true in January and it’s true today.\n2. Judgement stays human. We built a lot of automation this year. None of it makes the final call on a client’s brand.\n3. We never touch the media budget. Our job is what goes into it. Staying out of the spend keeps our advice honest.\n\nHave changed:\n\n1. I used to think more creative was the answer. Then Meta rebuilt how it picks ads, and our own analysis showed that new ads that looked like many running ads got 36% less first-month spend (new video ads launched May to September 2026). Volume isn’t the answer. New reasons to buy are.\n2. I thought a sharp dashboard would be enough. It isn’t. Teams don’t need another view of last month. They need a clear next decision, and a memory of what they already learned.\n\nThank you to every client, partner and colleague who argued with us this year. The arguments made the product better.\n\nSee you in 2027.",
+  "first_comment": "",
+  "hashtags": [
+    "#BrandMemory",
+    "#D2CIndia",
+    "#AIinMarketing"
+  ],
+  "alt_text": "Galvor list card titled Three beliefs that held, two that changed. Held: every ad should make the next one better; judgement stays human; we never touch the media budget. Changed: new buyers beat new looks; decisions beat dashboards. Signed Sunil Humne, Co-founder.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "2026 in review",
+        "headline": "Three beliefs that held. *Two that changed.*",
+        "items": [
+          "Held — every ad should make the next one better",
+          "Held — judgement stays human",
+          "Held — we never touch the media budget",
+          "Changed — new buyers beat new looks",
+          "Changed — decisions beat dashboards"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Sunil must edit this in his own words: beliefs are drafted from Galvor’s public positioning and Decoded Issue #3. 36% is from Decoded Issue #3.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-23 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:16",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "S50"
+}

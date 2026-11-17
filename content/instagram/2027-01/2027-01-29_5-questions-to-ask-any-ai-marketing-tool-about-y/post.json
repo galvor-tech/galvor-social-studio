@@ -1,0 +1,123 @@
+{
+  "id": "ig-2027-01-29-5-questions-to-ask-any-ai-marketing-tool-about-y",
+  "slug": "5-questions-to-ask-any-ai-marketing-tool-about-y",
+  "platform": "instagram",
+  "date": "2027-01-29",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "De-risk",
+  "format": "carousel",
+  "series": "",
+  "title": "Five questions to ask any AI marketing tool about your data",
+  "hook": "Yesterday was Data Privacy Day. Five questions to ask any AI tool before it reads your ad account.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Yesterday was Data Privacy Day. Five questions to ask any AI tool before it reads your ad account.\n\nYour ad account holds what your brand has paid to learn. Before you connect it, ask what the tool can read and change, whether your data trains anything other brands benefit from, where it is stored, which other providers it passes through, and what happens when you leave.\n\nAsk for the answers in writing.\n\nThe last slide has all five, ready to send before a demo. Save it, and ask us the same questions too.",
+  "first_comment": "",
+  "hashtags": [
+    "#aiinmarketing",
+    "#performancemarketing",
+    "#marketingtips",
+    "#d2cindia",
+    "#digitalmarketingindia"
+  ],
+  "alt_text": "Eight-slide carousel. Slide 1: five questions to ask any AI marketing tool about your data. Slide 2: what do you read, and can you change anything. Slide 3: is our data used to train anything others benefit from. Slide 4: where is it stored and who can see it. Slide 5: which other providers does it pass through. Slide 6: what happens to it when we leave. Slide 7: all five questions in one list to send before a demo. Slide 8: ask every vendor, ask us too, follow @galvor.ai.",
+  "cta": "Save the five questions; ask Galvor the same",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Quick tip",
+        "headline": "*5 questions* to ask any AI marketing tool about your data",
+        "sub": "Ask them before you connect the ad account."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 1",
+        "headline": "What exactly do you *read*, and can you change anything?",
+        "body": "Ask for the list of permissions in writing.\n\nReading performance data is one thing. Editing budgets or ads is another, and you should know which you are granting."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 2",
+        "headline": "Is our data used to *train* anything others benefit from?",
+        "body": "What your ads have taught you was paid for by your brand.\n\nAsk whether it feeds models, benchmarks or suggestions that other brands, including rivals, will see."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 3",
+        "headline": "*Where* is it stored, and who can see it?",
+        "body": "Ask which country the data sits in, and which people at the vendor can open your account.\n\nA vendor who knows will answer in a line."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 4",
+        "headline": "Which *other providers* does it pass through?",
+        "body": "Many tools send data on to outside AI models.\n\nAsk for the list, and whether those providers keep your data or learn from it."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 5",
+        "headline": "What happens to it when we *leave*?",
+        "body": "Ask how you export what the tool has learned about your brand, and how deletion is confirmed.\n\nGet the time frame into the contract."
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "Send these *five* before the demo",
+        "items": [
+          "What can you read, and what can you change?",
+          "Does our data train anything others use?",
+          "Where is it stored, and who can see it?",
+          "Which other providers receive it?",
+          "How do we export and delete when we leave?"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Ask every vendor. *Ask us too.*",
+        "sub": "Save the five questions for your next demo.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the five questions",
+          "DM us your questions"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil or whoever owns security and contracts: Galvor's own written answers to these five questions must be ready before this goes live, because the post invites readers to ask us the same. If they are not ready, change the last slide to 'Ask every vendor. Get it in writing.' and drop 'ask us the same questions too' from the caption. Job: De-risk. The doubt answered: 'is it safe to connect my ad account to an AI tool?' Reader: a founder or CMO evaluating AI marketing tools. One argument: five questions, answered in writing, before connecting the account. No numbers used. Data Privacy Day is 28 January, the day before this slot. The post makes no claim about Galvor's own data handling. Topic kept; question 5 changed from 'can it show its reasoning', which the 7 Dec post covers, to third-party providers.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:58:09",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-29 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:25:00",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-134",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

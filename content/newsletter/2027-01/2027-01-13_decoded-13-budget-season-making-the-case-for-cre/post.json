@@ -1,0 +1,133 @@
+{
+  "id": "nl-2027-01-13-decoded-13-budget-season-making-the-case-for-cre",
+  "slug": "decoded-13-budget-season-making-the-case-for-cre",
+  "platform": "newsletter",
+  "date": "2027-01-13",
+  "time": "08:30",
+  "voice": "raj",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #13: Budget Season: Making the Case for Creative Spend to Finance",
+  "hook": "Media gets approved in five minutes. Creative gets twenty minutes of questions. Here's why.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Media spend gets approved in five minutes. Creative spend gets twenty minutes of questions.\n\nThe reason is simple: finance funds what it can measure, and creative usually arrives without a measure.\n\nIn Issue #9 of Decoded, Raj and Sunil show how to make the case for creative in the language finance already uses: cost per order by attribute, spend that taught you nothing, and time to a new winner. Plus a five-step plan to ask for a learning budget instead of a production budget, ahead of the new financial year.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Cover image for Decoded by Galvor, Issue #9: Budget season: making the case for creative spend to finance. White and gold text on a violet background with the Galvor logo at the top left.",
+  "cta": "Read and subscribe to Decoded",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Decoded · Issue #9",
+        "headline": "Making the case for *creative spend*",
+        "sub": "Speak finance's language: cost per order, not views."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "Writer's brief: Skeleton — Raj to write in full, with Sunil reviewing the finance framing. ~1,500 words when finished. Sends Wed 27 Jan (moved from Tue 26 for Republic Day), just before the Union Budget (expected 1 Feb) and FY-end planning.\n\nWas planned as #9 (fortnightly). Now #13, Wednesday 2027-01-13. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:58:27",
+      "action": "Decoded goes weekly: #9 → #13 on 2027-01-13"
+    },
+    {
+      "at": "2026-11-11T01:58:58",
+      "action": "Skeleton brief converted to Decoded markup"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:25:20",
+  "updated_at": "2026-11-11T02:10:34",
+  "topic_ref": "NL-9",
+  "newsletter": {
+    "issue": 13,
+    "subject_lines": [
+      "Why finance approves media and questions creative",
+      "Making the case for creative spend",
+      "Price the attribute, not the ad"
+    ],
+    "preview_text": "Three numbers finance understands, and a learning budget that gets approved.",
+    "key_takeaways": [
+      "Finance funds what it can measure; creative spend usually arrives without a measure.",
+      "Price the attribute, not the ad: show what a winning hook or proof moment was worth.",
+      "Ask for a learning budget with a fixed test share, and report back on what it taught."
+    ],
+    "outline": [
+      {
+        "heading": "Monday, 9:40 a.m.",
+        "points": [
+          "Sam presents to the CFO"
+        ]
+      },
+      {
+        "heading": "Why creative loses the budget argument",
+        "points": [
+          "Dashboard vs mood board"
+        ]
+      },
+      {
+        "heading": "Three numbers finance understands",
+        "points": [
+          "Cost per order by attribute",
+          "Wasted spend",
+          "Time to a new winner"
+        ]
+      },
+      {
+        "heading": "Building the case, step by step",
+        "points": [
+          "Audit",
+          "Price repeated mistakes",
+          "Propose a test budget",
+          "Agree a review rhythm",
+          "Report quarterly in rupees"
+        ]
+      },
+      {
+        "heading": "What Galvor saw in the data",
+        "points": [
+          "Look-alike share of spend (pending)"
+        ]
+      },
+      {
+        "heading": "The shift for marketers and leaders",
+        "points": [
+          "One page",
+          "Cost per order",
+          "Separate budgets",
+          "Promise answers",
+          "Invite finance"
+        ]
+      }
+    ],
+    "next_issue": "",
+    "repurpose": [
+      "LinkedIn carousel (Sunil): \"Three numbers I'd keep on a founder's marketing dashboard, and the 20 I'd remove\" (topic S8).",
+      "Instagram reel: \"How to pitch creative budget to your CFO in 30 seconds\".",
+      "Instagram carousel: \"Price the attribute, not the ad\" — the three numbers explained."
+    ],
+    "data_needed": [
+      "Share of annual creative spend across brands we work with that went to look-alike variants (anonymised).",
+      "Confirm the Union Budget date (expected 1 Feb 2027) is officially announced before referencing it.",
+      "Anonymised galvor.ai results may be used only as published (category, not client name)."
+    ],
+    "draft_markdown": "# Decoded · Issue #9 — Budget season: making the case for creative spend to finance\n*Skeleton — Raj to write in full, with Sunil reviewing the finance framing. ~1,500 words when finished. Sends Wed 27 Jan (moved from Tue 26 for Republic Day), just before the Union Budget (expected 1 Feb) and FY-end planning.*\n\n**Opening (Monday, 9:40 a.m.):** Sam presents next year's plan to the CFO. Media spend gets approved in five minutes. Creative production gets twenty minutes of questions: \"Why do we need more ads? Didn't we make 200 last year?\"\n\n**Key takeaways (draft):**\n1. Finance funds what it can measure. Creative spend usually arrives without a measure.\n2. Price the attribute, not the ad: show what a winning hook or proof moment was worth in cost per order.\n3. Ask for a learning budget with a fixed test share, and report back on what it taught.\n\n**Section 1 — Why creative loses the budget argument.** Media has a dashboard; creative has a mood board. \"We need more content\" isn't a business case.\n\n**Section 2 — Three numbers finance understands.** Cost per order by attribute; spend wasted on ads that taught nothing; time to a new winner. Use anonymised galvor.ai results as illustrations only: beauty D2C +112% RoAS and 30% less wasted spend; fashion D2C $3,800 reallocated in month one; wellness D2C 2.6× uplift vs aspirational content. Always say \"anonymised client\".\n\n**Section 3 — Building the case, step by step.** (1) Audit last year: how many ads, how many taught you something? (2) Put a number on repeated mistakes. (3) Propose a test budget with questions attached (Issue #7's test calendar). (4) Agree a review rhythm with finance (Issue #8's loop). (5) Report learnings quarterly, in rupees.\n\n**Section 4 — What Galvor saw in the data.** [DATA NEEDED: share of annual creative spend, across brands we work with, that went to look-alike variants (anonymised) — ties to 48% less spend for 6+ look-alikes in three days.]\n\n**Section 5 — The shift for marketers and leaders: five moves.** (1) Bring finance one page, not a deck. (2) Talk in cost per order, not views. (3) Separate the production budget from the learning budget. (4) Promise answers, not volume. (5) Invite finance to one review meeting a quarter.\n\n**Close:** \"Media got optimised to the decimal. The content running through it didn't.\" Budget season is when that gap gets funded, or doesn't.\n\n**Next issue:** TBC — decide at the 1 Feb huddle (options: regional-language creative; creators vs brand-led ads).\n",
+    "markup": "---\nissue: 13\ntitle: Decoded #13: Budget Season: Making the Case for Creative Spend to Finance\ndek: [DATA NEEDED: one-paragraph standfirst in Decoded style]\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: The Learning Loop: How to Run a Fortnightly Creative Cycle\nprevious_url: https://galvor.ai/newsletters/decode/the-learning-loop-how-to-run-a-fortnightly-creative-cycle/\n---\n\n## Key takeaways\n\n- Finance funds what it can measure. Creative spend usually arrives without a measure.\n- Price the attribute, not the ad: show what a winning hook or proof moment was worth in cost per order.\n- Ask for a learning budget with a fixed test share, and report back on what it taught.\n\n## Monday, 9:40 a.m.\n\n[DATA NEEDED: write the cold open (3 short paragraphs + an italic turn). Brief: Sam presents next year's plan to the CFO. Media spend gets approved in five minutes. Creative production gets twenty minutes of questions: \"Why do we need more ads? Didn't we make 200 last year?\"]\n\n## Why creative loses the budget argument\n\n[DATA NEEDED: write this section. Brief: Media has a dashboard; creative has a mood board. \"We need more content\" isn't a business case.]\n\n## Three numbers finance understands\n\n[DATA NEEDED: write this section. Brief: Cost per order by attribute; spend wasted on ads that taught nothing; time to a new winner. Use anonymised galvor.ai results as illustrations only: beauty D2C +112% RoAS and 30% less wasted spend; fashion D2C $3,800 reallocated in month one; wellness D2C 2.6× uplift vs aspirational content. Always say \"anonymised client\".]\n\n## Building the case, step by step\n\n[DATA NEEDED: write this section. Brief: (1) Audit last year: how many ads, how many taught you something? (2) Put a number on repeated mistakes. (3) Propose a test budget with questions attached (Issue #7's test calendar). (4) Agree a review rhythm with finance (Issue #8's loop). (5) Report learnings quarterly, in rupees.]\n\n## What Galvor saw in the data\n\n[DATA NEEDED: write this section. Brief: [DATA NEEDED: share of annual creative spend, across brands we work with, that went to look-alike variants (anonymised) — ties to 48% less spend for 6+ look-alikes in three days.]]\n\n## The shift for marketers and leaders\n\nFive moves Galvor recommends, whatever tool you use.\n\n- **[DATA NEEDED: move 1].** One or two sentences.\n- **[DATA NEEDED: move 2].** One or two sentences.\n- **[DATA NEEDED: move 3].** One or two sentences.\n- **[DATA NEEDED: move 4].** One or two sentences.\n- **[DATA NEEDED: move 5].** One or two sentences.\n\n[DATA NEEDED: brief for the five moves: (1) Bring finance one page, not a deck. (2) Talk in cost per order, not views. (3) Separate the production budget from the learning budget. (4) Promise answers, not volume. (5) Invite finance to one review meeting a quarter.]\n\n[DATA NEEDED: Close — \"Media got optimised to the decimal. The content running through it didn't.\" Budget season is when that gap gets funded, or doesn't.]\n\n## Next issue:\n\n[DATA NEEDED: two-line teaser for the next issue]\n\n## CTA: Get a free five-layer audit from Galvor AI\n\nWe read every ad in your account for look, speaker, audience, stage and reason, score each layer, and send you the short list of new ads that would fill the gaps. [Talk to the founders](https://talk.galvor.ai) to book yours.\n\nbutton: Get a free audit | https://talk.galvor.ai\n\n## How we did this\n\nGalvor’s data: [DATA NEEDED: dataset, date range, number of ads/brands, definitions]\n\n## Sources\n\n- [DATA NEEDED: source for “Share of annual creative spend across brands we work with that went to”]\n- [DATA NEEDED: source for “Confirm the Union Budget date (expected 1 Feb 2027) is officially anno”]\n- [DATA NEEDED: source for “Anonymised galvor.ai results may be used only as published (category, ”]\n",
+    "url": "https://galvor.ai/newsletters/decode/budget-season-making-the-case-for-creative-spend-to-finance/",
+    "previous_studio_issue": 9
+  }
+}

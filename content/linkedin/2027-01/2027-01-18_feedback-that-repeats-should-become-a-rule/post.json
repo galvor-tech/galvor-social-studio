@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-01-18-feedback-that-repeats-should-become-a-rule",
+  "slug": "feedback-that-repeats-should-become-a-rule",
+  "platform": "linkedin",
+  "date": "2027-01-18",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Feedback & Approvals",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Feedback that repeats should become a rule in the brief",
+  "hook": "The second time you give the same feedback, stop giving it.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "The second time you give the same feedback, stop giving it.\nWrite it down as a rule and put it at the top of the next brief.\n\nEvery brand has notes that come back campaign after campaign. Show the logo early. Product in the hand, never on a table. Each time one returns as feedback, the team pays for a round the last campaign already paid for.\n\nHere is the method for anyone who reviews creator work.\n\nKeep one running list per brand and call it Rules.\n\nWhen a note shows up a second time, move it from the feedback thread into that list. Use the reviewer's own words and add the date.\n\nPaste the list at the top of every new brief. Check a first cut against it before anyone gives an opinion.\n\nOnce a quarter, ask the brand which rules no longer hold and delete them. A list that only grows stops getting read.\n\nThis is the small, manual version of what we call Brand Memory at Galvor. Plenty of data, no memory is how one note ends up written six times.\n\nEvery ad should make the next one better. So should every round of feedback.",
+  "first_comment": "Read Decoded #12 on galvor.ai",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#BrandMemory",
+    "#D2CIndia"
+  ],
+  "alt_text": "Text-only post, no image.",
+  "cta": "Read Decoded #12 on galvor.ai (first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that he keeps (or is willing to start keeping) a per-brand rules list like this, and whether he can name one real, anonymised note that became a rule. The two example notes (logo early, product in hand) are illustrative.\nReader: a brand or creative manager who reviews creator cuts. Shape: one rule with the method behind it. Hook shape: stacked. Numbers used: none ('six times' is a figure of speech). Brand Memory is mentioned once, after the method. First comment points only to Decoded #12 (the learning loop).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-18 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:07",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh24",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

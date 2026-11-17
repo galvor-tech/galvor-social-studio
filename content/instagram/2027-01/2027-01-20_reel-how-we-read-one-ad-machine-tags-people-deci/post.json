@@ -1,0 +1,134 @@
+{
+  "id": "ig-2027-01-20-reel-how-we-read-one-ad-machine-tags-people-deci",
+  "slug": "reel-how-we-read-one-ad-machine-tags-people-deci",
+  "platform": "instagram",
+  "date": "2027-01-20",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Behind the Scenes",
+  "job": "De-risk",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: how one ad gets read (machine tags, people decide)",
+  "hook": "Machine tags. People decide. How one ad gets read at Galvor.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Machine tags. People decide. How one ad gets read at Galvor.\n\nThe machine does the counting: 50+ attributes in every ad, from who is on screen to the first shot, the pace and the ask. Each attribute is priced against cost per order.\n\nA tag can't tell you what to make next. That call stays with people: what to test, and what fits the brand.\n\nThe budget stays in your hands too. We never touch it. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Machine tags. People decide. The reel shows a dummy ad being tagged with attributes such as cast, first shot, pace and ask, each priced against cost per order, then people choosing what to test. End card: follow @galvor.ai.",
+  "cta": "Follow @galvor.ai",
+  "script": {
+    "duration": "42s",
+    "setup": "Idea: a brand or creative manager who worries that software will start judging the team's creative sees exactly where the machine stops and people take over. On-screen title: Machine tags. People decide. Expectation set: a look inside how an ad is read. The script meets it at once and beats it by answering the two fears buyers raise: who makes the creative call, and who controls the budget. Outline: the machine counts 50+ attributes; each is priced against cost per order; a tag can't choose the next ad (best); the budget stays with the brand.",
+    "scenes": [
+      {
+        "time": "0–5s",
+        "visual": "A single dummy ad plays on a phone. Small tags begin to attach to it.",
+        "voiceover": "How one ad gets read at Galvor. Machine tags, people decide.",
+        "on_screen": "Machine tags. People decide."
+      },
+      {
+        "time": "5–10s",
+        "visual": "A robot icon holds a red pen over a storyboard. The pen is taken away.",
+        "voiceover": "The fear: software judging your creative. It works the other way.",
+        "on_screen": "Software judging creative?"
+      },
+      {
+        "time": "10–15s",
+        "visual": "Tags multiply around the ad until a counter reads 50+.",
+        "voiceover": "The machine does the counting. Over fifty attributes in every ad.",
+        "on_screen": "50+ attributes per ad"
+      },
+      {
+        "time": "15–19s",
+        "visual": "Four tags enlarge in turn over the matching part of the ad.",
+        "voiceover": "Who's on screen. The first shot. The pace. The ask.",
+        "on_screen": "Cast, first shot, pace, ask"
+      },
+      {
+        "time": "19–23s",
+        "visual": "Each tag gets a small cost-per-order marker. No figures are shown.",
+        "voiceover": "Each attribute is priced against cost per order.",
+        "on_screen": "Priced against cost per order"
+      },
+      {
+        "time": "23–27s",
+        "visual": "The tags sit in a neat table. An empty box labelled next ad stays blank.",
+        "voiceover": "But a tag can't tell you what to make next.",
+        "on_screen": "Tags can't choose"
+      },
+      {
+        "time": "27–32s",
+        "visual": "Two people icons lean over the table and fill in the next-ad box.",
+        "voiceover": "That call sits with people: what to test, what fits the brand.",
+        "on_screen": "People choose the test"
+      },
+      {
+        "time": "32–37s",
+        "visual": "A budget dial stays in a hand marked as the brand's. A Galvor mark stays outside the dial.",
+        "voiceover": "And the budget stays in your hands. We never touch it.",
+        "on_screen": "We never touch the budget"
+      },
+      {
+        "time": "37–42s",
+        "visual": "End card with the Galvor logo. Chime.",
+        "voiceover": "Counting is automated. Judgement stays human. Follow @galvor.ai.",
+        "on_screen": "Judgement stays human"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Number: Decode tags 50+ attributes per ad (facts bank, galvor.ai). Show no cost figures and no real account. Scene 7 shows people in general, not named team members."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "Machine tags. *People decide.*",
+        "sub": "How one ad gets read at Galvor.",
+        "play": "Watch how it works"
+      },
+      {
+        "layout": "cta",
+        "headline": "Counting is automated. *Judgement stays human.*",
+        "sub": "And we never touch the media budget.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the topic. It now answers one buyer doubt (will software judge our creative?) instead of listing features. Number used: 50+ attributes per ad (facts bank). To confirm with the team: scene 7 describes the split correctly, that the brand's people choose what to test and Galvor's tags inform it. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-20 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:56",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-108",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

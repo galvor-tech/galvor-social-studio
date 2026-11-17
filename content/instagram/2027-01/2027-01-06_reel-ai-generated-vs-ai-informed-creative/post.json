@@ -1,0 +1,134 @@
+{
+  "id": "ig-2027-01-06-reel-ai-generated-vs-ai-informed-creative",
+  "slug": "reel-ai-generated-vs-ai-informed-creative",
+  "platform": "instagram",
+  "date": "2027-01-06",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Myth vs Fact",
+  "job": "De-risk",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: AI made the ad. Who briefed it?",
+  "hook": "AI made the ad. Who briefed it?",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "AI made the ad. Who briefed it?\n\nAI makes ads faster than any team. Speed only repeats the brief, so a thin brief comes back as many versions of one ad.\n\nBefore you generate, give it three things from your own account:\n1. The reason to buy that has already sold for you.\n2. The first shots you have used most, so it avoids them.\n3. The one question this batch should answer.\n\nThen whatever the result, the batch teaches you something. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#creativestrategy",
+    "#marketingtips",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: AI made it. Who briefed it? The reel shows one thin brief turning into many identical ads, then three inputs to add before generating: your proven reason to buy, first shots to avoid, and one question per batch. End card: follow @galvor.ai.",
+  "cta": "Follow @galvor.ai",
+  "script": {
+    "duration": "39s",
+    "setup": "Idea: a creative or growth lead who has started generating ads with AI and wonders whether more versions is the answer learns what to feed the tool so the output is worth running. On-screen title: AI made it. Who briefed it? Expectation set: an opinion on AI ads. The script beats it with three inputs to add before the next batch. Outline: speed repeats the brief (the turn); proven reason to buy (second-best, first); first shots to avoid; one question per batch (best).",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "A generate button is pressed. Ad tiles pour out faster than they can be counted.",
+        "voiceover": "AI can now make ads faster than any team.",
+        "on_screen": "AI made it. Who briefed it?"
+      },
+      {
+        "time": "4–8s",
+        "visual": "The tiles stack into a tall pile. A small trophy icon sits on top with a question mark.",
+        "voiceover": "So the belief goes: more ads, more winners.",
+        "on_screen": "More ads, more winners?"
+      },
+      {
+        "time": "8–12s",
+        "visual": "A one-line brief feeds the machine. Every tile that comes out looks the same.",
+        "voiceover": "Speed only repeats the brief. A thin brief, many twins.",
+        "on_screen": "Thin brief, many twins"
+      },
+      {
+        "time": "12–17s",
+        "visual": "The machine pauses. Three empty input slots appear in front of it.",
+        "voiceover": "So before you generate, feed it three things from your own ads.",
+        "on_screen": "Three things before you generate"
+      },
+      {
+        "time": "17–22s",
+        "visual": "Slot one fills with a line of ad copy marked as proven.",
+        "voiceover": "One: the reason to buy that has already sold for you.",
+        "on_screen": "1. Your proven reason"
+      },
+      {
+        "time": "22–27s",
+        "visual": "Slot two fills with a row of used opening frames, each marked with a cross.",
+        "voiceover": "Two: the first shots you've used most, so it avoids them.",
+        "on_screen": "2. First shots to avoid"
+      },
+      {
+        "time": "27–31s",
+        "visual": "Slot three fills with a single question mark, larger than the others.",
+        "voiceover": "Three matters most: the one question this batch should answer.",
+        "on_screen": "3. One question per batch"
+      },
+      {
+        "time": "31–35s",
+        "visual": "The machine runs again. The tiles come out visibly different, each tagged with the question.",
+        "voiceover": "Now every ad it makes can teach you something.",
+        "on_screen": "Every ad teaches something"
+      },
+      {
+        "time": "35–39s",
+        "visual": "End card with the Galvor logo. Chime.",
+        "voiceover": "Generate less, learn more. Follow @galvor.ai.",
+        "on_screen": "Follow @galvor.ai"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Do not name any AI tool or vendor."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "AI made it. *Who briefed it?*",
+        "sub": "Three things to feed it first.",
+        "play": "Watch the three inputs"
+      },
+      {
+        "layout": "cta",
+        "headline": "Generate less. *Learn more.*",
+        "sub": "Give every batch one question.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the topic (AI-generated versus AI-informed) and turned the contrast into three inputs a team can add the same day. No numbers used. No AI tool named. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-06 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:04",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-30",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

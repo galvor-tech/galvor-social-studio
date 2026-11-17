@@ -1,0 +1,1 @@
+Summary of the post as read in the Claude terminal: Borja Obeso describes a Claude skill that automates link building in four ways: outreach to 'best tools' list articles asking to be added, replying to journalist requests, backlink exchanges, and directory listings.

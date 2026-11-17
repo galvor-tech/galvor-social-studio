@@ -1,0 +1,66 @@
+{
+  "id": "ig-2026-12-24-meme-the-year-end-deck",
+  "slug": "meme-the-year-end-deck",
+  "platform": "instagram",
+  "date": "2026-12-24",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Meme / Relatable",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Relatable: the year-end deck",
+  "hook": "The year-end deck: 40 slides on what happened. One missing slide on why.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "The year-end deck: 40 slides on what happened. One missing slide on why.\n\nWe have all built this deck. The charts are right. The numbers tie. And the first question in the room is still \"so what do we do in January?\"\n\nOne slide answers it. Three headings:\n\nWhat we would repeat.\nWhat we would stop.\nWhat we still do not know.\n\nPut it second, right after the title. The third heading is the brave one, and it usually gets the best discussion.\n\nSave this before you open the deck. Follow @galvor.ai for more.",
+  "first_comment": "",
+  "hashtags": [
+    "#performancemarketing",
+    "#marketingtips",
+    "#d2cindia",
+    "#digitalmarketingindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Text card in Galvor violet and gold. It reads: The year-end deck: 40 slides on what happened. The slide on why: still loading. Below, smaller: add one slide. Repeat, stop, still do not know.",
+  "cta": "Soft ask: save the post, follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "The year-end deck: 40 slides on what happened.\nThe slide on why: *still loading.*",
+        "sub": "Add one slide: repeat, stop, still do not know."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a growth lead building the annual review in the last week of December. Topic kept and sharpened with a copyable slide. \"40 slides\" is a figure of speech about a long deck, not a statistic. No facts-bank numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-12-26 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2026-12-26 11:00 to 2026-12-24 13:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:41",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "IG-OPEN-02",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

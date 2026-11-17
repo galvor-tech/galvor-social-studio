@@ -1,0 +1,120 @@
+{
+  "id": "li-2026-11-27-black-friday-creative-checklist-for-indian-d2c",
+  "slug": "black-friday-creative-checklist-for-indian-d2c",
+  "platform": "linkedin",
+  "date": "2026-11-27",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Black Friday: five creative checks for the sale weekend",
+  "hook": "Black Friday is live. Five creative checks are still worth running today.",
+  "status": "draft",
+  "festival": "Black Friday 2026",
+  "theme": "From dashboards to decisions",
+  "caption": "Black Friday is live. Five creative checks are still worth running today.\nThe sale runs through the weekend, so there is time to fix what is in the account.\n\nThe checks in the slides:\n\n1. Count your look-alikes.\n2. Put your proven message in a new look.\n3. Name every ad so you can read it in December.\n4. Fix the review date before you look at the numbers.\n5. Save the evidence on Monday.\n\nThe first two come from our analysis of new video ads launched from May to September 2026. The other three are habits that cost nothing.\n\nSave this for the next sale too.",
+  "first_comment": "Read Decoded #3 on galvor.ai",
+  "hashtags": [
+    "#D2CIndia",
+    "#BlackFriday",
+    "#AdCreative"
+  ],
+  "alt_text": "Seven-slide Galvor carousel. Slide 1: five creative checks for the sale weekend. Slide 2: 48% less first-month spend for each ad when six or more look-alikes launched within three days. Slide 3: a new message over a familiar first shot got 16% less first-month spend, a proven message in a new look got 47% more. Slide 4: name every ad with message, look, offer and creator. Slide 5: decide the review date before you open the dashboard. Slide 6: on Monday save the ad files, the spend and cost per order, and one line on what you would repeat. Slide 7: follow Galvor.",
+  "cta": "Soft: save the checklist; follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Black Friday · Indian D2C",
+        "headline": "Five creative checks for the *sale weekend*",
+        "sub": "A checklist you can run today."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Check 1 · Count your look-alikes",
+        "stat": "48%",
+        "headline": "less first-month spend each when *six or more look-alikes* launched in three days",
+        "sub": "Group the near-copies. Keep the strongest one from each group.",
+        "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+      },
+      {
+        "layout": "compare",
+        "kicker": "Check 2 · New look, proven message",
+        "headline": "What to change in a *sale ad*",
+        "left_title": "New message, familiar first shot",
+        "left": [
+          "16% less first-month spend",
+          "Looks like what is already live"
+        ],
+        "right_title": "Proven message, new look",
+        "right": [
+          "47% more first-month spend",
+          "Same promise, fresh first shot"
+        ],
+        "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "Check 3 · Name every ad",
+        "headline": "Name ads so *December* can read them",
+        "body": "Put four things in every ad name: the message, the look, the offer and the creator.\n\nA name built that way can be sorted and compared later. A name like Final_v3 cannot."
+      },
+      {
+        "layout": "text",
+        "kicker": "Check 4 · Fix the review date",
+        "headline": "Decide *when* you will judge each ad",
+        "body": "Write the review date next to each ad before you open the dashboard.\n\nSome ad styles start dearer per order and settle later. A date agreed in advance stops a nervous Saturday cut."
+      },
+      {
+        "layout": "list",
+        "kicker": "Check 5 · Save the evidence",
+        "headline": "On Monday, *save* three things",
+        "items": [
+          "Each ad file, with its final name",
+          "Spend and cost per order for each ad",
+          "One line on what you would repeat"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Make this sale teach the *next one*",
+        "sub": "One usable checklist or method every week.",
+        "actions": [
+          "Follow Galvor",
+          "Save this checklist"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: punchy plus context. Reader: a performance marketer running an Indian D2C account on Black Friday. Checklist shape. Numbers: 48% less (second and last use in this group); 16% less and 47% more (first use). All from the Galvor analysis in Decoded #3, ads launched May to Sep 2026. The compare slide has no source field in the template, so the source is stated in the caption; add it as small text on slide 3 if the layout allows.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-27 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:50",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:29",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "FEST-BF-2026",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

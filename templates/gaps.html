@@ -1,0 +1,26 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Gaps & checklist · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.playbook_tabs('gaps') }}
+<h1>Gaps &amp; checklist</h1>
+<p class="sub">What the current plan doesn't cover yet, plus the LinkedIn page fixes from your tracker. {{ done }} of {{ total }} done. Set an owner and status; changes save instantly.</p>
+<div class="bar" style="max-width:520px;margin-bottom:10px"><i style="width:{{ (100*done/total)|round if total else 0 }}%"></i></div>
+{% for g, items in groups.items() %}
+<div class="panel">
+  <div class="panel-h plain"><h3>{{ g }}</h3><span class="count">{{ items|selectattr('status','equalto','done')|list|length }}/{{ items|length }}</span></div>
+  <table class="tbl">
+  {% for it in items %}
+  <tr>
+    <td style="width:110px"><span class="pill {{ 'err' if it.priority=='High' else ('warn' if it.priority=='Medium' else 'ghost') }}">{{ it.priority }}</span></td>
+    <td><b>{{ it.title }}</b><div class="small muted" style="margin-top:4px">{{ it.why }}</div>{% if it.how %}<div class="small" style="margin-top:4px"><b>How:</b> {{ it.how }}</div>{% endif %}</td>
+    <td style="width:150px"><input class="in" placeholder="Owner" value="{{ it.owner or '' }}" onchange="gap('{{ it.id }}',{owner:this.value})"></td>
+    <td style="width:150px"><select class="in" onchange="gap('{{ it.id }}',{status:this.value})">{% for s in ['todo','doing','done','skip'] %}<option value="{{ s }}" {{ 'selected' if it.status==s }}>{{ {'todo':'Not started','doing':'In progress','done':'Done','skip':'Not doing'}[s] }}</option>{% endfor %}</select></td>
+  </tr>
+  {% endfor %}
+  </table>
+</div>
+{% endfor %}
+<script>
+async function gap(id, data) { const r = await fetch('/gaps', {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(Object.assign({id}, data))}); toast(r.ok ? 'Saved' : 'Failed'); }
+</script>
+{% endblock %}

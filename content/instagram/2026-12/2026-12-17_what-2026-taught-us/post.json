@@ -1,0 +1,88 @@
+{
+  "id": "ig-2026-12-17-what-2026-taught-us",
+  "slug": "what-2026-taught-us",
+  "platform": "instagram",
+  "date": "2026-12-17",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Team & Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "What 2026 taught us about new ads",
+  "hook": "What a year of reading ads taught us, in four lines.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "What a year of reading ads taught us, in four lines.\n\nWe studied the new video ads launched by brands we work with. Four patterns kept showing up:\n\nA proven message in a new look did better than a new message over a familiar first shot.\nNew ads that looked like the ones already running got less spend.\nLaunching a batch of look-alikes together made it worse.\nSome styles start expensive and settle close to average, so judge them slowly.\n\nThank you to every brand, creator and reader who learned with us this year.\n\nWhich line would you add? Follow @galvor.ai for more.",
+  "first_comment": "Read Decoded #9 on galvor.ai",
+  "hashtags": [
+    "#creativestrategy",
+    "#metaads",
+    "#adcreative",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "List card in Galvor violet and gold titled What 2026 taught us. Four lines: Keep the message, change the look. Look-alike ads share one budget. Do not launch six twins in one week. Some styles start dear, so judge slowly.",
+  "cta": "Question to comment on; Decoded #9 in first comment",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "Year in review",
+        "headline": "What *2026* taught us",
+        "items": [
+          {
+            "title": "Keep the message, change the look",
+            "detail": "A proven message in a new look did better"
+          },
+          {
+            "title": "Look-alike ads share one budget",
+            "detail": "New ads that copied live ones got less spend"
+          },
+          {
+            "title": "Do not launch six twins in one week",
+            "detail": "Batches of look-alikes did worse still"
+          },
+          {
+            "title": "Some styles start dear",
+            "detail": "Judge them over months, not days"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "The four lines restate findings in the facts bank (Decoded #3, Galvor analysis of new video ads launched May to Sep 2026) in words, with no percentages. The only figure is the word \"six\" on the slide, from the fact about six or more look-alikes launched within three days. \"A year of reading ads\" is loose: the analysis window is May to Sep 2026. CONFIRM WITH TEAM: happy with \"a year\", or change the hook to \"What this year's ads taught us\"? Old slide used slogans; this one uses findings. First comment points to Decoded #9 (16 Dec), which covers the same topic.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-12-19 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-19 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2026-12-19 11:00 to 2026-12-17 13:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:12",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "IG-32",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

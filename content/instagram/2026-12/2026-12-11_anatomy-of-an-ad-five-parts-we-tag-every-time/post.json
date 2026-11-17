@@ -1,0 +1,124 @@
+{
+  "id": "ig-2026-12-11-anatomy-of-an-ad-five-parts-we-tag-every-time",
+  "slug": "anatomy-of-an-ad-five-parts-we-tag-every-time",
+  "platform": "instagram",
+  "date": "2026-12-11",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Ad Breakdown",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Anatomy of an ad: judge the five parts, not the whole",
+  "hook": "“This ad worked” tells you nothing you can brief. Which part of it worked?",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "“This ad worked” tells you nothing you can brief. Which part of it worked?\n\nEvery ad has five parts: hook, cast, pacing, CTA and setting. Judge the whole ad and a win only teaches you to remake it. Judge the parts and a win tells you what to carry forward.\n\nThis is the idea behind Decode, which tags 50+ attributes on every ad. We price the attribute, not the ad.\n\nYou can try a manual version today with a sheet and your last ten ads. The steps are on the last slide. Save it.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#creativestrategy",
+    "#metaads",
+    "#ugcads",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: every ad has five parts, judge each one separately. Slide 2: 'it worked' cannot be briefed. Slide 3: hook and cast explained. Slide 4: pacing, CTA and setting explained. Slide 5: Decode tags 50+ attributes on every ad. Slide 6: a four-step sheet to try on your last ten ads. Slide 7: stop grading ads, grade the parts, follow @galvor.ai.",
+  "cta": "Save and try the sheet on your last ten ads",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Ad breakdown",
+        "headline": "Every ad has *five parts*. Judge each one separately.",
+        "sub": "How we take an ad apart before we call it a winner."
+      },
+      {
+        "layout": "text",
+        "kicker": "The problem",
+        "headline": "“It worked” *cannot be briefed*",
+        "body": "When the whole ad is the unit, a win teaches you to make the same ad again.\n\nWhen the parts are the unit, a win tells you what to carry into the next ten."
+      },
+      {
+        "layout": "list",
+        "kicker": "Parts 1 and 2",
+        "headline": "*Hook* and *cast*",
+        "items": [
+          "Hook: what the first seconds show and say",
+          "Cast: who is on screen, and who they resemble"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Parts 3 to 5",
+        "headline": "*Pacing*, CTA and *setting*",
+        "items": [
+          "Pacing: how fast it cuts, when the product appears",
+          "CTA: what it asks for, and when",
+          "Setting: where it happens (home, studio, street)"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "How deep it goes",
+        "stat": "50+",
+        "headline": "attributes tagged by Decode on *every ad*, inside these five parts",
+        "source": "Source: galvor.ai · Decode"
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "Try it on your *last ten ads*",
+        "items": [
+          "One row per ad, one column per part",
+          "Fill each cell in three words",
+          "Add cost per order in the last column",
+          "Sort by cost and read down each column"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Stop grading ads. *Grade the parts.*",
+        "sub": "Save this and try it on ten ads today.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the sheet steps",
+          "Send to whoever reviews your ads"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a performance marketer who reviews creative weekly. One argument: the unit of learning is the part of the ad, so tag hook, cast, pacing, CTA and setting separately. Shape: breakdown plus a same-day exercise. Numbers used: 50+ attributes per ad (facts bank, Decode). The five parts are the ones named in the spec. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:53:32",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-11 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:45",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-26",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

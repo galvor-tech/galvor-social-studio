@@ -1,0 +1,52 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}New post · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.create_tabs('new') }}
+<h1>New post</h1>
+<p class="sub">Pick a slot and a hook. Tick “Draft with AI” to get the caption, slides, script and hashtags written in the right voice. It's saved to the platform's folder automatically.</p>
+<form method="post" class="card" style="max-width:980px">
+  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:12px">
+    <div><label class="f">Platform</label><select class="in" name="platform" id="plat" onchange="syncPlat()">{% for pl in ['linkedin','instagram','newsletter'] %}<option {{ 'selected' if pre.platform==pl }}>{{ pl }}</option>{% endfor %}</select></div>
+    <div><label class="f">Date</label><input class="in" type="date" name="date" value="{{ pre.date or today_str }}" required></div>
+    <div><label class="f">Time (IST)</label><input class="in" type="time" name="time" value="{{ pre.time or '09:00' }}"></div>
+    <div><label class="f">Voice / profile</label><select class="in" name="voice" id="voice">{% for k, v in VOICES.items() %}<option value="{{ k }}" {{ 'selected' if pre.voice==k }}>{{ v.name }}</option>{% endfor %}</select></div>
+    <div><label class="f">Format</label><select class="in" name="format" id="fmt"></select></div>
+    <div><label class="f">Job</label><select class="in" name="job">{% for j in JOBS %}<option {{ 'selected' if pre.job==j }}>{{ j }}</option>{% endfor %}</select></div>
+    <div><label class="f">Pillar</label><select class="in" name="pillar" id="pil"></select></div>
+    <div><label class="f">Festival / key date</label><input class="in" name="festival" value="{{ pre.festival }}"></div>
+    <div><label class="f">Topic ref</label><input class="in" name="topic_ref" id="tref" value="{{ pre.topic_ref }}"></div>
+  </div>
+  <label class="f">Hook / topic</label><input class="in" name="hook" id="hook" value="{{ pre.hook }}" placeholder="The first line, or the idea in one sentence">
+  <label class="f">Or pick from the 150-hook bank <small>(unused first)</small></label>
+  <select class="in" onchange="pick(this)"><option value="">—</option>
+    {% for t in topics|sort(attribute='ref') %}<option value="{{ loop.index0 }}" {{ 'disabled' if t.ref in used }}>{{ t.ref }} · {{ VOICES[t.voice].name }} · {{ t.format }} · {{ t.hook[:110] }}{{ ' (used)' if t.ref in used }}</option>{% endfor %}
+  </select>
+  <label class="f">Brief for the AI <small>(optional: angle, story, data point, what to avoid)</small></label>
+  <textarea class="in" name="brief" placeholder="e.g. Use the kitchen-table founder example from last week's call (anonymised). Soft CTA to the brief template."></textarea>
+  <label class="row" style="margin-top:14px;gap:8px"><input type="checkbox" name="use_ai" value="1" {{ 'checked' if ai_status.ready }} {{ 'disabled' if not ai_status.ready }}> Draft with AI {% if not ai_status.ready %}<span class="muted small">(add a key in Settings first)</span>{% endif %}</label>
+  <input type="hidden" name="title" id="title">
+  <div class="row" style="margin-top:16px"><button class="btn primary">Create post</button><a class="btn" href="{{ url_for('calendar_page') }}">Cancel</a></div>
+</form>
+<script>
+const FORMATS = {{ FORMATS|tojson }}, PILLARS = {{ PILLARS|tojson }}, TOPICS = {{ topics|tojson }};
+const PRE = {{ pre|tojson }};
+const MAPP = {"Marketing money for founders and CMOs":"Marketing Money","Brand Memory (our point of view)":"Brand Memory / POV","AI and the marketing team":"AI & the Team","Building Galvor (founder journey)":"Building Galvor","What public data can and can't tell you":"Public Data","Building the engine (learning in public)":"Building Galvor","Measurement that matters":"Measurement","Creators and testing":"Creators & Testing","Better briefs":"Better Briefs","Running creator campaigns in India":"Creator Ops India","Feedback and approvals":"Feedback & Approvals","AI in the real workflow":"AI & the Team","Client lessons":"Client Lessons"};
+function fill(sel, arr, want) { sel.innerHTML = arr.map(x => `<option ${x===want?'selected':''}>${x}</option>`).join(''); }
+function syncPlat() {
+  const p = document.getElementById('plat').value;
+  fill(document.getElementById('fmt'), FORMATS[p], PRE.format); fill(document.getElementById('pil'), PILLARS[p], PRE.pillar);
+  const v = document.getElementById('voice'); if (p === 'instagram') { v.value = 'company'; v.disabled = true; } else v.disabled = false;
+}
+function pick(sel) {
+  const t = TOPICS[+sel.value]; if (!t) return;
+  document.getElementById('plat').value = 'linkedin'; syncPlat();
+  document.getElementById('voice').value = t.voice; document.getElementById('hook').value = t.hook; document.getElementById('tref').value = t.ref;
+  document.getElementById('fmt').value = FORMATS.linkedin.includes(t.format) ? t.format : 'text';
+  if (MAPP[t.pillar] || t.pillar.startsWith('In the room')) document.getElementById('pil').value = MAPP[t.pillar] || 'In the Room';
+  if (t.pillar.startsWith('Reading ads')) document.getElementById('pil').value = 'Decode Teardown';
+  document.querySelector('[name=job]').value = t.job;
+}
+document.querySelector('form').addEventListener('submit', () => { document.getElementById('voice').disabled = false; document.getElementById('title').value = document.getElementById('hook').value.slice(0, 90); });
+syncPlat();
+</script>
+{% endblock %}

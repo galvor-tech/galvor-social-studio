@@ -1,0 +1,66 @@
+{
+  "id": "li-2027-01-01-new-year-greeting-make-every-ad-in-2027-teach-th",
+  "slug": "new-year-greeting-make-every-ad-in-2027-teach-th",
+  "platform": "linkedin",
+  "date": "2027-01-01",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "New Year greeting: may every ad in 2027 teach the next one",
+  "hook": "Happy New Year from all of us at Galvor.",
+  "status": "draft",
+  "festival": "New Year's Day 2027",
+  "theme": "The learning loop",
+  "caption": "Happy New Year from all of us at Galvor.\n\nOne wish for your 2027: that every ad you run leaves you knowing a little more than the one before it.\n\nThank you for reading, arguing and sharing with us last year. See you on Monday.",
+  "first_comment": "",
+  "hashtags": [
+    "#HappyNewYear",
+    "#D2CIndia"
+  ],
+  "alt_text": "Festive greeting on a violet background with fireworks: Happy New Year. May every ad in 2027 teach the next one. From all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🎆",
+        "kicker": "New Year 2027",
+        "greeting": "Happy New Year",
+        "headline": "May every ad in 2027 *teach the next one.*",
+        "sub": "From all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No numbers.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-01 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:36",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-newyear",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

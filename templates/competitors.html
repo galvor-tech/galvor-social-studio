@@ -1,0 +1,111 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Competitors · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="row"><h1 class="grow">Competitors</h1>
+  <button class="btn primary" onclick="scan()">Check for updates (about ${{ '%.2f'|format(est.usd) }})</button>
+  <button class="btn" onclick="insight()" {{ 'disabled' if not live.posts }}>Sum up what they're doing (AI)</button>
+</div>
+<p class="sub">What Hawky and the others are up to: their latest posts, launches and news, newest first.
+{% if live.scanned_at %}Last checked {{ live.scanned_at[:16]|replace('T',' ') }}.{% else %}Not checked yet.{% endif %}
+A check reads {{ est.linkedin }} LinkedIn pages and {{ est.google }} searches through Apify and {{ est.instagram }} Instagram accounts through Hiker, and shows on Costs. Public information only; no spend, revenue or ROAS figures.</p>
+
+{% if live.errors %}<div class="flash warn">Last check had problems: {{ live.errors|join(' · ') }}</div>{% endif %}
+
+{% set ins = live.insight %}
+{% if ins %}
+<div class="panel">
+  <div class="panel-h lav"><h3>Right now</h3><small>AI summary of the latest check · {{ (ins.at or '')[:10] }} · {{ ins.thin }}</small></div>
+  <div class="grid g2" style="gap:18px;padding:12px 18px 6px">
+    <div><h4 style="margin:0 0 6px">What each one is pushing</h4><ul style="margin:0 0 10px 18px;padding:0;line-height:1.5">{% for x in ins.get('moves', []) %}<li style="margin-bottom:5px">{{ x }}</li>{% endfor %}</ul></div>
+    <div><h4 style="margin:0 0 6px">What is getting a response</h4><ul style="margin:0 0 10px 18px;padding:0;line-height:1.5">{% for x in ins.get('working', []) %}<li style="margin-bottom:5px">{{ x }}</li>{% endfor %}</ul>
+      {% if ins.get('not_working') %}<h4 style="margin:8px 0 6px">What is falling flat</h4><ul style="margin:0 0 10px 18px;padding:0;line-height:1.5">{% for x in ins.not_working %}<li style="margin-bottom:5px">{{ x }}</li>{% endfor %}</ul>{% endif %}</div>
+  </div>
+</div>
+{% endif %}
+
+<div class="panel">
+  <div class="panel-h plain" style="gap:8px;flex-wrap:wrap"><h3>Latest updates</h3><span class="count">{{ feed|length }}</span>
+    <span class="grow"></span>
+    <button class="btn sm soft" data-w="" onclick="pick(this)">All</button>
+    {% for w in whos %}<button class="btn sm" data-w="{{ w }}" onclick="pick(this)">{{ w }}</button>{% endfor %}
+  </div>
+  {% if not feed %}<div class="empty">Nothing yet. Press “Check for updates”.</div>{% endif %}
+  <table class="tbl" id="feed">
+    {% for f in feed %}
+    <tr data-w="{{ f.who }}" {% if loop.index > 60 %}data-more="1" style="display:none"{% endif %}>
+      <td style="width:104px" class="small">{{ f.date|d('%d %b %Y') if f.date|length == 10 else (f.date or '—') }}</td>
+      <td style="width:150px"><b>{{ f.who }}</b><div><span class="pill {{ 'li' if 'LinkedIn' in f.kind else ('ig' if 'Instagram' in f.kind else ('warn' if 'Noted' in f.kind else 'ghost')) }}">{{ f.kind }}</span></div></td>
+      <td>{{ f.what[:320] }}{% if f.what|length > 320 %}…{% endif %}
+        {% if f.url %} <a href="{{ f.url }}" target="_blank" rel="noopener" style="color:var(--accent)">open</a>{% endif %}
+        {% if f.meta %}<div class="small muted" style="margin-top:3px">{{ f.meta }}</div>{% endif %}</td>
+      <td style="width:44px">{% if f.log_id %}<button class="btn sm" title="Remove" onclick="if(confirm('Remove this note?'))api('/api/competitors/log/{{ f.log_id }}/delete').then(()=>location.reload())">✕</button>{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% if feed|length > 60 %}<div style="padding:10px 18px"><button class="btn sm" id="moreBtn" onclick="showAll()">Show all {{ feed|length }}</button></div>{% endif %}
+</div>
+
+{% if live.news %}
+<div class="panel">
+  <div class="panel-h plain"><h3>In search results this month</h3><span class="count">{{ live.news|length }}</span></div>
+  <table class="tbl" id="news">
+    {% for n in live.news %}
+    <tr data-w="{{ n.competitor.split(' (')[0].split(' /')[0] }}"><td style="width:150px"><b>{{ n.competitor.split(' (')[0].split(' /')[0] }}</b></td>
+      <td><a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a><div class="small muted">{{ n.text[:180] }}</div></td>
+      <td style="width:110px" class="small">{{ n.date }}</td></tr>
+    {% endfor %}
+  </table>
+</div>
+{% endif %}
+
+<div class="panel">
+  <div class="panel-h gold"><h3>Note something you saw</h3><small>A post, a launch, a price change. It joins the updates above under its date.</small></div>
+  <div style="padding:14px 18px">
+    <div class="grid g4" style="gap:10px">
+      <div><label class="f">Competitor</label><input class="in" id="lc" list="cnames" placeholder="Hawky"><datalist id="cnames">{% for n in names %}<option value="{{ n.split(' (')[0].split(' /')[0] }}">{% endfor %}</datalist></div>
+      <div><label class="f">Type</label><select class="in" id="lk">{% for k in kinds %}<option>{{ k }}</option>{% endfor %}</select></div>
+      <div><label class="f">Date</label><input class="in" id="ld" type="date" value="{{ today }}"></div>
+      <div><label class="f">Link</label><input class="in" id="lu" placeholder="https://"></div>
+    </div>
+    <label class="f" style="margin-top:10px">What you saw</label><textarea class="in" id="lw" style="min-height:60px" placeholder="Facts only: what they posted or changed."></textarea>
+    <label class="f" style="margin-top:10px">Idea for us (optional)</label><input class="in" id="li">
+    <div class="row" style="margin-top:12px"><button class="btn primary" onclick="addLog()">Save</button></div>
+  </div>
+</div>
+
+<script>
+function pick(btn) {
+  const w = btn.dataset.w;
+  document.querySelectorAll('.panel-h [data-w]').forEach(b => b.classList.toggle('soft', b === btn));
+  document.querySelectorAll('#feed tr, #news tr').forEach(tr => { tr.style.display = (!w || tr.dataset.w === w) ? '' : 'none'; });
+  const mb = document.getElementById('moreBtn'); if (mb) mb.style.display = 'none';
+}
+function showAll() { document.querySelectorAll('#feed tr[data-more]').forEach(tr => tr.style.display = ''); document.getElementById('moreBtn').style.display = 'none'; }
+async function scan() {
+  if (!confirm('Check the competitors now? This uses the paid research services (about ${{ "%.2f"|format(est.usd) }}).')) return;
+  const j = await api('/api/competitors/scan');
+  if (!j.ok) return toast(j.error || 'Failed', 8000);
+  toast('Checking in the background… usually 2 to 5 minutes. You can leave this page.', 600000);
+  pollScan();
+}
+async function pollScan() {
+  let r;
+  try { r = await (await fetch('/api/competitors/scan')).json(); } catch (e) { return setTimeout(pollScan, 8000); }
+  if (r.running) return setTimeout(pollScan, 6000);
+  if (r.result) { toast(r.result.ok ? 'Found ' + r.result.posts + ' posts and ' + r.result.news + ' search results' : (r.result.errors.join(' · ') || 'Nothing found'), 6000); setTimeout(() => location.reload(), 1200); }
+}
+fetch('/api/competitors/scan').then(r => r.json()).then(r => { if (r.running) { toast('A check is running…', 600000); pollScan(); } });
+async function insight() {
+  toast('Reading the latest posts… (30 to 60 s)', 60000);
+  const j = await api('/api/competitors/insight');
+  if (!j.ok) return toast(j.error || 'Failed', 8000);
+  location.reload();
+}
+async function addLog() {
+  const v = id => document.getElementById(id).value;
+  const j = await api('/api/competitors/log', {competitor: v('lc'), kind: v('lk'), date: v('ld'), url: v('lu'), what: v('lw'), idea: v('li')});
+  if (!j.ok) return toast(j.error || 'Failed', 5000);
+  toast('Saved'); setTimeout(() => location.reload(), 500);
+}
+</script>
+{% endblock %}

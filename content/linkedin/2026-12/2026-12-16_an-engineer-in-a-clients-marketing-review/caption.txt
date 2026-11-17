@@ -1,0 +1,19 @@
+A chart that cannot change a decision is decoration.
+I use that as a build rule. You can use it on your own weekly ad review.
+
+Take the deck or dashboard your team opens every Monday. For each chart, ask which of four calls it could change.
+
+Scale this ad.
+Cut this ad.
+Refresh this ad.
+Test something new.
+
+If the answer is none, the chart is reporting. Reporting is fine in a monthly note. In a weekly review it eats the minutes you needed for the real argument: why did that ad do well, and what do we make next?
+
+This is the rule we build to at Galvor. A screen has to end in one of those four words. If we cannot say which one, the screen is not finished.
+
+Two views usually pass the test. Cost per order by ad. And what your good ads have in common. Blended account averages usually fail it, because an average cannot tell you which ad to touch.
+
+Try it on Monday. Count the charts, then count the decisions.
+
+#MarketingAnalytics #PerformanceMarketing #AIinMarketing

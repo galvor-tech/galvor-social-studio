@@ -1,0 +1,118 @@
+{
+  "id": "li-2026-11-11-ad-of-the-week-1-a-festive-gifting-ad-teardown",
+  "slug": "ad-of-the-week-1-a-festive-gifting-ad-teardown",
+  "platform": "linkedin",
+  "date": "2026-11-11",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Attract",
+  "format": "carousel",
+  "series": "Ad of the Week",
+  "title": "Ad of the Week #1: a festive gifting ad teardown",
+  "hook": "Ad of the Week #1: a festive gifting ad that sells the moment, not the box.",
+  "status": "designed",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Ad of the Week #1: a festive gifting ad that sells the moment, not the box.\n\nThe brand is a premium gifting D2C brand. I'm not naming it, and I'm not guessing its results. Public ads show craft, not performance. So this is a teardown of the craft only.\n\nWhat it does unusually well: the product isn't the hero of the first frame. The person receiving it is.\n\nFrame by frame:\n0–2s: a wrapped box passed across a dinner table. No logo yet.\n2–5s: the reaction. That's the real hook. Faces stop thumbs.\n5–9s: only now the box opens, with one line on screen about why it was chosen for this person.\n9–12s: price band and delivery date, in plain text.\n\nMost festive ads open on the product with lights behind it. This one opens on a reason to buy: \"I want them to feel remembered.\"\n\nWhy that matters now: Meta's ranking reads who an ad is for, not only how it looks. A clear buyer, moment and reason gives it something to match. A pretty product shot gives it a picture.\n\nSwipe for the full breakdown.\n\nWhich festive ad stopped your scroll this week?",
+  "first_comment": "Want a teardown like this for your own category? We'll decode it for free: https://galvor.ai/talk/",
+  "hashtags": [
+    "#AdCreative",
+    "#MetaAds",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Six-slide carousel breaking down a festive gifting ad: a frame-by-frame timeline, a comparison with typical festive ads, why Meta's ranking rewards a clear buyer, and three things to copy.",
+  "cta": "Soft: comment with an ad + free decode link",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Ad of the Week #1",
+        "headline": "A festive ad that sells *the moment*, not the box.",
+        "sub": "A premium gifting D2C brand. Craft only: no spend, no results guessed."
+      },
+      {
+        "layout": "list",
+        "kicker": "Frame by frame",
+        "headline": "The first *12 seconds*",
+        "items": [
+          "0–2s — A gift passed across a dinner table. No logo.",
+          "2–5s — The reaction. Faces stop thumbs.",
+          "5–9s — The box opens, with one reason it was chosen.",
+          "9–12s — Price band and delivery date, in plain text."
+        ]
+      },
+      {
+        "layout": "compare",
+        "headline": "Typical festive ad vs *this one*",
+        "left_title": "Typical",
+        "left": [
+          "Opens on the product",
+          "Lights do the work",
+          "Speaks to everyone"
+        ],
+        "right_title": "This one",
+        "right": [
+          "Opens on the receiver",
+          "A moment you've lived",
+          "Speaks to one gift-giver"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Why it matters",
+        "headline": "Meta now reads *who* an ad is for",
+        "body": "A clear buyer, moment and reason to buy gives the ranking something to match.\n\nA pretty product shot only gives it a picture."
+      },
+      {
+        "layout": "list",
+        "kicker": "Steal this",
+        "headline": "Three things to *copy* this week",
+        "items": [
+          "Open on a person — not the product",
+          "Name the moment — who is this gift for?",
+          "Show the delivery date — festive buyers need it"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make the *next one* better.",
+        "sub": "One teardown every week.",
+        "actions": [
+          "Follow Galvor for Ad of the Week",
+          "Comment with an ad that stopped you"
+        ]
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png",
+    "slide_02.png",
+    "slide_03.png",
+    "slide_04.png",
+    "slide_05.png",
+    "slide_06.png",
+    "carousel.pdf"
+  ],
+  "notes": "BEFORE POSTING: Raj picks the actual ad from the Meta Ad Library and checks every frame description matches it; edit any line that doesn't. Never name the brand or guess spend/results.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:51:27",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:14:48",
+  "updated_at": "2026-11-11T11:58:19",
+  "topic_ref": "R1",
+  "reminders": {
+    "missed": "2026-11-11T11:58:19"
+  },
+  "due": "Missed — post, reschedule or skip"
+}

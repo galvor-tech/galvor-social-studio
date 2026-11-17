@@ -1,0 +1,60 @@
+{
+  "id": "li-2026-12-24-the-one-belief-were-taking-into-2027",
+  "slug": "the-one-belief-were-taking-into-2027",
+  "platform": "linkedin",
+  "date": "2026-12-24",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "People / Team",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "The belief we carry into 2027: ad learnings belong to the brand (the handover test)",
+  "hook": "When your media buyer leaves, your ad learnings usually leave too.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "When your media buyer leaves, your ad learnings usually leave too.\nThe one belief we are carrying into 2027: what a brand learns from its ads should belong to the brand.\n\nMost D2C teams have plenty of data and no memory. The numbers sit in the ad account. The reasons sit in one person's head, an agency's deck or a WhatsApp thread.\n\nA test for this quiet week: imagine a new hire starts on 4 January. Using only what is written down, could they brief your next ad?\n\nFor each ad that mattered, they would need four things:\n\nWhat the ad was made of.\nWhat happened when it ran.\nWhat the team decided because of it.\nWhere the file is.\n\nIf that record exists, your 2026 spend bought knowledge as well as orders. If not, January starts from zero.",
+  "first_comment": "Follow Galvor for one usable method a week.",
+  "hashtags": [
+    "#BrandMemory",
+    "#D2CIndia",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Statement card on a violet background: What a brand learns from its ads should belong to the brand. Below: the handover test. Could a new hire brief your next ad from your records alone?",
+  "cta": "Soft: follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "What a brand learns from its ads should *belong to the brand.*",
+        "sub": "The handover test: could a new hire brief your next ad from your records alone?"
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: punchy plus context. Reader: a D2C founder who has changed agency or media buyer at least once. A belief plus one test the reader can run in the quiet week. No numbers used. The old hook ('this year we changed our minds about a lot of things') was dropped because it implied a team story we cannot verify.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:37",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-OPEN-09",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

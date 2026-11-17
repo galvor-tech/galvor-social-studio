@@ -1,0 +1,63 @@
+{
+  "id": "li-2026-11-24-poll-would-you-let-an-ai-agent-move-20-of-your-b",
+  "slug": "poll-would-you-let-an-ai-agent-move-20-of-your-b",
+  "platform": "linkedin",
+  "date": "2026-11-24",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "AI & the Team",
+  "job": "Attract",
+  "format": "poll",
+  "series": "",
+  "title": "Poll: would you let an AI agent move 20% of your ad budget?",
+  "hook": "Would you let an AI agent move 20% of your ad budget without your sign-off?",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Would you let an AI agent move 20% of your ad budget without your sign-off?\n\nMost people answer this on instinct, as a question about the technology. I think the answer says more about the team than the tool.\n\nTo hand over a budget decision, you have to be able to state the rule behind it. When do we cut an ad. When do we put more money behind one.\n\nA team that has those rules written down can give them to a new hire, an agency or an agent, and check the work afterwards. A team that carries them in two people's heads cannot hand them to anyone.\n\nSo before you vote, try writing your cut rule in one sentence. If that takes more than a minute, you have found something more useful than the poll result.",
+  "first_comment": "Follow Galvor for the result and what we make of it.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#PerformanceMarketing",
+    "#D2CIndia"
+  ],
+  "alt_text": "",
+  "cta": "none (vote in the poll)",
+  "script": null,
+  "poll": {
+    "question": "Would you let an AI agent move 20% of your ad budget without your sign-off?",
+    "options": [
+      "Yes, inside written limits",
+      "Only with my sign-off",
+      "It can suggest, never move",
+      "No, not at any size"
+    ],
+    "duration": "1 week"
+  },
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: the poll question itself opens the post (polls need the question first). Reader: a D2C founder or CMO who signs off budget moves. Argument: you can only delegate a budget decision whose rule you can write down. Numbers: 20% is the hypothetical in the poll question, not a statistic. The old opening ('a question I ask every CMO I meet') was removed because it could not be verified. LinkedIn polls cannot carry an image. Optional: screenshot the result on day 7 for a follow-up; nothing in this post promises one.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-24 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:17:35",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:14:55",
+  "updated_at": "2026-11-16T21:17:35",
+  "topic_ref": "S25",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

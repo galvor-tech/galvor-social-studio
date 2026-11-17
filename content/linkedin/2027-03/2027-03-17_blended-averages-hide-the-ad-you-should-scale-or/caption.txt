@@ -1,0 +1,21 @@
+Blended averages hide the ad you should scale or cut.
+
+An ad set shows a healthy cost per order. Everyone moves on.
+
+Inside it, one ad is doing most of the work at a great cost. Two are average. One has been fatigued for weeks. The average looks fine because the good one is carrying the bad one.
+
+I see this whenever we break an account down to the ad level, and then to the attribute level.
+
+What I look at instead of the blend:
+→ cost per order by ad, not by ad set
+→ how each ad's cost has moved over its life, not just this week
+→ each ad's share of spend versus its share of orders
+→ which attributes the efficient ads share: hook, cast, format, offer
+
+The fourth one is the useful one. It tells you what to make next, not just what to switch off.
+
+One more thing. New ads often look worse in their first weeks. In our analysis, some ad styles started about 35% dearer per order in their first two months and ended close to average over their life. Don't cut a new ad just because the blend says so.
+
+A dashboard should end in four words: scale, cut, refresh, test.
+
+#MarketingAnalytics #MetaAds #PerformanceMarketing

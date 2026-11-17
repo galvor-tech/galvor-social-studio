@@ -1,0 +1,134 @@
+{
+  "id": "ig-2026-12-02-reel-what-galvor-reads-in-one-ad",
+  "slug": "reel-what-galvor-reads-in-one-ad",
+  "platform": "instagram",
+  "date": "2026-12-02",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: the sale is over, write three lines (Decoded #7)",
+  "hook": "The sale is over. Before the ads get archived, write three lines.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "The sale is over. Before the ads get archived, write three lines.\n\n1. The reason to buy your top-spending ads gave: discount, gift, deadline or bundle.\n2. The first shot of each of those ads. Screenshot it.\n3. The ads that got no spend, and what they had in common.\n\nThat is one page. It is also the brief for your next sale, and the Republic Day sales are closer than they look.\n\nRead the full newsletter on our website, link in bio.",
+  "first_comment": "Read Decoded #7 on galvor.ai",
+  "hashtags": [
+    "#adstrategy",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Sale over. Write three lines. The reel shows a one-page note filling in with three lines: the reason to buy, the first shot, and what got no spend. End card: read the full newsletter, link in bio.",
+  "cta": "Read the full newsletter on our website, link in bio",
+  "script": {
+    "duration": "39s",
+    "setup": "Idea: a D2C growth lead who has just closed a sale and is about to move on, so the next sale starts from a blank page. On-screen title: Sale over. Write three lines. Expectation set: three specific things to write down. The script meets it by the second scene and beats it by turning the three lines into the brief for the next sale. Outline: the reason to buy that carried the sale (second-best, first); the first shot that held (best, second); what got no spend.",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "A sale banner peels off a calendar. A single revenue figure, blurred, is filed into a folder.",
+        "voiceover": "The sale is over. Most teams save the revenue number.",
+        "on_screen": "Sale over. Write three lines."
+      },
+      {
+        "time": "4–8s",
+        "visual": "The folder closes. A blank one-page note opens beside it with three empty lines.",
+        "voiceover": "That number can't brief your next sale. Three lines can.",
+        "on_screen": "Three lines brief the next sale"
+      },
+      {
+        "time": "8–12s",
+        "visual": "Line one fills in on the note. A row of dummy ad tiles is sorted by spend, top three highlighted.",
+        "voiceover": "Line one: the reason to buy your top-spending ads gave.",
+        "on_screen": "1. The reason to buy"
+      },
+      {
+        "time": "12–17s",
+        "visual": "Four labels appear: discount, gift, deadline, bundle. One gets circled.",
+        "voiceover": "Discount, gift, deadline or bundle. Name the one that carried it.",
+        "on_screen": "Name what carried it"
+      },
+      {
+        "time": "17–21s",
+        "visual": "A viewer's thumb hovers over a phone, about to scroll.",
+        "voiceover": "A reason only works if people stay to hear it.",
+        "on_screen": "Did people stay to hear it?"
+      },
+      {
+        "time": "21–25s",
+        "visual": "Line two fills in. Opening frames of the top ads are pasted into the note as small screenshots.",
+        "voiceover": "Line two: screenshot the first shot of each top ad.",
+        "on_screen": "2. The first shot"
+      },
+      {
+        "time": "25–30s",
+        "visual": "Line three fills in. A group of greyed-out tiles is circled together.",
+        "voiceover": "Line three: the ads that got no spend, and what they shared.",
+        "on_screen": "3. What got no spend"
+      },
+      {
+        "time": "30–35s",
+        "visual": "The finished page slides onto a January calendar next to a Republic Day sale marker.",
+        "voiceover": "One page today. No blank page before the Republic Day sale.",
+        "on_screen": "One page. No blank page."
+      },
+      {
+        "time": "35–39s",
+        "visual": "End card with the Galvor logo and a link-in-bio arrow. Chime.",
+        "voiceover": "Read the full newsletter on our website, link in bio.",
+        "on_screen": "Full newsletter. Link in bio."
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Newsletter reel for Decoded #7 (The Sale Is Over. What Did Your Ads Learn?), out the same morning. No numbers used. Do not show real revenue figures or a real account."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "Sale over. *Write three lines.*",
+        "sub": "Before the ads get archived.",
+        "play": "Watch the breakdown"
+      },
+      {
+        "layout": "cta",
+        "headline": "One page now. *No blank page* in January.",
+        "sub": "Read the full newsletter on our website.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Link in bio"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Topic replaced: the old reel (what Galvor reads in one ad) was a product pitch and repeated the 20 Jan reel. New topic follows Decoded #7, out the same day, so the pillar moves to Newsletter. No numbers used. To confirm: the three lines do not contradict the final text of Decoded #7 (the issue is still a skeleton). Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-02 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:57",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:29",
+  "updated_at": "2026-11-16T21:23:57",
+  "topic_ref": "IG-09",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

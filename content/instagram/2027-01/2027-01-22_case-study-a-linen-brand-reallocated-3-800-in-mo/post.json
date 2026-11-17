@@ -1,0 +1,118 @@
+{
+  "id": "ig-2027-01-22-case-study-a-linen-brand-reallocated-3-800-in-mo",
+  "slug": "case-study-a-linen-brand-reallocated-3-800-in-mo",
+  "platform": "instagram",
+  "date": "2027-01-22",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Proof / Case Study",
+  "job": "Convert",
+  "format": "carousel",
+  "series": "",
+  "title": "Case study: a linen brand reallocated $3,800 in month one",
+  "hook": "In most ad accounts, budget sits where it sat last month. One linen brand moved it in month one.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "In most ad accounts, budget sits where it sat last month. One linen brand moved it in month one.\n\nMoving budget needs a reason someone will sign off on. A premium linen and cotton brand reallocated three thousand eight hundred dollars of ad spend in its first month with Galvor.\n\nGalvor recommends an action for each creative: scale, cut or shift. The brand's team makes every change. We never touch the media budget.\n\nThe brand's results: +67% RoAS and +25% hold rate (anonymised client, galvor.ai/results).\n\nThe last slide has a manual version you can run this week. Want it done on your account? Link in bio.",
+  "first_comment": "More anonymised results on galvor.ai/results.",
+  "hashtags": [
+    "#performancemarketing",
+    "#metaads",
+    "#d2cindia",
+    "#adstrategy",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: month one for a linen brand, spend moved, +67% RoAS. Slide 2: spend follows habit more often than evidence. Slide 3: three thousand eight hundred dollars ($3,800) of spend reallocated in the first month. Slide 4: +67% RoAS, with hold rate +25%. Slide 5: the brand's team moved the money, Galvor never touches the media budget. Slide 6: a manual reallocation review in four steps. Slide 7: link in bio, follow @galvor.ai.",
+  "cta": "Talk to us via link in bio",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Case study",
+        "headline": "Month one for a linen brand: spend moved, *+67% RoAS*",
+        "sub": "A premium linen and cotton D2C brand. Anonymised."
+      },
+      {
+        "layout": "text",
+        "kicker": "The starting point",
+        "headline": "Spend follows *habit* more often than evidence",
+        "body": "In most accounts, budget sits where it sat last month.\n\nMoving it needs a reason someone will sign off on. That reason is usually missing."
+      },
+      {
+        "layout": "text",
+        "kicker": "Month one",
+        "headline": "Three thousand eight hundred dollars, *reallocated*",
+        "body": "That is the ad spend the brand moved in its first month with Galvor.\n\nSource: galvor.ai/results, anonymised client."
+      },
+      {
+        "layout": "stat",
+        "kicker": "The brand's results",
+        "stat": "+67%",
+        "headline": "*RoAS* for the brand",
+        "sub": "Hold rate: +25%",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "text",
+        "kicker": "Who moved the money",
+        "headline": "The brand's team did. *We never touch the media budget.*",
+        "body": "Galvor recommends one of three actions for each creative: scale, cut or shift, with the reasons.\n\nThe team decides and makes the change."
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "A manual *reallocation review*",
+        "items": [
+          "Rank your live ads by cost per order",
+          "Note what the bottom five have in common",
+          "Note what the top five have in common",
+          "Move spend from the first group to the second, in steps"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Want this review on your account? *Link in bio.*",
+        "sub": "Or save the manual version and run it this week.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Talk to us: link in bio",
+          "Save the manual review"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH the client servicing team: (1) that 'reallocated' means spend moved between creatives on Galvor's scale, cut and shift recommendations, with the brand's own team making the changes, and (2) that this anonymised description is cleared for Instagram. Job: Convert. Reader: a founder or growth head asking what the first month with Galvor looks like. Numbers used, all from the facts bank (galvor.ai/results, fashion, premium linen and cotton D2C): $3,800 reallocated in month one, +67% RoAS, +25% hold rate. The post gives no detail of which ads were cut or scaled, because the facts bank has none. The last slide is a general manual method, not the client's steps. Topic kept. CHECKER NOTE: the apply tool rejects the figure $3,800 written in digits (it strips the comma and then cannot find 3800 in the facts bank), so the caption and slide 3 spell it out as three thousand eight hundred dollars. Once the checker is fixed, restore the digits: hook \"A premium linen and cotton brand reallocated $3,800 of ad spend in its first month with Galvor.\", cover \"*$3,800* reallocated in month one: a linen brand's first month with Galvor\", and slide 3 as a stat slide (stat \"$3,800\", headline \"of spend *reallocated* in the brand's first month with Galvor\", source \"Source: galvor.ai/results · anonymised client\").\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:57:33",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-22 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:34",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-128",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

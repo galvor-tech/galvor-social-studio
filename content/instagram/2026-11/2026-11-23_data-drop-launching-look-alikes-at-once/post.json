@@ -1,0 +1,119 @@
+{
+  "id": "ig-2026-11-23-data-drop-launching-look-alikes-at-once",
+  "slug": "data-drop-launching-look-alikes-at-once",
+  "platform": "instagram",
+  "date": "2026-11-23",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Data Drop",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Data drop: what a batch of look-alike ads costs each ad",
+  "hook": "Six or more look-alike ads launched within three days: each got 48% less first-month spend.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Six or more look-alike ads launched within three days: each got 48% less first-month spend.\n\nThat is from our analysis of new video ads launched May to Sep 2026 across brands we work with.\n\nNew ads that looked like many already running got 36% less. A proven message in a new look got 47% more.\n\nOur reading: near-copies compete for the same people, and none gets a fair start.\n\nBefore your next batch, lay the first frames side by side. If two match, change one or hold it back.\n\nSave this for launch day and follow @galvor.ai.",
+  "first_comment": "Read Decoded #3 on galvor.ai.",
+  "hashtags": [
+    "#metaads",
+    "#adcreative",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: launching six look-alike ads at once, each one pays for it. Slide 2: 48% less first-month spend each when six or more look-alikes launched within three days. Slide 3: 36% less for new ads that looked like many already running. Slide 4: 47% more for a proven message in a new look. Slide 5: our reading, similar ads compete for the same people. Slide 6: a four-step check before a batch launch. Slide 7: follow @galvor.ai.",
+  "cta": "Save for launch day; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Data drop",
+        "headline": "Launching *six look-alike ads* at once? Each one pays for it.",
+        "sub": "What we saw in new video ads launched May to Sep 2026."
+      },
+      {
+        "layout": "stat",
+        "kicker": "What we measured",
+        "stat": "48%",
+        "headline": "less first-month spend each, when *six or more look-alikes* launched within three days",
+        "source": "Source: Galvor analysis · new video ads launched May to Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Even one at a time",
+        "stat": "36%",
+        "headline": "less first-month spend for new ads that *looked like many ads* already running",
+        "source": "Source: Galvor analysis · new video ads launched May to Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "The other way round",
+        "stat": "47%",
+        "headline": "more first-month spend for a *proven message in a new look*",
+        "source": "Source: Galvor analysis · new video ads launched May to Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "Our reading",
+        "headline": "Similar ads *compete with each other* for the same people",
+        "body": "A batch of near-copies behaves like one idea shown many times.\n\nThe spend is split across them, and none gets a fair start."
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "Before your next *batch launch*",
+        "items": [
+          "Lay the first frames side by side",
+          "If two look the same, change one or hold it",
+          "Keep the message that works, change the look",
+          "Do not launch near-copies within the same three days"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Keep the message. *Change the look.*",
+        "sub": "Save this before your next launch day.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this check",
+          "Share with your media buyer"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a growth lead who launches creative in batches. One argument: near-copies launched together starve each other, so check first frames and space them. Numbers used, all from the facts bank (Decoded #3, Galvor analysis of new video ads launched May to Sep 2026): 48% less (six or more look-alikes within three days), 36% less (looked like many running ads), 47% more (proven message in a new look). The 'compete with each other' slide is labelled as our reading, not a measured finding. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:52:16",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-23 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:12",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:30",
+  "updated_at": "2026-11-16T21:23:12",
+  "topic_ref": "IG-10",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

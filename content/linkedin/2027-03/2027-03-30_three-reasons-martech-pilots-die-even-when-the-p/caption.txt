@@ -1,0 +1,20 @@
+Three reasons martech pilots die even when the product works.
+
+I've watched it happen from the vendor side, and I've heard the same story from CMOs about other tools. The software did its job. The pilot still ended in a polite email.
+
+1. Nobody owned the change.
+The tool showed what to do. Doing it meant changing how briefs get written, how creatives get approved, how the agency works. That's a change in someone's job. If nobody's job changed, nothing changed.
+
+2. The success metric moved halfway.
+Week one, the goal was faster insight. Week three, someone asked about RoAS. Week five, the review was about cost. A pilot judged against a moving target always fails.
+
+3. The pilot was too big to finish.
+Every channel, every brand line, every team. It never reached a clear answer, so it never reached a decision.
+
+What helps: one owner on the client side whose job will actually change, one number agreed on day one, and a scope small enough to finish in four to six weeks.
+
+We now turn down pilots that don't have all three. It's slower to start. It's much faster to a yes.
+
+Which of the three have you seen kill a pilot?
+
+#AIinMarketing #GrowthMarketing #D2C

@@ -1,0 +1,58 @@
+{
+  "id": "li-2026-12-07-ai-is-fast-approvals-context-and-judgement-still",
+  "slug": "ai-is-fast-approvals-context-and-judgement-still",
+  "platform": "linkedin",
+  "date": "2026-12-07",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "AI & the Team",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "AI made the draft fast. The wait has moved to approvals",
+  "hook": "AI can make a first cut in minutes.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "AI can make a first cut in minutes.\nThe approval still needs the same people and the same days.\n\nFor a brand team wondering what AI changes in creative work, this is the part to plan for: the making got shorter, so the waiting is now the longest stage.\n\nWhen a video took a week to make, two days in someone's inbox went unnoticed. When it takes a morning, those two days are most of the timeline.\n\nThree things are worth agreeing before anyone generates anything.\n\nOne named person per approval stage. A team inbox does not say yes. A person does.\n\nWhat each person is reading for. Legal reads the claim. The brand lead reads the tone. Nobody reopens what someone else has cleared.\n\nA reply-by time, and what happens when it passes.\n\nSome of the work stays with people for a plain reason. The context that decides an approval is often written nowhere a model can read it: a claim that was pulled last quarter, a word the founder never wants on screen. A person has to carry that into the review.\n\nA fast draft only helps if the yes can keep up with it.",
+  "first_comment": "Decoded #8 goes out this Wednesday on this exact question: what an AI co-worker should decide. Read it on galvor.ai.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Text-only post, no image.",
+  "cta": "Read Decoded #8 on galvor.ai (first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Reader: a brand lead or founder asking what AI really changes in creative production (De-risk). Shape: observation, then a three-point setup. Hook shape: stacked (two short lines, then the claim). Written as an argument with no personal anecdote; the 'claim pulled last quarter' and 'word the founder never wants' lines are generic examples of unwritten context, not real cases. Numbers used: none.\nFirst comment points to Decoded #8, which goes out two days after this post (9 Dec). If the issue slips, change the first comment to a plain Follow Galvor line.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-07 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:36",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh31",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

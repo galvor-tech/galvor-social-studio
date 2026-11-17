@@ -1,0 +1,58 @@
+{
+  "id": "li-2026-12-04-weekly-reshare-creative-fatigue",
+  "slug": "weekly-reshare-creative-fatigue",
+  "platform": "linkedin",
+  "date": "2026-12-04",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Measurement",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Creative fatigue: the order the signals move, and refresh or cut",
+  "hook": "By the time cost per order moves, the ad is already tired.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "By the time cost per order moves, the ad is already tired.\nThis week it matters more than usual: the ads that carried your sale have been shown to the same people for days.\n\nCost per order is the last number to react. If you wait for it, you pay for the delay.\n\nThe order we check, earliest sign first:\n\nHook rate. Fewer people stay past the first three seconds.\nHold rate. Those who stay leave sooner.\nFrequency. The same people are seeing it again and again.\nCost per order. Only now does the bill change.\n\nThen one decision: refresh or cut.\n\nRefresh when the hook has faded but the people who do watch still buy. The message is working and the opening is worn out. Keep the message and shoot a new first three seconds.\n\nCut when hook rate is steady and orders have still dropped. People are watching and choosing not to buy. A new opening will not fix that.\n\nLook at the early numbers on Monday, before the bill tells you.",
+  "first_comment": "Read Decoded #6 on galvor.ai",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#MetaAds",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "",
+  "cta": "none (Decoded #6 in first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: the order of signals (hook rate, hold rate, frequency, cost per order) and the refresh-or-cut rule match what Decoded #6 says; adjust the wording to the issue if they differ. Hook shape: punchy plus context. Reader: a media buyer in the week after Black Friday. Standalone post on the week's theme; not a reshare. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-04 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:50",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:17",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "Reshare-W3",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

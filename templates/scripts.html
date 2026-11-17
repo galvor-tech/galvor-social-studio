@@ -1,0 +1,79 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Scripts · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="row"><h1 class="grow">Scripts to read</h1>
+  <div class="seg">{% for d, l in [('7','7 days'),('14','14 days'),('30','30 days'),('all','All')] %}<a class="btn sm {{ 'primary' if span==d }}" href="?days={{ d }}&voice={{ v }}&p={{ plat }}">{{ l }}</a>{% endfor %}</div>
+</div>
+<p class="sub">Every post starts here. Read the hook, script and caption, then either use it or replace it with your own content. No image, carousel or video is made until you choose. {{ posts|length }} waiting in this view, {{ total }} in the whole calendar.</p>
+
+<div class="row" style="margin-bottom:14px;gap:6px;flex-wrap:wrap">
+  <a class="btn sm {{ 'soft' if not v and not plat }}" href="?days={{ span }}">Everything</a>
+  {% for key, label in [('sunil','Sunil'),('raj','Raj'),('shrutik','Shrutik'),('company','Galvor page')] %}<a class="btn sm {{ 'soft' if v==key }}" href="?days={{ span }}&voice={{ key }}&p={{ plat }}">{{ label }}</a>{% endfor %}
+  <span style="width:10px"></span>
+  {% for key, label in [('linkedin','LinkedIn'),('instagram','Instagram')] %}<a class="btn sm {{ 'soft' if plat==key }}" href="?days={{ span }}&voice={{ v }}&p={{ key }}">{{ label }}</a>{% endfor %}
+</div>
+
+{% if not posts %}<div class="panel"><div class="empty">Nothing is waiting in this view. Widen the dates above, or open the Calendar.</div></div>{% endif %}
+
+{% for p in posts %}
+{% set dec = (p.script_decision or {}).choice or 'pending' %}
+<div class="panel" id="s-{{ p.id }}">
+  <div class="panel-h plain" style="gap:8px;flex-wrap:wrap">
+    <b style="min-width:120px">{{ p.date|d('%a %d %b') }} · {{ p.time }}</b>
+    {{ m.plat(p.platform) }}<span class="pill ghost">{{ p.format }}</span>{{ m.vchip(p.voice) }}
+    <span class="small muted grow">{{ p.pillar }}{% if p.job %} · {{ p.job }}{% endif %}</span>
+    {% if dec == 'rewrite' %}<span class="pill warn">New script requested</span>{% endif %}
+    {% if (p.script_decision or {}).rewritten %}<span class="pill warn">Rewritten from your content</span>{% endif %}
+    <a class="btn sm" href="/post/{{ p.id }}">Open &amp; edit</a>
+  </div>
+  <div style="padding:14px 18px">
+    <h3 style="margin:0 0 8px;font-size:19px;line-height:1.35">{{ p.hook or p.title }}</h3>
+    {% set sc = (p.script or {}).scenes or [] %}
+    {% if sc %}
+    <details open><summary class="small muted" style="cursor:pointer;margin-bottom:6px">Script · {{ sc|length }} scenes{% if p.script.duration %} · {{ p.script.duration }}{% endif %}</summary>
+      <table class="tbl" style="margin-bottom:10px">
+      {% for s in sc %}<tr><td style="width:64px" class="small muted">{{ s.time }}</td><td>{{ s.voiceover }}{% if s.on_screen %}<div class="small muted" style="margin-top:3px">On screen: {{ s.on_screen }}</div>{% endif %}</td></tr>{% endfor %}
+      </table></details>
+    {% endif %}
+    {% set slides = (p.creative or {}).slides or [] %}
+    {% if slides and p.format in ['carousel'] %}
+    <details><summary class="small muted" style="cursor:pointer;margin-bottom:6px">Carousel words · {{ slides|length }} slides</summary>
+      <ol style="margin:6px 0 10px 18px;padding:0">{% for sl in slides %}<li style="margin-bottom:4px"><b>{{ sl.title or sl.headline or sl.kicker or '' }}</b> <span class="small">{{ sl.body or sl.text or sl.sub or '' }}</span></li>{% endfor %}</ol></details>
+    {% endif %}
+    <details {{ 'open' if not sc }}><summary class="small muted" style="cursor:pointer;margin-bottom:6px">Caption · {{ (p.caption or '')|length }} characters</summary>
+      <div style="white-space:pre-wrap;line-height:1.55;max-width:760px">{{ p.caption }}</div>
+      {% if p.first_comment %}<p class="small muted" style="margin-top:8px"><b>First comment:</b> {{ p.first_comment }}</p>{% endif %}
+    </details>
+    <div class="row" style="margin-top:12px;gap:8px;flex-wrap:wrap">
+      <button class="btn sm primary" onclick="decide('{{ p.id }}','use')">Use this script</button>
+      <button class="btn sm" onclick="var b=document.getElementById('own-{{ p.id }}');b.style.display=b.style.display==='block'?'none':'block'">Write new from my content</button>
+      <button class="btn sm" onclick="setStatus('{{ p.id }}','skipped')">Skip this slot</button>
+    </div>
+    <div id="own-{{ p.id }}" style="display:none;margin-top:10px">
+      <textarea class="in" style="min-height:120px" placeholder="Paste the content to write from: notes, a transcript, a finding, a draft. The new script uses only this.">{{ (p.script_decision or {}).content or '' }}</textarea>
+      <div class="row" style="margin-top:8px;gap:8px"><button class="btn sm primary" onclick="decide('{{ p.id }}','new','studio')">Write it here now (uses the AI budget)</button>
+        <button class="btn sm" onclick="decide('{{ p.id }}','new','terminal')">Save for the Claude terminal (no API charge)</button></div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+{% if chosen %}
+<div class="panel" id="chosen">
+  <div class="panel-h mint"><h3>Chosen, waiting for media</h3><small>{{ chosen|length }} posts · briefs are in <code>studio/queue/media</code> for the Claude terminal</small></div>
+  <table class="tbl">{% for p in chosen %}<tr><td style="width:130px">{{ p.date|d('%a %d %b') }}</td><td style="width:110px">{{ m.plat(p.platform) }}</td><td style="width:90px"><span class="pill ghost">{{ p.format }}</span></td><td><a href="/post/{{ p.id }}">{{ p.hook or p.title }}</a></td><td style="width:90px"><button class="btn sm" onclick="decide('{{ p.id }}','reset')">Undo</button></td></tr>{% endfor %}</table>
+</div>
+{% endif %}
+
+<script>
+async function decide(id, choice, how) {
+  const body = {decision: choice, how: how};
+  if (choice === 'new') { body.content = document.querySelector('#own-' + CSS.escape(id) + ' textarea').value; if (how === 'studio') toast('Writing a new script from your content… (30 to 60 s)', 60000); }
+  const j = await api('/api/post/' + encodeURIComponent(id) + '/decision', body);
+  if (!j.ok) return toast(j.error || 'Failed', 6000);
+  toast(j.message || 'Saved', 2500);
+  if (choice === 'use') { const el = document.getElementById('s-' + id); if (el) { el.style.transition = 'opacity .3s'; el.style.opacity = 0; setTimeout(() => el.remove(), 300); } }
+  else setTimeout(() => location.reload(), 700);
+}
+</script>
+{% endblock %}

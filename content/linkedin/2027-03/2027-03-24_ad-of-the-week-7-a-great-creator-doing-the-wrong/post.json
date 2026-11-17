@@ -1,0 +1,105 @@
+{
+  "id": "li-2027-03-24-ad-of-the-week-7-a-great-creator-doing-the-wrong",
+  "slug": "ad-of-the-week-7-a-great-creator-doing-the-wrong",
+  "platform": "linkedin",
+  "date": "2027-03-24",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Attract",
+  "format": "carousel",
+  "series": "Ad of the Week",
+  "title": "Ad of the Week #7: a great creator doing the wrong job",
+  "hook": "Ad of the Week #7: a great creator doing the wrong job.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Year-end budgets: spend that teaches",
+  "caption": "Ad of the Week #7: a great creator doing the wrong job.\n\nThis week's ad is from a home water-purifier D2C brand. The creator is excellent. High energy, quick cuts, great on camera. The video has every sign of a strong post: a fast hook, trending audio, a big reaction shot.\n\nAs an ad, I think it's asking that energy to do a job it isn't built for.\n\nA water purifier is a considered purchase. The buyer is comparing models and worried about installation, maintenance and whether the claims are true. They aren't looking to be excited. They're looking to be reassured.\n\nWhat I tagged:\nHook: a reaction shot. It grabs attention but doesn't say who the ad is for.\nProof: the claim is spoken fast, over music. No demonstration.\nObjection: installation and maintenance never come up.\nPacing: built for a scroll, not for a decision.\n\nThe same creator could make a strong ad for this brand, with a different job: a calm walk-through of installation, in their own voice, at their own home.\n\nCreator fit isn't about the creator. It's the match between their style and the doubt the buyer has.\n\nFull breakdown in the carousel. Next Friday: one ad, tagged end to end, ending in one of four words.",
+  "first_comment": "",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#AdCreative",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Six-slide carousel teardown of an anonymised water-purifier ad: a high-energy creator video built for scrolling doesn't reassure a buyer making a considered purchase; a calm installation walk-through would.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Ad of the Week #7",
+        "headline": "A great creator doing the *wrong job*.",
+        "sub": "A water-purifier ad, tagged frame by frame."
+      },
+      {
+        "layout": "text",
+        "kicker": "The buyer",
+        "headline": "Considered purchase. *Needs reassurance.*",
+        "body": "They're comparing models and worried about installation, maintenance and whether the claims are true.\n\nThey aren't looking to be excited."
+      },
+      {
+        "layout": "list",
+        "kicker": "What I tagged",
+        "headline": "Four attributes, *one mismatch*",
+        "items": [
+          "Hook — a reaction shot, not a buyer",
+          "Proof — claim spoken fast over music",
+          "Objection — installation never mentioned",
+          "Pacing — built for a scroll, not a decision"
+        ]
+      },
+      {
+        "layout": "compare",
+        "kicker": "The fix",
+        "headline": "Same creator, *different job*",
+        "left_title": "This ad",
+        "left": [
+          "Reaction-shot hook",
+          "Trending audio",
+          "Claim stated"
+        ],
+        "right_title": "Better match",
+        "right": [
+          "Calm walk-through",
+          "Creator's own home",
+          "Installation shown"
+        ]
+      },
+      {
+        "layout": "statement",
+        "headline": "Creator fit is the match between their style and *the buyer's doubt*."
+      },
+      {
+        "layout": "cta",
+        "headline": "Brief the *job*, then pick the creator.",
+        "sub": "One ad, decoded every Friday.",
+        "actions": [
+          "Follow Galvor for Ad of the Week",
+          "Save this for your next creator brief"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "DRAFT PATTERN: Raj must pick a real, currently running ad from the Meta Ad Library that matches this pattern and correct every detail and timestamp in the caption and slides before posting. Brand stays anonymised. Never state or guess spend or results.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:57:24",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-03-24 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:05",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "AotW-07 · R44"
+}

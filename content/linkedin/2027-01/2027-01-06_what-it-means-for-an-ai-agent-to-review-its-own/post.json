@@ -1,0 +1,62 @@
+{
+  "id": "li-2027-01-06-what-it-means-for-an-ai-agent-to-review-its-own",
+  "slug": "what-it-means-for-an-ai-agent-to-review-its-own",
+  "platform": "linkedin",
+  "date": "2027-01-06",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Building Galvor",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "Four questions for any agent that 'learns from its mistakes'",
+  "hook": "'Our agent learns from its mistakes' should make you ask one thing.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "'Our agent learns from its mistakes' should make you ask one thing.\nWhat did it write down before the mistake?\n\nLearning needs a record. Without one, an agent that changes its behaviour is only drifting. These are the four questions I would put to any vendor, and the standard we hold our own work to.\n\n1. Does each recommendation record what it expected? 'Scale this ad' is a guess until it says what should happen, and by when.\n\n2. Is it scored against what happened? A recommendation nobody scores is an opinion.\n\n3. When it was wrong, can it tell thin data from bad reasoning? An ad with too few orders teaches nothing. That miss should be flagged and left alone.\n\n4. Who approves a change to the rules? An agent that quietly rewrites itself is an agent nobody can audit. A person should see the miss first.\n\nNone of this is clever. It is bookkeeping: a prediction, a result and a note on the gap, kept for every call.\n\nIn a Monday review, that is what learning should look like. You open the record and see where the system was wrong.",
+  "first_comment": "Follow Galvor for more on how we build agents a marketing team can check.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#MarketingAnalytics",
+    "#BrandMemory"
+  ],
+  "alt_text": "",
+  "cta": "Soft: follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: the post says these four points are 'the standard we hold our own work to'. Confirm that Galvor's recommendations record an expected result, are compared with what happened, separate thin data from wrong reasoning, and that a person sees a miss before any rule changes. The earlier draft described an overnight job doing this. If that is accurate, add one line saying so. If any of the four is not yet true, cut the phrase 'and the standard we hold our own work to'.\nHook shape: punchy plus context.\nNumbers: none.\nReader: a buyer comparing agent products who has heard 'it learns' from every one of them.\nDifferent from the 23 Dec post: that one is about where a person approves before the system acts. This one is about the record kept after it acts.\nDecoded #12 goes out the same day but is on the fortnightly creative cycle, so it is not linked here.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-06 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:05",
+  "updated_at": "2026-11-16T21:20:00",
+  "topic_ref": "R25",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Notifications · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="row"><h1 class="grow">Notifications</h1><button class="btn" onclick="api('/api/notifications/read').then(()=>location.reload())">Mark all read</button></div>
+<p class="sub">Review requests, approvals, changes requested, posts due and publishing problems for {{ me.name or me.email }}.</p>
+<div class="panel">
+  {% for n in items %}
+  <div class="item" style="{{ 'background:var(--lav)' if not n.read }}">
+    <div style="width:130px" class="small muted">{{ n.at[:16]|replace('T',' ') }}</div>
+    <div class="grow"><b>{{ n.subject }}</b><div class="d" style="white-space:pre-line">{{ n.body }}</div></div>
+    {% if n.path %}<a class="btn sm soft" href="{{ n.path }}" onclick="api('/api/notifications/read',{id:'{{ n.id }}'})">Open</a>{% endif %}
+  </div>
+  {% else %}<div class="empty">Nothing yet. You'll see review requests and reminders here.</div>{% endfor %}
+</div>
+{% endblock %}

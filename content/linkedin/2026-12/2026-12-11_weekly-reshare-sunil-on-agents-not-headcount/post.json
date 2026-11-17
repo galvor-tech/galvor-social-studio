@@ -1,0 +1,54 @@
+{
+  "id": "li-2026-12-11-weekly-reshare-sunil-on-agents-not-headcount",
+  "slug": "weekly-reshare-sunil-on-agents-not-headcount",
+  "platform": "linkedin",
+  "date": "2026-12-11",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "AI & the Team",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Agents, not headcount: three tests before an agent decides alone",
+  "hook": "Before you give an AI agent a job, list your team's decisions.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Before you give an AI agent a job, list your team's decisions.\nMost plans list tasks, which is how the agent ends up producing reports nobody asked for.\n\nTake one week of your marketing team's work and sort it into two columns.\n\nMoving information: pulling numbers, renaming files, building the Monday deck, chasing a creator for a draft.\n\nDeciding: which ad to cut, what the next brief says, whether a creator gets a second video.\n\nIn the first column an agent can take the whole job. For the second column, three tests are worth applying before an agent decides anything alone:\n\nCan it be undone? Pausing an ad can be reversed tomorrow. A signed creator contract cannot.\nDoes it come up every week? Frequent decisions give you enough cases to check the agent's record.\nCan it show its working? If you cannot see why it chose, you cannot correct it.\n\nA decision that passes all three can go to the agent. The others stay with a person, and the agent prepares the evidence.\n\nDone properly, your team gets its hours back for the second column.",
+  "first_comment": "Read Decoded #8 on galvor.ai",
+  "hashtags": [
+    "#AIinMarketing",
+    "#D2C",
+    "#GrowthMarketing"
+  ],
+  "alt_text": "",
+  "cta": "none (Decoded #8 in first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil: the three tests (reversible, frequent, shows its working) agree with the position in Decoded #8 and in his own post this week. Hook shape: punchy plus context. Reader: a D2C founder or CMO deciding where AI agents fit in a small marketing team. Standalone post on the week's theme; it does not quote or depend on a personal post. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:32",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-OPEN-06",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

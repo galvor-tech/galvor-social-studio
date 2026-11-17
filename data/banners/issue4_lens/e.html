@@ -1,0 +1,20 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="base.css"><script src="common.js"></script>
+<style>.stage{background:radial-gradient(1000px 900px at 1420px 520px,rgba(110,60,230,.30),transparent 70%),#0A0A14}
+.reel{position:absolute;z-index:21;border-radius:22px;overflow:hidden;background:linear-gradient(165deg,#FFB86B,#F0609E 50%,#7C3AED);border:2px solid rgba(255,236,190,.8)}
+.reel svg.s{position:absolute;left:50%;bottom:-4px;width:120%;transform:translateX(-50%)}
+.bub{position:absolute;z-index:31;font-family:Inter,sans-serif;font-size:23px;font-weight:500;color:#1D1830;background:#F4F0FF;padding:12px 18px;border-radius:20px 20px 20px 6px;box-shadow:0 10px 28px rgba(0,0,0,.45);white-space:nowrap}
+.bub small{display:block;font-size:15px;color:#7A7396;margin-bottom:3px;font-weight:600;letter-spacing:.04em;text-transform:uppercase}
+.clip{position:absolute;z-index:20;border-radius:50%;background:#141228}</style></head>
+<body><div class="stage" id="s"><div class="copy" id="c"></div></div><script>
+const s=document.getElementById('s');document.getElementById('c').innerHTML=COPY;
+const X0=1000,Y0=150,P=165,PY=180;
+for(let r=0;r<5;r++)for(let c=0;c<5;c++){const i=r*5+c; av(s,X0+c*P,Y0+r*PY,130,i,{css:'opacity:.3'});}
+const cx=1300,cy=500,R=235; const cl=document.createElement('div');cl.className='clip';
+cl.style.cssText='left:'+(cx-R)+'px;top:'+(cy-R)+'px;width:'+(2*R)+'px;height:'+(2*R)+'px';s.appendChild(cl);
+const rl=document.createElement('div');rl.className='reel';rl.style.cssText='left:'+(cx-115)+'px;top:'+(cy-190)+'px;width:230px;height:380px';
+rl.innerHTML=SIL.replace('<svg','<svg class="s"')+'<svg viewBox="0 0 24 24" style="position:absolute;left:16px;top:16px;width:34px;height:34px"><circle cx="12" cy="12" r="11" fill="rgba(0,0,0,.28)"/><path d="M10 8l6 4-6 4z" fill="#fff"/></svg>';s.appendChild(rl);
+lens(s,cx,cy,R,-40,250,64);
+[['Where can I buy this? 😍',1545,240],['Tried it, it actually works',1585,350],['Ordered after your last reel',1545,460]].forEach(b0=>{
+  const b=document.createElement('div');b.className='bub';b.style.left=b0[1]+'px';b.style.top=b0[2]+'px';b.innerHTML='<small>Comment</small>'+b0[0];s.appendChild(b);});
+chk(s,1545,600,'Reads the comments');chk(s,1545,672,'Audience trusts them');chk(s,1545,744,'Fits the brief');
+</script></body></html>

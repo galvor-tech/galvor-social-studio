@@ -1,0 +1,122 @@
+{
+  "id": "li-2027-01-05-ai-content-at-scale-needs-a-control-layer",
+  "slug": "ai-content-at-scale-needs-a-control-layer",
+  "platform": "linkedin",
+  "date": "2027-01-05",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "AI & the Team",
+  "job": "De-risk",
+  "format": "carousel",
+  "series": "",
+  "title": "AI content at scale: five checks before anything goes live",
+  "hook": "AI made it cheap to produce a hundred ads. Checking them is still your job.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "AI made it cheap to produce a hundred ads.\nChecking them is still your job.\n\nWhen making an ad costs almost nothing, the limit on a team moves from production to control. Without checks, a team launches many ads that look alike, and the ads compete with each other.\n\nIn Galvor's analysis of new video ads launched from May to September 2026, when six or more look-alikes launched within three days, each got 48% less first-month spend.\n\nThe slides have five checks to set up before the first batch of the year, and the one step most teams skip after the ads have run.\n\nNone of them needs new software. They need a rule and a name against it.",
+  "first_comment": "Follow Galvor for more working methods like this one.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#AdCreative",
+    "#D2CIndia"
+  ],
+  "alt_text": "Six-slide carousel. Five checks for AI-made ads before they go live: a reason for each ad, one change at a time, a person reading every claim, a cap on look-alike ads, and one named approver. A stat slide shows look-alike ads launched together each got 48% less first-month spend. A final step: write down what each ad taught you.",
+  "cta": "Soft: save the checklist; follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "AI content at scale",
+        "headline": "Making more ads is easy now. *Five checks* before any of them go live.",
+        "sub": "A control layer your team can set up this week."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Why volume alone fails",
+        "stat": "48%",
+        "headline": "less first-month spend per ad when *six or more look-alikes* launched within three days",
+        "sub": "Ads that look alike compete with each other.",
+        "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+      },
+      {
+        "layout": "list",
+        "kicker": "Before it is made",
+        "headline": "Give every ad *a reason to exist*",
+        "items": [
+          {
+            "title": "1. A reason",
+            "detail": "Each ad names the earlier ad it learns from"
+          },
+          {
+            "title": "2. One change",
+            "detail": "Change the message or the look, never both at once"
+          }
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Before it goes live",
+        "headline": "Put *a person* at the gate",
+        "items": [
+          {
+            "title": "3. Claims",
+            "detail": "A person reads every product and health claim"
+          },
+          {
+            "title": "4. Look-alikes",
+            "detail": "Cap how many similar ads launch in one week"
+          },
+          {
+            "title": "5. A name",
+            "detail": "One person signs off and owns the result"
+          }
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "The step most teams skip",
+        "headline": "Write down what each ad *taught you*",
+        "body": "Two weeks after launch, log one line per ad: what we changed, what happened, what we do next.\n\nWithout that line, the next batch starts from zero, however fast it was made."
+      },
+      {
+        "layout": "cta",
+        "headline": "Set the five checks *before* the next batch",
+        "sub": "Save this for your first planning meeting of the year.",
+        "actions": [
+          "Follow Galvor",
+          "Save the checklist"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: stacked. Reader: a head of growth or CMO whose team started using AI tools to make ads in 2026. Argument: when production is cheap, the team needs five written checks and a learning log. Number used: 48% less first-month spend when six or more look-alikes launched within three days (Decoded #3, Galvor analysis of new video ads launched May to Sep 2026). First of two possible uses in this group; it is not used again. No matching Decoded issue, so the first comment is a follow ask only.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:52:48",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-05 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:17:35",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:43",
+  "updated_at": "2026-11-16T21:17:35",
+  "topic_ref": "S23",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

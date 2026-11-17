@@ -1,0 +1,105 @@
+{
+  "id": "li-2027-03-10-ad-of-the-week-6-same-claim-two-shoots",
+  "slug": "ad-of-the-week-6-same-claim-two-shoots",
+  "platform": "linkedin",
+  "date": "2027-03-10",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Attract",
+  "format": "carousel",
+  "series": "Ad of the Week",
+  "title": "Ad of the Week #6: same claim, two shoots",
+  "hook": "Ad of the Week #6: the same claim, shot two ways.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Year-end budgets: spend that teaches",
+  "caption": "Ad of the Week #6: the same claim, shot two ways.\n\nThis week I looked at a premium footwear D2C brand running two versions of one message at the same time: you can walk all day without breaking them in.\n\nVersion A is a polished studio ad. Clean background, slow product rotation, a model walking on a white floor.\n\nVersion B is a creator on a phone at the end of a long day at a wedding, taking the shoes off and pressing the sole with her thumb.\n\nThe usual debate is UGC vs polished. Which one wins?\n\nWrong question. They're doing different jobs.\n\nVersion A sells desire. It's for someone who already wants good shoes and needs a reason to pick these.\nVersion B sells proof. It's for someone who doubts the comfort claim and needs to see it tested.\n\nHere's what I tagged:\nHook: A opens on the product, B opens on a tired person.\nProof: A states the claim, B demonstrates it.\nSetting: A is nowhere, B is a moment the buyer recognises.\n\nRunning both isn't waste if each one is matched to a different doubt.\n\nBreakdown in the carousel. Next Friday: a great creator doing the wrong job.",
+  "first_comment": "",
+  "hashtags": [
+    "#AdCreative",
+    "#CreativeStrategy",
+    "#CreatorMarketing"
+  ],
+  "alt_text": "Six-slide carousel comparing a polished studio footwear ad with a phone-shot creator version of the same comfort claim: one sells desire, the other sells proof.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Ad of the Week #6",
+        "headline": "Same claim. Two shoots. *Two different jobs.*",
+        "sub": "UGC vs polished is the wrong debate."
+      },
+      {
+        "layout": "compare",
+        "kicker": "The two versions",
+        "headline": "Studio vs *phone*",
+        "left_title": "Version A · studio",
+        "left": [
+          "Slow product rotation",
+          "Model on a white floor",
+          "States the claim"
+        ],
+        "right_title": "Version B · phone",
+        "right": [
+          "Tired creator after a wedding",
+          "Presses the sole on camera",
+          "Shows the claim"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "What I tagged",
+        "headline": "Three attributes that *differ*",
+        "items": [
+          "Hook — product vs a tired person",
+          "Proof — stated vs demonstrated",
+          "Setting — nowhere vs a moment you recognise"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "The job",
+        "headline": "A sells *desire*. B sells *proof*.",
+        "body": "A is for someone who already wants good shoes.\n\nB is for someone who doubts the comfort claim and needs to see it tested."
+      },
+      {
+        "layout": "statement",
+        "headline": "Ask what *job* the ad is doing, not what it looks like.",
+        "sub": "Match each version to a different doubt."
+      },
+      {
+        "layout": "cta",
+        "headline": "Two versions are fine if each answers a *different doubt*.",
+        "sub": "One ad, decoded every Friday.",
+        "actions": [
+          "Follow Galvor for Ad of the Week",
+          "Save this for your next creative review"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "DRAFT PATTERN: Raj must pick a real, currently running ad from the Meta Ad Library that matches this pattern and correct every detail and timestamp in the caption and slides before posting. Brand stays anonymised. Never state or guess spend or results.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:56:30",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-03-10 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:23",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "AotW-06 · R43"
+}

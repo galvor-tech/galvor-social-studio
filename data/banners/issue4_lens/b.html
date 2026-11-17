@@ -1,0 +1,12 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="base.css"><script src="common.js"></script>
+<style>.stage{background:radial-gradient(1000px 900px at 1450px 520px,rgba(110,60,230,.34),transparent 70%),#0A0A14}
+.lens{border-width:22px}.inner{position:absolute;z-index:18;border-radius:50%;background:radial-gradient(circle,rgba(124,58,237,.28),rgba(10,10,20,.55) 75%)}</style></head>
+<body><div class="stage" id="s"><div class="copy" id="c"></div></div><script>
+const s=document.getElementById('s');document.getElementById('c').innerHTML=COPY;
+const X0=1010,Y0=60,P=225,PY=240;
+for(let r=0;r<5;r++)for(let c=0;c<5;c++){const i=r*5+c; av(s,X0+c*P,Y0+r*PY,190,i,{css:'opacity:.35'});}
+const cx=1470,cy=470,R=300; const inn=document.createElement('div');inn.className='inner';
+inn.style.cssText='left:'+(cx-R)+'px;top:'+(cy-R)+'px;width:'+(2*R)+'px;height:'+(2*R)+'px';s.appendChild(inn);
+lens(s,cx,cy,R,-40,300,84); av(s,cx,cy,380,0,{hero:true,css:'z-index:21'});
+chk(s,1130,850,'Watches the reels');chk(s,1440,850,'Reads the comments');chk(s,1260,926,'Judges fit with the brief');
+</script></body></html>

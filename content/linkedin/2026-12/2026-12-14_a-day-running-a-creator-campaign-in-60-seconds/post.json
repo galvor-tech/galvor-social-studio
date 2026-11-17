@@ -1,0 +1,127 @@
+{
+  "id": "li-2026-12-14-a-day-running-a-creator-campaign-in-60-seconds",
+  "slug": "a-day-running-a-creator-campaign-in-60-seconds",
+  "platform": "linkedin",
+  "date": "2026-12-14",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Creator Ops India",
+  "job": "Attract",
+  "format": "video",
+  "series": "Brief to Live",
+  "title": "Brief to Live: a creator campaign day in under a minute",
+  "hook": "A creator campaign day is four check-ins around the shoot.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "A creator campaign day is four check-ins around the shoot.\n\nMorning: the brief goes out with the must-haves at the top.\n\nMidday: questions come back. If two creators ask the same thing, the brief has a hole, so the brief gets fixed and then the replies go out.\n\nAfternoon: first cuts. Claim, product and ask get checked before the brand sees anything.\n\nEvening: a follow-up by voice note, and every decision from the chat goes into one tracker.\n\nThe one to copy tomorrow is the midday rule. The same question twice is a note about your brief.\n\nThis is Brief to Live, a series on what happens between the brief and the ad going live.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#D2CIndia",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "Vertical video cover. Brief to Live. Headline: A creator campaign day, in under a minute. Sub line: four check-ins that get a campaign live on time.",
+  "cta": "Follow Galvor (end of video and first comment)",
+  "script": {
+    "duration": "45s",
+    "setup": "Idea: a brand or creative manager thinks a creator campaign is won on the shoot; the day is really run by four check-ins around it. On-screen title (first frame): 'A creator campaign day'. Expectation it sets: a quick look at what the day involves. The first line meets it; the video beats it with one rule the viewer can copy (the same question twice means fix the brief). Points are kept in the order of the day so the viewer can follow the clock; the strongest point sits second. Shot vertically on a phone with burned-in subtitles. Blur creator names, client names and chat contents.",
+    "scenes": [
+      {
+        "time": "0–5s",
+        "visual": "Shrutik to camera at his desk, phone in hand. Title text sits on the first frame.",
+        "voiceover": "This is a creator campaign day, in under a minute.",
+        "on_screen": "A creator campaign day"
+      },
+      {
+        "time": "5–10s",
+        "visual": "A ring light and tripod standing unused in a corner, then a wall clock.",
+        "voiceover": "People think the work is the shoot. Most of it is four check-ins.",
+        "on_screen": "Four check-ins, not the shoot"
+      },
+      {
+        "time": "10–15s",
+        "visual": "Phone screen: one long message being sent, the top lines numbered. Details blurred.",
+        "voiceover": "Morning. The brief goes out, must-haves at the top.",
+        "on_screen": "Morning: must-haves on top"
+      },
+      {
+        "time": "15–20s",
+        "visual": "Phone face up on the desk, screen lighting up with replies.",
+        "voiceover": "Then I wait for questions. They test the brief.",
+        "on_screen": "Questions test the brief"
+      },
+      {
+        "time": "20–25s",
+        "visual": "Two chat bubbles side by side with the same question (blurred). Cut to the brief being edited.",
+        "voiceover": "Midday. Two creators ask the same thing. That is a hole in the brief. Fix the brief.",
+        "on_screen": "Same question twice? Fix brief"
+      },
+      {
+        "time": "25–30s",
+        "visual": "Laptop with a first cut paused. A hand ticks three boxes on a printed sheet.",
+        "voiceover": "Afternoon. First cuts. I check claim, product and ask before the brand sees them.",
+        "on_screen": "Check claim, product, ask"
+      },
+      {
+        "time": "30–35s",
+        "visual": "Shrutik walking, recording a voice note on his phone.",
+        "voiceover": "Evening. Someone has gone quiet. I send a voice note.",
+        "on_screen": "Evening: follow up by voice"
+      },
+      {
+        "time": "35–40s",
+        "visual": "Laptop: a simple tracker sheet, one row being filled in. Details blurred.",
+        "voiceover": "Last, every decision in the chat goes into one tracker.",
+        "on_screen": "Decisions go in one tracker"
+      },
+      {
+        "time": "40–45s",
+        "visual": "Shrutik to camera, closing the laptop. Galvor logo end card.",
+        "voiceover": "Boring check-ins get a campaign live on time. Follow Galvor for more.",
+        "on_screen": "Follow Galvor"
+      }
+    ],
+    "music": "Light, low instrumental, kept under the voice.",
+    "notes": "No numbers from the facts bank are used. Spoken at about 2.3 words a second for 45 seconds. Add a captions file for muted autoplay. Use the cover as the thumbnail."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Brief to Live",
+        "headline": "A creator campaign day, *in under a minute*",
+        "sub": "Four check-ins that get a campaign live on time.",
+        "play": "Watch the day"
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that the four check-ins (brief out in the morning, questions at midday, first cuts in the afternoon, follow-up and tracker in the evening) match how he runs a real campaign day, and that he can film it during a live campaign with creator and client details blurred. Nothing in the script describes a specific real day; he should adjust any step that is not true for him.\nReader: a brand or creative manager who has never seen the servicing side. Shape: a day in sequence with one rule to copy. Numbers used: none. Title changed from '60 seconds' to 'under a minute' because the script is 45 seconds.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-14 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:50",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh19",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

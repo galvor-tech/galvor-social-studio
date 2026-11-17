@@ -1,0 +1,47 @@
+{
+  "id": "ig-2026-11-10-new-post",
+  "slug": "new-post",
+  "platform": "instagram",
+  "date": "2026-11-10",
+  "time": "10:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "New post",
+  "hook": "",
+  "status": "skipped",
+  "festival": "Govardhan Puja / Diwali Padwa / Gujarati New Year 2026",
+  "theme": "From dashboards to decisions",
+  "caption": "",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "",
+  "approvals": [
+    {
+      "at": "2026-11-08T02:48:02",
+      "action": "Created"
+    },
+    {
+      "at": "2026-11-11T01:04:23",
+      "action": "Skipped in Nov 2026 re-plan: festival date has passed"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T02:46:32",
+  "updated_at": "2026-11-11T01:04:23",
+  "topic_ref": ""
+}

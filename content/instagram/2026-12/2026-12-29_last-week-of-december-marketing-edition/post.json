@@ -1,0 +1,84 @@
+{
+  "id": "ig-2026-12-29-last-week-of-december-marketing-edition",
+  "slug": "last-week-of-december-marketing-edition",
+  "platform": "instagram",
+  "date": "2026-12-29",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Meme / Relatable",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Relatable: last week of December, and one calm job",
+  "hook": "Last week of December, marketing edition.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Last week of December, marketing edition.\n\nThe out-of-office is on. The ads are not. And \"let's pick this up in January\" has been said with full confidence at least once.\n\nIf you do one calm job this week, make it this: rename your ads.\n\nPick one pattern and use it everywhere. Product, message, format, creator, month. In that order, every time.\n\nIt is dull work. It is also the reason next year you can sort a whole account by message and see what carried it.\n\nTag the teammate who names files \"final_v3\". Follow @galvor.ai for more.",
+  "first_comment": "",
+  "hashtags": [
+    "#performancemarketing",
+    "#metaads",
+    "#marketingtips",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "List card in Galvor violet and gold titled Last week of December, marketing edition. Four lines: Out-of-office is on, the ads are not. Let's pick this up in January, said with full confidence. The best ad is still running and nobody wants to touch it. One calm job for this week: rename your ads so you can sort them.",
+  "cta": "Light ask: tag a teammate, follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "Relatable",
+        "headline": "Last week of December, *marketing edition*",
+        "items": [
+          {
+            "title": "Out-of-office is on",
+            "detail": "The ads are not"
+          },
+          {
+            "title": "\"Let's pick this up in January\"",
+            "detail": "Said with full confidence"
+          },
+          {
+            "title": "The best ad is still running",
+            "detail": "Nobody wants to touch it"
+          },
+          {
+            "title": "One calm job for this week",
+            "detail": "Rename your ads so you can sort them"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: the performance marketer keeping the account alive in the holiday week. The old version ended on \"learn from what already ran\", which repeated the 26 Dec deck post, so this one teaches a different usable thing: one naming pattern for ads. The \"final_v3\" tag line teases a habit we all have; it is aimed at teammates, not clients or creators. No numbers from the facts bank.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-12-27 (Sun) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2026-12-27 11:00 to 2026-12-29 12:30: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:36",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "IG-105",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

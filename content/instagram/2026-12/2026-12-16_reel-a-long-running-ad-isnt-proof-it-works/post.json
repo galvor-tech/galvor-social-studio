@@ -1,0 +1,138 @@
+{
+  "id": "ig-2026-12-16-reel-a-long-running-ad-isnt-proof-it-works",
+  "slug": "reel-a-long-running-ad-isnt-proof-it-works",
+  "platform": "instagram",
+  "date": "2026-12-16",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Myth vs Fact",
+  "job": "De-risk",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: old competitor ad? Two checks before you copy it",
+  "hook": "That competitor ad has run for months. It still might not be working.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "That competitor ad has run for months. It still might not be working.\n\nThe ad library shows what is live. It does not show results, and an ad can stay on simply because nobody switched it off.\n\nTwo checks before you copy anything:\n1. What do they keep remaking? New versions of one opening are a stronger hint than one old ad.\n2. Does the same pattern show up across several brands in your category?\n\nThen test it small, with your own reason to buy. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#adstrategy",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Old competitor ad? Don't copy yet. The reel shows a dummy ad with a long-running badge, then two checks: what the brand keeps remaking, and whether the pattern appears across several brands. End card: follow @galvor.ai.",
+  "cta": "Follow @galvor.ai",
+  "script": {
+    "duration": "42s",
+    "setup": "Idea: a performance marketer about to copy a competitor's long-running ad learns why the run length proves little and what to check instead. On-screen title: Old competitor ad? Don't copy yet. Expectation set: a reason to pause and something better to do. The script gives the reason in the first two scenes, then beats the expectation with two checks and a way to test. Outline: live does not mean working; remakes are the stronger hint (second-best, first); the pattern across brands; your own small test (best).",
+    "scenes": [
+      {
+        "time": "0–5s",
+        "visual": "A dummy ad tile on a phone with a badge showing it has been live for months.",
+        "voiceover": "That competitor ad has run for months. So it must work?",
+        "on_screen": "Old competitor ad? Don't copy yet."
+      },
+      {
+        "time": "5–9s",
+        "visual": "An ad library style grid of dummy tiles. A results column beside it is empty.",
+        "voiceover": "The ad library shows what's live. It never shows results.",
+        "on_screen": "Shows live ads, never results"
+      },
+      {
+        "time": "9–13s",
+        "visual": "An on-off switch sits untouched. Dust settles on it.",
+        "voiceover": "An ad can stay on because nobody switched it off.",
+        "on_screen": "Maybe nobody switched it off"
+      },
+      {
+        "time": "13–17s",
+        "visual": "The single old tile fades. Several newer tiles from the same brand slide in.",
+        "voiceover": "So skip the single old ad. Look for a pattern.",
+        "on_screen": "Look for a pattern"
+      },
+      {
+        "time": "17–22s",
+        "visual": "Three newer tiles line up. They share one opening frame, with different endings.",
+        "voiceover": "Check one: what do they keep remaking? Same opening, new versions?",
+        "on_screen": "1. What do they remake?"
+      },
+      {
+        "time": "22–27s",
+        "visual": "A small production clapper appears next to each remake.",
+        "voiceover": "Remaking costs money. Teams tend to remake what earns its keep.",
+        "on_screen": "Remakes are a stronger hint"
+      },
+      {
+        "time": "27–32s",
+        "visual": "Tiles from several dummy brands appear in rows. The same opening pattern is outlined in each row.",
+        "voiceover": "Check two: does the pattern show across several brands in your category?",
+        "on_screen": "2. Across several brands?"
+      },
+      {
+        "time": "32–37s",
+        "visual": "One new tile with a different product enters a small test box.",
+        "voiceover": "Then test it with your own reason to buy, small first.",
+        "on_screen": "Test small, your own reason"
+      },
+      {
+        "time": "37–42s",
+        "visual": "End card: the words clue and proof side by side, then the Galvor logo. Chime.",
+        "voiceover": "A clue from them. Proof from you. Follow @galvor.ai.",
+        "on_screen": "Clue, then your own proof"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Never name a competitor or any brand, and never state or guess anyone's spend or results. Use dummy tiles only."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "Old competitor ad? *Don't copy yet.*",
+        "sub": "Two checks first.",
+        "play": "Watch the two checks"
+      },
+      {
+        "layout": "cta",
+        "headline": "A long run is a clue. *Your test is proof.*",
+        "sub": "Check what they remake, then test small.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the topic and sharpened it into two checks a viewer can run the same day. No numbers used. No competitor named. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-16 19:00)"
+    },
+    {
+      "at": "2026-11-11T03:32:57",
+      "action": "Script CTA fixed: 'Follow for…' → 'Follow Galvor for…' (house rule)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:18",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-20",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

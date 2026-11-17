@@ -1,0 +1,129 @@
+{
+  "id": "ig-2026-12-14-spot-creative-fatigue-before-costs-rise",
+  "slug": "spot-creative-fatigue-before-costs-rise",
+  "platform": "instagram",
+  "date": "2026-12-14",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Four early signs of creative fatigue, and the refresh-or-cut call",
+  "hook": "An ad shows it is tiring before the cost per order moves. Four early signs to watch.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "An ad shows it is tiring before the cost per order moves. Four early signs to watch.\n\nFewer people stay past the opening. The same people see it more often. Clicks drop while spend holds. Comments start saying “seen this”.\n\nThen ask one question: is the message tired, or only the look?\n\nIf the message still works in other ads, refresh the look. In our analysis, a proven message in a new look got 47% more first-month spend.\n\nSave the Monday check on the last slide. Follow @galvor.ai.",
+  "first_comment": "Read Decoded #6 on galvor.ai.",
+  "hashtags": [
+    "#metaads",
+    "#adcreative",
+    "#marketingtips",
+    "#performancemarketing",
+    "#d2cindia"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: four early signs an ad is getting tired. Slide 2: the four signs, which show up before the cost does. Slide 3: is the message tired or only the look. Slide 4: two columns, when to refresh and when to cut. Slide 5: a proven message in a new look got 47% more first-month spend. Slide 6: the Monday fatigue check in four steps. Slide 7: follow @galvor.ai.",
+  "cta": "Save the Monday check; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Quick tip",
+        "headline": "*4 early signs* an ad is getting tired",
+        "sub": "And how to choose between a refresh and a cut."
+      },
+      {
+        "layout": "list",
+        "kicker": "Watch these weekly",
+        "headline": "The signs show up *before the cost does*",
+        "items": [
+          "Fewer people stay past the opening",
+          "The same people are seeing it more often",
+          "Clicks drop while spend stays flat",
+          "Comments start saying “seen this”"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Then ask one question",
+        "headline": "Is the *message* tired, or only the *look*?",
+        "body": "Check other ads carrying the same message.\n\nIf they still hold, the message is fine and this ad's look has worn out. If they are all slipping, the message itself needs a rest."
+      },
+      {
+        "layout": "compare",
+        "kicker": "The call",
+        "headline": "*Refresh* or *cut*?",
+        "left_title": "Refresh",
+        "left": [
+          "Message works in other ads",
+          "Only this look is slowing",
+          "Keep the claim, reshoot the opening"
+        ],
+        "right_title": "Cut",
+        "right": [
+          "Every version is slipping",
+          "It never held attention",
+          "Move the spend, note the lesson"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "Why refresh first",
+        "stat": "47%",
+        "headline": "more first-month spend for a *proven message in a new look*",
+        "source": "Source: Galvor analysis · new video ads launched May to Sep 2026"
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "The *Monday fatigue check*",
+        "items": [
+          "Open your top five ads by spend",
+          "Compare this week with last on the four signs",
+          "Any sign showing: ask the message question",
+          "Decide: refresh, cut or leave"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Catch it at the first sign. *Then choose.*",
+        "sub": "Save the Monday check.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this check",
+          "Share with your media buyer"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a media buyer or growth lead who watches ad performance weekly. One argument: fatigue has early signs, and the useful decision is whether the message or only the look is worn. Numbers used: 47% more first-month spend for a proven message in a new look (facts bank, Decoded #3; second and last use in this group). The four signs are common practice and carry no thresholds on purpose, since the facts bank has none. First comment points to Decoded #6 (Creative Fatigue), published 25 Nov. Topic kept and sharpened.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:53:38",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:53",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-28",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

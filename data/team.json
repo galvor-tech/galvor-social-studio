@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Suyash",
+    "email": "suyash@galvor.com",
+    "title": "",
+    "role": "approver",
+    "voice": "",
+    "brand_signoff": false,
+    "active": true
+  },
+  {
+    "name": "Sunil Humne",
+    "email": "sunil@galvor.com",
+    "title": "",
+    "role": "approver",
+    "voice": "sunil",
+    "brand_signoff": true,
+    "active": true
+  },
+  {
+    "name": "Raj Dhakad",
+    "email": "raj@galvor.com",
+    "title": "",
+    "role": "approver",
+    "voice": "raj",
+    "brand_signoff": false,
+    "active": true
+  },
+  {
+    "name": "Shrutik Rathod",
+    "email": "shrutik@galvor.com",
+    "title": "",
+    "role": "admin",
+    "voice": "shrutik",
+    "brand_signoff": true,
+    "active": true
+  },
+  {
+    "name": "KC",
+    "email": "kuljit@galvor.com",
+    "title": "",
+    "role": "viewer",
+    "voice": "",
+    "brand_signoff": false,
+    "active": true
+  }
+]

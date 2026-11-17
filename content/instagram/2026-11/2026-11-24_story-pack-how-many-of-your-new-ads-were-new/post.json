@@ -1,0 +1,97 @@
+{
+  "id": "ig-2026-11-24-story-pack-how-many-of-your-new-ads-were-new",
+  "slug": "story-pack-how-many-of-your-new-ads-were-new",
+  "platform": "instagram",
+  "date": "2026-11-24",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "story",
+  "series": "",
+  "title": "Story pack: how soon do you judge a new ad?",
+  "hook": "A new ad looks costly in week one. When do you switch it off?",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Story pack (no feed caption).\n\nFrame 1 asks the question. Frame 2 is the poll. Frame 3 is the number from our analysis. Frame 4 is the tip to copy: write the review date before launch. Frame 5 points to tomorrow's Decoded issue on creative fatigue.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Five vertical story frames in Galvor violet and gold. Frame 1 asks how soon you judge a new ad. Frame 2 is a poll on when you switch off a costly new ad. Frame 3 shows 35%: some ad styles start about 35% dearer per order in their first two months and end close to average. Frame 4 gives the tip: write the review date before launch. Frame 5 says Decoded #6 on creative fatigue lands tomorrow.",
+  "cta": "Vote in the poll; follow @galvor.ai for tomorrow's Decoded #6",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Quick poll",
+        "headline": "How soon do you *judge* a new ad?",
+        "sub": "Tap through and vote."
+      },
+      {
+        "layout": "poll",
+        "kicker": "Be honest",
+        "headline": "A new ad looks costly. When do you *switch it off?*",
+        "options": [
+          "Within three days",
+          "After a week",
+          "After two weeks",
+          "When someone asks"
+        ],
+        "sub": "Vote with the poll sticker."
+      },
+      {
+        "layout": "stat",
+        "kicker": "What we saw",
+        "stat": "35%",
+        "headline": "Some ad styles start about 35% *dearer per order* in their first two months",
+        "sub": "They end close to average over their life.",
+        "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "Quick tip",
+        "headline": "Write the *review date* before launch",
+        "body": "Decide the day you will judge the ad, and the cost you expect by then.\n\nOn its own, a costly first week tells you little. The date keeps the decision honest."
+      },
+      {
+        "layout": "cta",
+        "headline": "Tomorrow: Decoded #6 on *creative fatigue.*",
+        "sub": "When to refresh, when to cut.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Decoded #6 lands tomorrow"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Topic replaced: the old pack (how many of your new ads were new) made the same argument as the 25 Nov reel. New argument: do not judge a new ad on a costly first week. Interactive ask: poll sticker on frame 2 with the four options as written. Number used: 35% dearer per order in the first two months, ending close to average (facts bank, Decoded #3 analysis of ads launched May–Sep 2026); source line on frame 3. Post frames 30 to 60 minutes apart.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:51:22",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-24 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:23:57",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:56",
+  "updated_at": "2026-11-16T21:23:57",
+  "topic_ref": "IG-02",
+  "rescheduled_from": "2026-11-10",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "li-2026-11-11-why-andromeda-reads-look-alike-creator-ads-as-on",
+  "slug": "why-andromeda-reads-look-alike-creator-ads-as-on",
+  "platform": "linkedin",
+  "date": "2026-11-11",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Public Data",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "Why Andromeda reads look-alike creator ads as one bet",
+  "hook": "When delivery drops after a Meta update, \"the algorithm changed\" is the easy answer. In our data, the algorithm is mostly reading the creative we gave it.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "When delivery drops after a Meta update, \"the algorithm changed\" is the easy answer. In our data, the algorithm is mostly reading the creative we gave it.\n\nMeta has been public about what changed.\n\nAndromeda, its ad retrieval system, scores over a billion ads a second. Meta says that is 100× the 2024 system, with +2.4% conversions on Facebook since 2025.\n\nA system that fast doesn't need six copies of one idea. It needs options that are actually different.\n\nHere is what we saw in Galvor's analysis of every new video ad launched May–Sep 2026 across the brands we work with:\n\nNew ads that looked like many running ads got 36% less first-month spend.\nSix or more look-alikes launched within three days each got 48% less.\nA new message over a familiar first shot got 16% less.\nA proven message in a new look got 47% more.\n\nMy read, as someone who builds the tagging: near-duplicates behave like one bet. Same creator, same hook, same room, different end card. That is one idea split six ways.\n\nSo the fix usually isn't a new campaign structure. It sits in the brief.\n\nBefore your next batch, compare your live ads on four attributes:\nHook: do the first 3 seconds say something different?\nCast: same creator, same face?\nSetting: home, store, outdoors, studio?\nProblem framing: price, proof, routine, gifting?\n\nIf two ads match on all four, count them as one.\n\nThe \"Creative diversity\" column started appearing in late August and reached most accounts in the last week of October. Worth opening this week.\n\nFrom dashboards to decisions: the number is already there. The decision is what you brief next.\n\nFollow Galvor for more engineering teardowns of how ad delivery reads your creative.",
+  "first_comment": "Sources:\nMeta's Andromeda numbers (over a billion ads a second, 100× the 2024 system, +2.4% conversions on Facebook since 2025) are from Meta's public statements, as cited in Decoded by Galvor #3. A good summary of the October update: https://www.linkedin.com/posts/anand-tuli_meta-andromeda-what-the-october-28-update-activity-7525372800962990080-kl74\n\nThe 36% / 48% / 16% / 47% figures and the method are in Decoded #3: [DECODED #3 LINK + UTM]\n\nFollow Galvor for more teardowns like this.",
+  "hashtags": [
+    "#MetaAds",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Violet gradient slide with the Galvor logo. Large quote: 'Six look-alike ads aren't six bets. They're one.' The words 'They're one' are highlighted in gold. Below it: 'Vary the hook, cast, setting and problem framing, not just the end card.' Footer shows Raj Dhakad's author chip.",
+  "cta": "Follow Galvor (no ask; sources and Decoded #3 link in first comment)",
+  "script": {
+    "duration": "",
+    "music": "",
+    "setup": "",
+    "notes": "",
+    "scenes": []
+  },
+  "poll": {
+    "question": "",
+    "options": [],
+    "duration": "1 week"
+  },
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "headline": "Six look-alike ads aren't six bets. *They're one.*",
+        "layout": "statement",
+        "sub": "Vary the hook, cast, setting and problem framing, not just the end card."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "I rewrote the brief's hook. The original blamed media buyers, and Raj's voice never lectures them. I also dropped '2.0' and 'flags' from the angle. Meta hasn't described Andromeda that way, and Andromeda is a retrieval system, not a flagging one.\n\nThe 'one bet' line is labelled as Raj's read, not as Meta's mechanism. All Galvor numbers come from Decoded #3, facts bank §4. The Meta numbers are attributed to Meta's public statements.\n\nI left out the '2 hours ROAS checks' stat. It didn't serve the argument, and the post works without it.\n\nBefore posting: add the tracked UTM link to Decoded #3 in the first comment. Decoded #4 goes out the same day at 08:30, so stagger team comments. First-hour comment starters for the team:\n(1) Shrutik: what a 'genuinely different' creator brief looks like.\n(2) Sunil: what look-alike batches cost a founder in wasted production.",
+  "approvals": [
+    {
+      "at": "2026-11-11T15:29:35",
+      "action": "Shrutik Rathod: created from idea idea-58161cb7fb"
+    },
+    {
+      "at": "2026-11-11T15:30:54",
+      "action": "Shrutik Rathod: status → In review"
+    },
+    {
+      "at": "2026-11-11T15:31:16",
+      "action": "Shrutik Rathod: status → Draft — na"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T15:29:01",
+  "updated_at": "2026-11-11T15:31:16",
+  "topic_ref": "",
+  "idea_id": "idea-58161cb7fb",
+  "reminders": {
+    "missed": "2026-11-11T15:29:47"
+  },
+  "review": {
+    "requested_by": "shrutik@galvor.com",
+    "requested_by_name": "Shrutik Rathod",
+    "requested_at": "2026-11-11T15:30:54",
+    "reviewers": [
+      "raj@galvor.com"
+    ],
+    "reviewer_names": [
+      "Raj Dhakad"
+    ]
+  }
+}

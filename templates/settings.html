@@ -1,0 +1,109 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Settings · Galvor Social Studio{% endblock %}
+{% block body %}
+<h1>Settings</h1>
+<p class="sub">Saved locally in <code>studio/data/settings.json</code>. API keys for AI live in <code>{{ env_path }}</code>.</p>
+<form method="post">
+<div class="grid g2">
+  <div class="card"><h4>Access: team sign-in</h4>
+    <p class="small">Now: <b>{{ 'Google sign-in on: only people on the Team list can open the studio' if auth_on else 'Off: the studio only opens on this laptop' }}</b>.
+      See <code>studio/TEAM_ACCESS.md</code> for the 15-minute setup (Google OAuth client + Cloudflare Tunnel).</p>
+    <label class="f">Studio web address <small>(base URL, e.g. https://studio.galvor.ai; used in sign-in and email links)</small></label>
+    <input class="in" name="base_url" value="{{ s.base_url }}" placeholder="https://studio.galvor.ai">
+    <label class="f">Google OAuth client ID</label><input class="in" name="google_client_id" value="{{ s.google_client_id }}" placeholder="…apps.googleusercontent.com">
+    <label class="f">Google OAuth client secret <small>{{ '(saved; leave blank to keep)' if s.google_client_secret else '' }}</small></label><input class="in" type="password" name="google_client_secret" autocomplete="new-password">
+    <label class="f">Allowed email domains <small>(comma-separated)</small></label><input class="in" name="allowed_domains" value="{{ (s.allowed_domains or ['galvor.com'])|join(', ') }}">
+    <p class="small muted">Authorised redirect URIs to add in Google Cloud: <code>{{ (s.base_url or 'https://studio.galvor.ai')|trim('/') }}/auth/callback</code> and <code>http://localhost:5055/auth/callback</code></p>
+    <label class="row" style="gap:8px;margin-top:10px"><input type="checkbox" name="auth_mode" value="google" {{ 'checked' if s.auth_mode=='google' }}> Require Google sign-in</label>
+  </div>
+  <div class="card"><h4>Notifications</h4>
+    <p class="small muted">Always on: the in-app inbox (🔔). Optional: email and a Google Chat / Slack channel. Events: review requested · approved · changes requested · post due · auto-publish failed.</p>
+    <label class="row" style="gap:8px"><input type="checkbox" name="notify_email" value="1" {{ 'checked' if s.notify_email }}> Send email notifications</label>
+    <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px">
+      <div><label class="f">SMTP host</label><input class="in" name="smtp_host" value="{{ s.smtp_host }}"></div>
+      <div><label class="f">Port</label><input class="in" name="smtp_port" value="{{ s.smtp_port }}"></div>
+    </div>
+    <label class="f">Sender account <small>(Google Workspace address)</small></label><input class="in" name="smtp_user" value="{{ s.smtp_user }}" placeholder="studio@galvor.com">
+    <label class="f">App password <small>{{ '(saved; leave blank to keep)' if s.smtp_password else '(Google Account → Security → App passwords)' }}</small></label><input class="in" type="password" name="smtp_password" autocomplete="new-password">
+    <label class="f">From <small>(optional display, e.g. Galvor Studio &lt;studio@galvor.com&gt;)</small></label><input class="in" name="smtp_from" value="{{ s.smtp_from }}">
+    <label class="f">Google Chat / Slack webhook URL <small>(optional)</small></label><input class="in" name="chat_webhook" value="{{ s.chat_webhook }}" placeholder="https://chat.googleapis.com/v1/spaces/…">
+    <button type="button" class="btn sm" style="margin-top:10px" onclick="api('/api/notify/test').then(j=>{toast(j.message||j.error,5000)})">Send me a test</button>
+    {% if notify_log %}<div class="history" style="margin-top:10px"><b class="small">Delivery log</b>{% for l in notify_log|reverse %}<div>{{ l }}</div>{% endfor %}</div>{% endif %}
+  </div>
+</div>
+<div class="grid g2">
+  <div class="card"><h4>AI copywriter</h4>
+    <p class="small">Current: <b>{{ ai_status.provider if ai_status.ready else 'none configured' }}</b>{% if ai_status.model %} · {{ ai_status.model }}{% endif %}</p>
+    <p class="small muted">Claude: put <code>CLAUDE_API_KEY=…</code> (or <code>ANTHROPIC_API_KEY=…</code>) in the .env file (or run <code>ant auth login</code>). Gemini: <code>GEMINI_API_KEY</code> and <code>GEMINI_MODEL</code> are already copied from your Creative Intelligence app. Restart the studio after editing .env.</p>
+    <label class="f">Provider</label><select class="in" name="ai_provider">{% for o in ['auto','anthropic','gemini'] %}<option {{ 'selected' if s.ai_provider==o }}>{{ o }}</option>{% endfor %}</select>
+    <label class="f">Claude model</label><input class="in" name="anthropic_model" value="{{ s.anthropic_model }}">
+    <label class="f">Gemini model <small>(blank = GEMINI_MODEL from .env)</small></label><input class="in" name="gemini_model" value="{{ s.gemini_model }}">
+  </div>
+  <div class="card"><h4>Scheduler &amp; rendering</h4>
+    <p class="small">Heartbeat: {{ hb.get('at','not yet')|replace('T',' ') }} · checked {{ hb.get('checked',0) }} · due {{ hb.get('due',0) }} · published {{ hb.get('published',0) }}</p>
+    <label class="row" style="gap:8px;margin-top:10px"><input type="checkbox" name="scheduler_enabled" value="1" {{ 'checked' if s.scheduler_enabled }}> Run the scheduler (checks every minute while the studio is open)</label>
+    <label class="row" style="gap:8px;margin-top:10px"><input type="checkbox" name="auto_publish" value="1" {{ 'checked' if s.auto_publish }}> Auto-publish scheduled posts through the APIs below <span class="muted small">(off = scheduled posts appear in Today as “Post now”)</span></label>
+    <button type="button" class="btn sm" style="margin-top:10px" onclick="api('/api/scheduler/tick').then(j=>toast(j.ok?('Checked '+j.stats.checked+' scheduled post(s)'):'Failed'))">Run a check now</button>
+    <label class="f">Chrome / Edge path <small>(used to render images)</small></label><input class="in" name="chrome_path" value="{{ s.chrome_path }}" placeholder="auto-detect">
+    <p class="small muted">Detected: {{ browser }}</p>
+  </div>
+  <div class="card"><h4>LinkedIn publishing <span class="muted small">(optional)</span></h4>
+    <p class="small muted">Needs a LinkedIn developer app with the Community Management API approved (w_organization_social for the page; w_member_social for personal profiles). Each person authorises their own profile.</p>
+    <label class="f">Company page token</label><input class="in" type="password" name="linkedin_access_token" value="{{ s.linkedin_access_token }}">
+    <label class="f">Organization URN</label><input class="in" name="linkedin_org_urn" value="{{ s.linkedin_org_urn }}" placeholder="urn:li:organization:12345678">
+    <label class="f">API version <small>(blank = automatic, YYYYMM)</small></label><input class="in" name="linkedin_api_version" value="{{ s.linkedin_api_version or '' }}">
+    {% for v in ['sunil','raj','shrutik'] %}
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px"><div><label class="f">{{ VOICES[v].name }} URN</label><input class="in" name="urn_{{ v }}" value="{{ (s.linkedin_person_urns or {}).get(v,'') }}" placeholder="urn:li:person:…"></div>
+      <div><label class="f">{{ VOICES[v].name }} token</label><input class="in" type="password" name="tok_{{ v }}" value="{{ (s.linkedin_person_tokens or {}).get(v,'') }}"></div></div>
+    {% endfor %}
+  </div>
+  <div class="card"><h4>Reminders &amp; digests</h4>
+    <p class="small muted">Every planned post gets a reminder before its slot, at post time, and a “missed” nudge if it isn't marked posted. They go to the voice owner + admins (in-app, plus email/Chat if set up under Notifications). Google Calendar events are the backup that works with the laptop off.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+      <div><label class="f">Remind before (minutes)</label><input class="in" name="reminder_minutes" value="{{ s.reminder_minutes or 30 }}"></div>
+      <div><label class="f">“Missed” after (minutes)</label><input class="in" name="missed_after_minutes" value="{{ s.missed_after_minutes or 120 }}"></div>
+      <div><label class="f">Daily digest at</label><input class="in" name="digest_time" value="{{ s.digest_time or '08:30' }}"></div>
+      <div><label class="f">Weekly digest (Mondays) at</label><input class="in" name="weekly_digest_time" value="{{ s.weekly_digest_time or '09:00' }}"></div>
+    </div>
+    <label class="f">Who posts Instagram <small>(emails, comma-separated; they get IG reminders too)</small></label><input class="in" name="posters_instagram" value="{{ ((s.posters or {}).get('instagram') or [])|join(', ') }}">
+    <label class="f">Who posts the LinkedIn page</label><input class="in" name="posters_linkedin" value="{{ ((s.posters or {}).get('linkedin') or [])|join(', ') }}">
+    <button type="button" class="btn sm" style="margin-top:10px" onclick="api('/api/digest/test').then(j=>toast(j.ok?'Digest sent — check 🔔':'Failed'))">Send me today's digest now</button>
+  </div>
+  <div class="card"><h4>Goals</h4>
+    <p class="small muted">Shown on Today with the pace you need. Audit requests come from Results → Free audit requests.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+      <div><label class="f">Instagram followers target</label><input class="in" name="goal_ig_followers" value="{{ s.goal_ig_followers or '' }}" placeholder="e.g. 400"></div>
+      <div><label class="f">LinkedIn page followers target</label><input class="in" name="goal_li_followers" value="{{ s.goal_li_followers or '' }}" placeholder="e.g. 1200"></div>
+      <div><label class="f">Free audit requests target</label><input class="in" name="goal_audits" value="{{ s.goal_audits or '' }}" placeholder="e.g. 15"></div>
+      <div><label class="f">By</label><input class="in" type="date" name="goal_date" value="{{ s.goal_date or '2026-12-31' }}"></div>
+    </div>
+  </div>
+  <div class="card"><h4>Awareness targets <span class="muted small">(per week, all handles together)</span></h4>
+    <p class="small muted">The main goal: more people seeing and engaging with Galvor. Results shows each week against these.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+      {% for k, l in [('views','Views & impressions'),('comments','Comments'),('clicks','Link & profile clicks'),('shares','Reposts, shares & saves'),('follows','New follows')] %}
+      <div><label class="f">{{ l }}</label><input class="in" name="aware_{{ k }}" value="{{ (s.aware_targets or {}).get(k, '') }}"></div>{% endfor %}
+    </div>
+  </div>
+  <div class="card"><h4>Instagram analytics &amp; Discover</h4>
+    <p class="small muted">Analytics uses the same Instagram token below (needs instagram_basic / instagram_manage_insights; replying to comments needs instagram_manage_comments). It syncs daily at the time below and fills in missed days.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+      <div><label class="f">Daily analytics sync at</label><input class="in" name="analytics_sync_time" value="{{ s.analytics_sync_time or '07:00' }}"></div>
+      <div><label class="f">Discover scan at</label><input class="in" name="discover_scan_time" value="{{ s.discover_scan_time or '07:30' }}"></div>
+      <div><label class="f">Discover daily spend cap (USD)</label><input class="in" name="discover_daily_cap_usd" value="{{ s.discover_daily_cap_usd or 2 }}"></div>
+      <div><label class="f">Instagram (Hiker) searches per day</label><input class="in" name="hiker_daily_searches" value="{{ s.hiker_daily_searches if s.hiker_daily_searches is not none else 20 }}"></div>
+      <div><label class="f">API host <small>(blank = auto)</small></label><input class="in" name="instagram_api_host" value="{{ s.instagram_api_host or '' }}" placeholder="graph.instagram.com"></div>
+    </div>
+    <label class="row" style="gap:8px;margin-top:10px"><input type="checkbox" name="discover_auto" value="1" {{ 'checked' if s.get('discover_auto', True) }}> Run the Discover scan every morning</label>
+  </div>
+  <div class="card"><h4>Instagram publishing <span class="muted small">(optional)</span></h4>
+    <p class="small muted">Needs @galvor.ai as a Business/Creator account linked to a Facebook Page, a Meta app with instagram_content_publish, and a long-lived token. Instagram fetches images from a public URL, so expose this studio's /media path over https (e.g. a Cloudflare Tunnel) and paste that URL below. Reels and video always need a manual upload.</p>
+    <label class="f">Access token</label><input class="in" type="password" name="instagram_access_token" value="{{ s.instagram_access_token }}">
+    <label class="f">Instagram user ID</label><input class="in" name="instagram_user_id" value="{{ s.instagram_user_id }}">
+    <label class="f">Graph API version</label><input class="in" name="graph_api_version" value="{{ s.graph_api_version or 'v23.0' }}">
+    <label class="f">Public base URL</label><input class="in" name="public_base_url" value="{{ s.public_base_url }}" placeholder="https://studio.example.com">
+  </div>
+</div>
+<button class="btn primary" style="margin-top:6px">Save settings</button>
+</form>
+{% endblock %}

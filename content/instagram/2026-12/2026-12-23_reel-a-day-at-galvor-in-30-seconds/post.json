@@ -1,0 +1,134 @@
+{
+  "id": "ig-2026-12-23-reel-a-day-at-galvor-in-30-seconds",
+  "slug": "reel-a-day-at-galvor-in-30-seconds",
+  "platform": "instagram",
+  "date": "2026-12-23",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Team & Culture",
+  "job": "Attract",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: three rules our team works by",
+  "hook": "Three rules our team works by. All three are about ads.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Three rules our team works by. All three are about ads.\n\n1. A small sample is a signal. One good week earns a second test.\n2. We price the attribute, not the ad. The hook, the cast and the pacing are each checked against cost per order.\n3. Every ad should make the next one better. An ad that taught nothing cost more than its spend.\n\nThey are free to borrow for 2027. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#adstrategy",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Three rules we work by. The reel shows three numbered rules appearing one at a time: a small sample is a signal, price the attribute, and every ad should make the next one better. End card: follow @galvor.ai.",
+  "cta": "Follow @galvor.ai",
+  "script": {
+    "duration": "40s",
+    "setup": "Idea: a founder or growth lead curious how a creative intelligence team thinks gets three working rules to borrow for next year's planning. On-screen title: Three rules we work by. Expectation set: a culture video. The script beats it because each rule changes a decision about ads. Outline: small sample is a signal (second-best, first); price the attribute, not the ad (best, second); every ad should make the next one better (the close).",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "Three blank cards drop onto a violet background, numbered one to three.",
+        "voiceover": "Three rules our team at Galvor works by.",
+        "on_screen": "Three rules we work by"
+      },
+      {
+        "time": "4–8s",
+        "visual": "A generic values poster fades out. The three cards move to the centre.",
+        "voiceover": "Most team rules are about manners. These are about ads.",
+        "on_screen": "Rules about ads"
+      },
+      {
+        "time": "8–13s",
+        "visual": "Card one flips. A chart with only a few dots appears and gets a signal icon.",
+        "voiceover": "Rule one: a small sample is a signal. Test it again.",
+        "on_screen": "1. Small sample = signal"
+      },
+      {
+        "time": "13–17s",
+        "visual": "One tall bar for a single week. A second empty bar appears beside it, marked test again.",
+        "voiceover": "One good week earns a second test, never a verdict.",
+        "on_screen": "One good week, second test"
+      },
+      {
+        "time": "17–22s",
+        "visual": "Card two flips. A dummy ad tile splits into labelled parts.",
+        "voiceover": "Rule two goes deeper. We price the attribute, not the ad.",
+        "on_screen": "2. Price the attribute"
+      },
+      {
+        "time": "22–27s",
+        "visual": "The parts line up, labelled hook, cast and pacing, each with its own small price tag.",
+        "voiceover": "Hook, cast, pacing. Each one is checked against cost per order.",
+        "on_screen": "Each part, cost per order"
+      },
+      {
+        "time": "27–31s",
+        "visual": "Card three flips. One ad tile passes a note forward to the next tile.",
+        "voiceover": "Rule three: every ad should make the next one better.",
+        "on_screen": "3. Make the next one better"
+      },
+      {
+        "time": "31–36s",
+        "visual": "A tile with no note attached turns grey and a cost marker beside it grows.",
+        "voiceover": "If an ad taught nothing, it cost more than its spend.",
+        "on_screen": "No lesson, higher cost"
+      },
+      {
+        "time": "36–40s",
+        "visual": "End card with the three rules stacked and the Galvor logo. Chime.",
+        "voiceover": "Three rules, free to borrow. Follow @galvor.ai.",
+        "on_screen": "Follow @galvor.ai"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. The three rules are taken from the brand guide, in its own wording."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "*Three rules* we work by",
+        "sub": "All three are about ads.",
+        "play": "Watch the three rules"
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make the *next one* better.",
+        "sub": "Three rules, free to borrow for 2027.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Topic replaced: a day at Galvor in 30 seconds needs office footage and people on camera, and the reel is AI voice over motion graphics. New topic keeps the Team & Culture pillar by showing how the team thinks. No numbers used. To confirm with the team: everyone is comfortable presenting these three lines as the team's working rules (all three come from the brand guide). Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-23 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:23",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-22",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

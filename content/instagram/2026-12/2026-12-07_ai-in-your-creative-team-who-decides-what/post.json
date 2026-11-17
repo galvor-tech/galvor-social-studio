@@ -1,0 +1,129 @@
+{
+  "id": "ig-2026-12-07-ai-in-your-creative-team-who-decides-what",
+  "slug": "ai-in-your-creative-team-who-decides-what",
+  "platform": "instagram",
+  "date": "2026-12-07",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Framework",
+  "job": "De-risk",
+  "format": "carousel",
+  "series": "",
+  "title": "AI in your creative team: who decides what",
+  "hook": "Before you add AI to a creative team, write down which decisions stay with people.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Before you add AI to a creative team, write down which decisions stay with people.\n\nMost teams are comfortable with AI doing the reading: tagging ads, counting what repeats, flagging what is slowing down.\n\nThe doubt starts when a tool changes spend or approves creative and cannot say why.\n\nSo agree the split first. AI reads and suggests, with reasons. A named person decides anything that spends or goes live.\n\nThat is how we built Galvor: it never touches the media budget.\n\nSave the questions on the last slide for your next vendor call.",
+  "first_comment": "Decoded #8 goes deeper on this. Out Wednesday on galvor.ai.",
+  "hashtags": [
+    "#aiinmarketing",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: AI in your creative team, who decides what. Slide 2: the real worry is a tool that acts and cannot explain itself. Slide 3: two columns, what AI does (tags, counts, flags, drafts) and what people decide (brand, bets, money, what goes live). Slide 4: three rules worth writing down. Slide 5: Galvor never touches the media budget. Slide 6: four questions to ask of any AI in your team. Slide 7: let AI read, let people decide, follow @galvor.ai.",
+  "cta": "Save the questions for the next vendor call",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Framework",
+        "headline": "AI in your creative team: *who decides what?*",
+        "sub": "A simple split to agree before you switch anything on."
+      },
+      {
+        "layout": "text",
+        "kicker": "The real worry",
+        "headline": "The fear is a tool that *acts* and cannot explain itself",
+        "body": "Most teams are fine with AI doing the counting.\n\nThe doubt starts when it changes budgets or approves creative, and nobody can say why."
+      },
+      {
+        "layout": "compare",
+        "kicker": "The split",
+        "headline": "Reading versus *deciding*",
+        "left_title": "AI does",
+        "left": [
+          "Tags every ad",
+          "Counts what repeats",
+          "Flags what is slowing",
+          "Drafts options"
+        ],
+        "right_title": "People decide",
+        "right": [
+          "What the brand will say",
+          "Which bet to back",
+          "Where the money goes",
+          "What goes live"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Write these down",
+        "headline": "Three rules for *any AI* in the team",
+        "items": [
+          "Every suggestion comes with its reasons",
+          "A named person approves anything that spends",
+          "Anyone can ask why and get a plain answer"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "How we handle it",
+        "headline": "Galvor *never touches* the media budget",
+        "body": "Our digital co-worker, Vira, shows its thinking with each recommendation to scale, cut or shift.\n\nYour team reads the reasons and makes the call."
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "Ask this before any AI tool *goes live*",
+        "items": [
+          "What can it change without a person?",
+          "Can it show why it suggested this?",
+          "Who signs off on spend?",
+          "Who signs off on what goes live?"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Let AI read. *Let people decide.*",
+        "sub": "Save this for your next vendor call.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the questions",
+          "Share with your team lead"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Job: De-risk. The doubt answered: 'will an AI tool take decisions out of my team's hands?' Reader: a CMO or founder weighing an AI tool for the creative team. One argument: split reading from deciding and write the split down. One product mention, earned on slide 5, using only published lines (Vira shows its thinking; scale, cut, shift; we never touch the media budget). No numbers used. Topic kept. First comment points to Decoded #8, which goes out Wednesday 9 Dec, two days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:53:02",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:12",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:21:26",
+  "updated_at": "2026-11-16T21:23:12",
+  "topic_ref": "IG-23",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

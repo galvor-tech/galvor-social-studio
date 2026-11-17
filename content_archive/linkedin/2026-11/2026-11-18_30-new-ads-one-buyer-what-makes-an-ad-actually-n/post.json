@@ -1,0 +1,127 @@
+{
+  "id": "li-2026-11-18-30-new-ads-one-buyer-what-makes-an-ad-actually-n",
+  "slug": "30-new-ads-one-buyer-what-makes-an-ad-actually-n",
+  "platform": "linkedin",
+  "date": "2026-11-18",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "30 new ads, one buyer: what makes an ad actually new",
+  "hook": "30 new ads. One buyer. One reason. Meta counts that as close to one ad.",
+  "status": "skipped",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "30 new ads. One buyer. One reason. Meta counts that as close to one ad.\n\nA growth lead asks the agency for thirty new ads by Friday. New backdrops, new colours, a static, a carousel, an unboxing. Two weeks later, the old ad still takes the budget.\n\nMeta rebuilt the systems that pick ads this year. They now read who an ad is for, not only how it looks.\n\nIn the new video ads we analysed (launched May–Sep 2026):\n→ Ads that looked like many running ads got 36% less first-month spend\n→ A new message over a familiar first shot got 16% less\n→ A proven message in a new look got 47% more\n\nThe middle one surprises people. Changing the script isn't enough if the first second looks the same.\n\nA new ad needs a new buyer, a new moment or a new reason to buy, and a first shot that shows it.\n\nFour ways to make an ad actually new are in the carousel.\n\nHow does your team decide whether a new ad is actually new?",
+  "first_comment": "Full breakdown in Decoded #3, Why Meta wants new buyers, not new looks: https://galvor.ai/newsletters/decode/",
+  "hashtags": [
+    "#MetaAds",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Eight-slide carousel in Galvor violet and gold. 1: 30 new ads is not 30 new ideas. 2: what we change (new backdrop, colour, format) versus what Meta reads (new buyer, moment, reason to buy). 3: 36% less first-month spend for new ads that looked like many running ads. 4: 16% less for a new message over a familiar first shot. 5: 47% more for a proven message in a new look. 6: a new reason needs a new first shot. 7: four ways to make an ad actually new. 8: every ad should make the next one better.",
+  "cta": "Comment with how your team defines a new ad; Decoded #3 link in first comment",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Myth vs fact",
+        "headline": "30 new ads ≠ *30 new ideas.*",
+        "sub": "What Meta's new ad system actually counts as different."
+      },
+      {
+        "layout": "compare",
+        "kicker": "Look again",
+        "headline": "What we change vs *what Meta reads*",
+        "left_title": "What we change",
+        "left": [
+          "New backdrop",
+          "New colour",
+          "New format"
+        ],
+        "right_title": "What Meta reads",
+        "right": [
+          "New buyer",
+          "New moment",
+          "New reason to buy"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "What we saw · 1",
+        "stat": "36%",
+        "headline": "less first-month spend for new ads that looked like *many running ads*",
+        "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "What we saw · 2",
+        "stat": "16%",
+        "headline": "less for a *new message* over a familiar first shot",
+        "sub": "The script changed. The first second didn't.",
+        "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "What we saw · 3",
+        "stat": "47%",
+        "headline": "more for a *proven message* in a new look",
+        "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "The rule",
+        "headline": "A new reason needs a *new first shot.*",
+        "body": "Meta reads the opening frame first.\n\nIf it looks like an ad already running, the new message never gets a fair start."
+      },
+      {
+        "layout": "list",
+        "kicker": "Checklist",
+        "headline": "Make it *actually* new",
+        "items": [
+          "New buyer — who is this ad for?",
+          "New moment — when do they need it?",
+          "New reason — why buy now?",
+          "New first shot — does the opening look different?"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make the *next one* better.",
+        "sub": "Full breakdown in Decoded #3.",
+        "actions": [
+          "Follow Galvor for what the data says",
+          "Link to Decoded #3 in the comments"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "LinkedIn version of the 9 Nov Instagram carousel (same insight, Raj's builder voice) plus the 16% finding from Decoded #3. Post as a PDF document (carousel.pdf). Put the first comment up immediately; swap in the exact Decoded #3 URL if it differs. Company page can reshare it at 16:00 the same day.\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.\n[16 Nov 2026] Skipped: the calendar now starts on 19 Nov. Set back to draft to restore.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:51:34",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-18 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:13:50",
+      "action": "Skipped: calendar restarts on 19 Nov 2026"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-09T13:27:58",
+  "updated_at": "2026-11-16T21:13:50",
+  "topic_ref": "D3-LI"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "nl-2027-01-06-decoded-12-the-learning-loop-how-to-run-a-fortni",
+  "slug": "decoded-12-the-learning-loop-how-to-run-a-fortni",
+  "platform": "newsletter",
+  "date": "2027-01-06",
+  "time": "08:30",
+  "voice": "raj",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #12: The Learning Loop: How to Run a Fortnightly Creative Cycle",
+  "hook": "Learn, create, measure, learn. Most teams do the middle two and skip both ends.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Learn, create, measure, learn.\n\nMost teams do the middle two. They make ads and they read dashboards. The learning on either side, deciding before you make and writing down what you found after you measure, is the part that quietly gets skipped.\n\nIn Issue #8 of Decoded, Raj walks through a fortnightly creative cycle day by day: decode, decide, brief, produce, run, review. Plus the 30-minute review meeting that ends every cycle in four words: scale, cut, refresh, test.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Cover image for Decoded by Galvor, Issue #8: The learning loop: how to run a fortnightly creative cycle. White and gold text on a violet background with the Galvor logo at the top left.",
+  "cta": "Read and subscribe to Decoded",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Decoded · Issue #8",
+        "headline": "The *learning loop*, one fortnight at a time",
+        "sub": "A day-by-day creative cycle you can run from Monday."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "Writer's brief: Skeleton — Raj to write in full. ~1,500 words when finished. This is the \"how Galvor works\" issue: show the method, not a pitch.\n\nWas planned as #8 (fortnightly). Now #12, Wednesday 2027-01-06. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:58:27",
+      "action": "Decoded goes weekly: #8 → #12 on 2027-01-06"
+    },
+    {
+      "at": "2026-11-11T01:58:58",
+      "action": "Skeleton brief converted to Decoded markup"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:25:19",
+  "updated_at": "2026-11-11T02:10:34",
+  "topic_ref": "NL-8",
+  "newsletter": {
+    "issue": 12,
+    "subject_lines": [
+      "The learning loop: a creative cycle in 14 days",
+      "Learn → create → measure → learn",
+      "Your review meeting should end in four words"
+    ],
+    "preview_text": "A day-by-day fortnightly cycle, a review template, and where agents fit.",
+    "key_takeaways": [
+      "A loop has four steps: learn → create → measure → learn. Don't skip the ends.",
+      "Two weeks is long enough for a signal and short enough to act on it.",
+      "Every cycle should end in four words: scale, cut, refresh, test."
+    ],
+    "outline": [
+      {
+        "heading": "Monday, 9:40 a.m.",
+        "points": [
+          "The first test fortnight ends Friday — now what?"
+        ]
+      },
+      {
+        "heading": "Why fortnightly",
+        "points": [
+          "New ads need time",
+          "Weekly overreacts, monthly forgets"
+        ]
+      },
+      {
+        "heading": "The cycle, day by day",
+        "points": [
+          "Decode",
+          "Decide",
+          "Brief and script",
+          "Produce and QC",
+          "Run",
+          "Review"
+        ]
+      },
+      {
+        "heading": "What a good review meeting sounds like",
+        "points": [
+          "30 minutes, three questions",
+          "Template"
+        ]
+      },
+      {
+        "heading": "What Galvor saw in the data",
+        "points": [
+          "Run example: −18% CPO (Cycle 14)",
+          "63 → 92 diversity score in two months"
+        ]
+      },
+      {
+        "heading": "Where people and agents fit",
+        "points": [
+          "Agents decode and draft; people decide and own"
+        ]
+      },
+      {
+        "heading": "The shift for marketers and leaders",
+        "points": [
+          "Fix the review day",
+          "Decide before you produce",
+          "Freeze during the run",
+          "Log decisions",
+          "Measure learning"
+        ]
+      }
+    ],
+    "next_issue": "Budget Season: Making the Case for Creative Spend to Finance",
+    "repurpose": [
+      "LinkedIn carousel (Raj): \"A dashboard should end in four words: scale, cut, refresh, test\" (topic R38).",
+      "Instagram reel: \"14 days of a creative cycle in 30 seconds\" — a day-by-day timelapse.",
+      "Instagram carousel: \"The 30-minute creative review\" — agenda and questions."
+    ],
+    "data_needed": [
+      "Confirm the context and permission status for the −18% CPO Run example (Cycle 14).",
+      "Average number of cycles before a brand's creative diversity score improved meaningfully (anonymised)."
+    ],
+    "draft_markdown": "# Decoded · Issue #8 — The learning loop: how to run a fortnightly creative cycle\n*Skeleton — Raj to write in full. ~1,500 words when finished. This is the \"how Galvor works\" issue: show the method, not a pitch.*\n\n**Opening (Monday, 9:40 a.m.):** Two weeks into January. Sam's test calendar is live. The first fortnight ends Friday. Now what? Who looks at the results, what do they decide, and how does the next brief change?\n\n**Key takeaways (draft):**\n1. A loop has four steps: learn → create → measure → learn. Most teams do the middle two and skip both ends.\n2. Two weeks is long enough for a signal and short enough to act on it.\n3. Every cycle should end in four words: scale, cut, refresh, test.\n\n**Section 1 — Why fortnightly.** New ads need time to settle (~35% dearer early for some styles); a weekly review overreacts, a monthly review forgets. Galvor's own Run cycle works every two weeks.\n\n**Section 2 — The cycle, day by day.** Day 1: decode last cycle's ads (50+ attributes each). Day 2: decide — scale, cut, shift. Days 3–5: brief and script from what held (timecoded scripts). Days 6–8: produce and QC. Days 9–14: run, don't touch. Day 14: review against the written hypothesis.\n\n**Section 3 — What a good review meeting sounds like.** 30 minutes, three questions: what did we expect, what happened, what will we change? Example agenda and a one-page review template.\n\n**Section 4 — What Galvor saw in the data.** Anonymised Run example: a cycle that reduced cost per order by 18% (Cycle 14). [DATA NEEDED: confirm the client permission status and the exact context for the −18% CPO example before using it beyond \"a Run cycle example\".] [DATA NEEDED: average number of cycles before a brand's creative diversity score improved meaningfully; the 63 → 92 example took two months.]\n\n**Section 5 — Where people and agents fit.** Agents decode, tag and draft; people decide, approve and own the brand. Human-in-the-loop is a feature.\n\n**Section 6 — The shift for marketers and leaders: five moves.** (1) Fix the review day and never move it. (2) Decide before you produce. (3) Freeze ads during the run window. (4) Log every decision with its reason. (5) Measure the loop by what you learned, not what you shipped.\n\n**Next issue:** Budget season — making the case for creative spend to finance.\n",
+    "markup": "---\nissue: 12\ntitle: Decoded #12: The Learning Loop: How to Run a Fortnightly Creative Cycle\ndek: [DATA NEEDED: one-paragraph standfirst in Decoded style]\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: Build a Test Calendar, Not a Content Calendar\nprevious_url: https://galvor.ai/newsletters/decode/build-a-test-calendar-not-a-content-calendar/\n---\n\n## Key takeaways\n\n- A loop has four steps: learn → create → measure → learn. Most teams do the middle two and skip both ends.\n- Two weeks is long enough for a signal and short enough to act on it.\n- Every cycle should end in four words: scale, cut, refresh, test.\n\n## Monday, 9:40 a.m.\n\n[DATA NEEDED: write the cold open (3 short paragraphs + an italic turn). Brief: Two weeks into January. Sam's test calendar is live. The first fortnight ends Friday. Now what? Who looks at the results, what do they decide, and how does the next brief change?]\n\n## Why fortnightly\n\n[DATA NEEDED: write this section. Brief: New ads need time to settle (~35% dearer early for some styles); a weekly review overreacts, a monthly review forgets. Galvor's own Run cycle works every two weeks.]\n\n## The cycle, day by day\n\n[DATA NEEDED: write this section. Brief: Day 1: decode last cycle's ads (50+ attributes each). Day 2: decide — scale, cut, shift. Days 3–5: brief and script from what held (timecoded scripts). Days 6–8: produce and QC. Days 9–14: run, don't touch. Day 14: review against the written hypothesis.]\n\n## What a good review meeting sounds like\n\n[DATA NEEDED: write this section. Brief: 30 minutes, three questions: what did we expect, what happened, what will we change? Example agenda and a one-page review template.]\n\n## What Galvor saw in the data\n\n[DATA NEEDED: write this section. Brief: Anonymised Run example: a cycle that reduced cost per order by 18% (Cycle 14). [DATA NEEDED: confirm the client permission status and the exact context for the −18% CPO example before using it beyond \"a Run cycle example\".] [DATA NEEDED: average number of cycles before a brand's creative diversity score improved meaningfully; the 63 → 92 example took two months.]]\n\n## Where people and agents fit\n\n[DATA NEEDED: write this section. Brief: Agents decode, tag and draft; people decide, approve and own the brand. Human-in-the-loop is a feature.]\n\n## The shift for marketers and leaders\n\nFive moves Galvor recommends, whatever tool you use.\n\n- **[DATA NEEDED: move 1].** One or two sentences.\n- **[DATA NEEDED: move 2].** One or two sentences.\n- **[DATA NEEDED: move 3].** One or two sentences.\n- **[DATA NEEDED: move 4].** One or two sentences.\n- **[DATA NEEDED: move 5].** One or two sentences.\n\n[DATA NEEDED: brief for the five moves: (1) Fix the review day and never move it. (2) Decide before you produce. (3) Freeze ads during the run window. (4) Log every decision with its reason. (5) Measure the loop by what you learned, not what you shipped.]\n\n## Next issue: Budget Season: Making the Case for Creative Spend to Finance\n\n[DATA NEEDED: two-line teaser for the next issue]\n\n## CTA: Get a free five-layer audit from Galvor AI\n\nWe read every ad in your account for look, speaker, audience, stage and reason, score each layer, and send you the short list of new ads that would fill the gaps. [Talk to the founders](https://talk.galvor.ai) to book yours.\n\nbutton: Get a free audit | https://talk.galvor.ai\n\n## How we did this\n\nGalvor’s data: [DATA NEEDED: dataset, date range, number of ads/brands, definitions]\n\n## Sources\n\n- [DATA NEEDED: source for “Confirm the context and permission status for the −18% CPO Run example”]\n- [DATA NEEDED: source for “Average number of cycles before a brand's creative diversity score imp”]\n",
+    "url": "https://galvor.ai/newsletters/decode/the-learning-loop-how-to-run-a-fortnightly-creative-cycle/",
+    "previous_studio_issue": 8
+  }
+}

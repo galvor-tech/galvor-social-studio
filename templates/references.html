@@ -1,0 +1,97 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}References · Galvor Social Studio{% endblock %}
+{% block body %}
+<h1>References</h1>
+<p class="sub">Paste anything KC or the team shares: a link, a video, a PDF, an image, or plain text. Each one is saved by date with a deep dive: what it says, how Galvor can use it, and what to change. {{ n }} saved.</p>
+
+<div class="panel">
+  <div class="panel-h lav"><h3>Add a reference</h3><small>Files are kept in <code>studio/data/references</code>, one folder per item</small></div>
+  <form method="post" action="/references/add" enctype="multipart/form-data" style="padding:14px 18px">
+    <div class="grid g2" style="gap:10px">
+      <div><label class="f">Link</label><input class="in" name="url" placeholder="https:// (article, LinkedIn post, YouTube video, PDF)"></div>
+      <div><label class="f">Or a file</label><input class="in" type="file" name="file" accept=".pdf,.png,.jpg,.jpeg,.webp,.txt,.md"></div>
+    </div>
+    <label class="f" style="margin-top:10px">Or paste the text (use this for LinkedIn posts, which hide most of the post without sign-in)</label>
+    <textarea class="in" name="text" style="min-height:70px"></textarea>
+    <div class="grid g4" style="gap:10px;margin-top:10px">
+      <div><label class="f">Title (optional)</label><input class="in" name="title"></div>
+      <div><label class="f">Shared by</label><input class="in" name="shared_by" value="KC"></div>
+      <div><label class="f">Date shared</label><input class="in" type="date" name="date" value="{{ today }}"></div>
+      <div><label class="f">Why it was shared (optional)</label><input class="in" name="note"></div>
+    </div>
+    <div class="row" style="margin-top:12px"><button class="btn primary">Save reference</button>
+      <span class="small muted">Saving is free. The deep dive runs when you ask for it.</span></div>
+  </form>
+</div>
+
+{% if not days %}<div class="panel"><div class="empty">Nothing saved yet.</div></div>{% endif %}
+
+{% for day, items in days %}
+<h3 style="margin:22px 0 8px">{{ day|d('%A %d %B %Y') }}</h3>
+{% for r in items %}
+{% set s = r.summary %}
+<div class="panel" id="r-{{ r.id }}">
+  <div class="panel-h plain" style="gap:8px;flex-wrap:wrap">
+    <span class="pill ghost">{{ {'link':'Link','video':'Video','pdf':'PDF','image':'Image','note':'Note','file':'File'}.get(r.kind, r.kind) }}</span>
+    <h3 class="grow" style="font-size:16px">{{ r.title }}</h3>
+    <span class="small muted">from {{ r.shared_by }}</span>
+    {% if s %}<span class="pill s-approved">Read</span>{% else %}<span class="pill warn">To read</span>{% endif %}
+  </div>
+  <div style="padding:12px 18px">
+    <div class="row small" style="gap:12px;flex-wrap:wrap;margin-bottom:8px">
+      {% if r.url %}<a href="{{ r.url }}" target="_blank" rel="noopener" style="color:var(--accent)">Open the original</a>{% endif %}
+      {% for f in r.files or [] %}<a href="/references/file/{{ r.id }}/{{ f }}" target="_blank" style="color:var(--accent)">{{ f }}</a>{% endfor %}
+      <span class="muted">{{ '{:,}'.format(r.chars or 0) }} characters of text saved</span>
+      {% if r.note %}<span>Why: {{ r.note }}</span>{% endif %}
+    </div>
+    {% if r.problem %}<div class="flash warn" style="margin:0 0 10px">{{ r.problem }}</div>{% endif %}
+
+    {% if s %}
+    <p style="margin:0 0 12px;line-height:1.55;max-width:900px">{{ s.says }}</p>
+    <div class="grid g2" style="gap:18px">
+      <div><h4 style="margin:0 0 6px">Main points</h4><ul style="margin:0 0 10px 18px;padding:0;line-height:1.5">{% for x in s.points or [] %}<li style="margin-bottom:5px">{{ x }}</li>{% endfor %}</ul></div>
+      <div><h4 style="margin:0 0 6px">How Galvor can use it</h4><ul style="margin:0 0 10px 18px;padding:0;line-height:1.5">{% for x in s.use or [] %}<li style="margin-bottom:5px">{{ x }}</li>{% endfor %}</ul></div>
+      <div><h4 style="margin:0 0 6px">Changes to make</h4><ul style="margin:0 0 10px 18px;padding:0;line-height:1.5">{% for x in s.changes or [] %}<li style="margin-bottom:5px">{{ x }} <button class="btn sm" style="padding:1px 8px;font-size:12px" data-t="{{ x }}" onclick="todo('{{ r.id }}', this)">+ checklist</button></li>{% endfor %}</ul></div>
+      <div><h4 style="margin:0 0 6px">Be careful</h4><ul style="margin:0 0 10px 18px;padding:0;line-height:1.5">{% for x in s.caution or [] %}<li style="margin-bottom:5px">{{ x }}</li>{% endfor %}</ul></div>
+    </div>
+    <p class="small muted" style="margin:6px 0 0">Deep dive by {{ s.by }} · {{ (s.at or '')[:10] }}</p>
+    {% else %}
+    <p class="small" style="margin:0 0 10px">No deep dive yet. Run it here (a few cents, shown on Costs), or ask in the Claude terminal: <i>summarise the references waiting in the Studio</i> (no API charge; needed for images and scanned PDFs).</p>
+    {% endif %}
+
+    <div class="row" style="margin-top:10px;gap:8px;flex-wrap:wrap">
+      <button class="btn sm {{ '' if s else 'primary' }}" onclick="dive('{{ r.id }}')">{{ 'Run the deep dive again' if s else 'Run the deep dive' }}</button>
+      <button class="btn sm" onclick="var b=document.getElementById('t-{{ r.id }}');b.style.display=b.style.display==='block'?'none':'block'">Paste or replace the text</button>
+      <span class="grow"></span>
+      <button class="btn sm" onclick="if(confirm('Remove this reference from the list? Its folder is kept on disk.'))api('/api/references/{{ r.id }}/delete').then(()=>location.reload())">Remove</button>
+    </div>
+    <div id="t-{{ r.id }}" style="display:none;margin-top:10px">
+      <textarea class="in" style="min-height:120px" placeholder="Paste the full text of the post, article or transcript"></textarea>
+      <div class="row" style="margin-top:8px"><button class="btn sm primary" onclick="saveText('{{ r.id }}')">Save text</button></div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+{% endfor %}
+
+<script>
+async function dive(id) {
+  toast('Reading it closely… (30 to 60 s)', 60000);
+  const j = await api('/api/references/' + id + '/summarise');
+  if (!j.ok) return toast(j.error || 'Failed', 7000);
+  location.href = '/references?open=' + id + '#r-' + id;  location.reload();
+}
+async function todo(id, btn) {
+  const j = await api('/api/references/' + id + '/todo', {text: btn.dataset.t});
+  if (!j.ok) return toast(j.error || 'Failed');
+  btn.textContent = 'On the checklist'; btn.disabled = true; toast('Added to Playbook → Gaps & checklist');
+}
+async function saveText(id) {
+  const t = document.querySelector('#t-' + id + ' textarea').value;
+  if (t.trim().length < 50) return toast('Paste the text first');
+  const j = await api('/api/references/' + id + '/text', {text: t});
+  toast(j.ok ? 'Saved. Now run the deep dive.' : (j.error || 'Failed')); if (j.ok) setTimeout(() => location.reload(), 700);
+}
+{% if open_id %}document.getElementById('r-{{ open_id }}')?.scrollIntoView({block: 'start'});{% endif %}
+</script>
+{% endblock %}

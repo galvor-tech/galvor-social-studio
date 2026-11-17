@@ -1,0 +1,36 @@
+@font-face{font-family:Jakarta;src:url("file:///D:/galvor_linkedin/studio/static/fonts/PlusJakartaSans.ttf");font-weight:200 800}
+@font-face{font-family:Inter;src:url("file:///D:/galvor_linkedin/studio/static/fonts/Inter.ttf");font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#0A0A14}
+.stage{position:relative;width:1920px;height:1080px;overflow:hidden;background:#0A0A14}
+.copy{position:absolute;left:100px;top:0;height:1080px;width:900px;display:flex;flex-direction:column;justify-content:center;z-index:40}
+.kicker{display:flex;align-items:center;gap:18px;font-family:Consolas,monospace;font-size:28px;letter-spacing:.24em;color:#A685FF;text-transform:uppercase;margin-bottom:54px}
+.kicker img{width:44px;height:44px}
+h1{font-family:Jakarta,sans-serif;font-weight:800;font-size:106px;line-height:1.03;letter-spacing:-.03em;color:#fff}
+h1 .p{color:#A47BFF}
+.fs{margin-left:-.07em}
+/* "How Galvor Scout finds the one" */
+.how{margin-top:50px;display:inline-flex;align-items:center;gap:16px;align-self:flex-start;
+  font-family:Inter,sans-serif;font-size:30px;font-weight:500;color:#E9E3FF;
+  padding:14px 26px 14px 16px;border-radius:999px;background:rgba(124,58,237,.16);border:1.5px solid rgba(164,123,255,.45)}
+.how .ic{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(180deg,#B48EFF,#7C3AED);box-shadow:0 0 22px rgba(164,123,255,.7)}
+.how .ic svg{width:22px;height:22px}
+.how b{font-weight:700;color:#fff}
+.how i{font-style:normal;color:#FFD27A;font-weight:700}
+/* avatars */
+.av{position:absolute;border-radius:50%;overflow:hidden;border:2px solid rgba(255,255,255,.07)}
+.av svg{position:absolute;left:50%;bottom:-6%;width:104%;transform:translateX(-50%)}
+.av.dim{filter:grayscale(1) brightness(.55);opacity:.55}
+.hero-av{background:linear-gradient(165deg,#FFB86B,#F0609E 50%,#7C3AED)!important;box-shadow:0 0 50px rgba(255,180,90,.55);border-color:rgba(255,236,190,.8)}
+/* lens */
+.lens{position:absolute;border-radius:50%;z-index:20;border:14px solid #C9B2FF;
+  box-shadow:0 0 0 4px rgba(10,10,20,.9),0 0 80px rgba(164,123,255,.9),inset 0 0 50px rgba(255,255,255,.16);
+  background:radial-gradient(circle at 34% 28%,rgba(255,255,255,.16),rgba(255,255,255,0) 42%)}
+.handle{position:absolute;z-index:19;border-radius:999px;transform-origin:top center;
+  background:linear-gradient(90deg,#6B3FD8,#A47BFF 50%,#6B3FD8);box-shadow:0 10px 40px rgba(0,0,0,.6)}
+/* check chips */
+.chk{position:absolute;z-index:30;display:flex;align-items:center;gap:12px;white-space:nowrap;font-family:Inter,sans-serif;font-weight:600;font-size:24px;color:#F4EEFF;
+  padding:12px 22px 12px 14px;border-radius:999px;background:rgba(22,18,40,.94);border:1.5px solid rgba(180,150,255,.5);box-shadow:0 10px 30px rgba(0,0,0,.5)}
+.chk .t{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(180deg,#FFD27A,#F0A92E);color:#3A2400;font-size:18px;font-weight:800}
+.stat{font-family:Consolas,monospace;letter-spacing:.18em;text-transform:uppercase;color:#A99FCB;font-size:22px}
+.stat b{color:#FFD27A;font-weight:700}

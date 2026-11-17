@@ -1,0 +1,128 @@
+{
+  "id": "ig-2026-12-25-build-a-testing-calendar-not-a-content-calendar",
+  "slug": "build-a-testing-calendar-not-a-content-calendar",
+  "platform": "instagram",
+  "date": "2026-12-25",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Framework",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Build a testing calendar: one question per fortnight",
+  "hook": "A content calendar fills slots. A testing calendar answers questions. Plan 2027 around the second.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "A content calendar fills slots. A testing calendar answers questions. Plan 2027 around the second.\n\nStart with what you do not know yet: founder or creator on camera, price-led or problem-led opening.\n\nRank the questions by how much money the answer would move. Give each one a fortnight, change one thing, and put the decision date in the diary.\n\nSix questions fill a quarter, and each answer shapes the next brief.\n\nThe last slide shows one row of the calendar. Save it and build yours this week.",
+  "first_comment": "Decoded #11 goes deeper on this. Out Wednesday on galvor.ai.",
+  "hashtags": [
+    "#creativestrategy",
+    "#performancemarketing",
+    "#adstrategy",
+    "#marketingtips",
+    "#d2cindia"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: plan 2027 as questions to answer. Slide 2: two columns comparing a content calendar and a testing calendar. Slide 3: step one, list what you do not know yet. Slide 4: step two, give each question one fortnight. Slide 5: step three, put the decision date in the diary. Slide 6: one row of a testing calendar with five fields. Slide 7: follow @galvor.ai.",
+  "cta": "Save the calendar row and build yours this week",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Framework",
+        "headline": "Plan 2027 as *questions to answer*",
+        "sub": "How to build a testing calendar in one sitting."
+      },
+      {
+        "layout": "compare",
+        "kicker": "The difference",
+        "headline": "Two ways to *plan a quarter*",
+        "left_title": "Content calendar",
+        "left": [
+          "Slots to fill",
+          "Judged on: did it ship?",
+          "Ends with a full grid"
+        ],
+        "right_title": "Testing calendar",
+        "right": [
+          "Questions to answer",
+          "Judged on: what did we learn?",
+          "Ends with a decision"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Step 1",
+        "headline": "List what you *do not know* yet",
+        "body": "Does a founder on camera beat a creator? Does a price-led opening beat a problem-led one?\n\nWrite down every open question. Then rank them by how much money the answer would move."
+      },
+      {
+        "layout": "text",
+        "kicker": "Step 2",
+        "headline": "Give each question *one fortnight*",
+        "body": "One question per cycle. One thing changes, while the product, offer and audience stay the same.\n\nSix questions fill a quarter."
+      },
+      {
+        "layout": "text",
+        "kicker": "Step 3",
+        "headline": "Put the *decision date* in the diary",
+        "body": "Each test ends on a set day, in a set meeting.\n\nThe answer goes in writing, and it shapes the next brief."
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "One row of a *testing calendar*",
+        "items": [
+          "Fortnight: the dates",
+          "Question: what we want to know",
+          "Change: the one thing that differs",
+          "Decision date: when we call it",
+          "Answer: filled in on the day"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Fill the year with *answers*.",
+        "sub": "Save this and build your first quarter this week.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the calendar row",
+          "Share with your planning team"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Posts on 25 Dec; the slot has no festival flag, so no greeting is written in. Reader: a brand or growth lead building the 2027 plan. One argument: plan the year as a list of questions with decision dates. Shape: three-step how-to. No statistics used; the fortnight follows Galvor's published two-week loop, and six fortnights make a quarter. The example questions are illustrations. Topic kept. First comment points to Decoded #11, which goes out Wednesday 30 Dec, five days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:54:46",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-25 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:37",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-106",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ig-2027-01-01-7-creative-resolutions-for-2027",
+  "slug": "7-creative-resolutions-for-2027",
+  "platform": "instagram",
+  "date": "2027-01-01",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "One creative resolution for 2027: the three-line note",
+  "hook": "One resolution for 2027: write three lines every time you switch an ad off.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "One resolution for 2027: write three lines every time you switch an ad off.\n\nWhat we expected. What we saw. What we will do next time.\n\nDashboards record what an ad did. They do not record what your team concluded, so the same lesson gets paid for twice.\n\nKeep one shared sheet with one row per ad, written by whoever switches it off. Read the last ten notes before every brief.\n\nEvery ad should make the next one better. Happy new year from all of us at Galvor.",
+  "first_comment": "",
+  "hashtags": [
+    "#creativestrategy",
+    "#adcreative",
+    "#marketingtips",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: one creative resolution for 2027, the three-line note. Slide 2: plenty of data, no memory. Slide 3: the three lines, we expected, we saw, next time. Slide 4: a made-up example of a good note, labelled as an illustration. Slide 5: every ad should make the next one better. Slide 6: three rules that keep the habit going. Slide 7: happy new year, start the sheet today, follow @galvor.ai.",
+  "cta": "Save and start the sheet today",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "New year",
+        "headline": "One creative resolution for 2027: *the three-line note*",
+        "sub": "Two minutes per ad. A year of memory by December."
+      },
+      {
+        "layout": "text",
+        "kicker": "The gap",
+        "headline": "*Plenty of data*, no memory",
+        "body": "Every dashboard shows what an ad did.\n\nAlmost none records what the team concluded. So the same lesson gets paid for again, often after someone leaves."
+      },
+      {
+        "layout": "list",
+        "kicker": "The note",
+        "headline": "*Three lines* when an ad is switched off",
+        "items": [
+          "We expected: what we thought would happen",
+          "We saw: what did happen, in one number",
+          "Next time: what we will do differently"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Illustration, not real data",
+        "headline": "What a *good note* looks like",
+        "body": "We expected: the founder on camera to beat the creator.\n\nWe saw: people watched longer, but each order cost more.\n\nNext time: founder opens, creator shows the product."
+      },
+      {
+        "layout": "statement",
+        "headline": "Every ad should make the *next one better*.",
+        "sub": "It can only do that if someone writes down what it taught."
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "Three rules so the habit *lasts past January*",
+        "items": [
+          "One shared sheet, one row per ad",
+          "Whoever switches the ad off writes the note",
+          "Read the last ten notes before every brief"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Happy new year. *Start the sheet today.*",
+        "sub": "Save this and share it with your team.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the three-line note",
+          "Share with your team"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "TOPIC REPLACED: '7 creative resolutions for 2027' would have repeated seven other posts in this group in short form. New topic: one habit, a three-line learning note written whenever an ad is switched off. Reader: a brand or growth manager on the first working day of the year. One argument: teams lose what ads teach them because nobody writes the conclusion down. No numbers used. Slide 4 is a made-up example of the note format and is labelled 'Illustration, not real data' on the slide; keep that label. Uses two phrases from the spec on purpose: 'Plenty of data, no memory' and 'Every ad should make the next one better'.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:55:26",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-01 13:00)"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:23:09",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-111",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

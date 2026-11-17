@@ -1,0 +1,67 @@
+{
+  "id": "li-2027-01-14-harvest-festivals-lohri-makar-sankranti-pongal",
+  "slug": "harvest-festivals-lohri-makar-sankranti-pongal",
+  "platform": "linkedin",
+  "date": "2027-01-14",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Harvest festivals greeting: Lohri, Makar Sankranti, Uttarayan, Pongal",
+  "hook": "Lohri, Makar Sankranti, Uttarayan and Pongal: four names for one shared idea, giving thanks for the harvest as the days grow longer.",
+  "status": "draft",
+  "festival": "Makar Sankranti / Uttarayan 2027",
+  "theme": "The learning loop",
+  "caption": "Lohri, Makar Sankranti, Uttarayan and Pongal: four names for one shared idea, giving thanks for the harvest as the days grow longer.\n\nHowever you are celebrating this week, with a bonfire, a kite, til-gud or a pot of pongal, warm wishes from all of us at Galvor.\n\nMay what you planted last year come good in this one.",
+  "first_comment": "",
+  "hashtags": [
+    "#MakarSankranti",
+    "#Pongal",
+    "#Lohri"
+  ],
+  "alt_text": "Festive greeting on a violet background with a kite: Happy Sankranti. May what you planted last year come good in this one. Warm wishes from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🪁",
+        "kicker": "Lohri · Makar Sankranti · Pongal",
+        "greeting": "Happy Sankranti",
+        "headline": "May what you planted last year *come good* in this one.",
+        "sub": "Warm wishes from all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No product mention, no numbers. The old hook listed a date for each festival; dates were removed so nothing can be wrong. Verify the 2027 date of Makar Sankranti (14 or 15 Jan) before posting.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-14 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:20",
+  "updated_at": "2026-11-16T21:22:01",
+  "topic_ref": "Festival: Makar Sankranti / Uttarayan 2027",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

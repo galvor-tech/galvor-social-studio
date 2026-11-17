@@ -1,0 +1,122 @@
+{
+  "id": "ig-2027-01-25-organise-ad-sets-by-buyer-not-by-angle",
+  "slug": "organise-ad-sets-by-buyer-not-by-angle",
+  "platform": "instagram",
+  "date": "2027-01-25",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Framework",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Name your ads so the account can be read like a table",
+  "hook": "If an ad is named “Final_v3_new”, your account cannot teach you much six months from now.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "If an ad is named “Final_v3_new”, your account cannot teach you much six months from now.\n\nYou will want to ask simple things. Do founder-led ads beat creator-led ones? Does a problem opening beat a product opening?\n\nIf the name does not say, someone has to rewatch every ad.\n\nUse five fields in the same order every time: buyer, message, opening, cast, version. Keep a short list of allowed words for each.\n\nSave the last slide and rename this week's live ads first. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#metaads",
+    "#performancemarketing",
+    "#marketingtips",
+    "#adstrategy",
+    "#d2cindia"
+  ],
+  "alt_text": "Seven-slide carousel. Slide 1: name your ads so the account can be read like a table. Slide 2: a name like Final_v3_new tells nobody what was tested. Slide 3: five fields in the same order, buyer, message, opening, cast, version. Slide 4: an example name read left to right. Slide 5: three habits that stop names drifting. Slide 6: four steps to set the rule up this week. Slide 7: follow @galvor.ai.",
+  "cta": "Save and rename this week's live ads",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Framework",
+        "headline": "Name your ads so the account can be *read like a table*",
+        "sub": "A naming rule you can set up today."
+      },
+      {
+        "layout": "text",
+        "kicker": "The problem",
+        "headline": "“*Final_v3_new*” tells nobody what was tested",
+        "body": "Six months on, you want to ask: do founder-led ads beat creator-led ones?\n\nIf the name does not say who is on screen, someone has to rewatch every ad to answer."
+      },
+      {
+        "layout": "list",
+        "kicker": "The rule",
+        "headline": "*Five fields*, same order, every ad",
+        "items": [
+          "Buyer: who it is for",
+          "Message: the claim it makes",
+          "Opening: how it starts",
+          "Cast: who is on screen",
+          "Version: v1, v2, v3"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Example",
+        "headline": "One name, *read left to right*",
+        "body": "NewMum_SleepsThrough_Problem_Creator_v2\n\nAnyone can read it without opening the ad. A filter on “Creator” or “Problem” now sorts the whole account."
+      },
+      {
+        "layout": "list",
+        "kicker": "Keep it honest",
+        "headline": "Three habits that stop the *drift*",
+        "items": [
+          "A short list of allowed words per field",
+          "No free text and no “misc”",
+          "One person checks names before launch"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "Set it up *this week*",
+        "items": [
+          "Format: Buyer_Message_Opening_Cast_Version",
+          "Agree the allowed words for each field",
+          "Rename what is live, then every new ad",
+          "In a month, filter by one field and compare"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Good names turn an ad account into *a record*.",
+        "sub": "Save this and rename your live ads first.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the naming rule",
+          "Send to your media buyer"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "TOPIC REPLACED: 'Organise ad sets by buyer, not by angle' made the same argument as the 20 Nov carousel (one angle, three buyers). New topic: an ad naming rule with five fields, so results can be filtered and compared later. Reader: the media buyer or growth lead who names and uploads ads. One argument: a learning you cannot filter for is a learning you will not find. Shape: how-to. No numbers used. The example name is made up and refers to no client.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:57:39",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:43",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-130",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

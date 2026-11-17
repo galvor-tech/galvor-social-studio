@@ -1,0 +1,807 @@
+{
+ "scanned_at": "2026-11-16T17:58:50",
+ "posts": [
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/motion1_you-need-to-try-this-reddit-ai-ad-workflow-activity-7525553811231252480-Uqh9",
+   "text": "You need to try this Reddit AI ad workflow\n\nBrennan Tobin, you are a genius 🤯\n\n\n\nThis is Brennan's exact AI Reddit workflow for Ad Research\n\n\"Mining Reddit to find winning angles\"\n\n\nP.S. Get Brennan's full breakdown of how he uses it and prompts you can copy to try it out yourself here: https://lnkd.in/gDsaJKDf\n\n\n--\n\n\nTLDR for you\n\n(Save for later)\n\n\nStep 1: Start with the problem\n\nFrame the human problem your product solves without brand names.\n\nExamples: \"My baby won't eat solid foods\"\n\n\n\nStep 2: Pull real convos in Reddit Answers\n\nExample prompt: \"Show me what people on Reddit are saying about staying hydrated. Are there recurring words, frustrations, or emotional tones when people discuss electrolyte powders?\"\n\n\n\nStep 3: Extract quotes\n\nTag emotional lines with hooks in a spreadsheet.\n\nQuote: \"I always end up dehydrated on flights no matter how much water I drink\"\nEmotion: Frustration\nCreative Hook: Hydration that lasts\n\nQuote: \"Most electrolyte powders taste like medicine\"\nEmotion: Annoyance\nCreative Hook: Electrolytes that don't taste like regret\n\n\n\nStep 4: Cluster into angles\n\nGroup quotes into patterns like this\n\nCommon clusters:\nPain first\nBefore/After\nTried Everything\nSocial Proof\nIdentity/Community\nTransformation\n\nEx: \"Most powders taste fake\" becomes Pain first. \"Finally found one that tastes good\" becomes Transformation.\n\n\n\nStep 5: Turn quotes into hooks\n\nFeed clusters into ChatGPT with this prompt:\n\n\"Turn these quotes into ad hooks using natural customer languag",
+   "posted_at": "2026-11-09",
+   "likes": 317,
+   "comments": 15,
+   "shares": 7,
+   "views": 0
+  },
+  {
+   "competitor": "Triple Whale (Moby AI creative features)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/triple-whale_this-month-were-thankful-for-a-lot-of-activity-7526682747432521728-NV3Q",
+   "text": "This month we’re thankful for... a lot of new features, actually 🦃 \n\n\nFirst up, Moby can take on more of your everyday work 👀\n\n🎬 Video ads & UGC: Turn footage you already have into polished ads and UGC-style content, with captions, animations, and graphics that match your brand kit. \n\n📈 Forecasting: Moby builds forecasts from your orders, ad spend, and promo calendar, shows a confidence level for each, and can turn them into a live pacing dashboard or send them to Google Sheets.\n\n🛍️ Shopify store management: Manage products, inventory, discounts, collections, and theme edits right from Moby chat. Then build Shopify-native page templates that work with your theme, cart, and apps with your final approval, of course. \n\n🔌 New connectors: Hook up Klaviyo so Moby can build campaigns, flows, and emails, and combine Klaviyo reports with your Triple Whale data. Postscript and Attentive are available too.\n\n🖥️ Moby Computer: Moby gets its own browser to research sites, gather info, and complete multi-step tasks in tools without a built-in connector.\n\n💡 Live prompts: Moby reads your Summary and Attribution pages and suggests prompts based on what’s changing in your performance data.\n\nBut wait, there’s more 👇\n\n🎯 A new Attribution experience (beta): Compare campaigns and attribution models side by side, filter down to the ads that matter, export to CSV, and make campaign changes without leaving the page.\n\n📦 Amazon Command Centre: Sales, advertising, and vendor performance in one view. Then",
+   "posted_at": "2026-11-12",
+   "likes": 23,
+   "comments": 4,
+   "shares": 4,
+   "views": 0
+  },
+  {
+   "competitor": "Hawky",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/hawky-ai_aicreative-useracquisition-mobilemarketing-activity-7518906569808318464-iB_G",
+   "text": "What happens when AI stops being a tool for making ads…\n\n…and starts becoming the way winning ads are made?\n\nSummer Liu sees this shift at a scale most individual advertisers can't.\n\nThrough SocialPeta, she has spent years tracking advertising creative across 80+ countries and more than 1.7 billion creatives.\n\nAnd what she's seeing is hard to ignore:\n\nAI is becoming a major part of the creative production behind winning campaigns.\n\nIn the latest episode of Velocity, Summer and Surender Selvaraj explore what that actually looks like, beyond the usual “AI will change marketing” headlines.\n\nThey talk about:\n→ Why she says 80% of winning creative is now AI-made\n→ How tiny teams are producing entire micro-dramas with AI\n→ How one AI-created character went from a micro-drama to commercials and even a fashion magazine\n→ Why India is becoming one of the fastest-growing micro-drama markets\n→ And why the old Meta + Google user acquisition playbook is becoming much harder to rely on\n\nThe bigger question isn't whether AI will change creative.\n\nIt's whether your creative process is built for what's already happening.\n\n#AICreative #UserAcquisition #MobileMarketing #GenerativeAI #Advertising",
+   "posted_at": "2026-10-22",
+   "likes": 24,
+   "comments": 1,
+   "shares": 3,
+   "views": 0
+  },
+  {
+   "competitor": "Foreplay",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/foreplayco_the-foreplay-mcp-is-live-for-all-users-activity-7473377523003801600-mYeo",
+   "text": "The Foreplay MCP is live for all users 🚀\n\nYour ad intelligence now lives where you work — Claude, ChatGPT, Cursor, or any MCP-compatible tool.\n\nAsk a question in plain language and get answers pulled straight from Foreplay:\n \nHere is what MCP brings to your toolkit:\n• Competitor research on demand\n• 200M+ ad library pre-enriched with transcript, hook and content analysis\n• Your own performance data — connect to Lens and analyze your ad accounts alongside competitive intel\n\nThe gap between \"I have a question about creative\" and \"I have the answer\" just collapsed to a single prompt.\n\nTry it → https://lnkd.in/eRd2Gfp5",
+   "posted_at": "2026-06-18",
+   "likes": 12,
+   "comments": 1,
+   "shares": 5,
+   "views": 0
+  },
+  {
+   "competitor": "Triple Whale (Moby AI creative features)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/triple-whale_pov-working-triple-whales-bfcm-event-activity-7526000779112042496-Jw-B",
+   "text": "We sent 4 marketers to our BFCM certification event in NYC and asked them to send us a pic at four random times during the day. \n\nThe result? A little bit of everything.🙃",
+   "posted_at": "2026-11-10",
+   "likes": 17,
+   "comments": 5,
+   "shares": 1,
+   "views": 0
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/motion1_thank-you-to-our-chief-marketer-sf-speakers-activity-7526279418021851136-oYrB",
+   "text": "THANK YOU to our Chief Marketer SF speakers\n\n👏\n\n\nAdam DeGregorio - VP Performance Creative at Hims & Hers\nAnna Tutckaia - VP Growth Marketing at Manychat\nConnor MacDonald - CMO at Ridge\nDara Denney - Chief Evangelist at Runneth\nfreddie roux - Growth at Granola\nHector Serrano Martin - Growth at Wispr Flow\nJoshua G. - EVP of Growth at Mars Men\nOren John - The Internet's Creative Director\nTimothy Davis - Head of Acquisition at ElevenLabs\n\nYall were amazing!\n\n\nWe've been getting comments like this all week:\n\n\"Refreshing to hear from actual practitioners. And olks came hungry for some good old-fashioned networking! In between time was just as valuable\"\n\n\nEntering our Jay Z era next because...\n\nWe heard you want an Encore.\n\nSo here it is!\n\n\n\nWe'll be running it back in Los Angeles Jan 21.\n\nAnd then in London after that on Feb 11.\n\n\nWhat are you waiting for?",
+   "posted_at": "2026-11-11",
+   "likes": 32,
+   "comments": 1,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Triple Whale (Moby AI creative features)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/triple-whale_this-week-at-the-glossy-beauty-wellness-activity-7527116366114480129-v49H",
+   "text": "This week at the Glossy Beauty & Wellness Summit, the Triple Whale lounge was all about finding your color. Can confirm we look great in blue. 🎨\n\nWith Hue & Harmony, we hosted color analysis sessions with professional draping and a personalized color card to take home. So much fun helping everyone find their most flattering shades.\n\nThank you to Hue & Harmony for a memorable experience, Glossy for having us, and for Cameron Brady, Margeaux Guercia, Chris Laux, and Kyle Smecker for representing the Triple Whale squad. 🐳",
+   "posted_at": "2026-11-13",
+   "likes": 22,
+   "comments": 1,
+   "shares": 1,
+   "views": 0
+  },
+  {
+   "competitor": "Atria",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/tryatria_this-is-the-1-ad-out-of-1231-for-a-uk-turmeric-activity-7523485173082935296-wTaw",
+   "text": "This is the #1 ad out of 1,231 for a UK turmeric brand.\n\nIt's 4 minutes long. 2.38M people in the UK have seen it in 27 days.\n\nThe brand also runs the exact same pitch as a standard testimonial: a 52-year-old tradesman talking to camera. Same ad copy, same headline, launched a day later.\n\nTestimonial: 540K.\nThis one: 2.38M.\n\nSame pitch, over 4x the reach.\n\nWhy it works:\n\n→ The words do the targeting. Every line is written for a British scaffolder with knackered knees. He knows it's about him before anyone says the word turmeric.\n\n→ The picture does the stopping. Everyone else just needs a reason not to scroll.\n\n→ The skeptic is the hero. He's already tried turmeric and says it did nothing, which is exactly what the viewer was about to think.\n\n→ The brand isn't named until past the halfway mark. By then the question has moved from \"does turmeric work?\" to \"where do I get this one?\"\n\nIt isn't a one-off, either. Six days later they launched a liver support film built on the same beats. It's #1 on its page too: 1.4M reached in 21 days.\n\nYour customer doesn't need to see himself. He needs to hear himself.\n\nMost UGC briefs still start with \"find a creator who looks like our customer.\" This brand's #1 ad stars a cast that looks nothing like him.\n\nWe broke down the whole template in a free playbook:\n→ the 9 beats, second by second\n→ the lines they reuse word for word\n→ how to make your own with AI\n\nWant it?\n1. Follow Atria\n2. Comment \"BABY\" and we'll reply with the link\n\nRather not c",
+   "posted_at": "2026-11-03",
+   "likes": 3,
+   "comments": 1,
+   "shares": 3,
+   "views": 0
+  },
+  {
+   "competitor": "Triple Whale (Moby AI creative features)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/triple-whale_the-november-integration-drop-more-of-your-activity-7527075341627039744-CQDy",
+   "text": "The November integration drop: more of your stack, now connected in Triple Whale.\n\n🏷️ AppLovin, MNTN, Stay AI, and Amazon",
+   "posted_at": "2026-11-13",
+   "likes": 18,
+   "comments": 1,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/motion1_we-may-have-started-a-marketing-cult-activity-7526642190580715520-CSw9",
+   "text": "We may have started a marketing cult...\n\nChief Marketer SF was a vibeeeee ✌️\n\n\nDon't worry, there's no koolaid.\n\nBut there is gelato and matcha.\n\nAnd some hilarious AI merch.\n\n\nOh and elite takes from the best marketing operators in the game. Come hang and learn from the growth leaders behind billions in ad spend.\n\nTogether, we’ll explore how to become insanely valuable in your role and look at where paid, organic, and creator are headed next. \n\n\nYour path to becoming a Chief Marketer starts here.\n\nWe'll in Los Angeles and London next!\n\n\n\nYour initiation is simple btw.\n\nNo robes, no chanting.\n\n\n\nMaybe we should get robes made...\n\nKeep you posted haha",
+   "posted_at": "2026-11-12",
+   "likes": 18,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/motion1_psst-hot-off-the-press-get-the-new-2027-activity-7527001698750349312-iSq4",
+   "text": "PSST, HOT OFF THE PRESS\n\nGet the new 2027 report 👉 https://lnkd.in/eHmQJWDD\n\n\nThis may be our best benchmark data yet...\n\n1) Find out what creative strategists get paid. All benchmarked by region and seniority so you can see how your salary stacks up\n\n2) Get tactical career advice from senior leaders 3 to 5 years ahead of you. Start your 2027 planning now to hit your goals for the new year\n\n3) See where creative strategy is going. The report is packed with data and sharp POVs from the best operators in the game to help you level up and stay ahead.\n\n\nCurious how we put it together?\n\nWe put our literal data detective hats on.\n\nBack in March last year, we started building a database with EVERY new unique job posting that fit the scope for \"creative strategy\" across a 16 month period. From March 2025 to July 2026, we collected and analyzed 1410 of these unique JDs.\n\nThen we surveyed 1736 performance marketers and narrowed down to a specific scope of 1195 creative strategy operators. Everything we learned from the job postings and the survey data has been mapped into visual benchmarks and tactical tips you can apply today to fast track your career.\n\nNow less reading, more downloading.\n\nGo grab your copy above.\n\n\nP.S. Know a marketer who should see this?\n\nTag em in the comments below for us\n\nBecause a lotttt of hard work and long nights analyzing data went into packaging this up for you. So please, pass it on like a hot potato.\n\n\nTyyyy",
+   "posted_at": "2026-11-13",
+   "likes": 18,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Atria",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/tryatria_paidpartnership-activity-7432108047008763904-wREy",
+   "text": "Not replacing teams. Replacing friction. 👆\nThat's the whole vision behind Atria. And Raya is how we deliver it.\n\nGo meet Raya → tryatria.com 🚀",
+   "posted_at": "2026-02-24",
+   "likes": 5,
+   "comments": 1,
+   "shares": 2,
+   "views": 0
+  },
+  {
+   "competitor": "Foreplay",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/foreplayco_were-hiring-a-principal-engineer-vp-of-activity-7518667599866671105-YYXz",
+   "text": "We're hiring a Principal Engineer / VP of Engineering.\n\nForeplay helps 10,000+ marketers, brands and agencies research and build better ads. We're bootstrapped, profitable, and have no board.\n\nBehind the product is a serious system: \n• Millions of new ads every day\n• Our own GPU fleet\n• A ClickHouse warehouse with tens of billions of rows\n\nWe're looking for someone who still loves to code and wants to lead a small, AI-first team, where agents handle the routine work so people can build what customers feel.\n\nFully remote, with overlap on Eastern time.\n\nApply 👉🏻 https://lnkd.in/eAJpSAAg",
+   "posted_at": "2026-10-21",
+   "likes": 7,
+   "comments": 0,
+   "shares": 2,
+   "views": 0
+  },
+  {
+   "competitor": "Hawky",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/hawky-ai_how-the-adops-agent-works-activity-7516106663687290880-tLe7",
+   "text": "Ask a media buyer where their week goes and you'll hear a lot about Ads Manager: building ad sets, fixing UTMs, moving winners around by hand.\n\nThe AdOps Agent handles that part now. You tell it what you want and review what it builds. Swipe through to see how.\n\nLive for every Hawky customer, link's in the comments.\n\n#MetaAds #PerformanceMarketing",
+   "posted_at": "2026-10-14",
+   "likes": 14,
+   "comments": 1,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Segwise",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/segwise-ai_if-you-want-to-know-why-meta-ads-die-after-activity-7519450213384667136-jL6r",
+   "text": "If you want to know why Meta ads die after 3 days, the answer is almost always delivery, not creative fatigue.\n\nA 72-hour collapse isn't a creative problem. It's a delivery signature.\n\nGenuine fatigue shows up after 5 to 14 days, per Search Engine Land. An ad that was healthy on Monday and dead on Thursday hasn't been seen enough times to wear anyone out.\n\nWhat changes on day three is the algorithm. The first 48 to 72 hours are Meta's exploration window, and when it closes, delivery narrows to whatever the system learned.\n\nBefore you diagnose, rule out noise. HyperFX puts roughly 20% of \"my ROAS dropped\" reports down to mismatched windows or attribution settings.\n\nThen check, in this order:\n\n1. Learning collapse. Under about 50 optimization events in 7 days, the ad set sits in Learning Limited and typically loses 15 to 30%, per HyperFX.\n2. A reset you caused. Under Andromeda, a 5 to 10% budget change on day two can restart Learning.\n3. Audience exhaustion. CPM up more than 25% in 72 hours with frequency climbing means the audience pocket ran dry. Keep the creative and broaden the audience.\n\nSometimes it really is the creative. A tight retargeting pool on a big budget can push frequency past 3 in two days, and then CTR falls 20 to 30% from its own baseline.\n\nSegwise's fatigue tracking flags sustained declines against thresholds you set, like a 20% ROAS drop over 7 days, so you can tell a slow creative decline apart from a day-three delivery drop.\n\nWhen your last ad died on day",
+   "posted_at": "2026-10-23",
+   "likes": 4,
+   "comments": 4,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Hawky",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/hawky-ai_creativestrategy-performancemarketing-metaads-activity-7520718596365398017-RsDt",
+   "text": "“Volume isn’t a creative strategy.”\n\nWhen creative performance drops, the instinct is often to make more ads.\nSarah Levinger, consumer psychologist and founder of Tether Insights, thinks that can completely miss the point.\n\nIn her conversation with Surender Selvaraj, she built creative strategies for brands spending $5K, $60K and $600K a month, and the answer wasn't simply “make more ads.”\n\nShe breaks down:\n→ Why launching more creative doesn't always give you more useful data\n→ Why creative fatigue can be created by your own testing strategy\n→ Why the right creative volume depends on how much you're spending\n→ When competitor research actually becomes useful\n\nThe bigger question isn't “How many ads should we make?”\n\nIt's: Are we making enough of the right ads to actually learn something?\n\n#CreativeStrategy #PerformanceMarketing #MetaAds #Advertising",
+   "posted_at": "2026-10-27",
+   "likes": 11,
+   "comments": 1,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/motion1_whoooop-whoop-the-runneth-mcp-is-live-activity-7524472408825720835-lZkH",
+   "text": "🚨 Whoooop whoop\n\nThe Runneth MCP is LIVE! \n\n\nP.S. Full details for you here:\n\nhttp://runneth.com/mcp\n\n\n\nQuick POV from our CEO Reza for you\n\n👇\n\n\"This MCP is the first of it's kind. Many people told me this approach won't work but they are wrong. \n\nWe were early betting on agents having their own computers. \n\nNow we are betting on agents working closely to accomplish ambitious goals together.\n\nOut of the box Runneth is exceptional at marketing. \n\nSo having runneth on your team of agents has the same effect of having a star employee: it levels up those around them. \n\nThe runneth MCP has one main tool call: ask_runneth.\n\nIt's the exact same runneth that you work with in Slack, and now it can work directly with your agents too. \n\nOur team and early users have been having a BLAST using this\"",
+   "posted_at": "2026-11-06",
+   "likes": 14,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "GoMarble",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/gomarble-ai_activity-7397275568955777024-hsGU",
+   "text": "",
+   "posted_at": "2025-11-20",
+   "likes": 3,
+   "comments": 0,
+   "shares": 2,
+   "views": 0
+  },
+  {
+   "competitor": "Hawky",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/hawky-ai_affiliatemarketing-partnermarketing-b2bsaas-activity-7521443315083345920-0QAZ",
+   "text": "“Don’t launch an affiliate program until you hit $10M.”\n\nThat sounds like a bold rule.\n\nBut Michael Cole, CMO at Everflow, has a reason for it.\n\nEverflow actually shut off a profitable Google Ads channel, and saw conversion rates and revenue go up.\n\nIn his conversation with Surender Selvaraj, Michael breaks down:\n→ Why referrals should start early, while affiliates can wait\n→ Why Everflow pays referrals at different stages of the sales process\n→ Why your best affiliates may already be promoting your competitors\n→ Why AI is becoming an increasingly important source of new customers\n\nAnd one number stood out: 22% of their demo requests recently said they discovered Everflow through ChatGPT, Gemini or another AI tool.\n\nThe bigger question is: How much of your acquisition is happening somewhere your attribution dashboard can't see?\n\n#AffiliateMarketing #PartnerMarketing #B2BSaaS #Attribution #AI",
+   "posted_at": "2026-10-29",
+   "likes": 10,
+   "comments": 1,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Segwise",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/segwise-ai_%F0%9D%90%81%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7-%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9E-%F0%9D%90%B2%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%B1%F0%9D%90%AD-%F0%9D%90%B0%F0%9D%90%9E-activity-7523350325077106688-3HvK",
+   "text": "𝐁𝐞𝐫𝐥𝐢𝐧, 𝐬𝐞𝐞 𝐲𝐨𝐮 𝐧𝐞𝐱𝐭 𝐰𝐞𝐞𝐤 𝐚𝐭 Business of Apps! 🇩🇪\n\nWe’re heading to Berlin for two days of mobile growth, creative conversations and a little after-hours fun! 🍸\n\n📅 𝐓𝐡𝐮𝐫𝐬𝐝𝐚𝐲, 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 𝟏𝟐\n☀️ By day, Isabel Ferreira will be at Business of Apps! If you’re working on UA or creative for an app or game, we’d love to hear what you’re testing and show you how teams are turning creative performance data and emerging competitor trends into winning ads.\n\n🌙 𝐁𝐲 𝐧𝐢𝐠𝐡𝐭, we’re co-sponsoring the Aperture Sessions after-party alongside Singular, RevenueCat, AppFollow and adjoe. Cocktails, beer, music and great chats with your peers. No panels, no slides, no BS. 🍻\n\n📅 𝐅𝐫𝐢𝐝𝐚𝐲, 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 𝟏𝟑\nIsabel is sticking around Berlin to catch up with local UA and creative leaders. Fancy a coffee and a chat about all things creative? ☕\n\nComing to Berlin? Drop us a comment or DM Isabel to arrange a meeting or get on the guest list for the after-party! 👇",
+   "posted_at": "2026-11-03",
+   "likes": 10,
+   "comments": 1,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "AdGraam",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/adgraam_adgraam-adintelligence-d2cbrands-activity-7526974882983800832-veVC",
+   "text": "Your competitors are already telling you what works. Are you paying attention?\n\nMost brands look at competitor ads to see what they’re running. But simply watching their ads isn’t enough.\n\nThe real advantage lies in understanding WHY those ads work.\n\nWith AdGraam’s Competitor Ads, you can:\n\n→ Decode the hooks that capture attention in the first 3 seconds.\n→ Analyse their longest-running ads and newest launches.\n→ Understand their creative angles, offers and emotional triggers.\n→ Identify patterns in their messaging and funnel strategy.\n→ Get AI-powered insights on what you could learn, improve and explore.\n\nBecause competitive research shouldn’t end with collecting screenshots. It should give you actionable creative intelligence.\n\nDon’t just watch your competitors. Learn from their strategy.\n\nExplore Competitor Ads with AdGraam.\n\nCompetitor Ad Intelligence, AI-Powered Ad Analysis, D2C Growth, Creative Strategy, Ad Research, Performance Marketing, Advertising Insights.\n\n#AdGraam #AdIntelligence #D2CBrands #CreativeStrategy #ArtificialIntelligence",
+   "posted_at": "2026-11-13",
+   "likes": 6,
+   "comments": 0,
+   "shares": 1,
+   "views": 0
+  },
+  {
+   "competitor": "Triple Whale (Moby AI creative features)",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/triple-whale_rock-paper-roas-activity-7527029703702941696-mhNn",
+   "text": "Put the rock down... 🪨",
+   "posted_at": "2026-11-13",
+   "likes": 11,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Hawky",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/hawky-ai_ads-manager-users-at-2-am-vs-hawky-users-activity-7516446720327749632-tqgw",
+   "text": "Ads Manager users at 2 AM vs Hawky users at 10 AM.\n\nTag the media buyer who needs to see this.",
+   "posted_at": "2026-10-15",
+   "likes": 2,
+   "comments": 1,
+   "shares": 1,
+   "views": 0
+  },
+  {
+   "competitor": "AdGraam",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/adgraam_adgraam-artificialintelligence-adtech-activity-7526596491604422656-z0LC",
+   "text": "What makes an AI creative platform actually useful for businesses?\n\nIt’s not just about generating videos. It’s about everything that goes into making those videos better.\n\nThat’s what we’ve focused on building with AdGraam.\n\nFrom tools designed around Indian audiences to a built in quality agent that reviews creatives before delivery, we’re making AI powered ad creation more practical and accessible.\n\nAdd 24/7 chat support to the mix, and you have a platform built to support you beyond just content generation.\n\nBecause better advertising starts with better creatives.\n\nDiscover AdGraam and rethink how you create ads.\n\nAI-powered advertising, AI video generation, ad creative automation, Indian D2C brands, performance marketing, creative technology, AI marketing platform\n\n#AdGraam #ArtificialIntelligence #AdTech #PerformanceMarketing #CreativeTechnology",
+   "posted_at": "2026-11-12",
+   "likes": 8,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Atria",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/tryatria_ad-activity-7432089965234208770-xQxh",
+   "text": "If you got 36 hours back every week, what would you actually build?\n\nThat's the question we asked ourselves when we started Atria. 🙌\n\nThe answer became Raya, an AI creative agent trained on $5B+ in ad spend that owns the overhead so your team can own the strategy.\n\nWe built the answer. Go say hello. 🚀 → tryatria.com 🔥",
+   "posted_at": "2026-02-24",
+   "likes": 2,
+   "comments": 0,
+   "shares": 1,
+   "views": 0
+  },
+  {
+   "competitor": "AdGraam",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/adgraam_adgraam-creativeintelligence-aimarketing-activity-7525817994581741568-tyvz",
+   "text": "What happens when your creative production finally keeps up with your growth?\n\nMore ideas move into execution. Winning ads get more variations. Teams spend less time waiting for creatives and more time testing what works.\n\nThat’s the idea behind creative velocity.\n\nAdGraam brings creative intelligence and production together, helping brands decide what to make, create at scale, and understand what to make next.\n\nBecause scaling your ads needs more than just a bigger budget. It needs a faster creative engine.\n\nDecide what to make. Create it at scale. Know what to make next.\n\nCreative intelligence, AI advertising, creative production at scale, ad creative strategy, performance marketing, D2C brands, marketing automation.\n\n\n #AdGraam #CreativeIntelligence #AIMarketing #PerformanceMarketing #D2CGrowth",
+   "posted_at": "2026-11-10",
+   "likes": 5,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Segwise",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/segwise-ai_if-you-want-to-know-which-creative-analytics-activity-7519812537626996736-nzUb",
+   "text": "If you want to know which creative analytics tool an agency should pick in 2026, the answer is the one that fits your client mix, not the longest feature list.\n\nYou're not short on tools. You're short on knowing why Ad A beat Ad B.\n\nMost agencies still report at the ad level. Across hundreds of ads and a dozen client accounts, \"which ad won\" stops helping by the second client review.\n\nWhat to match on:\n\n1. Ad networks. Most tools in this category are still Meta-first, so if a client runs on AppLovin, Unity or Mintegral, check the integration list before anything else.\n2. Analysis depth. Ad-level reporting tells you what happened. Element-level tagging of the hook, the CTA placement and the visual style tells you why.\n3. Client separation. Each client's data needs its own workspace, never blended into one account.\n4. Creative volume. The gap between the brief and the finished asset is where agency hours go.\n\nOne honest caveat: a deep platform can be more than you need if you run one or two small accounts.\n\nSegwise connects 15+ ad networks and MMPs, tags every creative element with multimodal AI, and helps your team turn winning patterns into new creatives. Its competitor tracking covers Meta only today.\n\nHow do you explain a winning creative to a client today: the ad-level numbers, the element tags, or \"the hook just felt right\"?\n\nThe full comparison, with nine tools compared on agency workflows, pricing and a buyer-by-buyer guide, is in the article👇",
+   "posted_at": "2026-10-24",
+   "likes": 1,
+   "comments": 1,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Foreplay",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/foreplayco_found-on-foreplay-225-from-ridge-ridge-activity-7439668141401714688-7SO3",
+   "text": "Found on Foreplay #225 from Ridge\n\nRidge recently launched these Facebook ads. Let's break it down 👇\n\n⚙️ Graphic ad highlighting product\n⚙️ Running for 17 days to date\n⚙️ AI Analysis: Empowerment, Security and Esteem\n⚙️ Creative Targeting: Quality focused buyers.\n\nOpen Foreplay to see every ad that Ridge launch, on every platform",
+   "posted_at": "2026-03-17",
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "AdGraam",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/adgraam_adgraam-artificialintelligence-creatoreconomy-activity-7524066733872336896-YjV5",
+   "text": "Creator marketing shouldn’t take weeks of coordination, endless follow ups and expensive shoots.\n\nWhat if you could simplify the entire process?\n\nWith AdGraam, all you need is:\n\n* Your product link\n* A simple creative brief\n* Your choice from 100 AI creators\n\nNo influencer coordination. No production hassles. Just a smarter, faster way to create product videos.\n\nBecause launching a product shouldn’t be the hardest part of marketing it.\n\nLaunch in 3 days. Just chill.\n\nDiscover AdGraam: https://adgraam.com\n\n#AdGraam #ArtificialIntelligence #CreatorEconomy #MarketingTechnology #D2CBrands",
+   "posted_at": "2026-11-05",
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Atria",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/tryatria_sponsored-ad-activity-7432062543721836544-3tHh",
+   "text": "Seeing this response on launch week means everything to us. 🙌\n\nWe built Raya because creative teams deserve better than 40+ hours of operational grind. They deserve superpowers.\n\nResearch. Competitive intel. New creatives. Batch uploads. Visual reports. All on autopilot.\n\nYou just say yes or no. 🚀 → tryatria.com 🔥",
+   "posted_at": "2026-02-24",
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Segwise",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/segwise-ai_if-you-want-to-know-whether-ai-creative-can-activity-7519480270941511681-eQWz",
+   "text": "If you want to know whether AI creative can cut your CPI by 70%, the answer is rarely, and almost never from the AI alone.\n\nThe 70% you keep seeing is production cost. CPI is a different number.\n\nAI cuts what you spend making variants by 70 to 90%. Genra's 2026 breakdown puts AI video at $0.50 to $30 per minute, against $1,000 to $50,000 for traditional production.\n\nThe auction prices the install, not your production bill.\n\nLook at where the big wins actually came from:\n\n- PURE App, -74% CPI: credited mainly to a Moloco DSP partnership\n- FET, -66% CPA: AI production plus testing built for subscription conversion\n- Star Chef 2, -18% CAC: a testing surface big enough to surface winners\n\n70% isn't fake. PURE App hit it. It just isn't representative.\n\nThe number that holds up is smaller. AppsFlyer looked at 1.1 million video creatives and found campaigns running 20+ variants cut CPA by up to 29%, with mixed formats adding another 5%.\n\nCheap volume has a cost too. Every competitor can now ship 50 to 100 ads a month, and Meta's Andromeda update limits near-duplicates, so fatigue arrives faster.\n\nYour advantage isn't how fast you generate. It's how fast performance data reaches the next round.\n\nThat means tagging the hook, CTA, character and voiceover on every ad, mapping each to performance, and catching fatigue before it shows up in CPI. Segwise is built to help with that loop.\n\nWhen a vendor quotes you 70%, what do you check first: the CPI baseline, the channel mix, or the varian",
+   "posted_at": "2026-10-23",
+   "likes": 0,
+   "comments": 1,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "GoMarble",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/gomarble-ai_the-best-engineering-decision-we-made-this-activity-7433124465754009600-VVuw",
+   "text": "GoMarble has analysed over $1B in ad spend and is trusted by marketers in more than 100 countries. Here’s a closer look at how GoMarble actually works. It is definitely worth reading.",
+   "posted_at": "2026-02-27",
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Foreplay",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/foreplayco_found-on-foreplay-223-from-dollar-shave-activity-7438934635792773120-KkQq",
+   "text": "Found on Foreplay #223 from Dollar Shave Club\n\nDollar Shave Club recently launched these Facebook ads. Let's break it down 👇\n\n🪒 Graphic ad highlighting product\n🪒 Running for 38 days to date\n🪒 AI Analysis: Competence, Curiosity and Security\n🪒 Creative Targeting: Value shoppers.\n\nOpen Foreplay to see every ad that Dollar Shave Club launch, on every platform",
+   "posted_at": "2026-03-15",
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "AdGraam",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/adgraam_adgraam-artificialintelligence-aimarketing-activity-7528024416233086977-u1ys",
+   "text": "5 AI subscriptions. Multiple platforms. Endless switching.\n\nCreating high-performing ad creatives shouldn’t be this complicated.\n\nWith AdGraam, you can bring your entire AI ad creation workflow under one roof.\n\nFrom AI UGC creators and video generation to ad creative production and ROAS tracking, everything works together in one subscription.\n\nThe idea is simple: spend less time managing tools and more time creating, testing and scaling ads.\n\nOne platform. An entire AI powered ad workflow.\n\nAI ad creation, AI video generation, AI UGC, performance marketing, ROAS tracking, advertising automation, AI marketing platform, D2C marketing, AdGraam\n\n#AdGraam #ArtificialIntelligence #AIMarketing #D2CMarketing #AdTech",
+   "posted_at": "2026-11-16",
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Foreplay",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/foreplayco_found-on-foreplay-224-from-armra-armra-activity-7439300813254209537-mmy_",
+   "text": "Found on Foreplay #224 from ARMRA®\n\nARMRA® recently launched these Facebook ads. Let's break it down 👇\n\n🌿 Graphic ad highlighting product\n🌿 Lifestyle image \n🌿 AI Analysis: Security, Urgency and Competence\n🌿 Creative Targeting: Health conscious adults.\n\nOpen Foreplay to see every ad that ARMRA® launch, on every platform",
+   "posted_at": "2026-03-16",
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Atria",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/tryatria_if-your-ad-win-rate-is-20-youre-not-scaling-activity-7432107413526278144-HOFT",
+   "text": "8 out of 10 creatives fail. Not because of talent. Because of workflow. 🔥\n\nRaya was built to flip those odds, trained on $5B+ in ad spend and getting smarter every campaign.\n\nHigher win rates start now → tryatria.com 🚀",
+   "posted_at": "2026-02-24",
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  },
+  {
+   "competitor": "Segwise",
+   "channel": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/segwise-ai_if-you-want-to-know-what-sets-the-best-ai-activity-7520174877442523136-LkuW",
+   "text": "If you want to know what sets the best AI creative brief generators apart in 2026, they write the brief from your ad data, not a blank doc.\n\nA creative brief isn't a writing task anymore. It's a data task.\n\nPlatform targeting is now mostly automated, so the creative is the main lever you still control. A brief filled in from memory spends that lever on a guess.\n\n\"Creative brief generator\" actually covers two different jobs:\n\n- A data-backed tool connects to your ad accounts, tags what's inside each creative, and names the hook, angle, format and CTA your own numbers point to.\n- A general-purpose writer like ChatGPT or Claude turns a prompt into a clean brief, but it knows nothing about your performance unless you paste it in.\n- Most data-backed tools stop at the brief. Only one in our comparison also makes the ad.\n\nThe honest part: you may not need a dedicated tool at all. Below roughly $10k a month in spend, a template plus your dashboards is usually enough.\n\nAbove that, you're testing dozens of creatives a month across more than one network, and \"what should we make next\" turns into a weekly question.\n\nThat's where Segwise fits. It tags every creative element across 15+ ad networks and MMPs and maps each tag to ROAS and CPI. Its Creative Strategy Agent writes the brief from what's winning, and the Creative Generation Agent helps your team turn that brief into statics, video and playables.\n\nWhich part of your brief still gets filled from memory: the hook, the angle, or the C",
+   "posted_at": "2026-10-25",
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "views": 0
+  }
+ ],
+ "news": [
+  {
+   "competitor": "Hawky",
+   "title": "Hawky.ai's Post",
+   "url": "https://www.linkedin.com/posts/hawky-ai_aicreative-useracquisition-mobilemarketing-activity-7518906569808318464-iB_G",
+   "text": "Hawky.ai 3w. \"Competitor Ad Analysis\" Is Five Different Jobs. Buy for the One You Have. Hawky.ai 3w. Explore content categories. Career · Productivity · Finance ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Hawky",
+   "title": "Ads Manager at 2 AM vs Hawky at 10 AM. Which one's you?  ...",
+   "url": "https://www.instagram.com/reel/DewZU-pDdSa/",
+   "text": "",
+   "date": ""
+  },
+  {
+   "competitor": "Hawky",
+   "title": "Hawky.ai's Post",
+   "url": "https://www.linkedin.com/posts/hawky-ai_creativestrategy-performancemarketing-activity-7520718596365398017-5Fvo",
+   "text": "Volume isn't a creative strategy.” When creative performance drops, the instinct is often to make more ads ... Read the full breakdown: https://hawky.ai/podcast/ ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Hawky",
+   "title": "Hawky.ai - 2026 Company Profile & Team",
+   "url": "https://tracxn.com/d/companies/hawkyai/__CWWr7wiXXFZHXJatxFtxCIB6Pq7ANo9BNn9WIAcLiIo",
+   "text": "Hawky.ai is an unfunded company based in Bengaluru (India), founded in 2023 by D J Vigneshwar and Surender Selvaraj. It operates as a Provider of an agentic ...Read more",
+   "date": "2026-10-27T12:00:00.000Z"
+  },
+  {
+   "competitor": "Hawky",
+   "title": "8 Best Creative ROAS Optimization and Analytics Tools (2026)",
+   "url": "https://www.airbridge.io/tips/best-creative-roas-optimization-tools",
+   "text": "3. Hawky. Hawky is an agentic creative performance and reporting tool designed for direct-to-consumer (D2C) brands and marketing agencies. It focuses on ...Read more",
+   "date": "2026-11-10T12:15:11.139Z"
+  },
+  {
+   "competitor": "Hawky",
+   "title": "Motion Alternatives for Creative Analytics (2026)",
+   "url": "https://admanage.ai/blog/motion-app-alternatives",
+   "text": "Hawky positions itself around analyzing your performance, decoding competitor strategies, and generating creatives. Its pricing is custom enterprise, based on ...Read more",
+   "date": "2026-10-31T12:00:00.000Z"
+  },
+  {
+   "competitor": "AdGraam",
+   "title": "AdGraam raises $315000 seed round for AI ad-creative ...",
+   "url": "https://app.dealroom.co/news/note/adgraam-raises-315-000-seed-round-for-ai-ad-creative-platform",
+   "text": "What's the deal? AdGraam, an AI creative intelligence platform for performance marketing, has raised ₹3 crore (about $315,000) in a seed round led by Umair ...Read more",
+   "date": "2026-10-16T12:00:00.000Z"
+  },
+  {
+   "competitor": "AdGraam",
+   "title": "creatives. Faster execution. Better results. ⚡ When the ads ...",
+   "url": "https://www.instagram.com/_b/reel/DfjV1iHpWaD/",
+   "text": "AdGraam helps you test more creative ideas, compare hooks, identify what works, and scale winning creatives faster. Because the goal isn't just to make ads that ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "AdGraam",
+   "title": "Your competitors are testing new ads. Are you still stuck ...",
+   "url": "https://www.instagram.com/reel/DfH8siIJ_hV/",
+   "text": "Stop making ads the old way. You bring the product. AdGraam brings the creative. Create AI ad creatives, static ads, video ads & UGC from your product.Read more",
+   "date": ""
+  },
+  {
+   "competitor": "AdGraam",
+   "title": "#adgraam #advertisingtechnology #performancemarketing ...",
+   "url": "https://www.linkedin.com/posts/adgraam_adgraam-advertisingtechnology-performancemarketing-activity-7522985486429306880-8c9B",
+   "text": "That's exactly what AdGraam brings into one platform. Meet your new creative team: The Strategist: Creative Intelligence to guide your ad strategy. The ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "AdGraam",
+   "title": "One product link. An entire ad creative workflow. What if ...",
+   "url": "https://www.instagram.com/reel/DfEm2IipYW_/",
+   "text": "With AdGraam, you can: * Turn your product page into an ad ready script. * Choose your creative format and AI avatar. * Generate UGC style video ads ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "AdGraam",
+   "title": "Your prettiest ad isn't always your most profitable one. In ...",
+   "url": "https://www.instagram.com/reel/DewMrLSBF0d/",
+   "text": "AdGraam brings the creative. Create AI ad creatives, static ads, video ads & UGC from your product. Discover competitor ads, generate new creative concepts ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Atria",
+   "title": "Ad ideas for Product & Service on Tiktok, Updated 2026 - Atria",
+   "url": "https://www.tryatria.com/ads/tiktok/product-service-ads",
+   "text": "The best ad ideas for Product & Service on Tiktok in 2026. AtriaAI helps you to find great ads trending on Tiktok. Start for free on Atria.",
+   "date": "2026-11-12T12:18:31.321Z"
+  },
+  {
+   "competitor": "Atria",
+   "title": "comment “ATRIA” and i'll send you the link. ...",
+   "url": "https://www.instagram.com/reel/DfttX7RPcZM/",
+   "text": "1,000 free credits, no card needed. i've been using @atria.ads since day one, and i'm so excited to finally share how it fits into my process ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Atria",
+   "title": "Sitemap - Atria",
+   "url": "https://www.tryatria.com/sitemap",
+   "text": "Every page on Atria in one place: product pages, customer stories, comparisons and the full blog archive.",
+   "date": "2026-10-26T12:00:00.000Z"
+  },
+  {
+   "competitor": "Atria",
+   "title": "Meet Atria, the creative strategy platform that gives you an ...",
+   "url": "https://www.facebook.com/61557916473141/videos/get-started-for-free-today/28779405611730455/",
+   "text": "Meet Atria, the creative strategy platform that gives you an unfair advantage if you run Meta and TikTok Ads for ecommerce. Meet Raya, Your AI Agent:...",
+   "date": ""
+  },
+  {
+   "competitor": "Atria",
+   "title": "Instagram Ad Strategy: 11 Proven Best Practices for 2026 - Atria",
+   "url": "https://www.tryatria.com/blog/instagram-ad-strategy",
+   "text": "Atria is a creative intelligence platform for Meta ads. Raya, its AI creative strategist, works inside Slack and helps you turn account and competitor data ...Read more",
+   "date": "2026-10-19T12:00:00.000Z"
+  },
+  {
+   "competitor": "Atria",
+   "title": "Atria Review 2026: Is It Worth It for Marketers? - Delavo.de",
+   "url": "https://delavo.de/en/atria-ai-ad-intelligence-review/",
+   "text": "What Is Atria? Atria is an ad intelligence and workflow platform for performance marketers, media buyers and agencies running campaigns on Meta and TikTok.Read more",
+   "date": "2026-11-06T12:00:00.000Z"
+  },
+  {
+   "competitor": "Foreplay",
+   "title": "9 Best Foreplay Alternatives I Compared for 2026 - Atria",
+   "url": "https://www.tryatria.com/blog/foreplay-alternatives-6-other-ad-workflow-tools-that-satisfy",
+   "text": "What is Foreplay? Foreplay is an ad research and creative workflow platform for marketers. It lets you save ads, search other brands' ads, track competitors, ...Read more",
+   "date": "2026-11-12T12:19:28.670Z"
+  },
+  {
+   "competitor": "Foreplay",
+   "title": "Make ads that actually convert",
+   "url": "https://www.facebook.com/foreplay.co/videos/make-ads-that-actually-convert/1881702576589565/",
+   "text": "This post features a satirical, AI-generated Super Bowl commercial for the candy app Skittles. The ad, created by the website Foreplay, personifies the candy as ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Foreplay",
+   "title": "Foreplay MCP server",
+   "url": "https://www.activepieces.com/mcp/foreplay-co",
+   "text": "Foreplay MCP server. Competitive advertising data and creative insights platform. Search, filter, and analyze ads and brands with live and historical ad ...Read more",
+   "date": "2026-11-07T12:00:00.000Z"
+  },
+  {
+   "competitor": "Foreplay",
+   "title": "Foreplay Products | Read 131 Reviews on ...",
+   "url": "https://www.g2.com/sellers/foreplay",
+   "text": "All Products & Services ... Foreplay is a comprehensive ad creative workflow platform designed to streamline the process of creating, analyzing, and optimizing ...Read more",
+   "date": "2026-10-21T12:00:00.000Z"
+  },
+  {
+   "competitor": "Foreplay",
+   "title": "Built a lightweight Foreplay alternative to save Meta Ad ...",
+   "url": "https://www.reddit.com/r/FacebookAds/comments/1xszlys/built_a_lightweight_foreplay_alternative_to_save/",
+   "text": "Built a lightweight Foreplay alternative to save Meta Ad Library & TikTok Creative Center ads + download HD MP4s ($14.99 lifetime instead of $49/mo).Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Foreplay",
+   "title": "10 Best Ad Creative Research Tools in 2026",
+   "url": "https://adspo.co/blog/best-ad-creative-research-tools",
+   "text": "Discovery, a searchable database of ads saved by the Foreplay community. Briefs to turn saved ads into shareable creative briefs. Spyder for 24/7 competitor ...Read more",
+   "date": "2026-10-30T12:00:00.000Z"
+  },
+  {
+   "competitor": "GoMarble",
+   "title": "How GoMarble Built A Short-Form Top Of Funnel With ...",
+   "url": "https://www.creator-works.com/our-work/gomarble",
+   "text": "GoMarble is an AI agent built for marketers that connects all of your ad accounts, helps you manage campaigns, and decides what to do next.Read more",
+   "date": "2026-10-28T12:00:00.000Z"
+  },
+  {
+   "competitor": "GoMarble",
+   "title": "Comment HELP for my full guide and best use cases ...",
+   "url": "https://www.instagram.com/reel/DfF0kU1ztJE/",
+   "text": "Running Meta or Google Ads? GoMarble AI could save you hours of manual campaign analysis. It's an AI agent for paid media teams that helps you understand ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "GoMarble",
+   "title": "GoMarble Reviews, Pricing & Alternatives: Is This AI Ads ...",
+   "url": "https://www.gethookd.ai/learn/gomarble-reviews-pricing-alternatives-is-this-ai-ads-analyzer-legit/",
+   "text": "GoMarble AI Ads Analyzer is a legitimate tool that scores a Facebook ad's hook, script, and visuals in under 30 seconds from an uploaded file or a single ad ...Read more",
+   "date": "2026-11-11T12:20:41.256Z"
+  },
+  {
+   "competitor": "GoMarble",
+   "title": "GoMarble MCP Server",
+   "url": "https://mcpservers.org/servers/www-gomarble-ai-mcp",
+   "text": "GoMarble can inspect creative performance and creative content, analyse landing pages, and connect both to live campaign evidence and competitor research.Read more",
+   "date": "2026-11-15T12:20:41.260Z"
+  },
+  {
+   "competitor": "GoMarble",
+   "title": "20 Claudes aren't a team, but a shared workspace can be",
+   "url": "https://www.linkedin.com/posts/adityasriram_an-agency-running-200-ad-accounts-described-activity-7518379383905067008-Pm77",
+   "text": "Excited to introduce GoMarble Creative Research — it's like Perplexity for ad strategy: it researches competitor ads and gives you a swipe file, the winning ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "GoMarble",
+   "title": "AI Tool for Paid Ads: Analyze Competitor Ads and ...",
+   "url": "https://www.facebook.com/samdespomarketing/videos/comment-help-for-my-full-guide-and-best-use-cases-i-use-this-ai-tool-in-my-7-fig/1441222910714665/",
+   "text": "This video is a product recommendation for a paid AI tool called \"GoMarble,\" which the speaker calls an \"AI paid ads brain. ... 5 AI Tools I Actually Use for ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "MagicBrief / Canva Grow",
+   "title": "GetHookd Learning Center | Facebook Ad Tips & Guides",
+   "url": "https://www.gethookd.ai/learn/?e-page-7a7c426=8&7f94084d_page=7",
+   "text": "GetCrux MagicBrief GetHookd; ad creative tools compared for features, pricing, and team fit ... The AI Ad Generator Built to Create Winning Ads 3X Faster ...Read more",
+   "date": "2026-11-06T12:00:00.000Z"
+  },
+  {
+   "competitor": "MagicBrief / Canva Grow",
+   "title": "Marketing rarely stalls because of bad ideas. It ...",
+   "url": "https://www.instagram.com/p/De1uSPwHzwF/",
+   "text": "It brings ad creation, publishing, and performance learning into one AI native workflow, building on Canva's MagicBrief acquisition. You design, launch across ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "MagicBrief / Canva Grow",
+   "title": "Facebook Ad Guides: Competitor Research and Creative",
+   "url": "https://stealads.ai/blog",
+   "text": "MagicBrief closed on July 31, 2026. See what its own FAQ says and compare MagicBrief alternatives for rival ad research, analytics and making new ads. Nov 7 ...Read more",
+   "date": "2026-11-06T12:00:00.000Z"
+  },
+  {
+   "competitor": "MagicBrief / Canva Grow",
+   "title": "Meta Ad Library: Features & Reviews",
+   "url": "https://www.adtribute.io/directory/meta-ad-library",
+   "text": "Built for affiliates and media buyers. Price: Starting at $149/mo per module. Ad Research · MagicBrief. Agency-first creative workflow tool combining ad ...Read more",
+   "date": "2026-10-27T12:00:00.000Z"
+  },
+  {
+   "competitor": "MagicBrief / Canva Grow",
+   "title": "Shrithan Devaiah's Post",
+   "url": "https://www.linkedin.com/posts/shrithan-devaiah_in-july-a-tool-thousands-of-ad-marketers-activity-7523386457248534528-q5RG",
+   "text": "In July, a tool thousands of ad marketers used every day just switched off. It was called MagicBrief. Canva bought it in 2025, and on 31 July 2026 at 8pm ...",
+   "date": ""
+  },
+  {
+   "competitor": "MagicBrief / Canva Grow",
+   "title": "Blog — Performance creative, workflow and Adrio updates",
+   "url": "https://adrio.ai/blog",
+   "text": "MagicBrief alternatives after the shutdown (2026). An AI Ad Workflow for ... 9 best AI ad creative tools for Facebook and Meta ads (2026). 8 best ...Read more",
+   "date": "2026-11-09T12:22:13.808Z"
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "title": "Motion Alternatives for Creative Analytics (2026)",
+   "url": "https://admanage.ai/blog/motion-app-alternatives",
+   "text": "Compare Motion creative analytics alternatives for ad reporting, creative grouping, research and launch workflows. Includes a practical trial checklist and ...",
+   "date": "2026-10-31T12:00:00.000Z"
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "title": "Motion's Creative Strategist Bootcamp",
+   "url": "https://medium.com/write-a-catalyst/motions-creative-strategist-bootcamp-e0453086d22c",
+   "text": "Motion Creative Analytics' free, eight-week virtual program introduces the work behind performance creative campaigns, from brand and audience research through ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "title": "Motion - 2026 Company Profile, Team, Funding & ...",
+   "url": "https://tracxn.com/d/companies/motion/__ceyqM1sBHHhoEz3TicIWlbdejogLj2tDGOiMDjoAR0I",
+   "text": "Motion is a series B company based in Canada, founded in 2010 by Alexander Sloan and Reza Khadjavi. It operates as a Provider of ad creative management platform ...Read more",
+   "date": "2026-10-22T12:00:00.000Z"
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "title": "Motion Designer by Layer | AI Video Production Agent",
+   "url": "https://layer.ai/motion-designer",
+   "text": "Brief a game trailer, UA ad, walkthrough or cutscene. Motion Designer writes, shoots, scores and edits it, then re-cuts it for each placement. You approve.",
+   "date": "2026-10-27T12:00:00.000Z"
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "title": "Parent Codes, Trackers & Team Roles",
+   "url": "https://www.youtube.com/watch?v=xr11ty49GN8",
+   "text": "How to Build a UGC Engine That Scales: Persona Targeting, Briefs & Creator Deals. Motion (Creative Analytics) · 483 views ; Customer & Audience Research for Ads: ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Motion (now also selling as Runneth)",
+   "title": "AI Is Stuck on Fast-Forward. The Ad Industry Is Turning to ...",
+   "url": "https://www.wsj.com/cmo-today/ai-is-stuck-on-fast-forward-the-ad-industry-is-turning-to-stop-motion-33529734",
+   "text": "The Ad Industry Is Turning to Stop Motion. Plus, why Apollo relies on business fundamentals and corporate culture instead of blimps and mascots.Read more",
+   "date": "2026-11-02T12:00:00.000Z"
+  },
+  {
+   "competitor": "Segwise",
+   "title": "Creative Analytics, Generation & Performance Marketing ...",
+   "url": "https://segwise.ai/blog",
+   "text": "Segwise's AI creative analytics finds your winning creative patterns and helps you turn them into on-brand ad creatives. Start Free Trial. <. Strategy & ...Read more",
+   "date": "2026-11-02T12:00:00.000Z"
+  },
+  {
+   "competitor": "Segwise",
+   "title": "Switch from Atria to Segwise (2026)",
+   "url": "https://segwise.ai/atria-alternative",
+   "text": "Segwise is an AI creative analytics and creative generation platform that helps UA, performance marketing and creative teams find their winning creative ...Read more",
+   "date": "2026-11-02T12:00:00.000Z"
+  },
+  {
+   "competitor": "Segwise",
+   "title": "AI Agent for Creative Analytics & Ad Generation",
+   "url": "https://www.youtube.com/watch?v=wtkTaIXRl6s",
+   "text": "Your next winning ad is one ask away! Meet the new Segwise Agent: ask for ideas from your winning ads, run a competitor gap analysis and turn one winner ...",
+   "date": ""
+  },
+  {
+   "competitor": "Segwise",
+   "title": "Switch from AdCreative.ai to Segwise (2026)",
+   "url": "https://segwise.ai/adcreative-ai-alternative",
+   "text": "Segwise is an AI creative analytics and creative generation platform that helps UA, performance marketing and creative teams find their winning creative ...Read more",
+   "date": "2026-10-26T12:00:00.000Z"
+  },
+  {
+   "competitor": "Segwise",
+   "title": "Best AI Agents for Ad Creative and Performance Marketing ...",
+   "url": "https://www.linkedin.com/posts/segwise-ai_best-ai-agents-for-ad-creative-and-performance-activity-7516913451437359104-f0zy",
+   "text": "Best AI Agents for Ad Creative and Performance Marketing in 2026 Segwise on LinkedIn. Like ...Read more",
+   "date": ""
+  },
+  {
+   "competitor": "Segwise",
+   "title": "Segwise Software Pricing, Alternatives & More 2026",
+   "url": "https://www.capterra.com/p/10021874/Segwise/",
+   "text": "Segwise is an AI-powered creative intelligence and ad creative analytics platform built for mobile game studios, subscription apps, and DTC brands running ...Read more",
+   "date": "2026-10-19T12:00:00.000Z"
+  },
+  {
+   "competitor": "Superads",
+   "title": "Stop wasting hours analyzing ad reports  Let AI do the ...",
+   "url": "https://www.instagram.com/reel/Dev3W0_pRWK/",
+   "text": "",
+   "date": ""
+  },
+  {
+   "competitor": "Superads",
+   "title": "Stop wasting hours analyzing ad reports 📊🚀 Let AI do the ...",
+   "url": "https://www.facebook.com/61571426952364/posts/stop-wasting-hours-analyzing-ad-reports-let-ai-do-the-heavy-lifting-superside-ai/122171104688714231/",
+   "text": "Superside AI helps you uncover winning hooks, analyze ad performance, and optimize campaigns faster. Comment “SUPERADS” and I'll DM you the details! [ ...",
+   "date": ""
+  },
+  {
+   "competitor": "Superads",
+   "title": "Superads Review 2026: Pricing, Pros & Cons - Vetteroo",
+   "url": "https://www.vetteroo.com/reviews/superads-review",
+   "text": "Superads is a credible creative analytics tool from an established design company; use the 14-day trial to see if it fits your ad spend. Side by side ...",
+   "date": "2026-10-31T12:00:00.000Z"
+  }
+ ],
+ "errors": [
+  "Google (Triple Whale): Apify answered 400 for apify~google-search-scraper: {\n  \"error\": {\n    \"type\": \"run-failed\",\n    \"message\": \"Actor run did not succeed (run ID: zE1fvkJ5ym4hdGvc"
+ ],
+ "insight": {
+  "working": [
+   "Tactical, step-by-step swipe files and workflows generate outsized engagement, seen in Motion's Reddit research workflow post netting 317 likes, 15 comments, and 7 shares.",
+   "Specific breakdown teardowns comparing ad angles and delivery mechanics generate consistent engagement, as shown in Atria's UK turmeric teardown earning 3 likes and 3 shares off a small profile baseline.",
+   "Speaker roundups featuring known practitioner names capture moderate traction, such as Motion's Chief Marketer SF recap yielding 32 likes.",
+   "Podcast and interview cutdowns addressing strategic agency tensions drive modest engagement, exemplified by Hawky's interview on why volume is not creative strategy getting 11 likes."
+  ],
+  "not_working": [
+   "Vague product feature laundry lists and generic event booth photo recaps fall flat, seen across Triple Whale's updates getting 11 to 23 likes and almost zero conversation.",
+   "Pure feature release announcements and hollow AI buzzwords fail to spark discussion, illustrated by Motion's MCP post getting 14 likes and 0 comments, and Foreplay's MCP launch earning 12 likes.",
+   "Unattributed generic claims like 5-in-1 subscriptions or AI avatar checklists struggle for reach, shown by AdGraam's posts getting between 2 and 8 likes with zero comments.",
+   "Empty teaser lines without meat or context collapse, such as GoMarble posting empty or near-empty posts with 2 to 3 likes."
+  ],
+  "moves": [
+   "Motion is pushing practitioner community events and launching agent tool integrations via MCP under its Runneth branding.",
+   "Triple Whale is expanding Moby beyond attribution into end-to-end autonomous task execution across store ops and creative drafting.",
+   "Hawky is positioning itself as an agentic media buyer and creative strategist through podcast content attacking brute-force volume.",
+   "Foreplay is turning its ad library into an MCP-accessible intelligence layer for LLMs while driving team expansion.",
+   "AdGraam is targeting the Indian D2C ecosystem with fast-turnaround AI UGC avatars and multi-tool consolidation.",
+   "Atria is pushing autonomous ad generation and creative intelligence through its Slack agent Raya.",
+   "Segwise is anchoring its messaging on deep element-level attribution to diagnose early ad fatigue against platform delivery anomalies.",
+   "GoMarble is pushing conversational ad analysis and Perplexity-style creative research assistants."
+  ],
+  "for_galvor": [
+   "Raj Dhakad: Break down what happens to creative fatigue diagnostics when an ad dies on day three, contrasting pure delivery learning limits with creative decay without claiming external platform metrics.",
+   "Sunil Humne: Address the executive dilemma of building custom in-house AI research workflows versus establishing a systematic creative memory that survives team turnover.",
+   "Shrutik Rathod: Examine the operational friction between using synthetic AI avatars and coordinating authentic regional creator briefs for Indian D2C brands.",
+   "Galvor Page: Contrast high-volume creative generation that produces duplicate angles against structured attribute-level iteration across fortnightly testing loops.",
+   "Raj Dhakad: Teardown the technical limits of relying on external LLM prompts to mine Reddit threads for ad hooks without connecting those angles to structured post-click order data."
+  ],
+  "thin": "This dataset comprises a small snapshot of public LinkedIn posts and search blurbs without impression or follower figures, so engagement counts indicate conversational signals rather than statistically sound market performance.",
+  "at": "2026-11-16T18:01:16"
+ }
+}

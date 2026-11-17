@@ -1,0 +1,82 @@
+{
+  "id": "ig-2027-01-21-the-brief-vs-the-feedback",
+  "slug": "the-brief-vs-the-feedback",
+  "platform": "instagram",
+  "date": "2027-01-21",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Meme / Relatable",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Relatable: the brief vs the feedback",
+  "hook": "The brief said \"test a new opening\". The feedback said \"can the logo be bigger?\"",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "The brief said \"test a new opening\". The feedback said \"can the logo be bigger?\"\n\nIt happens on every team, ours included. By the time the video comes back, three weeks have passed and nobody has the brief open.\n\nSo the ad gets judged on taste, and the thing it was made to test gets edited out.\n\nA small fix: paste the brief's goal as the first line of the feedback doc. Then sort every note into two piles. Notes that help the test. Notes that are just preference.\n\nDo the first pile. Park the second.\n\nFollow @galvor.ai for more.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#ugcads",
+    "#creativestrategy",
+    "#marketingtips",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Two-column card in Galvor violet and gold titled The brief vs the feedback. Left column, The brief asked for: a new opening line, one clear message, a real customer. Right column, The feedback asked for: a bigger logo, two more messages, more polish.",
+  "cta": "Follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "compare",
+        "kicker": "Relatable",
+        "headline": "The brief vs *the feedback*",
+        "left_title": "The brief asked for",
+        "left": [
+          "A new opening line",
+          "One clear message",
+          "A real customer"
+        ],
+        "right_title": "The feedback asked for",
+        "right": [
+          "A bigger logo",
+          "Two more messages",
+          "More polish"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH TEAM: \"ours included\" says this happens at Galvor too. Keep it only if the team is comfortable owning that; otherwise cut those two words. \"Three weeks\" is an illustrative gap, not a measured one; change to \"weeks\" if preferred. Reader: a brand manager reviewing creator videos. Different argument from 12 Dec (make each note specific): this one is about judging the ad against what the brief set out to test. Nobody is mocked; the gap is a process problem. No facts-bank numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2027-01-23 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-23 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2027-01-23 11:00 to 2027-01-21 13:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:16",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "IG-124",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

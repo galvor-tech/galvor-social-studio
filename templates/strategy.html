@@ -1,0 +1,56 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Strategy & playbook · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.playbook_tabs('strategy') }}
+<h1>Strategy &amp; playbook</h1>
+<p class="sub">One belief, three lenses: <b>every ad a brand runs should make the next one better.</b> Built from the 90-day LinkedIn plan (v3), the tracker and Decoded #3.</p>
+
+<div class="grid g2">
+  <div class="card"><h4>Voices</h4>
+    <table class="tbl"><tr><th>Who</th><th>Lens</th><th>Series</th></tr>
+    {% for k, v in VOICES.items() %}<tr><td>{{ m.vchip(k) }}<div class="small muted">{{ v.role }}</div></td><td class="small">{{ v.lens }}</td><td class="small">{{ v.series or '—' }}</td></tr>{% endfor %}</table></div>
+  <div class="card"><h4>Phrases we repeat on purpose</h4><ul>{% for p in PHRASES %}<li><b>{{ p }}</b></li>{% endfor %}</ul>
+    <h4 style="margin-top:16px">Monthly themes</h4><dl class="kv">{% for mo, t in THEMES.items() %}<dt>{{ (mo ~ '-01')|d('%B %Y') }}</dt><dd>{{ t }}</dd>{% endfor %}</dl></div>
+  <div class="card"><h4>Weekly rhythm (IST)</h4>
+    {% for plat, rows in RHYTHM.items() %}<p class="small" style="margin:12px 0 4px">{{ m.plat(plat) }}</p>
+    <table class="tbl">{% for d, t, v, desc in rows %}<tr><td style="width:60px"><b>{{ d }}</b></td><td style="width:60px">{{ t }}</td><td class="small">{{ desc }}</td></tr>{% endfor %}</table>{% endfor %}
+    <p class="small muted">Plus: Monday 09:30 30-minute content huddle · 15 min/day of real comments per person · reply to every comment within the first hour.</p></div>
+  <div class="card"><h4>Mix</h4>
+    <p class="small"><b>By job (LinkedIn):</b> {% for j, v in JOB_MIX.items() %}{{ j }} {{ v }}%{{ ' · ' if not loop.last }}{% endfor %}</p>
+    <p class="small"><b>By format (LinkedIn):</b> text/story/POV 45% · carousel (PDF) 25% · short native video 20% · poll ≤10%</p>
+    <p class="small"><b>Asks:</b> 70% no ask · 20% soft (“comment ‘brief’ and I'll send it”) · 10% direct (“we'll decode your category free”)</p>
+    <p class="small"><b>Instagram:</b> 4 feed posts/week (2 carousels, 1 reel, 1 single/reel) + a weekly story pack + daily stories. Educate 40 · Attract 35 · De-risk 15 · Convert 10.</p>
+    <h4 style="margin-top:14px">Pillars</h4>
+    <p class="small"><b>LinkedIn:</b> {{ PILLARS.linkedin|join(' · ') }}</p><p class="small"><b>Instagram:</b> {{ PILLARS.instagram|join(' · ') }}</p></div>
+  <div class="card"><h4>Rules for every post</h4><ol class="small">{% for r in RULES %}<li>{{ r }}</li>{% endfor %}</ol></div>
+  <div class="card"><h4>Distribution &amp; engagement playbook</h4><ul class="small">
+    <li><b>Target list:</b> 100 named people per voice (Sunil → founders/CMOs, Raj → performance/growth leads, Shrutik → brand, creative and agency people).</li>
+    <li><b>Connections:</b> 10–15 a day per person with a one-line personal note. No pitch.</li>
+    <li><b>First hour:</b> the other three team members leave real comments; the author replies to everything; links go in the first comment.</li>
+    <li><b>Comments before posts:</b> 20 thoughtful comments a week on target-audience posts.</li>
+    <li><b>DMs:</b> only after someone engaged twice. Lead with something useful (a teardown, the brief template).</li>
+    <li><b>Company page:</b> reshares the best post every Friday and keeps an archive of proof.</li>
+    <li><b>Reuse:</b> every Friday the best post of the week becomes a carousel, a reel or a newsletter section.</li>
+    <li>No engagement pods or bought followers.</li></ul></div>
+  <div class="card"><h4>Posts that answer sales objections</h4><table class="tbl small">
+    <tr><th>When a prospect says…</th><th>Send</th></tr>
+    <tr><td>“We already have an agency.”</td><td>S5, S34</td></tr>
+    <tr><td>“Can public ad data really tell you performance?”</td><td>R11, R12, R14</td></tr>
+    <tr><td>“We don't want AI replacing creative judgement.”</td><td>S22, S30, Sh31, Sh33</td></tr>
+    <tr><td>“We sell on marketplaces, so we can't attribute.”</td><td>R35, R40</td></tr>
+    <tr><td>“Too many creators and agencies to coordinate.”</td><td>Sh11, Sh17, Sh18</td></tr>
+    <tr><td>“Let's prove it in a small pilot first.”</td><td>S31, S37, S38</td></tr>
+    <tr><td>“Your dashboard is just another dashboard.”</td><td>S13, S42, R38</td></tr></table>
+    <p class="small muted">Find any of these in the <a href="{{ url_for('topics_page') }}" style="color:var(--accent)">Topic bank</a>; once a post is live, its URL is on the post page.</p></div>
+  <div class="card"><h4>90-day scorecard (targets)</h4><table class="tbl small">
+    <tr><td>Planned posts actually published</td><td><b>≥ 90%</b></td></tr>
+    <tr><td>New connections from target titles</td><td><b>100–150 / profile / month</b></td></tr>
+    <tr><td>Commenters who match the target audience</td><td><b>≥ 30% by week 12</b></td></tr>
+    <tr><td>Newsletter click rate (not opens)</td><td><b>≥ 2%</b></td></tr>
+    <tr><td>Conversations started by content</td><td><b>10</b></td></tr>
+    <tr><td>Opportunities where the prospect saw content first</td><td><b>5</b></td></tr>
+    <tr><td>Posts sales used in live deals</td><td><b>15+ uses</b></td></tr>
+    <tr><td>Pilots signed where content played a part</td><td><b>1</b></td></tr></table>
+    <p class="small muted">Track these on the <a href="{{ url_for('analytics') }}" style="color:var(--accent)">Analytics</a> page.</p></div>
+</div>
+{% endblock %}

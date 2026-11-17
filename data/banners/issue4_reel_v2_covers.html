@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&family=JetBrains+Mono:wght@500&family=Instrument+Serif:ital@0;1&display=block" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden}
+:root{--v:#7C3AED;--vp:#C9A6FF;--ink:#17121F;--bg:#F7F6FA;--muted:#6E6E73}
+.s{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:Inter,sans-serif;background:var(--bg);color:var(--ink)}
+.s.dark{background:radial-gradient(70% 45% at 50% 46%,#2C1650 0%,#0E0818 100%);color:#fff}
+.blob{position:absolute;border-radius:50%;filter:blur(10px)}
+.serif{font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;color:var(--v);letter-spacing:0}
+.dark .serif{color:var(--vp)}
+.logo{position:absolute;left:60px;top:262px;display:flex;align-items:center;gap:14px;font-weight:700;font-size:38px;letter-spacing:-.04em}
+.logo img{width:52px;height:52px}
+.mono{font-family:'JetBrains Mono',monospace;font-weight:500;letter-spacing:.14em;text-transform:uppercase}
+.h{position:absolute;left:0;right:0;text-align:center;font-weight:750;letter-spacing:-.045em;line-height:1.0}
+.card{position:absolute;border-radius:34px;overflow:hidden;background:#fff;box-shadow:0 30px 70px rgba(36,17,56,.22)}
+.card img{width:100%;height:100%;object-fit:cover;display:block}
+.card .play{position:absolute;left:28px;top:26px;width:0;height:0;border-left:34px solid rgba(255,255,255,.95);border-top:21px solid transparent;border-bottom:21px solid transparent}
+.card .bar{position:absolute;left:28px;right:28px;bottom:26px;height:7px;border-radius:4px;background:rgba(255,255,255,.4)}
+.card .bar i{display:block;width:38%;height:100%;border-radius:4px;background:#fff}
+.lens{position:absolute;border-radius:50%;border:30px solid var(--vp);box-shadow:0 0 60px rgba(167,112,255,.9),inset 0 0 40px rgba(167,112,255,.5)}
+.handle{position:absolute;width:56px;border-radius:28px;background:var(--vp);box-shadow:0 0 50px rgba(167,112,255,.9);transform-origin:top center;transform:rotate(-45deg)}
+.pill{position:absolute;display:inline-flex;align-items:center;gap:14px;border-radius:999px;font-weight:650;white-space:nowrap}
+.bub{position:absolute;background:#fff;border-radius:999px;padding:16px 30px;font-size:34px;font-weight:560;box-shadow:0 10px 28px rgba(36,17,56,.14);white-space:nowrap}
+.brk{position:absolute;width:70px;height:70px;border:9px solid var(--v)}
+.hl{background:var(--v);color:#fff;padding:0 .14em;border-radius:.1em}
+</style></head><body>
+<div class="s" id="s"></div>
+<script>
+const v=new URLSearchParams(location.search).get('v')||'a', s=document.getElementById('s');
+const IMG='file:///D:/galvor_linkedin/videos/decoded4-scout-reel-v2/assets/gen/';
+const MARK='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark.png';
+const MARKW='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark-white.png';
+const card=(img,x,y,w,h,ex='')=>`<div class="card" style="left:${x}px;top:${y}px;width:${w}px;height:${h}px;${ex}"><img src="${IMG}${img}.png"><div class="play"></div><div class="bar"><i></i></div></div>`;
+const lens=(cx,cy,r,extra='')=>`<div class="lens" style="left:${cx-r}px;top:${cy-r}px;width:${2*r}px;height:${2*r}px;${extra}"></div><div class="handle" style="left:${cx+r*0.68-28}px;top:${cy+r*0.68}px;height:${r*0.95}px"></div>`;
+const logo=(dark)=>`<div class="logo"><img src="${dark?MARKW:MARK}"><span>Galvor</span></div>`;
+const blobs=(dark)=>`<div class="blob" style="left:-200px;top:900px;width:900px;height:900px;background:radial-gradient(closest-side,rgba(124,58,237,${dark?.35:.14}),transparent)"></div><div class="blob" style="left:520px;top:200px;width:800px;height:800px;background:radial-gradient(closest-side,rgba(124,58,237,${dark?.3:.12}),transparent)"></div>`;
+const kick=(y,txt,col='var(--v)')=>`<div class="mono" style="position:absolute;left:0;right:0;top:${y}px;text-align:center;font-size:30px;color:${col}">${txt}</div>`;
+let h='';
+if(v==='a'){   // A · Meet Galvor Scout: the lens over the creator
+  h=blobs()+logo()+kick(400,'Decoded #4 · Creator discovery')+
+  `<div class="h" style="top:470px;font-size:132px">Meet Galvor</div><div class="h serif" style="top:590px;font-size:190px">Scout.</div>`+
+  card('hero',300,860,480,600)+lens(760,1330,140)+
+  `<div class="pill" style="left:120px;top:1500px;background:var(--v);color:#fff;font-size:40px;padding:22px 38px">✓ Reads the comments</div>`;
+}
+if(v==='b'){   // B · dark hero: the lens with the mark inside, like the reveal shot
+  s.classList.add('dark');
+  h=blobs(1)+logo(1)+kick(420,'Meet','var(--vp)')+
+  `<div style="position:absolute;left:290px;top:560px;width:500px;height:500px;border-radius:50%;border:34px solid var(--vp);box-shadow:0 0 90px rgba(167,112,255,.95),inset 0 0 50px rgba(167,112,255,.5)"></div>`+
+  `<div style="position:absolute;left:708px;top:978px;width:64px;height:260px;border-radius:32px;background:var(--vp);box-shadow:0 0 70px rgba(167,112,255,.95);transform:rotate(-45deg);transform-origin:top center"></div>`+
+  `<img src="${MARKW}" style="position:absolute;left:390px;top:660px;width:300px;height:300px">`+
+  `<div class="h" style="top:1200px;font-size:150px;color:#fff">Galvor <span class="serif">Scout</span></div>`+
+  `<div class="h" style="top:1390px;font-size:48px;font-weight:600;color:rgba(255,255,255,.72)">Finds the one creator that fits.</div>`;
+}
+if(v==='c'){   // C · the hook: looks perfect, the comments say otherwise, Scout reads them
+  h=blobs()+logo()+`<div class="h" style="top:400px;font-size:104px">She looks <span class="serif" style="font-size:136px">perfect.</span></div>`+
+  card('hero',240,580,600,750,'filter:grayscale(.55)')+
+  `<div class="bub" style="left:110px;top:1040px">nice pic dear 😍</div><div class="bub" style="left:540px;top:1140px">follow back?</div><div class="bub" style="left:170px;top:1240px">🔥🔥🔥</div>`+
+  `<div class="pill" style="left:0;right:0;margin:auto;top:1420px;width:max-content;background:var(--ink);color:#fff;font-size:44px;padding:24px 42px"><span style="color:var(--vp)">Galvor Scout</span> reads the comments</div>`;
+}
+if(v==='d'){   // D · 20 → 1: the fan of creators, Scout lifts the one
+  const fan=['c1','c2','like2','c3','c4','like1','c5','c2','like3','c1','c4','c3','like2','c5'];
+  let f=''; fan.forEach((im,i)=>{ const a=-46+92*i/(fan.length-1), r=a*Math.PI/180, x=540+620*Math.sin(r), y=1600-620*Math.cos(r);
+    f+=`<div class="card" style="left:${x-90}px;top:${y-112}px;width:180px;height:225px;transform:rotate(${a}deg);opacity:.45;filter:grayscale(.85)"><img src="${IMG}${im}.png"></div>`; });
+  h=blobs()+logo()+`<div class="h" style="top:390px;font-size:120px">20 creators.</div><div class="h" style="top:520px;font-size:88px">Scout found <span class="serif" style="font-size:122px">the one.</span></div>`+
+  f+card('hero',340,760,400,500,'box-shadow:0 0 0 10px var(--v),0 0 80px rgba(124,58,237,.7),0 30px 70px rgba(36,17,56,.3)')+
+  `<div class="pill" style="left:0;right:0;margin:auto;top:1300px;width:max-content;background:var(--v);color:#fff;font-size:40px;padding:20px 40px">✓ Picked by Galvor Scout</div>`;
+}
+if(v==='e'){   // E · scale: 8,673 creators checked, the lens and brackets on one card
+  h=blobs()+logo()+kick(400,'Galvor Scout · Aug → early Nov 2026')+
+  `<div class="h" style="top:460px;font-size:230px">8,673</div><div class="h" style="top:700px;font-size:76px">creators <span class="hl">checked.</span></div>`+
+  card('hero',350,900,380,475)+
+  `<div class="brk" style="left:310px;top:860px;border-right:none;border-bottom:none"></div><div class="brk" style="left:700px;top:860px;border-left:none;border-bottom:none"></div><div class="brk" style="left:310px;top:1345px;border-right:none;border-top:none"></div><div class="brk" style="left:700px;top:1345px;border-left:none;border-top:none"></div>`+
+  `<div class="h" style="top:1460px;font-size:58px;font-weight:700">Scout finds <span class="serif" style="font-size:80px">the one.</span></div>`;
+}
+s.innerHTML=h;
+</script></body></html>

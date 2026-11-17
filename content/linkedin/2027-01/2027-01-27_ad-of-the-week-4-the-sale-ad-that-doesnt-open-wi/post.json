@@ -1,0 +1,139 @@
+{
+  "id": "li-2027-01-27-ad-of-the-week-4-the-sale-ad-that-doesnt-open-wi",
+  "slug": "ad-of-the-week-4-the-sale-ad-that-doesnt-open-wi",
+  "platform": "linkedin",
+  "date": "2027-01-27",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Attract",
+  "format": "carousel",
+  "series": "Ad of the Week",
+  "title": "Ad of the Week #4: the sale ad that opens without the discount",
+  "hook": "During a sale, the discount is the one thing every ad shares.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "During a sale, the discount is the one thing every ad shares.\nSo it is the weakest thing to open with.\n\nAd of the Week #4 is a pattern from sale season, shown on a made-up Republic Day ad for a cookware brand. No real brand and no real results.\n\nThe structure: open on the reason to want the product, show it doing its job, then land the offer as the reason to act today.\n\nThere is a delivery reason too. In Galvor's analysis of new video ads launched May to September 2026, six or more look-alikes launched within three days each got 48% less first-month spend. Sale week is when teams launch six versions of one banner.",
+  "first_comment": "The look-alike finding is from Decoded #3. Read Decoded #3 on galvor.ai\n\nFollow Galvor for Ad of the Week.",
+  "hashtags": [
+    "#AdCreative",
+    "#D2CIndia",
+    "#MetaAds"
+  ],
+  "alt_text": "Eight-slide carousel, Ad of the Week #4. Cover: The sale ad that opens without the discount. Then: why the discount is wallpaper in sale week; the structure of reason first and offer last; a made-up Republic Day ad for a cookware brand; a stat that six or more look-alikes launched within three days each got 48 percent less first-month spend; six sale ads made two ways; three checks on a sale batch; and a closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; save for the next sale brief",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Ad of the Week #4",
+        "headline": "The sale ad that opens *without the discount*",
+        "sub": "A pattern, shown on a made-up Republic Day ad."
+      },
+      {
+        "layout": "text",
+        "kicker": "The problem",
+        "headline": "In sale week, the discount is *wallpaper*",
+        "body": "Every brand in the feed has an offer.\n\nSo a percentage in the first frame tells the viewer nothing about you. It tells them there is a sale, which they knew.\n\nThe offer is a reason to act today. It is rarely the reason to want the thing."
+      },
+      {
+        "layout": "list",
+        "kicker": "The structure",
+        "headline": "Reason first, *offer last*",
+        "items": [
+          "Seconds 0 to 3 — the reason to want it",
+          "Seconds 3 to 8 — the product doing its job",
+          "Seconds 8 to 12 — the offer and the end date"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Made-up example",
+        "headline": "A *cookware* brand, Republic Day sale",
+        "body": "Opens on a dosa lifting clean off the pan. No text.\n\nThen the pan, the hand, the flip.\n\nThen: 'Republic Day sale. Ends Sunday.'\n\nThe viewer wants the pan before they hear the price."
+      },
+      {
+        "layout": "stat",
+        "kicker": "The delivery reason",
+        "stat": "48%",
+        "headline": "less first-month spend, each, for *six or more look-alikes* launched within three days",
+        "sub": "Sale week is when six versions of one banner go live together.",
+        "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "compare",
+        "kicker": "Same budget",
+        "headline": "Six sale ads, *two ways*",
+        "left_title": "Look-alikes",
+        "left": [
+          "One banner",
+          "Six offer lines",
+          "One first shot"
+        ],
+        "right_title": "Real variety",
+        "right": [
+          "One offer",
+          "Six reasons to buy",
+          "Six first shots"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Before the next sale",
+        "headline": "Three checks on the *sale batch*",
+        "items": [
+          "Cover the offer — does the ad still say why?",
+          "Line up the first frames — do any two match?",
+          "Count the batch — are six of them one ad?"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Sell the reason. *Then* the price.",
+        "sub": "Save this for your next sale brief.",
+        "actions": [
+          "Follow Galvor",
+          "Save for your next sale"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: 'reason first, offer last' is written as a pattern on a made-up cookware ad. The only data claim is the look-alike finding. If Galvor has decoded sale-week ads and can say anything about discount-first openings, add it. Otherwise the post stands as a structure to test.\nHook shape: punchy plus context.\nNumbers: 48% less first-month spend for six or more look-alikes launched within three days (Galvor analysis, new video ads launched May-Sep 2026, facts bank). In the caption and on the stat slide.\nThe example is made up and labelled as made up. No real brand is torn down.\nTiming: the slot is the day after Republic Day, so it reads as a look back at sale week and a note for the next one. The seconds on slide 3 are a guide for a short ad, not a finding.\nReader: a performance marketer who has just launched a batch of Republic Day sale ads.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:54:15",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-27 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:57",
+  "updated_at": "2026-11-16T21:20:01",
+  "topic_ref": "AotW-4",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,44 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=block" rel="stylesheet">
+<style>
+@font-face{font-family:Jakarta;src:url("file:///D:/galvor_linkedin/studio/static/fonts/PlusJakartaSans.ttf");font-weight:200 800}
+@font-face{font-family:Inter;src:url("file:///D:/galvor_linkedin/studio/static/fonts/Inter.ttf");font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#0A0A14}
+.s{position:relative;width:1920px;height:1080px;overflow:hidden;color:#fff;font-family:Jakarta,Inter,sans-serif;background:#0A0A14}
+.bg{position:absolute;top:0;right:0;height:1080px;width:1934px;object-fit:cover}
+.shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(10,10,20,.97) 0%,rgba(10,10,20,.9) 34%,rgba(10,10,20,.35) 58%,rgba(10,10,20,0) 75%)}
+.vig{position:absolute;inset:0;background:radial-gradient(120% 90% at 70% 50%,transparent 55%,rgba(10,10,20,.6) 100%)}
+.copy{position:absolute;left:100px;top:0;height:1080px;width:860px;display:flex;flex-direction:column;justify-content:center;z-index:5}
+.kicker{display:flex;align-items:center;gap:18px;font-family:Consolas,monospace;font-size:28px;letter-spacing:.24em;color:#A685FF;text-transform:uppercase;margin-bottom:48px}
+.kicker img{width:44px;height:44px}
+h1{font-weight:800;font-size:108px;line-height:1.02;letter-spacing:-.03em}
+h1 .p{color:#A47BFF}
+.fs{margin-left:-.06em}
+.sub{margin-top:34px;font-family:Inter,sans-serif;font-size:38px;font-weight:500;color:#D2CBEA;line-height:1.3}
+.sub b{color:#fff;font-weight:700}
+.line{margin-top:42px;display:inline-flex;align-self:flex-start;align-items:center;gap:14px;font-family:Inter,sans-serif;font-size:30px;font-weight:600;color:#fff;padding:14px 26px;border-radius:999px;background:rgba(124,58,237,.22);border:2px solid rgba(164,123,255,.55)}
+.line i{font-style:normal;font-family:'Instrument Serif',serif;font-style:italic;font-size:40px;color:#C9A6FF;line-height:.8}
+.src{margin-top:16px;font-family:Inter,sans-serif;font-size:22px;color:rgba(255,255,255,.55)}
+.loop{margin-top:40px;display:flex;gap:12px;align-items:center;font-family:Consolas,monospace;font-size:24px;letter-spacing:.14em;text-transform:uppercase}
+.loop span{padding:12px 20px;border-radius:999px;background:#A47BFF;color:#160A33}
+.loop span.gap{background:transparent;color:#FFD27A;border:3px dashed #FFD27A}
+.loop em{color:#A685FF;font-style:normal}
+</style></head><body><div class="s" id="s"></div>
+<script>
+const v=new URLSearchParams(location.search).get('v')||'1', s=document.getElementById('s');
+const IMG='file:///C:/Users/mihir/AppData/Local/Temp/claude/815380e0324183c0/4c59b34d-d364-4e5d-a655-116264271f36/scratchpad/nl2/img/';
+const MARK='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark.png';
+const SRC='<div class="src">Source: Galvor analysis · Decoded #2</div>';
+const SET={
+ '1':['firework', `<div class="line">Big on attention. Weak on <i>sales.</i></div>`],
+ '2':['window',   `<div class="line">They stopped to look. They didn't <i>buy.</i></div>`],
+ '3':['lure',     `<div class="line">4 in 10 top hooks still cost more per <i>order.</i></div>`+SRC],
+ '4':['stage',    `<div class="line">The ad didn't fail at the hook. It failed <i>after</i> it.</div>`],
+ '5':['funnel',   `<div class="line">70% more clicks. A third fewer <i>buyers.</i></div>`+SRC],
+}[v];
+s.innerHTML=`<img class="bg" src="${IMG}${SET[0]}.png"><div class="shade"></div><div class="vig"></div>
+<div class="copy"><div class="kicker"><img src="${MARK}">Decoded by Galvor <span>•</span> Issue #2</div>
+<h1>False<br><span class="p">Bangers<span class="fs">.</span></span></h1>
+<div class="sub">Why your best hook isn't always<br>your <b>best ad.</b></div>${SET[1]}</div>`;
+</script></body></html>

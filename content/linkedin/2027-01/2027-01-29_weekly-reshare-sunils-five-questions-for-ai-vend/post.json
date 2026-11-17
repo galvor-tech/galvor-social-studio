@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-01-29-weekly-reshare-sunils-five-questions-for-ai-vend",
+  "slug": "weekly-reshare-sunils-five-questions-for-ai-vend",
+  "platform": "linkedin",
+  "date": "2027-01-29",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Brand Memory / POV",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "Label every creative finding: proven, signal or hunch",
+  "hook": "Most creative learnings are one ad's result with a confident name.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Most creative learnings are one ad's result with a confident name.\n“UGC works for us” often means one video did well in one week.\n\nA finding from a single ad is worth keeping. It is also worth labelling honestly, because the next brief will be built on it.\n\nThree labels cover it:\n\nProven. The same pattern showed up across several ads and more than one review cycle.\nSignal. Seen once, or in a small sample. Worth a deliberate test.\nHunch. Someone's reading of the account, with no comparison behind it yet.\n\nThen decide what each label is allowed to do.\n\nA brief can lean on a proven finding without discussion. A signal gets one slot in the next batch, built to confirm it or end it. A hunch is written down with its owner's name, and is tested or dropped by the following review.\n\nNothing moves up a label because a senior person likes it.\n\nAfter a few cycles the proven list will be short. That is normal, and it is the list to put real money behind.\n\nThe Republic Day sale has just handed you a pile of single results. Label them before you brief February.",
+  "first_comment": "Follow Galvor for one usable method a week.",
+  "hashtags": [
+    "#MarketingAnalytics",
+    "#CreativeStrategy",
+    "#PerformanceMarketing"
+  ],
+  "alt_text": "",
+  "cta": "Soft: follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: that proven, signal and hunch match how Galvor labels findings internally (the spec's rule is that small samples are 'a signal' or 'a pattern to test'); rename the labels if the team uses other words. Hook shape: single-line bomb. Reader: a head of performance who doubts whether creative insights can be trusted (job: De-risk). No numbers used. TOPIC REPLACED: the old slot reshared a personal post on five questions for AI vendors. That would repeat the vendor-question checklist on 28 Jan and depended on a post that may not exist.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-29 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:07",
+  "updated_at": "2026-11-16T21:22:01",
+  "topic_ref": "CO-reshare-w50",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,129 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Jakarta;src:url("file:///D:/galvor_linkedin/studio/static/fonts/PlusJakartaSans.ttf");font-weight:200 800}
+@font-face{font-family:Inter;src:url("file:///D:/galvor_linkedin/studio/static/fonts/Inter.ttf");font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#0A0A14}
+.stage{position:relative;width:1920px;height:1080px;overflow:hidden;
+  background:
+    radial-gradient(1100px 760px at 1400px 1180px, rgba(98,48,210,.38), transparent 70%),
+    radial-gradient(700px 520px at 120px -80px, rgba(124,58,237,.16), transparent 70%),
+    #0A0A14}
+/* film grain */
+.grain{position:absolute;inset:0;opacity:.07;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>")}
+
+/* giant outlined 20 behind the fan */
+.big{position:absolute;left:1030px;top:-10px;font-family:Jakarta,sans-serif;font-weight:800;font-size:760px;line-height:1;letter-spacing:-.06em;
+  color:transparent;-webkit-text-stroke:2.5px rgba(160,120,255,.22)}
+
+/* spotlight */
+.beam{position:absolute;left:1180px;top:-120px;width:560px;height:900px;
+  background:linear-gradient(180deg,rgba(214,196,255,.0) 0%,rgba(190,160,255,.22) 35%,rgba(170,130,255,.34) 100%);
+  clip-path:polygon(40% 0,60% 0,100% 100%,0 100%);filter:blur(16px);mix-blend-mode:screen}
+.beamcore{position:absolute;left:1330px;top:-120px;width:260px;height:860px;
+  background:linear-gradient(180deg,rgba(255,255,255,0),rgba(235,225,255,.20));
+  clip-path:polygon(42% 0,58% 0,100% 100%,0 100%);filter:blur(10px);mix-blend-mode:screen}
+.pool{position:absolute;left:1160px;top:640px;z-index:30;width:600px;height:120px;border-radius:50%;
+  background:radial-gradient(closest-side,rgba(200,170,255,.45),rgba(124,58,237,.12) 60%,transparent);filter:blur(6px)}
+.dust{position:absolute;border-radius:50%;background:#E9DEFF}
+
+/* fan of creator reel cards */
+.fan{position:absolute;left:0;top:0;width:1920px;height:1080px}
+.card{position:absolute;width:132px;height:234px;border-radius:16px;overflow:hidden;transform-origin:50% 160%;
+  border:1.5px solid rgba(255,255,255,.10);box-shadow:0 18px 40px rgba(0,0,0,.55)}
+.card .bg{position:absolute;inset:0}
+.card svg.sil{position:absolute;left:50%;bottom:0;width:120%;transform:translateX(-50%)}
+.card .play{position:absolute;left:12px;top:12px;width:22px;height:22px}
+.card .meta{position:absolute;left:12px;right:12px;bottom:12px}
+.card .meta i{display:block;height:7px;border-radius:4px;background:rgba(255,255,255,.55);width:70%}
+.card .meta i+i{margin-top:6px;width:45%;background:rgba(255,255,255,.3)}
+.card.dim{filter:grayscale(1) brightness(.42) contrast(.9)}
+
+/* the pick */
+.pick{position:absolute;left:1335px;top:255px;width:250px;height:444px;border-radius:26px;overflow:hidden;z-index:50;
+  border:2.5px solid rgba(255,236,190,.9);transform:rotate(-4deg);
+  box-shadow:0 0 0 8px rgba(255,200,90,.10),0 40px 90px rgba(0,0,0,.6),0 0 140px rgba(255,190,90,.35),0 0 80px rgba(160,110,255,.6)}
+.pick .bg{position:absolute;inset:0;background:linear-gradient(165deg,#FFB86B 0%,#F0609E 45%,#7C3AED 100%)}
+.pick svg.sil{position:absolute;left:50%;bottom:0;width:118%;transform:translateX(-50%)}
+.pick .play{position:absolute;left:20px;top:20px;width:36px;height:36px}
+.pick .meta{position:absolute;left:20px;right:20px;bottom:22px}
+.pick .meta i{display:block;height:12px;border-radius:6px;background:rgba(255,255,255,.9);width:72%}
+.pick .meta i+i{margin-top:9px;width:48%;background:rgba(255,255,255,.55)}
+.stamp{position:absolute;left:1508px;top:212px;z-index:51;width:120px;height:120px;border-radius:50%;display:grid;place-items:center;
+  background:radial-gradient(circle at 35% 30%,#FFE6A6,#F5B53D 60%,#D88F14);
+  box-shadow:0 0 0 6px rgba(10,10,20,.85),0 0 50px rgba(255,190,80,.8);transform:rotate(10deg)}
+.stamp svg{width:58px;height:58px}
+.tag{position:absolute;left:1318px;top:668px;z-index:52;transform:rotate(-4deg);
+  font-family:Consolas,"Cascadia Mono",monospace;font-size:24px;letter-spacing:.22em;text-transform:uppercase;color:#FFD889;
+  padding:12px 22px;border-radius:999px;background:rgba(20,14,8,.65);border:1.5px solid rgba(255,210,120,.55);
+  box-shadow:0 0 30px rgba(255,190,80,.25)}
+
+/* copy */
+.copy{position:absolute;left:100px;top:0;height:1080px;width:960px;display:flex;flex-direction:column;justify-content:center;z-index:8}
+.kicker{display:flex;align-items:center;gap:18px;font-family:Consolas,"Cascadia Mono","Courier New",monospace;
+  font-size:28px;letter-spacing:.24em;color:#A685FF;text-transform:uppercase;margin-bottom:54px}
+.kicker img{width:44px;height:44px}
+h1{font-family:Jakarta,Inter,sans-serif;font-weight:800;font-size:112px;line-height:1.02;letter-spacing:-.03em;color:#fff}
+h1 .n{color:transparent;-webkit-text-stroke:3px #fff;padding-right:.02em}
+h1 .p{display:inline-block;margin-top:14px;background:linear-gradient(95deg,#C9ADFF 0%,#9A6BFF 100%);
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+h1 .one{position:relative}
+h1 .one::after{content:"";position:absolute;left:0;right:.12em;bottom:.02em;height:.085em;border-radius:.05em;
+  background:linear-gradient(90deg,#FFC76B,#F5B53D);box-shadow:0 0 24px rgba(255,190,80,.7)}
+.fs{margin-left:-.07em}
+.sub{margin-top:52px;font-family:Inter,sans-serif;font-size:30px;color:#BDB6D6;letter-spacing:.005em}
+.sub b{color:#fff;font-weight:600}
+</style></head>
+<body><div class="stage">
+  <div class="big">20</div>
+  <div class="beam"></div><div class="beamcore"></div><div class="pool"></div>
+  <div class="fan" id="fan"></div>
+
+  <div class="pick"><div class="bg"></div>
+    <svg class="play" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="rgba(0,0,0,.28)"/><path d="M10 8l6 4-6 4z" fill="#fff"/></svg>
+    <svg class="sil" viewBox="0 0 100 100"><circle cx="50" cy="40" r="17" fill="rgba(255,255,255,.92)"/><path d="M14 100c0-22 16-36 36-36s36 14 36 36z" fill="rgba(255,255,255,.92)"/></svg>
+    <div class="meta"><i></i><i></i></div>
+  </div>
+  <div class="stamp"><svg viewBox="0 0 24 24" fill="none" stroke="#3A2400" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.2 4.2L19 7"/></svg></div>
+  <div class="tag">Picked · 1 of 20</div>
+
+  <div class="copy">
+    <div class="kicker"><img src="mark.png" alt="">Decoded by Galvor <span>•</span> Issue #4</div>
+    <h1>We Shortlisted<br><span class="n">20</span> Creators<span class="fs">.</span><br><span class="p">The Brand<br>Picked <span class="one">One</span><span class="fs">.</span></span></h1>
+    <div class="sub">The story behind <b>Galvor Scout</b>, by Raj Dhakad</div>
+  </div>
+  <div class="grain"></div>
+</div>
+<script>
+// 20 slots on an arc; slot 10 (centre) is empty: that creator rose into the light.
+const fan=document.getElementById('fan');
+const hues=[[262,70],[320,65],[200,70],[25,80],[170,55],[285,60],[345,70],[220,65],[40,85],[150,50],
+            [300,60],[190,70],[10,75],[250,70],[60,70],[330,65],[210,60],[275,65],[120,45],[350,60]];
+const N=20, cx=1460, cy=1545, R=760, a0=-31, a1=31;  // 20 slots: 19 in shadow + the gap the pick rose from
+let k=0;
+for(let i=0;i<N;i++){
+  if(i===10) continue;
+  const a=a0+(a1-a0)*i/(N-1)-1.6, r=a*Math.PI/180;
+  const x=cx+R*Math.sin(r)-66, y=cy-R*Math.cos(r)-117;
+  const d=Math.abs(i-10), depth=Math.min(1,d/10);
+  const [h,s]=hues[k++%hues.length];
+  const el=document.createElement('div'); el.className='card dim';
+  el.style.left=x+'px'; el.style.top=(y+depth*30)+'px';
+  el.style.transform=`rotate(${a}deg) scale(${1-depth*.18})`;
+  el.style.opacity=(1-depth*.55).toFixed(2); el.style.zIndex=20-d;
+  el.innerHTML=`<div class="bg" style="background:linear-gradient(165deg,hsl(${h} ${s}% 62%),hsl(${(h+40)%360} ${s}% 38%))"></div>
+    <svg class="play" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="rgba(0,0,0,.28)"/><path d="M10 8l6 4-6 4z" fill="#fff"/></svg>
+    <svg class="sil" viewBox="0 0 100 100"><circle cx="50" cy="40" r="17" fill="rgba(255,255,255,.85)"/><path d="M14 100c0-22 16-36 36-36s36 14 36 36z" fill="rgba(255,255,255,.85)"/></svg>
+    <div class="meta"><i></i><i></i></div>`;
+  fan.appendChild(el);
+}
+// dust in the beam
+const st=document.querySelector('.stage');
+for(let i=0;i<46;i++){const d=document.createElement('div');d.className='dust';
+  const t=Math.random(), y=40+t*820, half=40+t*230, x=1460+(Math.random()*2-1)*half;
+  const s=1+Math.random()*3.2; d.style.cssText=`left:${x}px;top:${y}px;width:${s}px;height:${s}px;opacity:${(.15+Math.random()*.55).toFixed(2)};filter:blur(${Math.random()<.4?1.5:0}px)`;
+  st.appendChild(d);}
+</script>
+</body></html>

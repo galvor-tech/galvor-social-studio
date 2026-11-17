@@ -1,0 +1,22 @@
+The ad with the cheapest orders can be your most expensive ad.
+Ads Manager counts an order when it is placed. Your bank counts it when it is delivered and kept.
+
+For an Indian D2C brand selling cash on delivery, a lot can happen in between. The parcel is refused at the door, or it comes back a week later.
+
+Meta sees none of that. It keeps finding more people like the ones who placed the order.
+
+Here is the check I would run before the next budget review.
+
+1. Export orders by ad for a month that has fully closed, so deliveries and returns have settled.
+
+2. Join each order to its final status: kept, refused or returned.
+
+3. Work out cost per order again, counting kept orders only.
+
+4. Rank the ads again.
+
+Then look at which ads moved. If one drops several places, watch its opening. An offer-led hook and a problem-led hook can bring very different buyers at the same cost per order.
+
+The ad decides who shows up. Rank it on the orders that stayed.
+
+#PerformanceMarketing #D2CIndia #MarketingAnalytics

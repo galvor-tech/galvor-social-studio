@@ -1,0 +1,121 @@
+{
+  "id": "nl-2026-11-25-decoded-6-creative-fatigue-when-to-refresh-when",
+  "slug": "decoded-6-creative-fatigue-when-to-refresh-when",
+  "platform": "newsletter",
+  "date": "2026-11-25",
+  "time": "08:30",
+  "voice": "raj",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #6: Creative Fatigue: When to Refresh, When to Cut",
+  "hook": "\"It's fatigued\" is the most common reason a good ad gets switched off. It's often the wrong diagnosis.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "\"It's fatigued\" is the most common reason a good ad gets switched off. It's often the wrong diagnosis.\n\nIn Issue #5 of Decoded, Raj separates three kinds of fatigue that look identical in a dashboard: a tired opening, a saturated audience and a reason to buy that has stopped working. Only one of them means cut.\n\nAlso inside: why look-alike refreshes backfire (in Galvor's data, six or more look-alikes launched within three days each got 48% less first-month spend) and a ten-minute check to run before anyone hits pause.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Cover image for Decoded by Galvor, Issue #5: Creative fatigue: when to refresh, when to cut. White and gold text on a violet background with the Galvor logo at the top left.",
+  "cta": "Read and subscribe to Decoded",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Decoded · Issue #5",
+        "headline": "Creative fatigue: *refresh* or *cut*?",
+        "sub": "Three kinds of fatigue look the same. Only one means switch it off."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "Was planned as #5 (fortnightly). Now #6, Wednesday 2026-11-25. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:58:27",
+      "action": "Decoded goes weekly: #5 → #6 on 2026-11-25"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:25:13",
+  "updated_at": "2026-11-11T02:10:34",
+  "topic_ref": "NL-5",
+  "newsletter": {
+    "issue": 6,
+    "subject_lines": [
+      "Your ad isn't tired. Its opening might be.",
+      "Creative fatigue: refresh, shift or cut?",
+      "Before you pause your best ad, read this"
+    ],
+    "preview_text": "Three kinds of fatigue, a ten-minute check, and five moves before you hit pause.",
+    "key_takeaways": [
+      "Fatigue has three causes (opening, audience, reason to buy); only the last means cut.",
+      "Some ad styles start about 35% dearer per order in their first two months and end close to average.",
+      "Six or more look-alikes launched within three days each got 48% less first-month spend."
+    ],
+    "outline": [
+      {
+        "heading": "Monday, 9:40 a.m.",
+        "points": [
+          "Sam's winner gets more expensive",
+          "\"Pause and replace\" — again"
+        ]
+      },
+      {
+        "heading": "Three kinds of fatigue",
+        "points": [
+          "The opening is tired → refresh",
+          "The audience is saturated → shift",
+          "The reason to buy has stopped working → cut"
+        ]
+      },
+      {
+        "heading": "What Galvor saw in the data",
+        "points": [
+          "New ads need time (~35% dearer early)",
+          "Look-alike refreshes hurt (48% less; 36% less)"
+        ]
+      },
+      {
+        "heading": "A ten-minute fatigue check",
+        "points": [
+          "Five questions on the last 14 days"
+        ]
+      },
+      {
+        "heading": "The shift for marketers and leaders",
+        "points": [
+          "Name the type of fatigue",
+          "Refresh the first three seconds first",
+          "Never refresh with look-alikes",
+          "Give replacements a fair test",
+          "Keep a fatigue log"
+        ]
+      }
+    ],
+    "next_issue": "The Sale Is Over. What Did Your Ads Learn?",
+    "repurpose": [
+      "LinkedIn carousel (Raj): \"How I spot creative fatigue before costs rise\" — the three types and the ten-minute check.",
+      "Instagram reel: \"Your ad isn't dead. Its first 3 seconds are.\" — show a recut opening on the same middle.",
+      "Instagram carousel: \"Refresh, shift or cut?\" — a decision flow to save."
+    ],
+    "data_needed": [
+      "Median days from launch to the first sustained CPO rise for top-spending ads (May–Sep 2026 set).",
+      "Of ads with rising CPO, the share where hook rate, hold rate or conversion rate fell first.",
+      "Confirm Galvor Actions naming (Scale / Cut / Shift) matches the product UI on the send date."
+    ],
+    "draft_markdown": "# Decoded\nby Galvor AI · Issue #5\n\nMissed Issue #4? *Beyond Narrative*\n\n---\n\n## Creative fatigue: when to refresh, when to cut\n\n*\"It's fatigued\" is the most common reason a good ad gets switched off. It's often the wrong diagnosis, and the fix is usually smaller than a new shoot.*\n\nBy Raj Dhakad, Founding AI Engineer, Galvor AI · Decoded by Galvor, Issue #5\n\n### Key takeaways\n\n- Fatigue has three causes, and each needs a different fix: the opening has worn out, the audience has seen it too often, or the reason to buy has stopped working. Only the last one means cut.\n- Don't judge new ads too early. Galvor has seen some ad styles start about 35% dearer per order in their first two months and end close to average over their life.\n- Refreshing with look-alikes doesn't work. In Galvor's data, six or more look-alikes launched within three days each got 48% less first-month spend.\n\n## Monday, 9:40 a.m.\n\nSam's best ad, the kitchen-table founder video from Issue #4, is getting more expensive. Cost per order has crept up for ten days.\n\nThe agency's message arrives before Sam's coffee: \"Creative fatigue. Recommend we pause and replace.\"\n\nSam has heard this before. Last time, they paused a winner, launched six fresh versions in a week, and spent a month getting back to where they started.\n\nSo this time Sam asks a different question: *what exactly is tired?*\n\n## Three kinds of fatigue\n\nWhen cost per order rises on a long-running ad, one of three things is usually happening. They look the same in a dashboard. They are not the same problem.\n\n**1  The opening is tired**\n- What it looks like: hook rate falls first. People who do watch past the opening still behave as before.\n- What it means: the people seeing it have learned to scroll past the first frame. The rest of the ad still works.\n- What to do: **refresh**. Recut the first three seconds; keep the middle and the CTA.\n\n**2  The audience is saturated**\n- What it looks like: frequency climbs, comments repeat, and the drop is spread across the whole ad.\n- What it means: the ad hasn't stopped working. It has run out of new people of the type it speaks to.\n- What to do: **shift**. Write for a new buyer (a different motivation, situation or objection) rather than a new look. Issue #3 explains why.\n\n**3  The reason to buy has stopped working**\n- What it looks like: people still watch, but fewer of them buy. Hold rate is steady; conversion falls.\n- What it means: the offer, the claim or the moment has lost its pull, perhaps because a sale ended, the season changed or a competitor now says the same thing.\n- What to do: **cut** this message, and test a new reason to buy.\n\nGalvor's Actions use the same three words: Scale, Cut, Shift. Most ads called \"fatigued\" belong in the first two groups. Only the third is a reason to switch off.\n\n## What Galvor saw in the data\n\nTwo findings from the last six months of ads Galvor analysed (new video ads launched May to September 2026) shape how we think about fatigue.\n\n**New ads need time.** Galvor has seen some ad styles start about **35% dearer per order** in their first two months and end close to average over their life. Teams that compare a three-day-old replacement with a six-week-old winner are comparing a learner with a veteran. Judge new ads after weeks, not days.\n\n**Look-alike refreshes hurt.** **Six or more look-alikes launched within three days each got 48% less first-month spend.** And new ads that looked like many running ads got **36% less**. Replacing one tired ad with six similar ones doesn't refresh anything. To Meta, it's the same ad split six ways.\n\n[DATA NEEDED: median number of days from launch to the first sustained rise in CPO for top-spending ads, May–Sep 2026 set.]\n\n[DATA NEEDED: of ads that showed rising CPO, the share where hook rate fell first vs hold rate vs conversion rate — to size each of the three causes.]\n\n## What a refresh actually looks like\n\nBack to Sam. When the team pulled the last 14 days apart, the answer was clear. Hook rate had fallen first. People who got past the opening still watched to the end and still bought at the same rate. The ad wasn't dead. Its first three seconds were.\n\nSo instead of a new shoot, the editor made three new openings for the same video:\n\n- a customer's hand opening the product, instead of the founder holding it;\n- a single line of on-screen text naming the buyer's problem;\n- the proof moment, a customer message, moved to the very first frame.\n\nEverything after second three stayed the same. Same founder, same kitchen table, same CTA.\n\nThis is the difference between a refresh and a replacement. A replacement throws away what the ad has already taught you and Meta. A refresh keeps the parts that still work and changes only the part that has worn out. It also makes the result readable: if one of the three openings brings hook rate back, you know exactly which attribute was tired.\n\nThere's a trap here too. Three new openings are three genuinely different first shots, not three colour grades of the same one. If the new openings all look alike, you're back to the look-alike problem from Issue #3.\n\n[DATA NEEDED: for ads refreshed with a new opening only, how hook rate and CPO moved over the following 14 days vs ads that were fully replaced — anonymised.]\n\n## Why \"fatigue\" gets diagnosed so often\n\nPart of the reason is the dashboard. Cost per order is the number everyone watches, and it's the last number to move. By the time it rises, the cause happened days earlier, in a metric nobody was looking at.\n\nPart of it is incentive. A replacement is visible work: new files, new shoots, a fresh batch of ads. A refresh looks small, even when it's the right call.\n\nAnd part of it is memory. Without a record of how long your ads usually last, every rise in cost feels like the end. With one, you can tell a normal wobble from a real decline.\n\n## A ten-minute fatigue check\n\nBefore anyone pauses an ad, answer these five questions with the ad set's last 14 days:\n\n1. Which fell first: hook rate, hold rate or conversion rate?\n2. Has frequency risen for the same audience?\n3. Did anything change outside the ad: price, offer, stock, season?\n4. Is the rise in cost steady, or one bad weekend?\n5. What would replace it, and is that replacement genuinely new or a look-alike?\n\nIf you can't answer question 1, you can't diagnose fatigue yet. You can only feel it.\n\n## The shift for marketers and leaders\n\nFive moves Galvor recommends.\n\n**1  Name the type of fatigue before you act**\nOpening, audience or reason to buy. Each has a different fix. \"Fatigue\" on its own is not a diagnosis.\n\n**2  Refresh the first three seconds before you replace the ad**\nA new opening on a proven middle is hours of editing, not a new shoot, and it keeps what the ad has already taught Meta.\n\n**3  Never refresh with look-alikes**\nReplacing one ad with several near-copies in a few days splits the budget and teaches you nothing. One genuinely new ad beats six versions.\n\n**4  Give replacements a fair test**\nUse a test campaign with a set share of spend, and judge after weeks. Many styles start expensive and settle.\n\n**5  Keep a fatigue log**\nFor every ad you pause, write one line: what fell first, what you changed and what happened next. In three months, that log will tell you how long your ads really last, and that's Brand Memory you can plan a budget on.\n\n---\n\n**Next issue: What a year of ads taught us — 2026 in creative**\n\n*Decoded is Galvor's newsletter on why ads win. Forward it to whoever decides which ads get paused.*\n",
+    "markup": "---\nissue: 6\ntitle: Decoded #6: Creative Fatigue: When to Refresh, When to Cut\ndek: \"It's fatigued\" is the most common reason a good ad gets switched off. It's often the wrong diagnosis, and the fix is usually smaller than a new shoot.\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: Beyond Narratives and Categories: How Galvor Uncovers the Psychology Driving Your Brand\nprevious_url: https://galvor.ai/newsletters/decode/beyond-narratives-and-categories-how-galvor-uncovers-the-psychology-driving-your-brand/\n---\n## Key takeaways\n\n- Fatigue has three causes, and each needs a different fix: the opening has worn out, the audience has seen it too often, or the reason to buy has stopped working. Only the last one means cut.\n- Don't judge new ads too early. Galvor has seen some ad styles start about 35% dearer per order in their first two months and end close to average over their life.\n- Refreshing with look-alikes doesn't work. In Galvor's data, six or more look-alikes launched within three days each got 48% less first-month spend.\n\n## Monday, 9:40 a.m.\n\nSam's best ad, the kitchen-table founder video from Issue #4, is getting more expensive. Cost per order has crept up for ten days.\n\nThe agency's message arrives before Sam's coffee: \"Creative fatigue. Recommend we pause and replace.\"\n\nSam has heard this before. Last time, they paused a winner, launched six fresh versions in a week, and spent a month getting back to where they started.\n\nSo this time Sam asks a different question: *what exactly is tired?*\n\n## Three kinds of fatigue\n\nWhen cost per order rises on a long-running ad, one of three things is usually happening. They look the same in a dashboard. They are not the same problem.\n\n### 1 The opening is tired\n- What it looks like: hook rate falls first. People who do watch past the opening still behave as before.\n- What it means: the people seeing it have learned to scroll past the first frame. The rest of the ad still works.\n- What to do: **refresh**. Recut the first three seconds; keep the middle and the CTA.\n\n### 2 The audience is saturated\n- What it looks like: frequency climbs, comments repeat, and the drop is spread across the whole ad.\n- What it means: the ad hasn't stopped working. It has run out of new people of the type it speaks to.\n- What to do: **shift**. Write for a new buyer (a different motivation, situation or objection) rather than a new look. Issue #3 explains why.\n\n### 3 The reason to buy has stopped working\n- What it looks like: people still watch, but fewer of them buy. Hold rate is steady; conversion falls.\n- What it means: the offer, the claim or the moment has lost its pull, perhaps because a sale ended, the season changed or a competitor now says the same thing.\n- What to do: **cut** this message, and test a new reason to buy.\n\nGalvor's Actions use the same three words: Scale, Cut, Shift. Most ads called \"fatigued\" belong in the first two groups. Only the third is a reason to switch off.\n\n## What Galvor saw in the data\n\nTwo findings from the last six months of ads Galvor analysed (new video ads launched May to September 2026) shape how we think about fatigue.\n\n**New ads need time.** Galvor has seen some ad styles start about **35% dearer per order** in their first two months and end close to average over their life. Teams that compare a three-day-old replacement with a six-week-old winner are comparing a learner with a veteran. Judge new ads after weeks, not days.\n\n**Look-alike refreshes hurt.** **Six or more look-alikes launched within three days each got 48% less first-month spend.** And new ads that looked like many running ads got **36% less**. Replacing one tired ad with six similar ones doesn't refresh anything. To Meta, it's the same ad split six ways.\n\n[DATA NEEDED: median number of days from launch to the first sustained rise in CPO for top-spending ads, May–Sep 2026 set.]\n\n[DATA NEEDED: of ads that showed rising CPO, the share where hook rate fell first vs hold rate vs conversion rate — to size each of the three causes.]\n\n## What a refresh actually looks like\n\nBack to Sam. When the team pulled the last 14 days apart, the answer was clear. Hook rate had fallen first. People who got past the opening still watched to the end and still bought at the same rate. The ad wasn't dead. Its first three seconds were.\n\nSo instead of a new shoot, the editor made three new openings for the same video:\n\n- a customer's hand opening the product, instead of the founder holding it;\n- a single line of on-screen text naming the buyer's problem;\n- the proof moment, a customer message, moved to the very first frame.\n\nEverything after second three stayed the same. Same founder, same kitchen table, same CTA.\n\nThis is the difference between a refresh and a replacement. A replacement throws away what the ad has already taught you and Meta. A refresh keeps the parts that still work and changes only the part that has worn out. It also makes the result readable: if one of the three openings brings hook rate back, you know exactly which attribute was tired.\n\nThere's a trap here too. Three new openings are three genuinely different first shots, not three colour grades of the same one. If the new openings all look alike, you're back to the look-alike problem from Issue #3.\n\n[DATA NEEDED: for ads refreshed with a new opening only, how hook rate and CPO moved over the following 14 days vs ads that were fully replaced — anonymised.]\n\n## Why \"fatigue\" gets diagnosed so often\n\nPart of the reason is the dashboard. Cost per order is the number everyone watches, and it's the last number to move. By the time it rises, the cause happened days earlier, in a metric nobody was looking at.\n\nPart of it is incentive. A replacement is visible work: new files, new shoots, a fresh batch of ads. A refresh looks small, even when it's the right call.\n\nAnd part of it is memory. Without a record of how long your ads usually last, every rise in cost feels like the end. With one, you can tell a normal wobble from a real decline.\n\n## A ten-minute fatigue check\n\nBefore anyone pauses an ad, answer these five questions with the ad set's last 14 days:\n\n1. Which fell first: hook rate, hold rate or conversion rate?\n2. Has frequency risen for the same audience?\n3. Did anything change outside the ad: price, offer, stock, season?\n4. Is the rise in cost steady, or one bad weekend?\n5. What would replace it, and is that replacement genuinely new or a look-alike?\n\nIf you can't answer question 1, you can't diagnose fatigue yet. You can only feel it.\n\n## The shift for marketers and leaders\n\nFive moves Galvor recommends.\n\n### 1 Name the type of fatigue before you act\nOpening, audience or reason to buy. Each has a different fix. \"Fatigue\" on its own is not a diagnosis.\n\n### 2 Refresh the first three seconds before you replace the ad\nA new opening on a proven middle is hours of editing, not a new shoot, and it keeps what the ad has already taught Meta.\n\n### 3 Never refresh with look-alikes\nReplacing one ad with several near-copies in a few days splits the budget and teaches you nothing. One genuinely new ad beats six versions.\n\n### 4 Give replacements a fair test\nUse a test campaign with a set share of spend, and judge after weeks. Many styles start expensive and settle.\n\n### 5 Keep a fatigue log\nFor every ad you pause, write one line: what fell first, what you changed and what happened next. In three months, that log will tell you how long your ads really last, and that's Brand Memory you can plan a budget on.\n\n## Next issue: The Sale Is Over. What Did Your Ads Learn?\n\nBlack Friday and Cyber Monday produced the most data your ads will see all year. Most of it will be forgotten by January. Here is how to turn one sale into a brief for the next one.\n\n## CTA: Get a free five-layer audit from Galvor AI\n\nWe read every ad in your account for look, speaker, audience, stage and reason, score each layer, and send you the short list of new ads that would fill the gaps. [Talk to the founders](https://talk.galvor.ai) to book yours.\n\nbutton: Get a free audit | https://talk.galvor.ai\n\n## How we did this\n\nGalvor’s data: [DATA NEEDED: dataset, date range, number of ads/brands, definitions]\n\n## Sources\n\n- [DATA NEEDED: source for “Median days from launch to the first sustained CPO rise for top-spendi”]\n- [DATA NEEDED: source for “Of ads with rising CPO, the share where hook rate, hold rate or conver”]\n- [DATA NEEDED: source for “Confirm Galvor Actions naming (Scale / Cut / Shift) matches the produc”]\n",
+    "url": "https://galvor.ai/newsletters/decode/creative-fatigue-when-to-refresh-when-to-cut/",
+    "previous_studio_issue": 5
+  }
+}

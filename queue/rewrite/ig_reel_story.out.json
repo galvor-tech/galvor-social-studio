@@ -1,0 +1,1973 @@
+{
+ "posts": [
+  {
+   "id": "ig-2026-11-24-story-pack-how-many-of-your-new-ads-were-new",
+   "title": "Story pack: how soon do you judge a new ad?",
+   "hook": "A new ad looks costly in week one. When do you switch it off?",
+   "caption": "Story pack (no feed caption).\n\nFrame 1 asks the question. Frame 2 is the poll. Frame 3 is the number from our analysis. Frame 4 is the tip to copy: write the review date before launch. Frame 5 points to tomorrow's Decoded issue on creative fatigue.",
+   "hashtags": [],
+   "alt_text": "Five vertical story frames in Galvor violet and gold. Frame 1 asks how soon you judge a new ad. Frame 2 is a poll on when you switch off a costly new ad. Frame 3 shows 35%: some ad styles start about 35% dearer per order in their first two months and end close to average. Frame 4 gives the tip: write the review date before launch. Frame 5 says Decoded #6 on creative fatigue lands tomorrow.",
+   "cta": "Vote in the poll; follow @galvor.ai for tomorrow's Decoded #6",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Quick poll",
+      "headline": "How soon do you *judge* a new ad?",
+      "sub": "Tap through and vote."
+     },
+     {
+      "layout": "poll",
+      "kicker": "Be honest",
+      "headline": "A new ad looks costly. When do you *switch it off?*",
+      "options": [
+       "Within three days",
+       "After a week",
+       "After two weeks",
+       "When someone asks"
+      ],
+      "sub": "Vote with the poll sticker."
+     },
+     {
+      "layout": "stat",
+      "kicker": "What we saw",
+      "stat": "35%",
+      "headline": "Some ad styles start about 35% *dearer per order* in their first two months",
+      "sub": "They end close to average over their life.",
+      "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+     },
+     {
+      "layout": "text",
+      "kicker": "Quick tip",
+      "headline": "Write the *review date* before launch",
+      "body": "Decide the day you will judge the ad, and the cost you expect by then.\n\nOn its own, a costly first week tells you little. The date keeps the decision honest."
+     },
+     {
+      "layout": "cta",
+      "headline": "Tomorrow: Decoded #6 on *creative fatigue.*",
+      "sub": "When to refresh, when to cut.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Decoded #6 lands tomorrow"
+      ]
+     }
+    ]
+   },
+   "notes": "Topic replaced: the old pack (how many of your new ads were new) made the same argument as the 25 Nov reel. New argument: do not judge a new ad on a costly first week. Interactive ask: poll sticker on frame 2 with the four options as written. Number used: 35% dearer per order in the first two months, ending close to average (facts bank, Decoded #3 analysis of ads launched May–Sep 2026); source line on frame 3. Post frames 30 to 60 minutes apart.",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2026-11-25-story-pack-decoded-6-is-out",
+   "title": "Story pack: Decoded #6 is out (Creative Fatigue)",
+   "hook": "Three kinds of ad fatigue look the same on a dashboard. Only one means cut.",
+   "caption": "Story pack (no feed caption).\n\nAnnounces Decoded #6: Creative Fatigue: When to Refresh, When to Cut. Frame 1 is the issue title. Frame 2 gives the three kinds of fatigue. Frame 3 is the poll. Frame 4 sends people to the issue with a link sticker.",
+   "hashtags": [],
+   "alt_text": "Four vertical story frames. Frame 1: Decoded #6, Creative Fatigue: When to Refresh, When to Cut, out today. Frame 2 lists three kinds of fatigue: tired opening, refresh it; saturated audience, shift it; reason to buy stopped working, cut it. Frame 3 is a poll: your best ad gets dearer, first move? Frame 4 asks people to read Decoded #6 free using the link sticker.",
+   "cta": "Tap the link sticker to read Decoded #6",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "New issue · Decoded #6",
+      "headline": "Creative Fatigue: *When to Refresh,* When to Cut",
+      "sub": "Out today. Free to read."
+     },
+     {
+      "layout": "list",
+      "kicker": "Inside",
+      "headline": "Three kinds of fatigue look *the same* on a dashboard",
+      "items": [
+       "Tired opening: refresh it",
+       "Saturated audience: shift it",
+       "Reason to buy stopped working: cut it"
+      ]
+     },
+     {
+      "layout": "poll",
+      "kicker": "Your turn",
+      "headline": "Your best ad gets dearer. *First move?*",
+      "options": [
+       "Pause it",
+       "Refresh the opening",
+       "Check why first"
+      ],
+      "sub": "Vote with the poll sticker."
+     },
+     {
+      "layout": "cta",
+      "headline": "Read Decoded *#6* free.",
+      "sub": "Includes a ten-minute check to run before anyone hits pause.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Tap the link sticker"
+      ]
+     }
+    ]
+   },
+   "notes": "Interactive ask: poll sticker on frame 3 with the three options as written. Frame 4: link sticker to Decoded #6; update the bio link the same morning. No numbers used. To confirm before posting: the final issue still names the three kinds of fatigue and the ten-minute check (taken from the current draft outline of #6).",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2026-11-25-reel-30-new-ads-meta-sees-one",
+   "title": "Reel: 30 new ads, Meta saw one (the first-frame test)",
+   "hook": "30 new ads. Meta saw one.",
+   "caption": "30 new ads. Meta saw one.\n\nWe looked at every new video ad the brands we work with launched from May to September 2026. New ads that looked like ads already running got 36% less first-month spend. A proven message in a new look got 47% more.\n\nThe test to run before your next launch: line up the first frame of every ad with the sound off. If you can't tell two apart, that is one ad. Launch one.\n\nRead the full newsletter on our website, link in bio.",
+   "first_comment": "Read Decoded #3 on galvor.ai",
+   "hashtags": [
+    "#metaads",
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: 30 new ads. Meta saw one. The reel shows thirty similar ad tiles merging into one, two numbers from Galvor's analysis (36% less and 47% more first-month spend), and a test: line up the first frames with the sound off. End card: read the full newsletter, link in bio.",
+   "cta": "Read the full newsletter on our website, link in bio",
+   "script": {
+    "duration": "36s",
+    "setup": "Idea: a growth lead who ships dozens of new ads a month and watches spend stay on the old ones learns what counts as new, and gets a test to run before launch. On-screen title: 30 new ads. Meta saw one. Expectation set: I will find out why my new ads get no spend. The script meets it in the first line, then beats it with two numbers from our own analysis and a ten-second test. Outline (new points only): look-alikes got less spend (our finding); a proven message in a new look got more (second-best, first); the first-frame line-up test (best, second).",
+    "scenes": [
+     {
+      "time": "0–4s",
+      "visual": "Thirty ad tiles fill the screen. They differ only in background colour. They slide together into one tile.",
+      "voiceover": "Thirty new ads, thirty chances? Meta's system saw one.",
+      "on_screen": "30 new ads. Meta saw one."
+     },
+     {
+      "time": "4–9s",
+      "visual": "A calendar strip runs May to September while small ad tiles drop into a pile.",
+      "voiceover": "We checked every new video ad our brands launched, May to September.",
+      "on_screen": "Every new video ad, May–Sep 2026"
+     },
+     {
+      "time": "9–13s",
+      "visual": "A spend bar for look-alike ads shrinks. Small source line: Galvor analysis, ads launched May–Sep 2026.",
+      "voiceover": "Look-alike new ads got thirty-six percent less first-month spend.",
+      "on_screen": "Look-alikes: 36% less spend"
+     },
+     {
+      "time": "13–17s",
+      "visual": "One ad tile changes its backdrop colour three times. The product and the framing stay the same.",
+      "voiceover": "Swapping the backdrop still looks like the old ad.",
+      "on_screen": "New backdrop, same old ad"
+     },
+     {
+      "time": "17–22s",
+      "visual": "The same line of copy sits over a clearly different opening picture. A bar grows. Same source line.",
+      "voiceover": "A proven message in a new look got forty-seven percent more.",
+      "on_screen": "Proven message, new look: 47% more"
+     },
+     {
+      "time": "22–26s",
+      "visual": "First frames of six ads snap into a row. A mute icon appears.",
+      "voiceover": "So before launch, line up every first frame, sound off.",
+      "on_screen": "Line up the first frames"
+     },
+     {
+      "time": "26–30s",
+      "visual": "Two near-identical frames pulse, then merge into one.",
+      "voiceover": "Can't tell two apart? That's one ad. Launch one.",
+      "on_screen": "Can't tell apart? One ad."
+     },
+     {
+      "time": "30–32s",
+      "visual": "The pile of thirty files shrinks to a short row of different first frames.",
+      "voiceover": "Count first shots, not files.",
+      "on_screen": "Count first shots, not files"
+     },
+     {
+      "time": "32–36s",
+      "visual": "End card with the Galvor logo and a link-in-bio arrow. Chime.",
+      "voiceover": "Read the full newsletter on our website, link in bio.",
+      "on_screen": "Full newsletter. Link in bio."
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Newsletter reel, so the closing line is the newsletter line. Numbers: 36% less first-month spend for new ads that looked like many running ads; 47% more for a proven message in a new look. Both from Galvor's analysis of every new video ad launched May–Sep 2026 across brands we work with (Decoded #3). Show the source line on screen with each number."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "30 new ads. *Meta saw one.*",
+      "sub": "The first-frame test to run before launch.",
+      "play": "Watch the breakdown"
+     },
+     {
+      "layout": "cta",
+      "headline": "Count *first shots,* not files.",
+      "sub": "Read the full newsletter on our website.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Link in bio"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the topic, rebuilt for AI voice over motion graphics (the old script needed a presenter). Numbers used: 36% less and 47% more first-month spend, Galvor analysis of ads launched May–Sep 2026 (Decoded #3). The numbers come from Decoded #3, so the first comment points there; Decoded #6, out the same morning, also covers look-alike refreshes. To decide: which issue the bio link should open on the day. Slide 1 is the cover, slide 2 the end card.",
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-02-reel-what-galvor-reads-in-one-ad",
+   "title": "Reel: the sale is over, write three lines (Decoded #7)",
+   "hook": "The sale is over. Before the ads get archived, write three lines.",
+   "pillar": "Newsletter",
+   "caption": "The sale is over. Before the ads get archived, write three lines.\n\n1. The reason to buy your top-spending ads gave: discount, gift, deadline or bundle.\n2. The first shot of each of those ads. Screenshot it.\n3. The ads that got no spend, and what they had in common.\n\nThat is one page. It is also the brief for your next sale, and the Republic Day sales are closer than they look.\n\nRead the full newsletter on our website, link in bio.",
+   "first_comment": "Read Decoded #7 on galvor.ai",
+   "hashtags": [
+    "#adstrategy",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Sale over. Write three lines. The reel shows a one-page note filling in with three lines: the reason to buy, the first shot, and what got no spend. End card: read the full newsletter, link in bio.",
+   "cta": "Read the full newsletter on our website, link in bio",
+   "script": {
+    "duration": "39s",
+    "setup": "Idea: a D2C growth lead who has just closed a sale and is about to move on, so the next sale starts from a blank page. On-screen title: Sale over. Write three lines. Expectation set: three specific things to write down. The script meets it by the second scene and beats it by turning the three lines into the brief for the next sale. Outline: the reason to buy that carried the sale (second-best, first); the first shot that held (best, second); what got no spend.",
+    "scenes": [
+     {
+      "time": "0–4s",
+      "visual": "A sale banner peels off a calendar. A single revenue figure, blurred, is filed into a folder.",
+      "voiceover": "The sale is over. Most teams save the revenue number.",
+      "on_screen": "Sale over. Write three lines."
+     },
+     {
+      "time": "4–8s",
+      "visual": "The folder closes. A blank one-page note opens beside it with three empty lines.",
+      "voiceover": "That number can't brief your next sale. Three lines can.",
+      "on_screen": "Three lines brief the next sale"
+     },
+     {
+      "time": "8–12s",
+      "visual": "Line one fills in on the note. A row of dummy ad tiles is sorted by spend, top three highlighted.",
+      "voiceover": "Line one: the reason to buy your top-spending ads gave.",
+      "on_screen": "1. The reason to buy"
+     },
+     {
+      "time": "12–17s",
+      "visual": "Four labels appear: discount, gift, deadline, bundle. One gets circled.",
+      "voiceover": "Discount, gift, deadline or bundle. Name the one that carried it.",
+      "on_screen": "Name what carried it"
+     },
+     {
+      "time": "17–21s",
+      "visual": "A viewer's thumb hovers over a phone, about to scroll.",
+      "voiceover": "A reason only works if people stay to hear it.",
+      "on_screen": "Did people stay to hear it?"
+     },
+     {
+      "time": "21–25s",
+      "visual": "Line two fills in. Opening frames of the top ads are pasted into the note as small screenshots.",
+      "voiceover": "Line two: screenshot the first shot of each top ad.",
+      "on_screen": "2. The first shot"
+     },
+     {
+      "time": "25–30s",
+      "visual": "Line three fills in. A group of greyed-out tiles is circled together.",
+      "voiceover": "Line three: the ads that got no spend, and what they shared.",
+      "on_screen": "3. What got no spend"
+     },
+     {
+      "time": "30–35s",
+      "visual": "The finished page slides onto a January calendar next to a Republic Day sale marker.",
+      "voiceover": "One page today. No blank page before the Republic Day sale.",
+      "on_screen": "One page. No blank page."
+     },
+     {
+      "time": "35–39s",
+      "visual": "End card with the Galvor logo and a link-in-bio arrow. Chime.",
+      "voiceover": "Read the full newsletter on our website, link in bio.",
+      "on_screen": "Full newsletter. Link in bio."
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Newsletter reel for Decoded #7 (The Sale Is Over. What Did Your Ads Learn?), out the same morning. No numbers used. Do not show real revenue figures or a real account."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Sale over. *Write three lines.*",
+      "sub": "Before the ads get archived.",
+      "play": "Watch the breakdown"
+     },
+     {
+      "layout": "cta",
+      "headline": "One page now. *No blank page* in January.",
+      "sub": "Read the full newsletter on our website.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Link in bio"
+      ]
+     }
+    ]
+   },
+   "notes": "Topic replaced: the old reel (what Galvor reads in one ad) was a product pitch and repeated the 20 Jan reel. New topic follows Decoded #7, out the same day, so the pillar moves to Newsletter. No numbers used. To confirm: the three lines do not contradict the final text of Decoded #7 (the issue is still a skeleton). Slide 1 is the cover, slide 2 the end card.",
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-08-story-quiz-which-ad-would-meta-treat-as-new",
+   "title": "Story quiz: your best ad worked, what do you copy?",
+   "hook": "Your best ad told a founder story. What goes in the next brief?",
+   "caption": "Story pack (no feed caption).\n\nA one-question quiz on what to copy from a winning ad. Frame 2 is the quiz. Frame 3 gives the six parts of an ad. Frame 4 is the exercise to do today. Frame 5 points to Decoded #5.",
+   "hashtags": [],
+   "alt_text": "Five vertical story frames. Frame 1: Your best ad worked. What do you copy? Frame 2 is a quiz: the winner told a founder story, next brief? Frame 3 lists six parts of an ad: hook, cast, setting, pacing, proof and CTA. Frame 4: write the six parts for your last three winners. Frame 5: copy the part that worked, with a pointer to Decoded #5.",
+   "cta": "Answer the quiz; read Decoded #5, link in bio",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Quick quiz",
+      "headline": "Your best ad worked. *What do you copy?*",
+      "sub": "One question. Tap through."
+     },
+     {
+      "layout": "poll",
+      "kicker": "Pick one",
+      "headline": "The winner told a founder story. *Next brief?*",
+      "options": [
+       "Another founder story",
+       "Same opening, new story",
+       "Find what it had first"
+      ],
+      "sub": "Answer with the quiz sticker."
+     },
+     {
+      "layout": "list",
+      "kicker": "The answer",
+      "headline": "A story has *six parts.* Any one could be the reason",
+      "items": [
+       "Hook: the first three seconds",
+       "Cast: who is on screen",
+       "Setting: where it happens",
+       "Pacing: how fast it moves",
+       "Proof: why to believe it",
+       "CTA: what it asks for"
+      ]
+     },
+     {
+      "layout": "text",
+      "kicker": "Try it today",
+      "headline": "Write the six parts for your *last three winners*",
+      "body": "What repeats across them is your best guess at why they worked.\n\nBrief the next ad from that, and leave the story free to change."
+     },
+     {
+      "layout": "cta",
+      "headline": "Copy the *part* that worked.",
+      "sub": "Decoded #5 walks through all six.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Read Decoded #5, link in bio"
+      ]
+     }
+    ]
+   },
+   "notes": "Topic replaced: the old quiz (which ad would Meta treat as new) repeated the 25 Nov reel. New argument: copy the parts of a winner, since the story alone does not tell you why it worked (from Decoded #5). Interactive ask: quiz sticker on frame 2, correct answer is the third option. No numbers used. To confirm: the six parts match the final text of Decoded #5.",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-09-reel-brief-to-live-a-creator-campaign-in-30-seco",
+   "title": "Reel: the four-line creator brief",
+   "hook": "A creator brief that fits on one phone screen. Four lines.",
+   "caption": "A creator brief that fits on one phone screen. Four lines.\n\n1. Who it is for. One buyer, in plain words.\n2. The one reason to buy.\n3. The first shot: what viewers see first.\n4. The one thing never to say or show.\n\nTen talking points can't fit in thirty seconds, so the creator ends up reading the brief aloud. Give them four lines and leave the rest to them. That is what you hired them for.\n\nSave this for your next brief. Follow @galvor.ai.",
+   "hashtags": [
+    "#ugcads",
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: The four-line creator brief. The reel shows a long brief shrinking to four lines on a phone screen: one buyer, one reason to buy, the first shot, and the one no-go. End card: follow @galvor.ai.",
+   "cta": "Save for your next brief; follow @galvor.ai",
+   "script": {
+    "duration": "38s",
+    "setup": "Idea: a brand or creative manager whose creator videos come back sounding like the brief read aloud gets a brief short enough to act on. On-screen title: The four-line creator brief. Expectation set: four lines I can copy. The script gives all four, then beats the expectation with the fifth point: everything not in the brief belongs to the creator. Outline: buyer and reason to buy (what to say); first shot (how it opens); the one no-go; the rest is theirs.",
+    "scenes": [
+     {
+      "time": "0–4s",
+      "visual": "A multi-page brief scrolls past fast, then folds down to four lines on one phone screen.",
+      "voiceover": "A creator brief in four lines. Most run to pages.",
+      "on_screen": "The four-line creator brief"
+     },
+     {
+      "time": "4–8s",
+      "visual": "Ten bullet points try to squeeze into a thirty-second timeline bar. Most fall off.",
+      "voiceover": "Ten points can't fit in thirty seconds. So pick four.",
+      "on_screen": "Ten points won't fit"
+     },
+     {
+      "time": "8–13s",
+      "visual": "Line one writes itself on the phone screen. A simple outline of one person appears.",
+      "voiceover": "Line one: who is this for? One buyer, in plain words.",
+      "on_screen": "1. One buyer"
+     },
+     {
+      "time": "13–17s",
+      "visual": "Line two writes itself. Three candidate reasons appear and two are crossed out.",
+      "voiceover": "Line two: the one reason to buy. Only one.",
+      "on_screen": "2. One reason to buy"
+     },
+     {
+      "time": "17–21s",
+      "visual": "The first two lines group under a label. A play button appears below them.",
+      "voiceover": "That covers what to say. Now, how it starts.",
+      "on_screen": "Now, how it starts"
+     },
+     {
+      "time": "21–25s",
+      "visual": "Line three writes itself. An empty first frame fills with a rough sketch.",
+      "voiceover": "Line three: the first shot. Describe what viewers see first.",
+      "on_screen": "3. The first shot"
+     },
+     {
+      "time": "25–29s",
+      "visual": "Line four writes itself with a small stop sign beside it.",
+      "voiceover": "Line four: the one thing never to say or show.",
+      "on_screen": "4. The one no-go"
+     },
+     {
+      "time": "29–34s",
+      "visual": "The rest of the screen is left open and tagged with a creator icon.",
+      "voiceover": "Everything else belongs to the creator. That's why you hired them.",
+      "on_screen": "The rest is theirs"
+     },
+     {
+      "time": "34–38s",
+      "visual": "End card with the four lines stacked and the Galvor logo. Chime.",
+      "voiceover": "Four lines, one screen. Follow @galvor.ai.",
+      "on_screen": "Follow @galvor.ai"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. No creator, client or campaign is named or implied."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "The *four-line* creator brief",
+      "sub": "Fits on one phone screen.",
+      "play": "Watch the four lines"
+     },
+     {
+      "layout": "cta",
+      "headline": "Four lines. *The rest is theirs.*",
+      "sub": "Save this for your next brief.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Shrutik: that these four lines match how the team briefs creators, and whether he has one real brief line (anonymised) worth showing in scene 3 or 4. The script stands without it.\nTopic sharpened: the old reel promised a look at a real campaign from brief to post, which needs footage and a client story. This version teaches the brief itself and is different from the 17 Feb reel (approvals). No numbers used. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-15-story-poll-would-you-let-ai-move-20-of-your-budg",
+   "title": "Story poll: would you let AI move your ad budget without asking?",
+   "hook": "Would you let AI move your ad budget without asking you first?",
+   "caption": "Story pack (no feed caption).\n\nA poll on where people draw the line with AI and ad budgets. Frame 2 is the poll. Frame 3 says where Galvor stands. Frame 4 is the tip: write down what a tool may do alone and what needs a person's yes.",
+   "hashtags": [],
+   "alt_text": "Five vertical story frames. Frame 1 asks: would you let AI move your ad budget without asking? Frame 2 is a poll with four options, from it can act alone to keep it away. Frame 3: we never touch the media budget. Frame 4 tip: write one line on what a tool may do alone and what needs a person's yes. Frame 5 asks people to follow @galvor.ai.",
+   "cta": "Vote in the poll; follow @galvor.ai",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Quick poll",
+      "headline": "Would you let AI move your ad budget *without asking?*",
+      "sub": "Tap to vote."
+     },
+     {
+      "layout": "poll",
+      "kicker": "No wrong answer",
+      "headline": "AI and your ad budget. *Where is your line?*",
+      "options": [
+       "It can act alone",
+       "It suggests, I approve",
+       "It reports, I decide",
+       "Keep it away"
+      ],
+      "sub": "Vote with the poll sticker."
+     },
+     {
+      "layout": "text",
+      "kicker": "Where we stand",
+      "headline": "We *never touch* the media budget",
+      "body": "Galvor says what to scale, cut or shift, and why.\n\nA person on your team makes the move."
+     },
+     {
+      "layout": "text",
+      "kicker": "Quick tip",
+      "headline": "Write the line down *before* the tool goes live",
+      "body": "One sentence is enough: what it may do alone, and what needs a person's yes.\n\nPin it where the team can see it."
+     },
+     {
+      "layout": "cta",
+      "headline": "Your budget, *your call.*",
+      "sub": "We will share the poll result tomorrow.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Vote on frame 2"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the topic. Dropped the 20% figure from the question because it is not in the facts bank. Interactive ask: poll sticker on frame 2 with the four options as written. No numbers used. Frame 5 promises the poll result the next day: share it as a single story on 16 Dec, or change the sub line if that is not planned.",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-16-reel-a-long-running-ad-isnt-proof-it-works",
+   "title": "Reel: old competitor ad? Two checks before you copy it",
+   "hook": "That competitor ad has run for months. It still might not be working.",
+   "caption": "That competitor ad has run for months. It still might not be working.\n\nThe ad library shows what is live. It does not show results, and an ad can stay on simply because nobody switched it off.\n\nTwo checks before you copy anything:\n1. What do they keep remaking? New versions of one opening are a stronger hint than one old ad.\n2. Does the same pattern show up across several brands in your category?\n\nThen test it small, with your own reason to buy. Follow @galvor.ai.",
+   "hashtags": [
+    "#adstrategy",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Old competitor ad? Don't copy yet. The reel shows a dummy ad with a long-running badge, then two checks: what the brand keeps remaking, and whether the pattern appears across several brands. End card: follow @galvor.ai.",
+   "cta": "Follow @galvor.ai",
+   "script": {
+    "duration": "42s",
+    "setup": "Idea: a performance marketer about to copy a competitor's long-running ad learns why the run length proves little and what to check instead. On-screen title: Old competitor ad? Don't copy yet. Expectation set: a reason to pause and something better to do. The script gives the reason in the first two scenes, then beats the expectation with two checks and a way to test. Outline: live does not mean working; remakes are the stronger hint (second-best, first); the pattern across brands; your own small test (best).",
+    "scenes": [
+     {
+      "time": "0–5s",
+      "visual": "A dummy ad tile on a phone with a badge showing it has been live for months.",
+      "voiceover": "That competitor ad has run for months. So it must work?",
+      "on_screen": "Old competitor ad? Don't copy yet."
+     },
+     {
+      "time": "5–9s",
+      "visual": "An ad library style grid of dummy tiles. A results column beside it is empty.",
+      "voiceover": "The ad library shows what's live. It never shows results.",
+      "on_screen": "Shows live ads, never results"
+     },
+     {
+      "time": "9–13s",
+      "visual": "An on-off switch sits untouched. Dust settles on it.",
+      "voiceover": "An ad can stay on because nobody switched it off.",
+      "on_screen": "Maybe nobody switched it off"
+     },
+     {
+      "time": "13–17s",
+      "visual": "The single old tile fades. Several newer tiles from the same brand slide in.",
+      "voiceover": "So skip the single old ad. Look for a pattern.",
+      "on_screen": "Look for a pattern"
+     },
+     {
+      "time": "17–22s",
+      "visual": "Three newer tiles line up. They share one opening frame, with different endings.",
+      "voiceover": "Check one: what do they keep remaking? Same opening, new versions?",
+      "on_screen": "1. What do they remake?"
+     },
+     {
+      "time": "22–27s",
+      "visual": "A small production clapper appears next to each remake.",
+      "voiceover": "Remaking costs money. Teams tend to remake what earns its keep.",
+      "on_screen": "Remakes are a stronger hint"
+     },
+     {
+      "time": "27–32s",
+      "visual": "Tiles from several dummy brands appear in rows. The same opening pattern is outlined in each row.",
+      "voiceover": "Check two: does the pattern show across several brands in your category?",
+      "on_screen": "2. Across several brands?"
+     },
+     {
+      "time": "32–37s",
+      "visual": "One new tile with a different product enters a small test box.",
+      "voiceover": "Then test it with your own reason to buy, small first.",
+      "on_screen": "Test small, your own reason"
+     },
+     {
+      "time": "37–42s",
+      "visual": "End card: the words clue and proof side by side, then the Galvor logo. Chime.",
+      "voiceover": "A clue from them. Proof from you. Follow @galvor.ai.",
+      "on_screen": "Clue, then your own proof"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Never name a competitor or any brand, and never state or guess anyone's spend or results. Use dummy tiles only."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Old competitor ad? *Don't copy yet.*",
+      "sub": "Two checks first.",
+      "play": "Watch the two checks"
+     },
+     {
+      "layout": "cta",
+      "headline": "A long run is a clue. *Your test is proof.*",
+      "sub": "Check what they remake, then test small.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the topic and sharpened it into two checks a viewer can run the same day. No numbers used. No competitor named. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-22-story-pack-year-end-this-or-that",
+   "title": "Story pack: which year-end deck is yours?",
+   "hook": "There are two kinds of year-end marketing deck. Which one is on your screen?",
+   "caption": "Story pack (no feed caption).\n\nA this-or-that for the last working week of the year. Frame 2 sets the two decks side by side. Frame 3 is the poll. Frame 4 gives the one slide worth adding.",
+   "hashtags": [],
+   "alt_text": "Five vertical story frames. Frame 1: The year-end deck, which one is yours? Frame 2 compares Deck A (spend by month, ROAS by month, top ten ads, thank you) with Deck B (what we tested, what we learnt, what we stop doing, what we test first). Frame 3 is a poll asking which deck is on your screen. Frame 4 suggests adding a slide called three things our ads taught us. Frame 5: every ad should make the next one better.",
+   "cta": "Vote in the poll; share with whoever is building the deck",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Year-end edition",
+      "headline": "The year-end deck: *which one is yours?*",
+      "sub": "Tap to vote."
+     },
+     {
+      "layout": "compare",
+      "kicker": "This or that",
+      "headline": "Two kinds of *year-end deck*",
+      "left_title": "Deck A",
+      "left": [
+       "Spend by month",
+       "ROAS by month",
+       "Top ten ads",
+       "Thank you"
+      ],
+      "right_title": "Deck B",
+      "right": [
+       "What we tested",
+       "What we learnt",
+       "What we stop doing",
+       "What we test first"
+      ]
+     },
+     {
+      "layout": "poll",
+      "kicker": "Be honest",
+      "headline": "Which deck is *on your screen* right now?",
+      "options": [
+       "Deck A",
+       "Deck B",
+       "A, with one B slide",
+       "No deck yet"
+      ],
+      "sub": "Vote with the poll sticker."
+     },
+     {
+      "layout": "text",
+      "kicker": "One slide to add",
+      "headline": "\"Three things our ads *taught us*\"",
+      "body": "One line each, in plain words.\n\nIt is the slide your January plan can use."
+     },
+     {
+      "layout": "cta",
+      "headline": "Every ad should make the *next one* better.",
+      "sub": "Send this to whoever is building the deck.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Share this story"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the this-or-that idea and narrowed it to one relatable choice: a deck of spend or a deck of lessons. Interactive ask: poll sticker on frame 3 with the four options as written. No numbers used.",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-23-reel-a-day-at-galvor-in-30-seconds",
+   "title": "Reel: three rules our team works by",
+   "hook": "Three rules our team works by. All three are about ads.",
+   "caption": "Three rules our team works by. All three are about ads.\n\n1. A small sample is a signal. One good week earns a second test.\n2. We price the attribute, not the ad. The hook, the cast and the pacing are each checked against cost per order.\n3. Every ad should make the next one better. An ad that taught nothing cost more than its spend.\n\nThey are free to borrow for 2027. Follow @galvor.ai.",
+   "hashtags": [
+    "#adstrategy",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Three rules we work by. The reel shows three numbered rules appearing one at a time: a small sample is a signal, price the attribute, and every ad should make the next one better. End card: follow @galvor.ai.",
+   "cta": "Follow @galvor.ai",
+   "script": {
+    "duration": "40s",
+    "setup": "Idea: a founder or growth lead curious how a creative intelligence team thinks gets three working rules to borrow for next year's planning. On-screen title: Three rules we work by. Expectation set: a culture video. The script beats it because each rule changes a decision about ads. Outline: small sample is a signal (second-best, first); price the attribute, not the ad (best, second); every ad should make the next one better (the close).",
+    "scenes": [
+     {
+      "time": "0–4s",
+      "visual": "Three blank cards drop onto a violet background, numbered one to three.",
+      "voiceover": "Three rules our team at Galvor works by.",
+      "on_screen": "Three rules we work by"
+     },
+     {
+      "time": "4–8s",
+      "visual": "A generic values poster fades out. The three cards move to the centre.",
+      "voiceover": "Most team rules are about manners. These are about ads.",
+      "on_screen": "Rules about ads"
+     },
+     {
+      "time": "8–13s",
+      "visual": "Card one flips. A chart with only a few dots appears and gets a signal icon.",
+      "voiceover": "Rule one: a small sample is a signal. Test it again.",
+      "on_screen": "1. Small sample = signal"
+     },
+     {
+      "time": "13–17s",
+      "visual": "One tall bar for a single week. A second empty bar appears beside it, marked test again.",
+      "voiceover": "One good week earns a second test, never a verdict.",
+      "on_screen": "One good week, second test"
+     },
+     {
+      "time": "17–22s",
+      "visual": "Card two flips. A dummy ad tile splits into labelled parts.",
+      "voiceover": "Rule two goes deeper. We price the attribute, not the ad.",
+      "on_screen": "2. Price the attribute"
+     },
+     {
+      "time": "22–27s",
+      "visual": "The parts line up, labelled hook, cast and pacing, each with its own small price tag.",
+      "voiceover": "Hook, cast, pacing. Each one is checked against cost per order.",
+      "on_screen": "Each part, cost per order"
+     },
+     {
+      "time": "27–31s",
+      "visual": "Card three flips. One ad tile passes a note forward to the next tile.",
+      "voiceover": "Rule three: every ad should make the next one better.",
+      "on_screen": "3. Make the next one better"
+     },
+     {
+      "time": "31–36s",
+      "visual": "A tile with no note attached turns grey and a cost marker beside it grows.",
+      "voiceover": "If an ad taught nothing, it cost more than its spend.",
+      "on_screen": "No lesson, higher cost"
+     },
+     {
+      "time": "36–40s",
+      "visual": "End card with the three rules stacked and the Galvor logo. Chime.",
+      "voiceover": "Three rules, free to borrow. Follow @galvor.ai.",
+      "on_screen": "Follow @galvor.ai"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. The three rules are taken from the brand guide, in its own wording."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "*Three rules* we work by",
+      "sub": "All three are about ads.",
+      "play": "Watch the three rules"
+     },
+     {
+      "layout": "cta",
+      "headline": "Every ad should make the *next one* better.",
+      "sub": "Three rules, free to borrow for 2027.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "Topic replaced: a day at Galvor in 30 seconds needs office footage and people on camera, and the reel is AI voice over motion graphics. New topic keeps the Team & Culture pillar by showing how the team thinks. No numbers used. To confirm with the team: everyone is comfortable presenting these three lines as the team's working rules (all three come from the brand guide). Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-30-story-pack-decoded-11-is-out",
+   "title": "Story pack: Decoded #11 is out (Test Calendar)",
+   "hook": "Your 2027 plan says what you will post. Does it say what you will know?",
+   "caption": "Story pack (no feed caption).\n\nAnnounces Decoded #11: Build a Test Calendar, Not a Content Calendar. Frame 1 is the issue title. Frame 2 compares the two calendars. Frame 3 is the poll. Frame 4 sends people to the issue with a link sticker.",
+   "hashtags": [],
+   "alt_text": "Four vertical story frames. Frame 1: Decoded #11, Build a Test Calendar, Not a Content Calendar, out today. Frame 2 compares a content calendar (what will we post, themes by week, counted in posts) with a test calendar (what will we know, one question a fortnight, counted in answers). Frame 3 is a poll: does your 2027 plan have a question in it? Frame 4 asks people to read Decoded #11 free.",
+   "cta": "Tap the link sticker to read Decoded #11",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "New issue · Decoded #11",
+      "headline": "Build a *Test Calendar,* Not a Content Calendar",
+      "sub": "Out today. Free to read."
+     },
+     {
+      "layout": "compare",
+      "kicker": "The difference",
+      "headline": "Same year, *two plans*",
+      "left_title": "Content calendar",
+      "left": [
+       "What will we post?",
+       "Themes by week",
+       "Counted in posts"
+      ],
+      "right_title": "Test calendar",
+      "right": [
+       "What will we know?",
+       "One question a fortnight",
+       "Counted in answers"
+      ]
+     },
+     {
+      "layout": "poll",
+      "kicker": "Check your plan",
+      "headline": "Does your 2027 plan have a *question* in it?",
+      "options": [
+       "Yes, several",
+       "One or two",
+       "Only dates and themes"
+      ],
+      "sub": "Vote with the poll sticker."
+     },
+     {
+      "layout": "cta",
+      "headline": "Read Decoded *#11* free.",
+      "sub": "Includes a one-page template to copy into your plan.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Tap the link sticker"
+      ]
+     }
+    ]
+   },
+   "notes": "Interactive ask: poll sticker on frame 3 with the three options as written. Frame 4: link sticker to Decoded #11; update the bio link the same morning. No numbers used. To confirm before posting: the final issue includes the one-page template (taken from the current draft of #11).",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2026-12-30-reel-meet-vira-a-co-worker-that-shows-its-thinki",
+   "title": "Reel: three questions for any AI ad advice (meet Vira)",
+   "hook": "An AI tool says cut this ad. Ask it three questions first.",
+   "caption": "An AI tool says cut this ad. Ask it three questions first.\n\n1. What did you look at? Which ads, which dates?\n2. What would you do: scale, cut or shift?\n3. What result would prove you wrong?\n\nIf a tool can't answer, treat the advice as a guess.\n\nVira, Galvor's digital co-worker, shows its thinking with every call, so your team can check it before anyone acts. See Vira on galvor.ai, link in bio. Follow @galvor.ai.",
+   "hashtags": [
+    "#performancemarketing",
+    "#adstrategy",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Before you trust AI ad advice. The reel shows three questions to ask any AI recommendation: what did you look at, what would you do, and what would prove you wrong. It then introduces Vira, Galvor's digital co-worker that shows its thinking. End card: see Vira at galvor.ai, follow @galvor.ai.",
+   "cta": "See Vira at galvor.ai, link in bio; follow @galvor.ai",
+   "script": {
+    "duration": "40s",
+    "setup": "Idea: a head of growth who is being offered AI recommendations on which ads to scale or cut, and is ready to try one, gets three questions that separate advice from guesses, then meets Vira. On-screen title: Before you trust AI ad advice. Expectation set: a caution about AI. The script beats it with a usable test and a product that is built to pass it. Outline: what did you look at; what would you do (second-best, first); what would prove you wrong (best); Vira shows its thinking.",
+    "scenes": [
+     {
+      "time": "0–5s",
+      "visual": "A chat bubble on a dashboard says: cut this ad. A cursor hovers over a confirm button.",
+      "voiceover": "AI tools now tell you which ads to scale and cut.",
+      "on_screen": "Before you trust AI ad advice"
+     },
+     {
+      "time": "5–10s",
+      "visual": "The confirm button pauses. A magnifying glass moves over the chat bubble.",
+      "voiceover": "Most teams check if the advice sounds right. Check its working.",
+      "on_screen": "Check its working"
+     },
+     {
+      "time": "10–15s",
+      "visual": "Question one appears. Dummy ad tiles and a date range light up behind it.",
+      "voiceover": "Question one: what did you look at? Which ads, which dates?",
+      "on_screen": "1. What did you look at?"
+     },
+     {
+      "time": "15–19s",
+      "visual": "Question two appears. Three buttons: scale, cut, shift.",
+      "voiceover": "Question two: what would you do? Scale, cut or shift?",
+      "on_screen": "2. Scale, cut or shift?"
+     },
+     {
+      "time": "19–24s",
+      "visual": "The first two questions tick themselves. The third card stays face down and glows.",
+      "voiceover": "Those two are easy. The third one sorts advice from guesses.",
+      "on_screen": "The third sorts the guesses"
+     },
+     {
+      "time": "24–28s",
+      "visual": "The third card flips over.",
+      "voiceover": "Question three: what result would prove you wrong?",
+      "on_screen": "3. What proves you wrong?"
+     },
+     {
+      "time": "28–32s",
+      "visual": "The name Vira appears with a short reasoning panel opening beside a recommendation.",
+      "voiceover": "Vira, Galvor's digital co-worker, shows its thinking with every call.",
+      "on_screen": "Vira shows its thinking"
+     },
+     {
+      "time": "32–36s",
+      "visual": "A person icon reads the panel, then presses the button.",
+      "voiceover": "Advice you can check is advice you can act on.",
+      "on_screen": "Check it, then act"
+     },
+     {
+      "time": "36–40s",
+      "visual": "End card with the Galvor logo, the word Vira and a link-in-bio arrow. Chime.",
+      "voiceover": "See Vira, link in bio. Follow @galvor.ai.",
+      "on_screen": "See Vira. Link in bio."
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Scene 7 must use a real Vira screen or a faithful redraw approved by the product team. Do not mock up a feature that does not exist."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Before you trust *AI ad advice*",
+      "sub": "Three questions to ask it first.",
+      "play": "Watch the three questions"
+     },
+     {
+      "layout": "cta",
+      "headline": "Meet *Vira.* It shows its thinking.",
+      "sub": "See it on galvor.ai, link in bio.",
+      "actions": [
+       "Follow @galvor.ai",
+       "See Vira, link in bio"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the Vira topic and the Convert job, and earned the product mention by teaching the three questions first. No numbers used. To confirm with the product team: (1) what Vira shows next to a recommendation, so scene 7 matches the real screen; (2) that the bio link on the day goes to a Vira page on galvor.ai. The only product claims made are from the brand guide: Vira is a digital co-worker that shows its thinking, and Galvor's actions are scale, cut and shift. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2027-01-05-story-pack-your-2026-in-ads",
+   "title": "Story pack: could you find your best 2026 ad by its file name?",
+   "hook": "Could you find your best ad of 2026 by its file name?",
+   "caption": "Story pack (no feed caption).\n\nA quick tip for the first working week: name ads so they can be sorted later. Frame 2 is the poll. Frame 3 gives the five things to put in every ad name. Frame 4 says why it pays off.",
+   "hashtags": [],
+   "alt_text": "Five vertical story frames. Frame 1 asks: could you find your best ad of 2026 by its file name? Frame 2 is a poll on what your ad names look like. Frame 3 lists five things to put in every ad name: buyer, reason to buy, first shot, format and month. Frame 4: a name you can sort is a lesson you can find. Frame 5: start with the next ad you launch.",
+   "cta": "Vote in the poll; screenshot the list",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Your 2026 in ads",
+      "headline": "Could you find your best ad of 2026 *by its file name?*",
+      "sub": "Tap to vote."
+     },
+     {
+      "layout": "poll",
+      "kicker": "Be honest",
+      "headline": "What do your ad names *look like?*",
+      "options": [
+       "final_v3_new",
+       "Date and format",
+       "A system we follow",
+       "Depends who made it"
+      ],
+      "sub": "Vote with the poll sticker."
+     },
+     {
+      "layout": "list",
+      "kicker": "Quick tip",
+      "headline": "Put *five things* in every ad name",
+      "items": [
+       "Buyer: who it is for",
+       "Reason to buy: the one promise",
+       "First shot: what opens the ad",
+       "Format: video, static or creator",
+       "Month: when it launched"
+      ]
+     },
+     {
+      "layout": "text",
+      "kicker": "Why bother",
+      "headline": "A name you can *sort* is a lesson you can find",
+      "body": "Next December you can filter by reason to buy or by first shot and see what each one did.\n\nNo extra tool needed. Start with this week's launches."
+     },
+     {
+      "layout": "cta",
+      "headline": "Start with the *next ad* you launch.",
+      "sub": "Screenshot frame 3 for your team.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Screenshot the list"
+      ]
+     }
+    ]
+   },
+   "notes": "Topic replaced: the old pack asked which format people scaled most and taught nothing to copy. New topic is a same-day how-to: an ad naming rule that makes the year's ads sortable. Interactive ask: poll sticker on frame 2 with the four options as written. No numbers used.",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2027-01-06-story-pack-decoded-12-lands-today",
+   "title": "Story pack: Decoded #12 lands today (The Learning Loop)",
+   "hook": "Most teams make ads and read dashboards. The learning either side gets skipped.",
+   "caption": "Story pack (no feed caption).\n\nAnnounces Decoded #12: The Learning Loop: How to Run a Fortnightly Creative Cycle. Frame 1 is the issue title. Frame 2 lists the six steps of one cycle. Frame 3 is the poll. Frame 4 sends people to the issue with a link sticker.",
+   "hashtags": [],
+   "alt_text": "Four vertical story frames. Frame 1: Decoded #12, The Learning Loop: How to Run a Fortnightly Creative Cycle, out today. Frame 2 lists six steps in two weeks: decode, decide, brief, produce, run, review. Frame 3 is a poll asking how often your team reviews creative. Frame 4 asks people to read Decoded #12 free.",
+   "cta": "Tap the link sticker to read Decoded #12",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "New issue · Decoded #12",
+      "headline": "The *Learning Loop:* How to Run a Fortnightly Creative Cycle",
+      "sub": "Out today. Free to read."
+     },
+     {
+      "layout": "list",
+      "kicker": "Inside",
+      "headline": "One cycle, *six steps,* two weeks",
+      "items": [
+       "Decode: read what ran",
+       "Decide: pick what to test",
+       "Brief: write it down",
+       "Produce: make it and check it",
+       "Run: let it run",
+       "Review: thirty minutes"
+      ]
+     },
+     {
+      "layout": "poll",
+      "kicker": "Your turn",
+      "headline": "How often does your team *review creative?*",
+      "options": [
+       "Every week",
+       "Every two weeks",
+       "Every month",
+       "When costs jump"
+      ],
+      "sub": "Vote with the poll sticker."
+     },
+     {
+      "layout": "cta",
+      "headline": "Read Decoded *#12* free.",
+      "sub": "The review ends in four words: scale, cut, refresh, test.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Tap the link sticker"
+      ]
+     }
+    ]
+   },
+   "notes": "Interactive ask: poll sticker on frame 3 with the four options as written. Frame 4: link sticker to Decoded #12; update the bio link the same morning. No statistics used. To confirm before posting: the final issue keeps the six steps and the thirty-minute review (taken from the current draft of #12).",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2027-01-06-reel-ai-generated-vs-ai-informed-creative",
+   "title": "Reel: AI made the ad. Who briefed it?",
+   "hook": "AI made the ad. Who briefed it?",
+   "caption": "AI made the ad. Who briefed it?\n\nAI makes ads faster than any team. Speed only repeats the brief, so a thin brief comes back as many versions of one ad.\n\nBefore you generate, give it three things from your own account:\n1. The reason to buy that has already sold for you.\n2. The first shots you have used most, so it avoids them.\n3. The one question this batch should answer.\n\nThen whatever the result, the batch teaches you something. Follow @galvor.ai.",
+   "hashtags": [
+    "#adcreative",
+    "#creativestrategy",
+    "#marketingtips",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: AI made it. Who briefed it? The reel shows one thin brief turning into many identical ads, then three inputs to add before generating: your proven reason to buy, first shots to avoid, and one question per batch. End card: follow @galvor.ai.",
+   "cta": "Follow @galvor.ai",
+   "script": {
+    "duration": "39s",
+    "setup": "Idea: a creative or growth lead who has started generating ads with AI and wonders whether more versions is the answer learns what to feed the tool so the output is worth running. On-screen title: AI made it. Who briefed it? Expectation set: an opinion on AI ads. The script beats it with three inputs to add before the next batch. Outline: speed repeats the brief (the turn); proven reason to buy (second-best, first); first shots to avoid; one question per batch (best).",
+    "scenes": [
+     {
+      "time": "0–4s",
+      "visual": "A generate button is pressed. Ad tiles pour out faster than they can be counted.",
+      "voiceover": "AI can now make ads faster than any team.",
+      "on_screen": "AI made it. Who briefed it?"
+     },
+     {
+      "time": "4–8s",
+      "visual": "The tiles stack into a tall pile. A small trophy icon sits on top with a question mark.",
+      "voiceover": "So the belief goes: more ads, more winners.",
+      "on_screen": "More ads, more winners?"
+     },
+     {
+      "time": "8–12s",
+      "visual": "A one-line brief feeds the machine. Every tile that comes out looks the same.",
+      "voiceover": "Speed only repeats the brief. A thin brief, many twins.",
+      "on_screen": "Thin brief, many twins"
+     },
+     {
+      "time": "12–17s",
+      "visual": "The machine pauses. Three empty input slots appear in front of it.",
+      "voiceover": "So before you generate, feed it three things from your own ads.",
+      "on_screen": "Three things before you generate"
+     },
+     {
+      "time": "17–22s",
+      "visual": "Slot one fills with a line of ad copy marked as proven.",
+      "voiceover": "One: the reason to buy that has already sold for you.",
+      "on_screen": "1. Your proven reason"
+     },
+     {
+      "time": "22–27s",
+      "visual": "Slot two fills with a row of used opening frames, each marked with a cross.",
+      "voiceover": "Two: the first shots you've used most, so it avoids them.",
+      "on_screen": "2. First shots to avoid"
+     },
+     {
+      "time": "27–31s",
+      "visual": "Slot three fills with a single question mark, larger than the others.",
+      "voiceover": "Three matters most: the one question this batch should answer.",
+      "on_screen": "3. One question per batch"
+     },
+     {
+      "time": "31–35s",
+      "visual": "The machine runs again. The tiles come out visibly different, each tagged with the question.",
+      "voiceover": "Now every ad it makes can teach you something.",
+      "on_screen": "Every ad teaches something"
+     },
+     {
+      "time": "35–39s",
+      "visual": "End card with the Galvor logo. Chime.",
+      "voiceover": "Generate less, learn more. Follow @galvor.ai.",
+      "on_screen": "Follow @galvor.ai"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Do not name any AI tool or vendor."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "AI made it. *Who briefed it?*",
+      "sub": "Three things to feed it first.",
+      "play": "Watch the three inputs"
+     },
+     {
+      "layout": "cta",
+      "headline": "Generate less. *Learn more.*",
+      "sub": "Give every batch one question.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the topic (AI-generated versus AI-informed) and turned the contrast into three inputs a team can add the same day. No numbers used. No AI tool named. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2027-01-12-story-pack-decoded-13-lands-tomorrow",
+   "title": "Story pack: Decoded #13 lands tomorrow (Budget Season)",
+   "hook": "Finance funds what it can measure. Creative usually arrives without a measure.",
+   "caption": "Story pack (no feed caption).\n\nTeases Decoded #13: Budget Season: Making the Case for Creative Spend to Finance, out tomorrow. Frame 2 says why it matters. Frame 3 lists the three numbers finance already understands. Frame 4 is the question box. Frame 5 asks people to subscribe so it reaches their inbox.",
+   "hashtags": [],
+   "alt_text": "Five vertical story frames. Frame 1: Tomorrow, Decoded #13, Budget Season: Making the Case for Creative Spend to Finance. Frame 2: finance funds what it can measure. Frame 3 lists three numbers finance already understands: cost per order by creative attribute, spend that taught you nothing, and time to a new winner. Frame 4 asks what finance asks you about creative spend. Frame 5: get it in your inbox tomorrow, subscribe free.",
+   "cta": "Subscribe to Decoded with the link sticker",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Tomorrow · Decoded #13",
+      "headline": "Budget Season: Making the Case for *Creative Spend* to Finance",
+      "sub": "Lands Wednesday morning."
+     },
+     {
+      "layout": "text",
+      "kicker": "Why it matters",
+      "headline": "Finance funds what it can *measure*",
+      "body": "Media arrives with a number. Creative often arrives with a mood board.\n\nIssue #13 gives creative a number too."
+     },
+     {
+      "layout": "list",
+      "kicker": "Inside",
+      "headline": "Three numbers finance *already understands*",
+      "items": [
+       "Cost per order, by creative attribute",
+       "Spend that taught you nothing",
+       "Time to a new winner"
+      ]
+     },
+     {
+      "layout": "text",
+      "kicker": "Your turn",
+      "headline": "What does finance ask you about *creative spend?*",
+      "body": "Type the question you hear most.\n\nUse the question box on this frame."
+     },
+     {
+      "layout": "cta",
+      "headline": "Get it in your inbox *tomorrow.*",
+      "sub": "Subscribe free. Tap the link sticker.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Subscribe to Decoded"
+      ]
+     }
+    ]
+   },
+   "notes": "Interactive ask: question sticker on frame 4 ('What does finance ask you about creative spend?'). Frame 5: link sticker to the Decoded subscribe page. No numbers used. To confirm before posting: the final issue keeps the three numbers finance understands (taken from the current draft of #13). Useful replies to the question box can be passed to Raj and Sunil for the issue.",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2027-01-13-reel-five-scripts-arent-five-ideas",
+   "title": "Reel: five scripts, change one thing",
+   "hook": "Five scripts, all different. One wins. Can you say why?",
+   "caption": "Five scripts, all different. One wins. Can you say why?\n\nWhen every script changes everything, the winner can't tell you what worked.\n\nA cleaner test: keep the message that already sells and change one thing. Start with the first shot. Five scripts, five openings, with the same offer, length and ending.\n\nIn our analysis of new video ads launched May to September 2026, a proven message in a new look got 47% more first-month spend.\n\nNow the winner tells you which opening to build on. Follow @galvor.ai.",
+   "hashtags": [
+    "#marketingtips",
+    "#adcreative",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Five scripts. Change one thing. The reel shows five different scripts, then five scripts that share a message and differ only in the opening, with one number from Galvor's analysis: a proven message in a new look got 47% more first-month spend. End card: follow @galvor.ai.",
+   "cta": "Follow @galvor.ai",
+   "script": {
+    "duration": "38s",
+    "setup": "Idea: a creative strategist who writes five different scripts for every test and still can't explain the winner gets a way to make each test answer one question. On-screen title: Five scripts. Change one thing. Expectation set: a scripting tip. The script beats it with a number from our analysis and an exact list of what to hold steady. Outline: a winner you can't explain (the turn); keep the proven message (second-best, first); change the first shot only; hold offer, length and ending (best, because it makes the result readable).",
+    "scenes": [
+     {
+      "time": "0–4s",
+      "visual": "Five script pages fan out. Each one is a different colour and layout.",
+      "voiceover": "Five new scripts for one test. Each one totally different.",
+      "on_screen": "Five scripts. Change one thing."
+     },
+     {
+      "time": "4–8s",
+      "visual": "One page gets a winner ribbon. A question mark hangs over it.",
+      "voiceover": "Feels thorough. But when one wins, you can't say why.",
+      "on_screen": "One wins. Why?"
+     },
+     {
+      "time": "8–13s",
+      "visual": "A bar grows beside a line of copy shown over a new picture. Small source line: Galvor analysis, ads launched May–Sep 2026.",
+      "voiceover": "A proven message in a new look got forty-seven percent more spend.",
+      "on_screen": "Proven message, new look: 47% more"
+     },
+     {
+      "time": "13–17s",
+      "visual": "The five pages turn the same colour. One line of copy is locked on each.",
+      "voiceover": "So keep the message that already sells. Change one thing.",
+      "on_screen": "Keep the message"
+     },
+     {
+      "time": "17–21s",
+      "visual": "Only the top panel of each page changes. Five different opening sketches appear.",
+      "voiceover": "Start with the first shot. Five scripts, five different openings.",
+      "on_screen": "Five different openings"
+     },
+     {
+      "time": "21–25s",
+      "visual": "A padlock closes over the lower part of every page.",
+      "voiceover": "That only works if the rest stays put.",
+      "on_screen": "The rest stays put"
+     },
+     {
+      "time": "25–30s",
+      "visual": "Three locked labels appear on a brief: offer, length, ending.",
+      "voiceover": "Same offer, same length, same ending. Write that on the brief.",
+      "on_screen": "Same offer, length, ending"
+     },
+     {
+      "time": "30–34s",
+      "visual": "The winner ribbon returns. This time an arrow points to the opening panel.",
+      "voiceover": "Now the winner tells you which opening to build on.",
+      "on_screen": "Which opening to build on"
+     },
+     {
+      "time": "34–38s",
+      "visual": "End card with the Galvor logo. Chime.",
+      "voiceover": "One change, one clear answer. Follow @galvor.ai.",
+      "on_screen": "Follow @galvor.ai"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Number: 47% more first-month spend for a proven message in a new look, Galvor analysis of every new video ad launched May–Sep 2026 across brands we work with (Decoded #3). Show the source line on screen in scene 3."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Five scripts. *Change one thing.*",
+      "sub": "So the winner can tell you why.",
+      "play": "Watch the test"
+     },
+     {
+      "layout": "cta",
+      "headline": "One change. *One clear answer.*",
+      "sub": "Keep the message. Change the first shot.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "Topic sharpened: the old hook (five versions of one script aren't five ideas) repeated the 25 Nov reel about look-alikes. This version makes the opposite, complementary point about test design: change one thing so the result can be read. Number used: 47% more first-month spend (second and last use in this group), Galvor analysis of ads launched May–Sep 2026. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2027-01-19-story-pack-myth-or-fact-meta-ads-edition",
+   "title": "Story pack: myth or fact, the Creative diversity column",
+   "hook": "Myth or fact: Ads Manager now has a column for creative diversity.",
+   "caption": "Story pack (no feed caption).\n\nOne myth-or-fact question about Meta ads. Frame 2 is the quiz. Frame 3 gives the answer and where to look. Frame 4 shows how one brand's score moved. Frame 5 asks people to check their own account.",
+   "hashtags": [],
+   "alt_text": "Five vertical story frames. Frame 1: Myth or fact, Meta ads edition. Frame 2 quiz: Ads Manager now has a column for creative diversity. Frame 3: fact, the column began appearing in late August 2026 and reached most accounts in the last week of October. Frame 4: one brand's creative diversity score went from 63 to 92 out of 100, two months after the changes Galvor recommended. Frame 5: check yours today.",
+   "cta": "Answer the quiz; check the column in your own account",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Myth or fact?",
+      "headline": "Meta ads edition: *one question*",
+      "sub": "Tap through."
+     },
+     {
+      "layout": "poll",
+      "kicker": "Myth or fact?",
+      "headline": "Ads Manager now has a column for *creative diversity*",
+      "options": [
+       "Myth",
+       "Fact"
+      ],
+      "sub": "Answer with the quiz sticker."
+     },
+     {
+      "layout": "text",
+      "kicker": "Fact",
+      "headline": "The column began appearing in *late August 2026*",
+      "body": "It reached most accounts in the last week of October.\n\nOpen your columns in Ads Manager and look for \"Creative diversity\"."
+     },
+     {
+      "layout": "stat",
+      "kicker": "One brand we work with",
+      "stat": "63 → 92",
+      "headline": "Creative diversity score, *out of 100,* two months after the changes Galvor recommended",
+      "sub": "Anonymised.",
+      "source": "Source: Galvor analysis · Decoded #3"
+     },
+     {
+      "layout": "cta",
+      "headline": "Check yours *today.*",
+      "sub": "Then reply and tell us what you found.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Reply to this story"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the myth-or-fact format and cut it to one question with a clear answer. Interactive ask: quiz sticker on frame 2, correct answer is Fact. Numbers used: Creative diversity column dates (late August 2026, most accounts by the last week of October) and one brand's score 63 to 92 out of 100 two months after Galvor's recommended changes, both from the facts bank (Decoded #3); source line on frame 4. To confirm before posting: the column's exact name and where it sits in Ads Manager today.",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2027-01-20-reel-how-we-read-one-ad-machine-tags-people-deci",
+   "title": "Reel: how one ad gets read (machine tags, people decide)",
+   "hook": "Machine tags. People decide. How one ad gets read at Galvor.",
+   "caption": "Machine tags. People decide. How one ad gets read at Galvor.\n\nThe machine does the counting: 50+ attributes in every ad, from who is on screen to the first shot, the pace and the ask. Each attribute is priced against cost per order.\n\nA tag can't tell you what to make next. That call stays with people: what to test, and what fits the brand.\n\nThe budget stays in your hands too. We never touch it. Follow @galvor.ai.",
+   "hashtags": [
+    "#adcreative",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Machine tags. People decide. The reel shows a dummy ad being tagged with attributes such as cast, first shot, pace and ask, each priced against cost per order, then people choosing what to test. End card: follow @galvor.ai.",
+   "cta": "Follow @galvor.ai",
+   "script": {
+    "duration": "42s",
+    "setup": "Idea: a brand or creative manager who worries that software will start judging the team's creative sees exactly where the machine stops and people take over. On-screen title: Machine tags. People decide. Expectation set: a look inside how an ad is read. The script meets it at once and beats it by answering the two fears buyers raise: who makes the creative call, and who controls the budget. Outline: the machine counts 50+ attributes; each is priced against cost per order; a tag can't choose the next ad (best); the budget stays with the brand.",
+    "scenes": [
+     {
+      "time": "0–5s",
+      "visual": "A single dummy ad plays on a phone. Small tags begin to attach to it.",
+      "voiceover": "How one ad gets read at Galvor. Machine tags, people decide.",
+      "on_screen": "Machine tags. People decide."
+     },
+     {
+      "time": "5–10s",
+      "visual": "A robot icon holds a red pen over a storyboard. The pen is taken away.",
+      "voiceover": "The fear: software judging your creative. It works the other way.",
+      "on_screen": "Software judging creative?"
+     },
+     {
+      "time": "10–15s",
+      "visual": "Tags multiply around the ad until a counter reads 50+.",
+      "voiceover": "The machine does the counting. Over fifty attributes in every ad.",
+      "on_screen": "50+ attributes per ad"
+     },
+     {
+      "time": "15–19s",
+      "visual": "Four tags enlarge in turn over the matching part of the ad.",
+      "voiceover": "Who's on screen. The first shot. The pace. The ask.",
+      "on_screen": "Cast, first shot, pace, ask"
+     },
+     {
+      "time": "19–23s",
+      "visual": "Each tag gets a small cost-per-order marker. No figures are shown.",
+      "voiceover": "Each attribute is priced against cost per order.",
+      "on_screen": "Priced against cost per order"
+     },
+     {
+      "time": "23–27s",
+      "visual": "The tags sit in a neat table. An empty box labelled next ad stays blank.",
+      "voiceover": "But a tag can't tell you what to make next.",
+      "on_screen": "Tags can't choose"
+     },
+     {
+      "time": "27–32s",
+      "visual": "Two people icons lean over the table and fill in the next-ad box.",
+      "voiceover": "That call sits with people: what to test, what fits the brand.",
+      "on_screen": "People choose the test"
+     },
+     {
+      "time": "32–37s",
+      "visual": "A budget dial stays in a hand marked as the brand's. A Galvor mark stays outside the dial.",
+      "voiceover": "And the budget stays in your hands. We never touch it.",
+      "on_screen": "We never touch the budget"
+     },
+     {
+      "time": "37–42s",
+      "visual": "End card with the Galvor logo. Chime.",
+      "voiceover": "Counting is automated. Judgement stays human. Follow @galvor.ai.",
+      "on_screen": "Judgement stays human"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Number: Decode tags 50+ attributes per ad (facts bank, galvor.ai). Show no cost figures and no real account. Scene 7 shows people in general, not named team members."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Machine tags. *People decide.*",
+      "sub": "How one ad gets read at Galvor.",
+      "play": "Watch how it works"
+     },
+     {
+      "layout": "cta",
+      "headline": "Counting is automated. *Judgement stays human.*",
+      "sub": "And we never touch the media budget.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the topic. It now answers one buyer doubt (will software judge our creative?) instead of listing features. Number used: 50+ attributes per ad (facts bank). To confirm with the team: scene 7 describes the split correctly, that the brand's people choose what to test and Galvor's tags inform it. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2027-01-27-reel-selling-on-marketplaces-your-ads-still-teac",
+   "title": "Reel: marketplace seller? Two things your ads still tell you",
+   "hook": "Most of your orders come from marketplaces. Your ads still have two things to tell you.",
+   "caption": "Most of your orders come from marketplaces. Your ads still have two things to tell you.\n\nThe sale may land elsewhere, but the attention data is yours.\n\n1. Which first shot makes people stop. Check hook rate by ad, then try the winner as your first listing image.\n2. Which reason to buy holds people longest. Check hold rate, then put that reason in your listing title and first bullet.\n\nBoth are tests worth running this week. Follow @galvor.ai.",
+   "hashtags": [
+    "#marketingtips",
+    "#adcreative",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Marketplace seller? Read your ads anyway. The reel shows an ad's first shot moving into a marketplace listing image, and its reason to buy moving into the listing title. End card: follow @galvor.ai.",
+   "cta": "Follow @galvor.ai",
+   "script": {
+    "duration": "41s",
+    "setup": "Idea: a D2C founder whose orders mostly come through marketplaces, and who has written off Meta ad data because the sale lands elsewhere, gets two things to pull from the ads and use on the listing. On-screen title: Marketplace seller? Read your ads anyway. Expectation set: a reason ads still matter. The script beats it with two places on the listing to use what the ads show. Outline: attention data is yours (the turn); first shot to listing image (second-best, first); reason to buy to title and first bullet (best).",
+    "scenes": [
+     {
+      "time": "0–5s",
+      "visual": "An order arrow leaves an ad and lands on a generic marketplace box. The ad's dashboard looks empty.",
+      "voiceover": "Most of your orders come from marketplaces. So ads teach nothing?",
+      "on_screen": "Marketplace seller? Read your ads anyway."
+     },
+     {
+      "time": "5–10s",
+      "visual": "Two meters appear on the ad itself, labelled stopped and stayed.",
+      "voiceover": "The sale may land elsewhere. The attention data is still yours.",
+      "on_screen": "Attention data is yours"
+     },
+     {
+      "time": "10–14s",
+      "visual": "The two meters move to the centre, numbered one and two.",
+      "voiceover": "Here are two things your ads can still tell you.",
+      "on_screen": "Two things ads tell you"
+     },
+     {
+      "time": "14–19s",
+      "visual": "Three dummy ads sit side by side. The opening frame of one glows.",
+      "voiceover": "One: which first shot makes people stop. Check hook rate by ad.",
+      "on_screen": "1. Which first shot stops people"
+     },
+     {
+      "time": "19–23s",
+      "visual": "The glowing frame slides into the first image slot of a generic product listing.",
+      "voiceover": "Try the winner as your first listing image.",
+      "on_screen": "Try it as listing image"
+     },
+     {
+      "time": "23–27s",
+      "visual": "The listing's title line is blank and blinking.",
+      "voiceover": "The bigger one is why they'd buy at all.",
+      "on_screen": "Why they'd buy"
+     },
+     {
+      "time": "27–32s",
+      "visual": "Lines of ad copy appear with a watch-time bar under each. One bar is longest.",
+      "voiceover": "Two: which reason to buy holds people longest. Check hold rate.",
+      "on_screen": "2. Which reason holds people"
+     },
+     {
+      "time": "32–36s",
+      "visual": "The winning line moves into the listing title and the first bullet.",
+      "voiceover": "Put that reason in your listing title and first bullet.",
+      "on_screen": "Into title and first bullet"
+     },
+     {
+      "time": "36–41s",
+      "visual": "End card with the Galvor logo. Chime.",
+      "voiceover": "Ads are research, wherever the order lands. Follow @galvor.ai.",
+      "on_screen": "Ads are research"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Use a generic listing layout. Do not name or imitate any marketplace, and do not show a real product."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Marketplace seller? *Read your ads anyway.*",
+      "sub": "Two things they still tell you.",
+      "play": "Watch the two checks"
+     },
+     {
+      "layout": "cta",
+      "headline": "Your ads are *research,* wherever the order lands.",
+      "sub": "First shot to image. Reason to buy to title.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the topic and made it specific: two readings from the ads and where each goes on a listing. Both are framed as tests to run, with no promised result. No numbers used. No marketplace named. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2027-02-02-story-pack-guess-the-number",
+   "title": "Story pack: guess the number (six look-alikes in three days)",
+   "hook": "Six look-alike ads, launched within three days. Guess what happened to their spend.",
+   "caption": "Story pack (no feed caption).\n\nA one-question guessing game built on Galvor's analysis. Frame 2 is the quiz. Frame 3 is the answer with its source. Frame 4 says what to do about it before the next launch.",
+   "hashtags": [],
+   "alt_text": "Five vertical story frames. Frame 1: Six look-alike ads launched in three days, what happened to their spend? Frame 2 is a quiz with three guesses. Frame 3 shows the answer: 48% less first-month spend each, when six or more look-alikes launched within three days. Frame 4: space them out, or make them different. Frame 5: send this to whoever plans your launches.",
+   "cta": "Answer the quiz; share with whoever plans launches",
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Guess the number",
+      "headline": "Six look-alike ads, launched in *three days.* What happened to their spend?",
+      "sub": "Tap to guess."
+     },
+     {
+      "layout": "poll",
+      "kicker": "Your guess",
+      "headline": "How much *less* first-month spend did each one get?",
+      "options": [
+       "About a tenth less",
+       "About a quarter less",
+       "About half less"
+      ],
+      "sub": "Answer with the quiz sticker."
+     },
+     {
+      "layout": "stat",
+      "kicker": "The answer",
+      "stat": "48%",
+      "headline": "*less first-month spend* each, when six or more look-alikes launched within three days",
+      "sub": "Compared with other new ads in the same analysis.",
+      "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+     },
+     {
+      "layout": "text",
+      "kicker": "What to do",
+      "headline": "Space them out, or make them *different*",
+      "body": "Before a launch, count the ads that share a first shot.\n\nIf six or more are going out within three days, hold some back or change the opening."
+     },
+     {
+      "layout": "cta",
+      "headline": "Fewer twins. *More spend each.*",
+      "sub": "Send this to whoever plans your launches.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Share this story"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the guess-the-number format and cut it to one question so the answer lands. Interactive ask: quiz sticker on frame 2, correct answer is the third option. Number used: 48% less first-month spend each for six or more look-alikes launched within three days (facts bank, Galvor analysis of ads launched May–Sep 2026); source line on frame 3. To confirm with Raj: the comparison line in frame 3's sub ('compared with other new ads in the same analysis') describes the baseline correctly; delete the sub if unsure.",
+   "first_comment": "",
+   "script": null,
+   "poll": null
+  },
+  {
+   "id": "ig-2027-02-03-reel-the-first-3-seconds-frame-by-frame",
+   "title": "Reel: the first three seconds, one second at a time",
+   "hook": "The first three seconds of your ad, one second at a time.",
+   "caption": "The first three seconds of your ad, one second at a time.\n\nSecond 1: show something your running ads haven't shown.\nSecond 2: put the buyer or their problem on screen.\nSecond 3: give the reason to stay. Say what they will get by the end, in words on screen.\n\nWhy the opening gets this much care: in our analysis of new video ads launched May to September 2026, a new message over a familiar first shot got 16% less first-month spend.\n\nSave this for your next edit. Follow @galvor.ai.",
+   "hashtags": [
+    "#adcreative",
+    "#metaads",
+    "#marketingtips",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Your ad's first three seconds. The reel breaks the opening of a dummy ad into three seconds: a new picture, the buyer or their problem, and the reason to stay, with one number from Galvor's analysis: a new message over a familiar first shot got 16% less first-month spend. End card: follow @galvor.ai.",
+   "cta": "Save for your next edit; follow @galvor.ai",
+   "script": {
+    "duration": "40s",
+    "setup": "Idea: a video editor or creative strategist who puts the new idea in the middle of the ad learns what each of the first three seconds has to do. On-screen title: Your ad's first three seconds. Expectation set: a breakdown of an opening. The script beats it with a number from our analysis and a job for each second. Outline: familiar first shot costs spend (our finding); second one, a new picture; second two, the buyer or problem (second-best); second three, the reason to stay (best).",
+    "scenes": [
+     {
+      "time": "0–5s",
+      "visual": "A dummy ad plays on a phone with a three-second timer bar above it, split into three blocks.",
+      "voiceover": "The first three seconds of your ad, one second at a time.",
+      "on_screen": "Your ad's first three seconds"
+     },
+     {
+      "time": "5–9s",
+      "visual": "The opening is drawn as wrapping paper around a box labelled message.",
+      "voiceover": "The common view: the message matters, the opening is packaging.",
+      "on_screen": "Is the opening just packaging?"
+     },
+     {
+      "time": "9–13s",
+      "visual": "A new line of copy sits over a familiar-looking opening frame. A bar shrinks. Small source line: Galvor analysis, ads launched May–Sep 2026.",
+      "voiceover": "New message, familiar first shot: sixteen percent less first-month spend.",
+      "on_screen": "Familiar first shot: 16% less"
+     },
+     {
+      "time": "13–17s",
+      "visual": "The timer bar returns, its three blocks numbered.",
+      "voiceover": "So here's what each second has to do.",
+      "on_screen": "What each second does"
+     },
+     {
+      "time": "17–21s",
+      "visual": "Block one lights up. The opening frame changes to a clearly different picture.",
+      "voiceover": "Second one: show something your running ads haven't shown.",
+      "on_screen": "Second 1: a new picture"
+     },
+     {
+      "time": "21–25s",
+      "visual": "Block two lights up. A person, or a close-up of the problem, fills the frame.",
+      "voiceover": "Second two: put the buyer or their problem on screen.",
+      "on_screen": "Second 2: buyer or problem"
+     },
+     {
+      "time": "25–30s",
+      "visual": "Block three lights up and pulses.",
+      "voiceover": "Second three is the one most ads skip: the reason to stay.",
+      "on_screen": "Second 3: reason to stay"
+     },
+     {
+      "time": "30–35s",
+      "visual": "A short line of text appears on the ad itself, promising what the viewer will get.",
+      "voiceover": "Say what they'll get by the end. In words, on screen.",
+      "on_screen": "Say what they'll get"
+     },
+     {
+      "time": "35–40s",
+      "visual": "End card with the three blocks ticked and the Galvor logo. Chime.",
+      "voiceover": "Win three seconds, earn the rest. Follow @galvor.ai.",
+      "on_screen": "Win three seconds first"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Number: 16% less first-month spend for a new message over a familiar first shot, Galvor analysis of every new video ad launched May–Sep 2026 across brands we work with (Decoded #3). Show the source line on screen in scene 3. Use a dummy ad made for this reel, never a client's ad."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Your ad's *first three seconds*",
+      "sub": "One second at a time.",
+      "play": "Watch the breakdown"
+     },
+     {
+      "layout": "cta",
+      "headline": "Win three seconds. *Then the message gets its chance.*",
+      "sub": "Save this for your next edit.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the topic and gave each second one job. Number used: 16% less first-month spend (Galvor analysis of ads launched May–Sep 2026). To confirm with Raj: 'the one most ads skip' in scene 7 is a view, not a measured finding; soften to 'the one that is easy to skip' if he prefers. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2027-02-10-reel-ask-your-ads-a-question-ask-galvor",
+   "title": "Reel: three questions your dashboard can't answer (Ask Galvor)",
+   "hook": "Three questions your ads dashboard can't answer.",
+   "caption": "Three questions your ads dashboard can't answer.\n\n1. What do our ten best ads have in common?\n2. Which reason to buy have we stopped testing?\n3. What have we never tried with this buyer?\n\nA dashboard is built for how much. A brief needs why, and what next.\n\nTry answering these by hand for your last quarter. Or type them into Ask Galvor in plain words. Follow @galvor.ai.",
+   "hashtags": [
+    "#adstrategy",
+    "#creativestrategy",
+    "#performancemarketing",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Three questions dashboards can't answer. The reel shows three questions appearing over a dashboard: what do winners share, what did we stop testing, and what have we never tried. It ends with Ask Galvor, where questions are typed in plain words. End card: follow @galvor.ai.",
+   "cta": "Follow @galvor.ai",
+   "script": {
+    "duration": "38s",
+    "setup": "Idea: a head of performance who has plenty of dashboards and suspects another tool means another chart gets three questions that change a brief, and sees that Ask Galvor takes questions in plain words. On-screen title: Three questions dashboards can't answer. Expectation set: three questions. The script delivers them and beats the expectation by making each one usable without any tool. Outline: what winners share (second-best, first); what we stopped testing; what we have never tried with this buyer (best); Ask Galvor.",
+    "scenes": [
+     {
+      "time": "0–3s",
+      "visual": "A busy dashboard of charts. Three question marks float over it.",
+      "voiceover": "Three questions your ads dashboard can't answer.",
+      "on_screen": "Three questions dashboards can't answer"
+     },
+     {
+      "time": "3–7s",
+      "visual": "The charts shrink under a label reading how much. Two empty labels appear: why, what next.",
+      "voiceover": "Dashboards are built for how much. Briefs need why.",
+      "on_screen": "How much versus why"
+     },
+     {
+      "time": "7–12s",
+      "visual": "Ten dummy ad tiles line up in rank order. A bracket tries to link them.",
+      "voiceover": "Question one: what do our best ten ads have in common?",
+      "on_screen": "1. What do winners share?"
+     },
+     {
+      "time": "12–17s",
+      "visual": "The rank numbers stay. The space for the shared reason stays blank.",
+      "voiceover": "A dashboard ranks them. It won't tell you the shared reason.",
+      "on_screen": "Ranked, never explained"
+     },
+     {
+      "time": "17–21s",
+      "visual": "A shelf of reasons to buy. Some have dust on them.",
+      "voiceover": "Question two: which reason to buy have we stopped testing?",
+      "on_screen": "2. What did we stop testing?"
+     },
+     {
+      "time": "21–25s",
+      "visual": "A blank brief slides in and waits.",
+      "voiceover": "The third is the one that changes the next brief.",
+      "on_screen": "This one changes the brief"
+     },
+     {
+      "time": "25–29s",
+      "visual": "A grid of buyer against idea. Several squares are empty and start to glow.",
+      "voiceover": "Question three: what have we never tried with this buyer?",
+      "on_screen": "3. What have we never tried?"
+     },
+     {
+      "time": "29–34s",
+      "visual": "A plain text box with the label Ask Galvor. Question one is typed into it.",
+      "voiceover": "In Ask Galvor, you type questions about your ads in plain words.",
+      "on_screen": "Ask Galvor, in plain words"
+     },
+     {
+      "time": "34–38s",
+      "visual": "End card with the Galvor logo. Chime.",
+      "voiceover": "Better questions make better briefs. Follow @galvor.ai.",
+      "on_screen": "Better questions, better briefs"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. Scene 8 must use the real Ask Galvor screen or a faithful redraw approved by the product team. Do not show an answer the product has not actually given."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Three questions *dashboards can't answer*",
+      "sub": "And where to ask them.",
+      "play": "Watch the three questions"
+     },
+     {
+      "layout": "cta",
+      "headline": "Better questions make *better briefs.*",
+      "sub": "Ask your ads in plain words with Ask Galvor.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "Kept the Ask Galvor topic and earned the product mention by teaching three questions first. No numbers used. To confirm with the product team: that Ask Galvor handles questions like these three today; if not, swap in three it does handle and keep the structure. The only product claim made is that Ask Galvor takes a question about your ads in plain words. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  },
+  {
+   "id": "ig-2027-02-17-reel-a-creator-video-brief-to-live",
+   "title": "Reel: where a creator video loses its days",
+   "hook": "Where a creator video loses its days between brief and live.",
+   "caption": "Where a creator video loses its days between brief and live.\n\nThe shoot gets blamed. Late feedback is the costlier part, because a rewrite is quick and a reshoot is slow.\n\nThree checkpoints that move feedback to the front:\n1. Approve the script on paper before any camera rolls.\n2. Name one person who gives the feedback, in one round.\n3. Judge the first cut against the brief, never against taste.\n\nFeedback becomes a yes or a no, and the video goes live. Follow @galvor.ai.",
+   "hashtags": [
+    "#ugcads",
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+   ],
+   "alt_text": "Reel cover in Galvor violet and gold reading: Where creator videos lose days. The reel shows a timeline from brief to live with feedback moving from the end to the start, and three checkpoints: approve on paper, one voice and one round, and judge against the brief. End card: follow @galvor.ai.",
+   "cta": "Follow @galvor.ai",
+   "script": {
+    "duration": "37s",
+    "setup": "Idea: a brand manager who thinks creator videos are slow and unpredictable sees that the delay sits in late feedback, and gets three checkpoints that move it to the front. On-screen title: Where creator videos lose days. Expectation set: a diagnosis. The script gives it in the second scene and beats it with three checkpoints to copy. Outline: late feedback costs most (the turn); approve on paper (second-best, first); one voice, one round; judge against the brief (best).",
+    "scenes": [
+     {
+      "time": "0–4s",
+      "visual": "A timeline runs from a brief icon to a live icon. Days tick off along it.",
+      "voiceover": "Where a creator video loses its days, brief to live.",
+      "on_screen": "Where creator videos lose days"
+     },
+     {
+      "time": "4–8s",
+      "visual": "The shoot block on the timeline is small. A feedback block after it swells.",
+      "voiceover": "The shoot gets blamed. Late feedback is the costlier part.",
+      "on_screen": "Late feedback costs more"
+     },
+     {
+      "time": "8–12s",
+      "visual": "The feedback block slides from the end of the timeline to the start, splitting into three markers.",
+      "voiceover": "Three checkpoints move that feedback to the front.",
+      "on_screen": "Three checkpoints, up front"
+     },
+     {
+      "time": "12–16s",
+      "visual": "Marker one: a script page gets a tick while a camera icon waits behind a gate.",
+      "voiceover": "One: approve the script on paper before any camera rolls.",
+      "on_screen": "1. Approve on paper"
+     },
+     {
+      "time": "16–20s",
+      "visual": "A pencil fixes a line on the page in a blink. Beside it, a camera setup is rebuilt slowly.",
+      "voiceover": "A rewrite is quick. A reshoot is slow.",
+      "on_screen": "Rewrite beats reshoot"
+     },
+     {
+      "time": "20–24s",
+      "visual": "Marker two: five speech bubbles merge into one.",
+      "voiceover": "Two: name one person who gives the feedback. One round.",
+      "on_screen": "2. One voice, one round"
+     },
+     {
+      "time": "24–29s",
+      "visual": "Marker three: the first cut plays beside the brief. Lines of the brief tick off one by one.",
+      "voiceover": "Three: judge the first cut against the brief, never against taste.",
+      "on_screen": "3. Judge against the brief"
+     },
+     {
+      "time": "29–33s",
+      "visual": "A yes button and a no button. Yes is pressed and the live icon lights up.",
+      "voiceover": "Feedback becomes yes or no, and the video goes live.",
+      "on_screen": "Yes or no, then live"
+     },
+     {
+      "time": "33–37s",
+      "visual": "End card with the shortened timeline and the Galvor logo. Chime.",
+      "voiceover": "Feedback first, shoot second. Follow @galvor.ai.",
+      "on_screen": "Feedback first, shoot second"
+     }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. No creator, client or campaign is named or implied. No durations are claimed."
+   },
+   "creative": {
+    "size": "story",
+    "slides": [
+     {
+      "layout": "cover",
+      "kicker": "Reel",
+      "headline": "Where creator videos *lose days*",
+      "sub": "Three checkpoints between brief and live.",
+      "play": "Watch the checkpoints"
+     },
+     {
+      "layout": "cta",
+      "headline": "Feedback first. *Shoot second.*",
+      "sub": "Approve on paper. One voice. Judge against the brief.",
+      "actions": [
+       "Follow @galvor.ai",
+       "Save this reel"
+      ]
+     }
+    ]
+   },
+   "notes": "CONFIRM WITH Shrutik: that these three checkpoints match how the team runs creator work from brief to live, and whether he can add one real example (anonymised) of feedback that arrived after a shoot. The script stands without it.\nTopic sharpened: the 9 Dec reel covers what goes in the brief, so this one covers approvals and where the days go. It answers the buyer doubt that creator work is slow and unpredictable. No numbers used. Slide 1 is the cover, slide 2 the end card.",
+   "first_comment": "",
+   "poll": null
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "li-2026-12-18-weekly-reshare-sunil-on-pilots",
+  "slug": "weekly-reshare-sunil-on-pilots",
+  "platform": "linkedin",
+  "date": "2026-12-18",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "In the Room",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "The one-page pilot brief: five lines before any pilot starts",
+  "hook": "Six weeks, a tidy deck, and nobody can say if it worked.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Six weeks, a tidy deck, and nobody can say if it worked.\nThat is how most vendor pilots end, and the cause is usually visible on day one.\n\nA pilot that starts without a decision attached cannot finish with one.\n\nBefore any pilot begins, with us or with anyone else, put five lines on one page:\n\nThe business question. One sentence a finance head would understand.\nThe baseline. The number today, and the period it comes from.\nThe yes result. What you will see if it works, and what you buy or expand when you do.\nThe no result. What you will see if it does not, and what you stop.\nThe end date, and the one person who makes the call.\n\nThe third and fourth lines carry the page. If both results lead to the same next step, the pilot answers nothing and you can skip it.\n\nYear end is when pilots for the new quarter get agreed. Ask every vendor for this page before the kick-off call. A vendor who resists writing down the no result has told you something useful.",
+  "first_comment": "Follow Galvor for one usable method a week.",
+  "hashtags": [
+    "#D2C",
+    "#GrowthMarketing",
+    "#AIinMarketing"
+  ],
+  "alt_text": "",
+  "cta": "Soft: follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: punchy plus context. Reader: a CMO agreeing vendor pilots for the January quarter. Standalone checklist on the week's theme (pilots); it does not quote a personal post or describe any real pilot. No numbers used. If the team has a real, permitted pilot example, one line of it would strengthen the middle; the post stands without it.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:06:36",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-OPEN-08",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

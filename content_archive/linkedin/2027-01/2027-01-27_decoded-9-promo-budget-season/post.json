@@ -1,0 +1,56 @@
+{
+  "id": "li-2027-01-27-decoded-9-promo-budget-season",
+  "slug": "decoded-9-promo-budget-season",
+  "platform": "linkedin",
+  "date": "2027-01-27",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "image",
+  "series": "Decoded",
+  "title": "Decoded #9 promo: budget season",
+  "hook": "Decoded #9 is out: budget season.",
+  "status": "skipped",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Decoded #9 is out: budget season.\n\nFebruary and March are when D2C marketing teams make the case for next year's budget. Finance asks a fair question: what did last year's creative actually buy?\n\nMost teams answer with media numbers. RoAS, CAC, cost by channel. Very few can answer for the creative itself: which ideas worked, what they were worth, and what the next round should fund.\n\nThis issue is about making that case.\n\nInside:\n→ why creative is the line item finance understands least\n→ how to show what each creative idea earned, not just each campaign\n→ separating the cost of making ads from the cost of learning nothing\n→ a one-page format to take into the budget meeting\n→ the questions finance will ask, and how to answer them first\n\nWe usually send Decoded on Tuesdays. This one moved a day for Republic Day.\n\nThe link to read and subscribe is in the first comment.",
+  "first_comment": "Read Decoded #9 and subscribe: https://galvor.ai/?utm_source=linkedin&utm_medium=social&utm_campaign=decoded_09",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#D2C",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Newsletter cover card on a violet background: Decoded Issue 9 — Budget season: making the case for creative spend to finance.",
+  "cta": "soft: read the newsletter",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Decoded · Issue #9",
+        "headline": "Budget season: making the case for *creative spend* to finance.",
+        "sub": "What did last year's creative actually buy?"
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "Skipped: Decoded is now posted weekly as a LinkedIn newsletter from the Galvor page on Wednesdays. Moved from Tue 26 Jan (Republic Day holiday) to Wed 27 Jan. Swap the first-comment link for the issue URL once live. Teaser intentionally has no new numbers; match bullets to the final issue.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:58:28",
+      "action": "Skipped: replaced by the weekly LinkedIn newsletter post"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:21",
+  "updated_at": "2026-11-11T01:58:28",
+  "topic_ref": "Decoded #9"
+}

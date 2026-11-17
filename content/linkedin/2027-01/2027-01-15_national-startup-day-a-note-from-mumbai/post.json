@@ -1,0 +1,73 @@
+{
+  "id": "li-2027-01-15-national-startup-day-a-note-from-mumbai",
+  "slug": "national-startup-day-a-note-from-mumbai",
+  "platform": "linkedin",
+  "date": "2027-01-15",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Building Galvor",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "National Startup Day: three things Galvor decided not to do",
+  "hook": "Three things we decided Galvor would not do.",
+  "status": "draft",
+  "festival": "National Startup Day (India)",
+  "theme": "The learning loop",
+  "caption": "Three things we decided Galvor would not do.\nTomorrow is National Startup Day, and what a company refuses to do describes it better than a feature list.\n\nWe will not touch your media budget. Our work is the creative that goes into it, and advice is easier to trust when the adviser does not control the spend.\n\nWe will not give an ad a single score. An ad is a hook, a cast, a pace, a setting and a call to action. We price each attribute against cost per order, because briefs are written attribute by attribute.\n\nWe will not hide the reasoning. Vira, our digital co-worker, shows its thinking, so a marketer can disagree with a single step.\n\nTo founders building from India today: write down what your company will not do. It explains you faster than a tagline.",
+  "first_comment": "Follow Galvor for one usable method a week.",
+  "hashtags": [
+    "#NationalStartupDay",
+    "#D2CIndia",
+    "#AIinMarketing"
+  ],
+  "alt_text": "List card on a violet background for National Startup Day titled: Three things Galvor will not do. Touch your media budget. Give an ad a single score. Hide how a recommendation was reached.",
+  "cta": "Soft: follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "list",
+        "kicker": "National Startup Day",
+        "headline": "Three things Galvor *will not do*",
+        "items": [
+          "Touch your media budget",
+          "Give an ad a single score",
+          "Hide how a recommendation was reached"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil: that these three positions (never touch the media budget, price the attribute and not the ad, Vira shows its thinking) may be stated publicly as things Galvor will not do. All three come from the spec's description of the product. Hook shape: punchy plus context. Reader: fellow founders and D2C leaders. A belief post with one exercise to copy; the old 'honest note from our desk' framing was dropped because it needed a team story we cannot verify. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2027-01-16 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-16 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:51",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2027-01-16 09:00 to 2027-01-15 09:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:18:32",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "National Startup Day",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

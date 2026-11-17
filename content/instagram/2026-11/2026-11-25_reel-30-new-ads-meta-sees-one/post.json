@@ -1,0 +1,138 @@
+{
+  "id": "ig-2026-11-25-reel-30-new-ads-meta-sees-one",
+  "slug": "reel-30-new-ads-meta-sees-one",
+  "platform": "instagram",
+  "date": "2026-11-25",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Myth vs Fact",
+  "job": "Educate",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: 30 new ads, Meta saw one (the first-frame test)",
+  "hook": "30 new ads. Meta saw one.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "30 new ads. Meta saw one.\n\nWe looked at every new video ad the brands we work with launched from May to September 2026. New ads that looked like ads already running got 36% less first-month spend. A proven message in a new look got 47% more.\n\nThe test to run before your next launch: line up the first frame of every ad with the sound off. If you can't tell two apart, that is one ad. Launch one.\n\nRead the full newsletter on our website, link in bio.",
+  "first_comment": "Read Decoded #3 on galvor.ai",
+  "hashtags": [
+    "#metaads",
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: 30 new ads. Meta saw one. The reel shows thirty similar ad tiles merging into one, two numbers from Galvor's analysis (36% less and 47% more first-month spend), and a test: line up the first frames with the sound off. End card: read the full newsletter, link in bio.",
+  "cta": "Read the full newsletter on our website, link in bio",
+  "script": {
+    "duration": "36s",
+    "setup": "Idea: a growth lead who ships dozens of new ads a month and watches spend stay on the old ones learns what counts as new, and gets a test to run before launch. On-screen title: 30 new ads. Meta saw one. Expectation set: I will find out why my new ads get no spend. The script meets it in the first line, then beats it with two numbers from our own analysis and a ten-second test. Outline (new points only): look-alikes got less spend (our finding); a proven message in a new look got more (second-best, first); the first-frame line-up test (best, second).",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "Thirty ad tiles fill the screen. They differ only in background colour. They slide together into one tile.",
+        "voiceover": "Thirty new ads, thirty chances? Meta's system saw one.",
+        "on_screen": "30 new ads. Meta saw one."
+      },
+      {
+        "time": "4–9s",
+        "visual": "A calendar strip runs May to September while small ad tiles drop into a pile.",
+        "voiceover": "We checked every new video ad our brands launched, May to September.",
+        "on_screen": "Every new video ad, May–Sep 2026"
+      },
+      {
+        "time": "9–13s",
+        "visual": "A spend bar for look-alike ads shrinks. Small source line: Galvor analysis, ads launched May–Sep 2026.",
+        "voiceover": "Look-alike new ads got thirty-six percent less first-month spend.",
+        "on_screen": "Look-alikes: 36% less spend"
+      },
+      {
+        "time": "13–17s",
+        "visual": "One ad tile changes its backdrop colour three times. The product and the framing stay the same.",
+        "voiceover": "Swapping the backdrop still looks like the old ad.",
+        "on_screen": "New backdrop, same old ad"
+      },
+      {
+        "time": "17–22s",
+        "visual": "The same line of copy sits over a clearly different opening picture. A bar grows. Same source line.",
+        "voiceover": "A proven message in a new look got forty-seven percent more.",
+        "on_screen": "Proven message, new look: 47% more"
+      },
+      {
+        "time": "22–26s",
+        "visual": "First frames of six ads snap into a row. A mute icon appears.",
+        "voiceover": "So before launch, line up every first frame, sound off.",
+        "on_screen": "Line up the first frames"
+      },
+      {
+        "time": "26–30s",
+        "visual": "Two near-identical frames pulse, then merge into one.",
+        "voiceover": "Can't tell two apart? That's one ad. Launch one.",
+        "on_screen": "Can't tell apart? One ad."
+      },
+      {
+        "time": "30–32s",
+        "visual": "The pile of thirty files shrinks to a short row of different first frames.",
+        "voiceover": "Count first shots, not files.",
+        "on_screen": "Count first shots, not files"
+      },
+      {
+        "time": "32–36s",
+        "visual": "End card with the Galvor logo and a link-in-bio arrow. Chime.",
+        "voiceover": "Read the full newsletter on our website, link in bio.",
+        "on_screen": "Full newsletter. Link in bio."
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Newsletter reel, so the closing line is the newsletter line. Numbers: 36% less first-month spend for new ads that looked like many running ads; 47% more for a proven message in a new look. Both from Galvor's analysis of every new video ad launched May–Sep 2026 across brands we work with (Decoded #3). Show the source line on screen with each number."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "30 new ads. *Meta saw one.*",
+        "sub": "The first-frame test to run before launch.",
+        "play": "Watch the breakdown"
+      },
+      {
+        "layout": "cta",
+        "headline": "Count *first shots,* not files.",
+        "sub": "Read the full newsletter on our website.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Link in bio"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the topic, rebuilt for AI voice over motion graphics (the old script needed a presenter). Numbers used: 36% less and 47% more first-month spend, Galvor analysis of ads launched May–Sep 2026 (Decoded #3). The numbers come from Decoded #3, so the first comment points there; Decoded #6, out the same morning, also covers look-alike refreshes. To decide: which issue the bio link should open on the day. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:51:52",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-25 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:57",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-09T13:28:10",
+  "updated_at": "2026-11-16T21:23:57",
+  "topic_ref": "IG-D3-REEL",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

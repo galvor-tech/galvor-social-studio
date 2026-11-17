@@ -1,0 +1,67 @@
+{
+  "id": "ig-2026-12-25-christmas-greeting-2026",
+  "slug": "christmas-greeting-2026",
+  "platform": "instagram",
+  "date": "2026-12-25",
+  "time": "11:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Christmas greeting 2026",
+  "hook": "Merry Christmas from all of us at Galvor.",
+  "status": "draft",
+  "festival": "Christmas 2026",
+  "theme": "People + agents",
+  "caption": "Merry Christmas from all of us at Galvor.\n\nWe hope today comes with good food, a slow morning and the people you like best.\n\nThe dashboards will still be there next week. Today, close the laptop.\n\nWarm wishes to you and your family.",
+  "first_comment": "",
+  "hashtags": [
+    "#MerryChristmas",
+    "#Christmas2026",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Festival card in Galvor violet and gold with a Christmas tree motif. It reads Merry Christmas, then: good food, slow mornings and your favourite people. Below: from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🎄",
+        "kicker": "Christmas 2026",
+        "greeting": "Merry Christmas",
+        "headline": "Good food, slow mornings and *your favourite people*.",
+        "sub": "From all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Greeting only, no marketing lesson. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-25 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:34",
+  "updated_at": "2026-11-16T21:16:52",
+  "topic_ref": "IG-104",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

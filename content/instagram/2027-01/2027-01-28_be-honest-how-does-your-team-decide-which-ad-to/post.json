@@ -1,0 +1,77 @@
+{
+  "id": "ig-2027-01-28-be-honest-how-does-your-team-decide-which-ad-to",
+  "slug": "be-honest-how-does-your-team-decide-which-ad-to",
+  "platform": "instagram",
+  "date": "2027-01-28",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Meme / Relatable",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Be honest: how does your team decide which ad to cut?",
+  "hook": "Be honest. How does your team decide which ad to cut?",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Be honest. How does your team decide which ad to cut?\n\n1. Gut feel\n2. Worst number last week\n3. A rule we wrote down\n4. Whoever spoke last in the meeting\n\nNo wrong answers. Many teams are a mix.\n\nOne reason to move towards 3: in our analysis, some ad styles started about 35% dearer per order in their first two months and ended close to average over their life. Cut on week one and you never see that.\n\nSo write the rule before launch: how long, and against which number.\n\nComment your number. Follow @galvor.ai for more.\n\nSource: Galvor analysis, ads launched May to Sep 2026.",
+  "first_comment": "Read Decoded #6 on galvor.ai",
+  "hashtags": [
+    "#performancemarketing",
+    "#metaads",
+    "#adstrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Poll-style card in Galvor violet and gold. Question: How does your team decide which ad to cut? Four options: gut feel, worst number last week, a rule we wrote down, whoever spoke last. Below: answer 1, 2, 3 or 4 in the comments.",
+  "cta": "Comment a number; Decoded #6 in first comment",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "poll",
+        "kicker": "Be honest",
+        "headline": "How does your team decide *which ad to cut*?",
+        "options": [
+          "Gut feel",
+          "Worst number last week",
+          "A rule we wrote down",
+          "Whoever spoke last"
+        ],
+        "sub": "Answer 1, 2, 3 or 4 in the comments."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Numbers used: some ad styles start about 35% dearer per order in their first two months and end close to average over their life (facts bank, Decoded #3; Galvor analysis of video ads launched May to Sep 2026). Used once in this group. The slide is a text card in the poll layout, not a live Instagram poll; answers come in the comments. Reply to each number with a kind one-liner; for 3, ask what the rule is. First comment points to Decoded #6 (25 Nov), on when to refresh and when to cut. Topic kept; the old joke at option 4 was softened so nobody is judged.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2027-01-30 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-30 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2027-01-30 11:00 to 2027-01-28 13:00: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:41",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "IG-129",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

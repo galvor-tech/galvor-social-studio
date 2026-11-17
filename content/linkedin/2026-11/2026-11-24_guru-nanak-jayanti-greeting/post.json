@@ -1,0 +1,66 @@
+{
+  "id": "li-2026-11-24-guru-nanak-jayanti-greeting",
+  "slug": "guru-nanak-jayanti-greeting",
+  "platform": "linkedin",
+  "date": "2026-11-24",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Guru Nanak Jayanti greeting",
+  "hook": "Warm wishes on Guru Nanak Jayanti from all of us at Galvor.",
+  "status": "draft",
+  "festival": "Guru Nanak Jayanti",
+  "theme": "From dashboards to decisions",
+  "caption": "Warm wishes on Guru Nanak Jayanti from all of us at Galvor.\n\nGuru Nanak Dev Ji taught people to work honestly, share what they have and stay humble. Good words to carry into any working day.\n\nWishing you and your family peace and light this Gurpurab.",
+  "first_comment": "",
+  "hashtags": [
+    "#GuruNanakJayanti",
+    "#Gurpurab"
+  ],
+  "alt_text": "Festive greeting on a violet background with a lamp: Happy Gurpurab. Honest work, shared with others. Wishing you peace and light. From all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🪔",
+        "kicker": "Guru Nanak Jayanti",
+        "greeting": "Happy Gurpurab",
+        "headline": "Honest work, shared with others. Wishing you *peace and light.*",
+        "sub": "From all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: plain greeting (festival slot, kept warm and brief on purpose, so the caption is shorter than a normal image post). No product mention, no numbers. Date to verify before posting: 24 Nov 2026.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-24 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:50",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:22",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "FEST-GNJ-2026",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

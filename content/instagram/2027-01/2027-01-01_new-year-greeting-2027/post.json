@@ -1,0 +1,67 @@
+{
+  "id": "ig-2027-01-01-new-year-greeting-2027",
+  "slug": "new-year-greeting-2027",
+  "platform": "instagram",
+  "date": "2027-01-01",
+  "time": "11:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "New Year greeting 2027",
+  "hook": "Happy New Year from all of us at Galvor.",
+  "status": "draft",
+  "festival": "New Year's Day 2027",
+  "theme": "The learning loop",
+  "caption": "Happy New Year from all of us at Galvor.\n\nThank you for reading, replying and arguing with us in the comments this past year. We learned from it.\n\nHere is to a 2027 with good health, kind colleagues and work you are proud of.\n\nSee you on the other side of the long weekend.",
+  "first_comment": "",
+  "hashtags": [
+    "#HappyNewYear",
+    "#NewYear2027",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Festival card in Galvor violet and gold with a fireworks motif. It reads Happy New Year, then: good health, kind colleagues and work you are proud of. Below: from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🎆",
+        "kicker": "New Year 2027",
+        "greeting": "Happy New Year",
+        "headline": "Good health, kind colleagues and *work you are proud of*.",
+        "sub": "From all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Greeting only, no marketing lesson. No numbers used. 1 Jan 2027 is a Friday, hence \"long weekend\"; cut that line if the team prefers.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-01 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:23:07",
+  "updated_at": "2026-11-16T21:16:52",
+  "topic_ref": "IG-110",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

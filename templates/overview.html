@@ -1,0 +1,48 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Overview · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.create_tabs('mix') }}
+<div class="row"><h1 class="grow">Overview</h1>
+  <form><select class="in" name="m" onchange="this.form.submit()">{% for mo in months %}<option value="{{ mo }}" {{ 'selected' if mo==month }}>{{ (mo ~ '-01')|d('%B %Y') }}</option>{% endfor %}</select></form>
+</div>
+<p class="sub">{{ (month ~ '-01')|d('%B %Y') }}{% if theme %} · Theme: <b>{{ theme }}</b>{% endif %} · {{ mp|length }} pieces of content</p>
+
+<div class="grid g3">
+  {% for pl, label in [('linkedin','LinkedIn'),('instagram','Instagram'),('newsletter','Newsletter')] %}
+  {% set c = by_status[pl] %}{% set tot = c.values()|sum %}
+  <div class="card">
+    <div class="row"><h4 class="grow">{{ label }}</h4><b>{{ tot }}</b></div>
+    {% for s in STATUSES %}{% if c.get(s) %}
+    <div class="row small" style="margin-top:8px">{{ m.status(s) }}<div class="bar grow"><i style="width:{{ (100*c[s]/tot)|round }}%"></i></div><b>{{ c[s] }}</b></div>
+    {% endif %}{% endfor %}
+    {% if not tot %}<p class="muted small">Nothing planned.</p>{% endif %}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="grid g2" style="margin-top:4px">
+  <div class="card">
+    <h4>LinkedIn job mix vs target</h4><p class="muted small">From the 90-day plan: Attract 35 · Educate 35 · De-risk 20 · Convert 10</p>
+    {% set jt = jobs.values()|sum %}
+    {% for j, target in JOB_MIX.items() %}
+    {% set pct = (100*jobs.get(j,0)/jt)|round if jt else 0 %}
+    <div class="row small" style="margin-top:10px"><span style="width:80px">{{ j }}</span><div class="bar grow"><i style="width:{{ pct }}%"></i></div><b style="width:90px;text-align:right">{{ pct|int }}% <span class="muted">/ {{ target }}%</span></b></div>
+    {% endfor %}
+  </div>
+  <div class="card">
+    <h4>Cadence by voice (LinkedIn)</h4><p class="muted small">Plan: Sunil 2/wk · Raj 2/wk · Shrutik 1→2/wk · company page reshares weekly</p>
+    {% for v, n in voices.most_common() %}
+    <div class="row small" style="margin-top:10px"><span style="width:140px">{{ m.vchip(v) }}</span><div class="bar grow"><i style="width:{{ (100*n/(voices.values()|max)) }}%"></i></div><b>{{ n }}</b></div>
+    {% endfor %}
+  </div>
+  <div class="card">
+    <h4>Formats</h4>
+    <p class="small"><b>LinkedIn:</b> {% for f, n in fmts.most_common() %}{{ f }} {{ n }}{{ ' · ' if not loop.last }}{% endfor %}</p>
+    <p class="small"><b>Instagram:</b> {% for f, n in ig_fmts.most_common() %}{{ f }} {{ n }}{{ ' · ' if not loop.last }}{% endfor %}</p>
+  </div>
+  <div class="card">
+    <h4>Pillars this month</h4>
+    <p class="small">{% for pl, n in pillars.most_common() %}<span class="pill ghost" style="margin:3px">{{ pl }} · {{ n }}</span>{% endfor %}</p>
+  </div>
+</div>
+{% endblock %}

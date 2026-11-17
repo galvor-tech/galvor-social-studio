@@ -1,0 +1,134 @@
+{
+  "id": "ig-2027-02-17-reel-a-creator-video-brief-to-live",
+  "slug": "reel-a-creator-video-brief-to-live",
+  "platform": "instagram",
+  "date": "2027-02-17",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Behind the Scenes",
+  "job": "De-risk",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: where a creator video loses its days",
+  "hook": "Where a creator video loses its days between brief and live.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "Where a creator video loses its days between brief and live.\n\nThe shoot gets blamed. Late feedback is the costlier part, because a rewrite is quick and a reshoot is slow.\n\nThree checkpoints that move feedback to the front:\n1. Approve the script on paper before any camera rolls.\n2. Name one person who gives the feedback, in one round.\n3. Judge the first cut against the brief, never against taste.\n\nFeedback becomes a yes or a no, and the video goes live. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#ugcads",
+    "#adcreative",
+    "#creativestrategy",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Where creator videos lose days. The reel shows a timeline from brief to live with feedback moving from the end to the start, and three checkpoints: approve on paper, one voice and one round, and judge against the brief. End card: follow @galvor.ai.",
+  "cta": "Follow @galvor.ai",
+  "script": {
+    "duration": "37s",
+    "setup": "Idea: a brand manager who thinks creator videos are slow and unpredictable sees that the delay sits in late feedback, and gets three checkpoints that move it to the front. On-screen title: Where creator videos lose days. Expectation set: a diagnosis. The script gives it in the second scene and beats it with three checkpoints to copy. Outline: late feedback costs most (the turn); approve on paper (second-best, first); one voice, one round; judge against the brief (best).",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "A timeline runs from a brief icon to a live icon. Days tick off along it.",
+        "voiceover": "Where a creator video loses its days, brief to live.",
+        "on_screen": "Where creator videos lose days"
+      },
+      {
+        "time": "4–8s",
+        "visual": "The shoot block on the timeline is small. A feedback block after it swells.",
+        "voiceover": "The shoot gets blamed. Late feedback is the costlier part.",
+        "on_screen": "Late feedback costs more"
+      },
+      {
+        "time": "8–12s",
+        "visual": "The feedback block slides from the end of the timeline to the start, splitting into three markers.",
+        "voiceover": "Three checkpoints move that feedback to the front.",
+        "on_screen": "Three checkpoints, up front"
+      },
+      {
+        "time": "12–16s",
+        "visual": "Marker one: a script page gets a tick while a camera icon waits behind a gate.",
+        "voiceover": "One: approve the script on paper before any camera rolls.",
+        "on_screen": "1. Approve on paper"
+      },
+      {
+        "time": "16–20s",
+        "visual": "A pencil fixes a line on the page in a blink. Beside it, a camera setup is rebuilt slowly.",
+        "voiceover": "A rewrite is quick. A reshoot is slow.",
+        "on_screen": "Rewrite beats reshoot"
+      },
+      {
+        "time": "20–24s",
+        "visual": "Marker two: five speech bubbles merge into one.",
+        "voiceover": "Two: name one person who gives the feedback. One round.",
+        "on_screen": "2. One voice, one round"
+      },
+      {
+        "time": "24–29s",
+        "visual": "Marker three: the first cut plays beside the brief. Lines of the brief tick off one by one.",
+        "voiceover": "Three: judge the first cut against the brief, never against taste.",
+        "on_screen": "3. Judge against the brief"
+      },
+      {
+        "time": "29–33s",
+        "visual": "A yes button and a no button. Yes is pressed and the live icon lights up.",
+        "voiceover": "Feedback becomes yes or no, and the video goes live.",
+        "on_screen": "Yes or no, then live"
+      },
+      {
+        "time": "33–37s",
+        "visual": "End card with the shortened timeline and the Galvor logo. Chime.",
+        "voiceover": "Feedback first, shoot second. Follow @galvor.ai.",
+        "on_screen": "Feedback first, shoot second"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. No numbers used. No creator, client or campaign is named or implied. No durations are claimed."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "Where creator videos *lose days*",
+        "sub": "Three checkpoints between brief and live.",
+        "play": "Watch the checkpoints"
+      },
+      {
+        "layout": "cta",
+        "headline": "Feedback first. *Shoot second.*",
+        "sub": "Approve on paper. One voice. Judge against the brief.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that these three checkpoints match how the team runs creator work from brief to live, and whether he can add one real example (anonymised) of feedback that arrived after a shoot. The script stands without it.\nTopic sharpened: the 9 Dec reel covers what goes in the brief, so this one covers approvals and where the days go. It answers the buyer doubt that creator work is slow and unpredictable. No numbers used. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-17 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:59",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:58",
+  "updated_at": "2026-11-16T21:23:59",
+  "topic_ref": "IG-133",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

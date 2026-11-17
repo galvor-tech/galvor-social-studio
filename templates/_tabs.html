@@ -1,0 +1,18 @@
+{% macro create_tabs(active) -%}
+<div class="tabs hub">
+  <a href="{{ url_for('approvals') }}" class="{{ 'on' if active=='pipeline' }}">Pipeline &amp; approvals</a>
+  <a href="{{ url_for('content_list', platform='linkedin') }}" class="{{ 'on' if active=='linkedin' }}">LinkedIn <b>{{ nav_counts.get('linkedin',0) }}</b></a>
+  <a href="{{ url_for('content_list', platform='instagram') }}" class="{{ 'on' if active=='instagram' }}">Instagram <b>{{ nav_counts.get('instagram',0) }}</b></a>
+  <a href="{{ url_for('decoded_page') }}" class="{{ 'on' if active=='newsletter' }}">Decoded newsletter <b>{{ nav_counts.get('newsletter',0) }}</b></a>
+  <a href="{{ url_for('overview') }}" class="{{ 'on' if active=='mix' }}">Content mix</a>
+  <a href="{{ url_for('new_post') }}" class="{{ 'on' if active=='new' }}">+ New post</a>
+</div>
+{%- endmacro %}
+{% macro playbook_tabs(active) -%}
+<div class="tabs hub">
+  <a href="{{ url_for('strategy') }}" class="{{ 'on' if active=='strategy' }}">Strategy &amp; rhythm</a>
+  <a href="{{ url_for('brand') }}" class="{{ 'on' if active=='brand' }}">Brand guide</a>
+  <a href="{{ url_for('festivals_page') }}" class="{{ 'on' if active=='festivals' }}">Indian festivals</a>
+  <a href="{{ url_for('gaps') }}" class="{{ 'on' if active=='gaps' }}">Gaps &amp; checklist</a>
+</div>
+{%- endmacro %}

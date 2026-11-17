@@ -1,0 +1,68 @@
+{
+  "id": "ig-2027-01-15-national-startup-day-built-in-mumbai",
+  "slug": "national-startup-day-built-in-mumbai",
+  "platform": "instagram",
+  "date": "2027-01-15",
+  "time": "17:30",
+  "voice": "company",
+  "pillar": "Behind the Scenes",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "National Startup Day: built in Mumbai",
+  "hook": "National Startup Day is tomorrow. A note from a team building in Mumbai.",
+  "status": "draft",
+  "festival": "National Startup Day (India)",
+  "theme": "The learning loop",
+  "caption": "National Startup Day is tomorrow. A note from a team building in Mumbai.\n\nWhat we work on, in one line: helping D2C brands understand why an ad won or lost, so the next one starts from what the last one learned.\n\nIt is slower work than it sounds. Reading an ad means noticing the hook, the cast, the pacing, the setting and the ask, and then checking which of them the numbers agree with.\n\nTo every founder and early team building in India today: we know the days are long. Keep going.\n\nFollow @galvor.ai to see what we are learning.",
+  "first_comment": "",
+  "hashtags": [
+    "#NationalStartupDay",
+    "#StartupIndia",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Festival-style card in Galvor violet and gold with a rocket motif. It reads Built in Mumbai, then: for every ad to make the next one better. Below: happy National Startup Day from all of us at Galvor.",
+  "cta": "Follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "🚀",
+        "kicker": "National Startup Day",
+        "greeting": "Built in Mumbai",
+        "headline": "So that *every ad* makes the next one better.",
+        "sub": "Happy National Startup Day from all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH TEAM: the caption says only what the spec supports (HQ Mumbai; Galvor reads hook, cast, pacing, setting and CTA). The old version described a typical day in the office, which I could not verify, so it is removed. A real team photo or one true detail from the team would make this stronger; get consent from everyone in any photo. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2027-01-16 (Sat) to a weekday: posting is Monday to Friday only.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:48:13",
+      "action": "Moved from 2027-01-16 11:00 to 2027-01-15 17:30: weekdays only"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:14",
+  "updated_at": "2026-11-16T21:48:13",
+  "topic_ref": "IG-123",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,42 @@
+{% macro icon(name) -%}
+{%- set P = {
+ 'grid':'<rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/>',
+ 'today':'<rect x="3" y="4" width="18" height="17" rx="2"/><path d="M8 2v4M16 2v4M3 10h18"/>',
+ 'check':'<path d="M4 12l5 5L20 6"/>',
+ 'cal':'<rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 10h18M8 14h2M12 14h2M16 14h2M8 17h2M12 17h2"/>',
+ 'li':'<rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 014 0v4M12 10v7"/>',
+ 'ig':'<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".6"/>',
+ 'mail':'<rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/>',
+ 'plan':'<path d="M4 6h16M4 12h10M4 18h7"/><path d="M17 15l2 2 3-4"/>',
+ 'bulb':'<path d="M9 18h6M10 21h4M12 3a6 6 0 00-4 10.5c.7.7 1 1.5 1 2.5h6c0-1 .3-1.8 1-2.5A6 6 0 0012 3z"/>',
+ 'star':'<path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/>',
+ 'compass':'<circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/>',
+ 'palette':'<path d="M12 3a9 9 0 100 18c1 0 1.5-.7 1.5-1.5 0-.5-.2-.8-.4-1.1-.3-.3-.4-.6-.4-1 0-.8.7-1.4 1.5-1.4H16a5 5 0 005-5C21 6.6 17 3 12 3z"/><circle cx="7.5" cy="11" r="1"/><circle cx="10" cy="7" r="1"/><circle cx="15" cy="7" r="1"/>',
+ 'flag':'<path d="M5 21V4M5 4h11l-2 4 2 4H5"/>',
+ 'chart':'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+ 'gear':'<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.3 1.8l.1.1a2 2 0 11-2.8 2.8l-.1-.1a1.7 1.7 0 00-1.8-.3 1.7 1.7 0 00-1 1.5V21a2 2 0 11-4 0v-.1a1.7 1.7 0 00-1.1-1.5 1.7 1.7 0 00-1.8.3l-.1.1a2 2 0 11-2.8-2.8l.1-.1a1.7 1.7 0 00.3-1.8 1.7 1.7 0 00-1.5-1H3a2 2 0 110-4h.1a1.7 1.7 0 001.5-1.1 1.7 1.7 0 00-.3-1.8l-.1-.1a2 2 0 112.8-2.8l.1.1a1.7 1.7 0 001.8.3H9a1.7 1.7 0 001-1.5V3a2 2 0 114 0v.1a1.7 1.7 0 001 1.5 1.7 1.7 0 001.8-.3l.1-.1a2 2 0 112.8 2.8l-.1.1a1.7 1.7 0 00-.3 1.8V9a1.7 1.7 0 001.5 1H21a2 2 0 110 4h-.1a1.7 1.7 0 00-1.5 1z"/>',
+ 'sun':'<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>',
+ 'side':'<rect x="3" y="4" width="18" height="16" rx="2"/><path d="M9 4v16"/>',
+ 'folder':'<path d="M3 7a2 2 0 012-2h4l2 2h8a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2z"/>',
+ 'spark':'<path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8zM19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z"/>',
+ 'search':'<circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/>',
+ 'plus':'<path d="M12 5v14M5 12h14"/>',
+ 'list':'<path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/>'} -%}
+<svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">{{ P.get(name, '')|safe }}</svg>
+{%- endmacro %}
+{% macro plat(p) -%}<span class="pill {{ {'linkedin':'li','instagram':'ig','newsletter':'nl'}[p] }}">{{ {'linkedin':'LinkedIn','instagram':'Instagram','newsletter':'Newsletter'}[p] }}</span>{%- endmacro %}
+{% macro vchip(v) -%}{% set vv = VOICES.get(v, VOICES['company']) %}<span class="voice-chip"><i style="background:{{ vv.color }}"></i>{{ vv.name }}</span>{%- endmacro %}
+{% macro status(s) -%}<span class="pill s-{{ s }}">{{ STATUS_LABEL.get(s, s) }}</span>{%- endmacro %}
+
+{% macro row(p, show_date=true, actions=none) -%}
+{% set imgs = (p.images or [])|select('ne','carousel.pdf')|list %}
+<div class="item">
+  {% if imgs %}<img class="thumb {{ 'v' if (p.creative or {}).size=='story' }}" src="/media/{{ p.id }}/{{ imgs[0] }}" alt="" loading="lazy">{% else %}<div class="thumb"></div>{% endif %}
+  <div class="grow" style="min-width:0">
+    <div class="row" style="gap:8px">{{ plat(p.platform) }}{{ status(p.status) }}<span class="pill ghost">{{ p.format }}</span>{% if p.festival %}<span class="pill fest">{{ p.festival }}</span>{% endif %}<a class="t" href="/post/{{ p.id }}">{{ p.title or p.hook }}</a></div>
+    <div class="d">{% if show_date %}{{ p.date|d }} · {{ p.time }} · {% endif %}{{ vchip(p.voice) }} · {{ p.pillar }}{% if p.due %} · <b style="color:var(--red)">{{ p.due }}</b>{% endif %}</div>
+  </div>
+  {% if actions %}{{ actions|safe }}{% endif %}
+  <a class="btn sm" href="/post/{{ p.id }}">Open</a>
+</div>
+{%- endmacro %}

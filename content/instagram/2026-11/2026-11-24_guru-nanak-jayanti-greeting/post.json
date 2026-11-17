@@ -1,0 +1,63 @@
+{
+  "id": "ig-2026-11-24-guru-nanak-jayanti-greeting",
+  "slug": "guru-nanak-jayanti-greeting",
+  "platform": "instagram",
+  "date": "2026-11-24",
+  "time": "11:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Guru Nanak Jayanti greeting",
+  "hook": "Wishing you a peaceful and joyful Gurpurab.",
+  "status": "draft",
+  "festival": "Guru Nanak Jayanti",
+  "theme": "From dashboards to decisions",
+  "caption": "Wishing you a peaceful and joyful Gurpurab.\n\nOn Guru Nanak Jayanti we remember a simple teaching: work honestly, share what you have, and serve others without asking who they are.\n\nMay your day be filled with light, langar and the people you love.\n\nWarm wishes from all of us at Galvor.",
+  "first_comment": "",
+  "hashtags": [
+    "#GuruNanakJayanti",
+    "#Gurpurab",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Festival card in Galvor violet and gold with a sparkle motif. It reads Happy Gurpurab, then: wishing you light, seva and togetherness. Below: from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "✨",
+        "kicker": "Guru Nanak Jayanti",
+        "greeting": "Happy Gurpurab",
+        "headline": "Wishing you light, *seva* and togetherness.",
+        "sub": "From all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Greeting only. No product or marketing tie-in. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-16T21:16:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:52",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:20:46",
+  "updated_at": "2026-11-16T21:16:52",
+  "topic_ref": "IG-13",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

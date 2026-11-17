@@ -1,0 +1,102 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Jakarta;src:url("file:///D:/galvor_linkedin/studio/static/fonts/PlusJakartaSans.ttf");font-weight:200 800}
+@font-face{font-family:Inter;src:url("file:///D:/galvor_linkedin/studio/static/fonts/Inter.ttf");font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#0A0A14}
+.s{position:relative;width:1920px;height:1080px;overflow:hidden;color:#fff;font-family:Jakarta,Inter,sans-serif;
+  background:radial-gradient(900px 800px at 1420px 540px,rgba(110,60,230,.30),transparent 70%),#0A0A14}
+.copy{position:absolute;left:100px;top:0;height:1080px;width:880px;display:flex;flex-direction:column;justify-content:center;z-index:20}
+.kicker{display:flex;align-items:center;gap:18px;font-family:Consolas,monospace;font-size:28px;letter-spacing:.24em;color:#A685FF;text-transform:uppercase;margin-bottom:54px}
+.kicker img{width:44px;height:44px}
+h1{font-weight:800;font-size:100px;line-height:1.03;letter-spacing:-.03em}
+h1 .p{color:#A47BFF}
+.fs{margin-left:-.07em}
+.how{margin-top:50px;display:inline-flex;align-self:flex-start;align-items:center;gap:16px;font-family:Inter,sans-serif;font-size:32px;font-weight:500;color:#E9E3FF;padding:14px 28px 14px 14px;border-radius:999px;background:rgba(124,58,237,.16);border:1.5px solid rgba(164,123,255,.45)}
+.how .ic{width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(180deg,#B48EFF,#7C3AED);box-shadow:0 0 22px rgba(164,123,255,.7)}
+.how b{font-weight:700;color:#fff}.how i{font-style:normal;color:#FFD27A;font-weight:700}
+.ph{position:absolute;border-radius:22px;background:#1C1A2E;border:2px solid rgba(255,255,255,.06);opacity:.55}
+.ph::before{content:"";position:absolute;left:18%;right:18%;top:22%;height:34%;border-radius:12px;background:rgba(255,255,255,.08)}
+.ph::after{content:"";position:absolute;left:18%;right:36%;bottom:16%;height:10%;border-radius:6px;background:rgba(255,255,255,.08)}
+.ad{position:absolute;border-radius:26px;overflow:hidden;border:2px solid rgba(255,236,190,.8);box-shadow:0 30px 80px rgba(0,0,0,.55)}
+.ad .pr{position:absolute;left:50%;transform:translateX(-50%);bottom:18%;width:28%;height:42%;border-radius:18px 18px 12px 12px;background:rgba(255,255,255,.92)}
+.ad .pr::before{content:"";position:absolute;left:30%;right:30%;top:-16%;height:18%;border-radius:6px 6px 0 0;background:rgba(255,255,255,.92)}
+.ad .play{position:absolute;left:18px;top:18px;width:40px;height:40px;border-radius:20px;background:rgba(0,0,0,.25)}
+.ad .play::after{content:"";position:absolute;left:15px;top:11px;border-left:14px solid #fff;border-top:9px solid transparent;border-bottom:9px solid transparent}
+.ad .cap{position:absolute;left:18px;right:18px;bottom:18px;height:10px;border-radius:5px;background:rgba(255,255,255,.55)}
+.ring{position:absolute;border-radius:50%;border:16px solid #C9B2FF;box-shadow:0 0 0 4px rgba(10,10,20,.9),0 0 80px rgba(164,123,255,.9),inset 0 0 50px rgba(255,255,255,.12)}
+.bub{position:absolute;background:#F4F0FF;color:#1D1830;border-radius:22px;padding:14px 22px;box-shadow:0 14px 34px rgba(0,0,0,.45);white-space:nowrap;font-family:Inter,sans-serif}
+.bub small{display:block;font-size:17px;font-weight:700;letter-spacing:.08em;color:#7A7396}
+.bub b{font-size:28px;font-weight:560}
+.chk{position:absolute;display:flex;align-items:center;gap:14px;white-space:nowrap;font-family:Inter,sans-serif;font-weight:650;font-size:28px;color:#F4EEFF;padding:12px 24px 12px 12px;border-radius:999px;background:rgba(22,18,40,.94);border:1.5px solid rgba(180,150,255,.5)}
+.chk .t{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(180deg,#FFD27A,#F0A92E);color:#3A2400;font-size:22px;font-weight:800}
+.chk .x{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:#F0524A;color:#fff;font-size:22px;font-weight:800}
+.node{position:absolute;transform:translate(-50%,-50%);font-family:Consolas,monospace;font-size:26px;letter-spacing:.14em;text-transform:uppercase;padding:14px 24px;border-radius:999px;background:#A47BFF;color:#160A33;white-space:nowrap}
+.node.gold{background:#FFC43D;color:#2A1A00;box-shadow:0 0 40px rgba(255,196,61,.7)}
+.label{position:absolute;font-family:Consolas,monospace;font-size:22px;letter-spacing:.16em;text-transform:uppercase;color:#A685FF}
+.bar{position:absolute;border-radius:12px}
+body.i1 h1{font-size:88px}
+</style></head><body><div class="s" id="s"></div>
+<script>
+const q=new URLSearchParams(location.search), iss=q.get('i')||'1', v=q.get('v')||'a', s=document.getElementById('s'); document.body.className='i'+iss;
+const MARK='file:///D:/galvor_linkedin/studio/static/brand/galvor-mark.png';
+const GRAD=['linear-gradient(170deg,#FFB86B,#F0609E 50%,#7C3AED)','linear-gradient(170deg,#7EE0C3,#3A8FD8 55%,#5B2BD6)','linear-gradient(170deg,#FFD27A,#F08A4B 55%,#B8326B)'];
+const ad=(x,y,w,h,g=0,ex='')=>`<div class="ad" style="left:${x}px;top:${y}px;width:${w}px;height:${h}px;background:${GRAD[g]};${ex}"><div class="play"></div><div class="pr"></div><div class="cap"></div></div>`;
+const grid=()=>{let o='';for(let r=0;r<5;r++)for(let c=0;c<5;c++)o+=`<div class="ph" style="left:${940+c*168}px;top:${90+r*186}px;width:130px;height:160px"></div>`;return o;};
+const chk=(t,x,y,bad)=>`<div class="chk" style="left:${x}px;top:${y}px"><span class="${bad?'x':'t'}">${bad?'✕':'✓'}</span>${t}</div>`;
+const bub=(h,t,x,y)=>`<div class="bub" style="left:${x}px;top:${y}px"><small>${h}</small><b>${t}</b></div>`;
+const ic='<span class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></span>';
+const T={
+ '1':{h:'The Creative<br>Memory Gap<span class="fs">.</span><br><span class="p">Your Ads Keep<br>Starting From Zero<span class="fs">.</span></span>', how:`How Galvor <b>remembers</b> <i>what worked</i>`},
+ '2':{h:'False Bangers<span class="fs">.</span><br><span class="p">Your Best Hook<br>Isn\'t Always<br>Your Best Ad<span class="fs">.</span></span>', how:`How Galvor spots a <i>false banger</i>`},
+}[iss];
+let r=grid();
+const loop=(cx,cy,R,gap)=>`<div class="ring" style="left:${cx-R}px;top:${cy-R}px;width:${2*R}px;height:${2*R}px;${gap?'border-left-color:transparent;border-bottom-color:rgba(201,178,255,.25)':''}"></div>`;
+if(iss==='1'){
+ if(v==='a'){ // the loop, Remember restored: an ad card in the ring, the four steps as nodes, learnings carried as gold checks
+  const cx=1300,cy=520,R=250; r+=loop(cx,cy,R)+ad(cx-100,cy-150,200,300)+
+   `<div class="node" style="left:${cx}px;top:${cy-R}px">Decode</div><div class="node" style="left:${cx+R}px;top:${cy}px">Prove</div><div class="node gold" style="left:${cx}px;top:${cy+R}px">Remember</div><div class="node" style="left:${cx-R}px;top:${cy}px">Create</div>`+
+   chk('Hook: product in 3 s',1580,250)+chk('Talent: founder',1580,335)+chk('Format: UGC',1580,420)+`<div class="label" style="left:1584px;top:205px">Kept for next brief</div>`;}
+ if(v==='b'){ // the broken loop: Remember missing, last quarter's winner falling out of the gap
+  const cx=1300,cy=520,R=260; r+=loop(cx,cy,R,true)+ad(cx-95,cy-145,190,290,1)+
+   `<div class="node" style="left:${cx}px;top:${cy-R}px">Decode</div><div class="node" style="left:${cx+R}px;top:${cy}px">Prove</div><div class="node" style="left:${cx-R}px;top:${cy-120}px;background:transparent;color:#FFD27A;border:3px dashed #FFD27A">Remember ?</div>`+
+   ad(1000,800,130,190,0,'opacity:.55;transform:rotate(-16deg);filter:grayscale(.6)')+bub('WHATSAPP','"Which one won?"',1590,250)+bub('EXCEL','Q3_ads_FINAL_v7.xlsx',1590,370);}
+ if(v==='c'){ // new brief = zero: the brief card with "learnings carried over: 0", winners fading behind it
+  r+=ad(1010,180,170,250,0,'opacity:.5;filter:grayscale(.7)')+ad(1200,150,170,250,1,'opacity:.35;filter:grayscale(.9) blur(2px)')+ad(1390,170,170,250,2,'opacity:.22;filter:grayscale(1) blur(4px)')+
+   `<div style="position:absolute;left:1060px;top:470px;width:640px;height:420px;border-radius:30px;background:#F4F0FF;color:#1D1830;padding:40px 44px;box-shadow:0 30px 80px rgba(0,0,0,.55),0 0 90px rgba(124,58,237,.45);font-family:Inter">
+     <div style="font-size:20px;font-weight:700;letter-spacing:.12em;color:#7A7396">NEW BRIEF · CAMPAIGN 14</div>
+     <div style="margin-top:26px;font-size:30px;color:#6E6E73">What worked last time</div><div style="font-family:Jakarta;font-weight:800;font-size:150px;line-height:1;color:#7C3AED">0</div>
+     <div style="margin-top:12px;font-size:30px;color:#6E6E73">learnings carried over</div></div>`+chk('Starting from zero',1560,860,true);}
+ if(v==='d'){ // the memory: past winners stacked into one glowing "creative memory", checks pulled from each
+  r+=`<div class="ring" style="left:1080px;top:230px;width:520px;height:520px"></div>`+ad(1150,330,160,240,1,'transform:rotate(-10deg)')+ad(1260,300,160,240,2,'transform:rotate(4deg)')+ad(1370,330,160,240,0,'transform:rotate(14deg)')+
+   `<div class="label" style="left:1180px;top:610px">Creative memory</div>`+chk('Opens mid-action',1600,300)+chk('Product working',1600,385)+chk('Customer voice',1600,470)+bub('NEXT BRIEF','Starts from what worked',1120,830);}
+ if(v==='e'){ // the timeline: weeks of ads, older ones dissolving, one winner held by Galvor
+  const wk=['WK 1','WK 2','WK 3','WK 4','WK 5'];
+  wk.forEach((w,i)=>{const f=1-i/4; r+=ad(960+i*180,360,150,230,i%3,`opacity:${(0.25+0.75*(i/4)).toFixed(2)};filter:grayscale(${f.toFixed(2)}) blur(${(f*4).toFixed(1)}px)`)+`<div class="label" style="left:${990+i*180}px;top:610px">${w}</div>`;});
+  r+=`<div class="ring" style="left:1652px;top:328px;width:206px;height:300px;border-radius:38px"></div>`+chk('Remembered by Galvor',1310,700)+bub('WHAT USUALLY HAPPENS','Last month\'s winner? Gone.',980,170);}
+}
+if(iss==='2'){
+ if(v==='a'){ // the four-step check: Stop ✓ Watch ✓ Click ✓ Buy ✕ around a high-hook ad
+  r+=`<div class="ring" style="left:1080px;top:200px;width:460px;height:620px;border-radius:60px"></div>`+ad(1160,260,300,500,2)+
+   `<div style="position:absolute;left:1180px;top:285px;padding:8px 18px;border-radius:999px;background:#FFC43D;color:#2A1A00;font-family:Inter;font-weight:800;font-size:24px">🔥 TOP HOOK</div>`+
+   chk('Stop',1590,280)+chk('Watch',1590,365)+chk('Click',1590,450)+chk('Buy',1590,535,true)+`<div class="label" style="left:1594px;top:236px">The four-step check</div>`+bub('COST PER ORDER','Above typical',1590,640);}
+ if(v==='b'){ // 4 in 10: ten top-hook ads, four flagged
+  for(let i=0;i<10;i++){const c=i%5,rw=Math.floor(i/5),bad=[1,4,6,8].includes(i);
+   r+=ad(980+c*168,250+rw*300,140,220,i%3,bad?'box-shadow:0 0 0 5px #F0524A,0 20px 50px rgba(0,0,0,.5)':'')+(bad?`<div style="position:absolute;left:${1030+c*168}px;top:${235+rw*300}px;width:40px;height:40px;border-radius:50%;background:#F0524A;display:grid;place-items:center;font-weight:800;font-size:22px">✕</div>`:'');}
+  r+=bub('OF EVERY 10 TOP-HOOK ADS','4 still cost more per order',1080,880)+`<div class="label" style="left:1084px;top:990px;text-transform:none;letter-spacing:.04em;font-family:Inter;font-size:20px;color:rgba(255,255,255,.55)">Source: Galvor analysis · Decoded #2</div>`;}
+ if(v==='c'){ // not this / this: the article's frame pairs
+  r+=ad(990,240,330,500,1,'opacity:.65;filter:grayscale(.5)')+ad(1420,220,350,540,2,'box-shadow:0 0 0 6px #FFC43D,0 0 80px rgba(255,190,80,.5),0 30px 80px rgba(0,0,0,.55)')+
+   `<div class="node" style="left:1155px;top:200px;background:#2A2440;color:#fff">Not this</div><div class="node gold" style="left:1595px;top:180px">This</div>`+
+   chk('Talks to camera first',990,790,true)+chk('Product working in 3 s',1420,800);}
+ if(v==='d'){ // the gap after the click: attention bars high, buyers low
+  const B=[['Stopped',185,'#A47BFF'],['Clicked',170,'#A47BFF'],['Bought',39,'#F0524A']];
+  B.forEach(([t,val,col],i)=>{const h=val*2.2; r+=`<div class="bar" style="left:${1060+i*230}px;top:${830-h}px;width:150px;height:${h}px;background:${col};box-shadow:0 0 40px ${col}88"></div><div class="label" style="left:${1060+i*230}px;top:860px">${t}</div>`;});
+  r+=`<div style="position:absolute;left:1000px;top:610px;width:740px;border-top:3px dashed rgba(255,255,255,.4)"></div><div class="label" style="left:1520px;top:575px">Typical ad</div>`+
+   bub('HIGH-HOOK ADS','70% more clicks, a third fewer buyers',1000,140)+`<div class="label" style="left:1004px;top:250px;text-transform:none;letter-spacing:.04em;font-family:Inter;font-size:20px;color:rgba(255,255,255,.55)">Source: Galvor analysis · Decoded #2 · illustrative bars</div>`;}
+ if(v==='e'){ // the banger: one ad glowing with fire and hearts, the cart empty
+  r+=`<div class="ring" style="left:1060px;top:180px;width:440px;height:620px;border-radius:60px"></div>`+ad(1130,240,300,500,0)+
+   bub('COMMENT','🔥🔥🔥 so good',1530,230)+bub('COMMENT','sending to my friend',1560,340)+bub('COMMENT','saved 👀',1530,450)+
+   chk('Hook rate: top 25%',1530,580)+chk('Orders: below typical',1530,665,true);}
+}
+s.innerHTML=r+`<div class="copy"><div class="kicker"><img src="${MARK}">Decoded by Galvor <span>•</span> Issue #${iss}</div><h1>${T.h}</h1><div class="how">${ic}${T.how}</div></div>`;
+</script></body></html>

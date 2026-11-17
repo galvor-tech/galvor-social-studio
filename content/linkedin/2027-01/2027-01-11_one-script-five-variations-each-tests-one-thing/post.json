@@ -1,0 +1,133 @@
+{
+  "id": "li-2027-01-11-one-script-five-variations-each-tests-one-thing",
+  "slug": "one-script-five-variations-each-tests-one-thing",
+  "platform": "linkedin",
+  "date": "2027-01-11",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "Creators & Testing",
+  "job": "Convert",
+  "format": "carousel",
+  "series": "Brief to Live",
+  "title": "One script, five variations: each changes one thing",
+  "hook": "One script, five variations. Each variation changes exactly one thing.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "One script, five variations. Each variation changes exactly one thing.\n\nThe easy way to brief variations is to change everything at once: new opening, new creator, new music, new ask. Five ads come back, one does better, and nobody can say which change did it.\n\nKeep the script fixed. Change one of five things per variation: the opening, the person, the setting, the format or the ask. Name each variation in the brief and use the same name on the file and the ad.\n\nOne caution. The variations have to look different at a glance, or they compete with each other.\n\nThe next step is to put these on a calendar. Decoded #11 shows how.",
+  "first_comment": "Read Decoded #11 on galvor.ai",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#AdCreative",
+    "#D2CIndia"
+  ],
+  "alt_text": "Eight-slide carousel in Shrutik Rathod's Brief to Live series. One script, five variations, each changing one thing: the opening, the person, the setting, the format or the ask. One slide shows a Galvor finding: a proven message in a new look got 47% more first-month spend. Other slides compare changing everything with changing one thing, explain naming each variation in the brief, and warn that variations must look different. Last slide asks readers to follow Galvor and read Decoded #11.",
+  "cta": "Read Decoded #11 on galvor.ai (first comment); Follow Galvor on the last slide",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Brief to Live",
+        "headline": "One script, *five variations.* Each one changes one thing.",
+        "sub": "How to brief variations you can learn from."
+      },
+      {
+        "layout": "text",
+        "kicker": "The problem",
+        "headline": "Change everything and you learn *nothing*",
+        "body": "New opening, new creator, new music, new ask. Five ads come back and one does better.\n\nNobody can say which change did it, so the next brief starts from a guess."
+      },
+      {
+        "layout": "list",
+        "kicker": "The method",
+        "headline": "Keep the script. Change *one* thing.",
+        "items": [
+          "Opening — a new first three seconds",
+          "Person — a different face says the same lines",
+          "Setting — a kitchen instead of a studio",
+          "Format — talking to camera instead of a demo",
+          "Ask — a different last line"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "Why keep the script",
+        "stat": "47%",
+        "headline": "more first-month spend for a *proven message in a new look*",
+        "sub": "The message stays. The look changes.",
+        "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+      },
+      {
+        "layout": "compare",
+        "headline": "Five edits or *five tests*",
+        "left_title": "Changed everything",
+        "left": [
+          "No clean comparison",
+          "The result is a guess",
+          "Next brief starts cold"
+        ],
+        "right_title": "Changed one thing",
+        "right": [
+          "One variable each",
+          "You see what moved",
+          "Next brief starts from a fact"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Before the shoot",
+        "headline": "Name every variation *in the brief*",
+        "body": "Opening-problem. Person-commuter. Setting-kitchen.\n\nUse the same name on the file and on the ad, so anyone can read the results without asking what was what."
+      },
+      {
+        "layout": "text",
+        "kicker": "One caution",
+        "headline": "Variations must *look* different",
+        "body": "Near-copies launched together compete with each other.\n\nIf two variations look the same at a glance, merge them and make one bolder change."
+      },
+      {
+        "layout": "cta",
+        "headline": "Brief *one change* at a time",
+        "sub": "Decoded #11 shows how to turn tests like these into a calendar.",
+        "actions": [
+          "Follow Galvor",
+          "Read Decoded #11",
+          "Save for your next brief"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a creative or brand manager briefing creator variations (Convert: the next step is Decoded #11, Build a Test Calendar). Shape: how-to. Hook shape: punchy plus context. Written as a method with no personal anecdote, so nothing to confirm beyond Shrutik being happy to put his name to it.\nNumbers used: 47% (proven message in a new look got 47% more first-month spend; Galvor analysis of video ads launched May to Sep 2026, Decoded #3), used once in this group. The 'one caution' slide rests on the same analysis (look-alike ads got less first-month spend) and uses no number.\nThe earlier draft offered a one-page variation brief by comment. That offer is removed because the first comment now points only to Decoded #11. List items use the ' — ' separator the slide template needs.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:54:06",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-11 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:50",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh37",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

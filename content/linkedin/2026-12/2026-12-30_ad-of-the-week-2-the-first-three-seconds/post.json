@@ -1,0 +1,132 @@
+{
+  "id": "li-2026-12-30-ad-of-the-week-2-the-first-three-seconds",
+  "slug": "ad-of-the-week-2-the-first-three-seconds",
+  "platform": "linkedin",
+  "date": "2026-12-30",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "Ad of the Week",
+  "title": "Ad of the Week #2: log the first three seconds in four fields",
+  "hook": "Hook rate says an opening worked. It cannot say why.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Hook rate says an opening worked. It cannot say why.\nThe first three seconds can, if you write them down the same way every time.\n\nAd of the Week #2 is a method, shown on a made-up example: a festive gifting ad for a tea brand. No real brand and no real numbers.\n\nI log four things about the opening of an ad. What is in the first frame. What the first words promise. Who is on screen. When the product shows up.\n\nSame four fields, same order, every ad. After twenty ads you can sort the sheet and see which kind of opening your good ads share.\n\nA quiet week is a good time to log this year's ads.",
+  "first_comment": "Decode tags ads this way on 50+ attributes, so you do not have to keep the sheet by hand: https://galvor.ai/platform/decode/\n\nFollow Galvor for Ad of the Week.",
+  "hashtags": [
+    "#AdCreative",
+    "#CreativeStrategy",
+    "#MetaAds"
+  ],
+  "alt_text": "Seven-slide carousel, Ad of the Week #2. Cover: The first three seconds, written down. Then: why averages hide the opening; the four fields to log (first frame, first words, who is on screen, when the product appears); a made-up worked example of a festive gifting ad for a tea brand; a vague log compared with a useful log; what sorting twenty logged ads shows; and a closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; save for January briefs",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Ad of the Week #2",
+        "headline": "The first *three seconds*, written down",
+        "sub": "A logging method, shown on a made-up gifting ad."
+      },
+      {
+        "layout": "text",
+        "kicker": "The problem",
+        "headline": "Averages hide the *opening*",
+        "body": "Hook rate tells you people stayed past the opening.\n\nIt cannot tell you what was in it. So two ads with the same hook rate teach you nothing about the next brief.\n\nThe fix is a log. Four fields, the same for every ad."
+      },
+      {
+        "layout": "list",
+        "kicker": "The log",
+        "headline": "Four fields, *every ad*",
+        "items": [
+          "First frame — what you see before anything moves",
+          "First words — the promise, spoken or on screen",
+          "Who — founder, creator, customer or nobody",
+          "Product in — the second it first appears"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Worked example (made up)",
+        "headline": "A festive *gifting ad* for a tea brand",
+        "body": "First frame: hands tying a ribbon on a box.\n\nFirst words: 'For the aunt who has everything.'\n\nWho: a customer, at home.\n\nProduct in: second two, when the box opens."
+      },
+      {
+        "layout": "compare",
+        "kicker": "Be specific",
+        "headline": "Vague log or *useful log*",
+        "left_title": "Vague",
+        "left": [
+          "UGC style",
+          "Good hook",
+          "Festive feel"
+        ],
+        "right_title": "Useful",
+        "right": [
+          "Customer, at home",
+          "Gift for a hard-to-please aunt",
+          "Product at second two"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Then sort",
+        "headline": "What twenty logged ads *show you*",
+        "items": [
+          "Sort by first frame — what your good ads share",
+          "Sort by product in — early or late, by cost per order",
+          "Read the blanks — openings you have never tried"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Log the opening. *Then* read the average.",
+        "sub": "Four fields, twenty ads, one sheet.",
+        "actions": [
+          "Follow Galvor",
+          "Save this for your January briefs"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: the four fields (first frame, first words, who is on screen, when the product appears) are written as what you log. Confirm, or swap in the fields you actually use from Decode's attribute list.\nHook shape: punchy plus context.\nNumbers: 50+ attributes (facts bank), in the first comment only.\nThe worked example is made up and labelled as made up on the slide and in the caption. No real brand is torn down.\nReader: a creative strategist or performance lead with a quiet last week of December.\nDecoded #11 goes out the same day but is on test calendars, so the first comment points to Decode instead.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:52:55",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-30 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:45",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:53",
+  "updated_at": "2026-11-16T21:20:00",
+  "topic_ref": "R3",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

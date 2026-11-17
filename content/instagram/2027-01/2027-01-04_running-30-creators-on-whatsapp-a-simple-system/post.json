@@ -1,0 +1,137 @@
+{
+  "id": "ig-2027-01-04-running-30-creators-on-whatsapp-a-simple-system",
+  "slug": "running-30-creators-on-whatsapp-a-simple-system",
+  "platform": "instagram",
+  "date": "2027-01-04",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Running creators on WhatsApp: five rules and a tracker",
+  "hook": "Creator work on WhatsApp goes wrong in the same few places. Five rules fix them.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Creator work on WhatsApp goes wrong in the same few places. Five rules fix them.\n\nThe brief gets buried, feedback comes from more than one person, and nobody is sure which file is final.\n\nYou do not need a new tool for this. Use one group per creator per campaign, one pinned brief, one person giving numbered feedback, versioned file names, and a one-tab tracker outside the chat.\n\nThe full system is on the last slide. Save it and send it to whoever manages your creators.\n\nFollow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#ugcads",
+    "#adcreative",
+    "#marketingtips",
+    "#d2cindia",
+    "#digitalmarketingindia"
+  ],
+  "alt_text": "Eight-slide carousel. Slide 1: running creators on WhatsApp, five rules that keep it in order. Slide 2: the chat is fast, finding things in it is slow. Slide 3: one group and one pinned brief. Slide 4: one person gives feedback, numbered, with timestamps. Slide 5: versioned file names so final means final. Slide 6: a one-tab tracker outside the chat. Slide 7: the whole system in six lines. Slide 8: follow @galvor.ai.",
+  "cta": "Save and send to whoever manages creators",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Quick tip",
+        "headline": "Running creators on WhatsApp? *Five rules* that keep it in order",
+        "sub": "No new tool needed. Set these up once."
+      },
+      {
+        "layout": "text",
+        "kicker": "Where it breaks",
+        "headline": "The chat is *fast*. Finding things in it is slow.",
+        "body": "The brief gets buried under voice notes, and feedback arrives from more than one person.\n\nBy the end, nobody is sure which file is final."
+      },
+      {
+        "layout": "list",
+        "kicker": "Rules 1 and 2",
+        "headline": "One group, *one pinned brief*",
+        "items": [
+          "One group per creator per campaign",
+          "The brief is a single message, pinned",
+          "A change is a new pinned message marked v2"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Rules 3 and 4",
+        "headline": "One voice, *one round* at a time",
+        "items": [
+          "One named person gives feedback",
+          "Feedback is one message, with numbered points",
+          "Each point carries the time in the video"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Rule 5",
+        "headline": "Name files so *final means final*",
+        "items": [
+          "Brand_Creator_Concept_v1, then v2, then v3",
+          "The approved cut is renamed FINAL with the date",
+          "Only FINAL files go to the media buyer"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Outside the chat",
+        "headline": "A *one-tab tracker* does the remembering",
+        "items": [
+          "One row per video",
+          "Status: briefed, shot, in review, approved, live",
+          "A link to the FINAL file",
+          "Updated daily by one owner"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "The *WhatsApp creator system*",
+        "items": [
+          "One group per creator per campaign",
+          "One pinned brief",
+          "One person gives feedback",
+          "Numbered notes with video times",
+          "Versioned file names",
+          "One tracker outside the chat"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Keep WhatsApp. *Add the rules.*",
+        "sub": "Save this and send it to your creator manager.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the system",
+          "Send to your creator manager"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: the brand or agency person who manages creators over WhatsApp. One argument: the chat is fine, the missing piece is a handful of rules plus a tracker. Shape: how-to. No numbers used. The '30 creators' in the old title is dropped because that figure is not in the facts bank. Nothing here refers to a client or a real incident. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:55:39",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:23:16",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-112",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

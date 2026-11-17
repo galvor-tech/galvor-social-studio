@@ -1,0 +1,29 @@
+@font-face{font-family:Inter;src:url("file:///D:/galvor_linkedin/studio/static/fonts/Inter.ttf");font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1440px;background:#fff;font-family:Inter,sans-serif;color:#161616}
+.f{width:1440px;border:3px solid #111;padding:52px 50px 40px}
+h1{font-size:40px;font-weight:700;letter-spacing:-.01em}
+.sub{font-size:25px;color:#5a5a5a;margin-top:14px;line-height:1.4}
+.rule{border-top:2px solid #e3e1dc;margin:30px 0}
+.note{font-size:21px;color:#666;margin-top:28px}
+.card{border-radius:10px;padding:26px 28px;background:#FFF1E6;border-left:9px solid #FF7A59}
+.card.b{background:#EFE8FF;border-left-color:#6D3BE0}
+.k{font-size:21px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#C2410C}
+.b .k{color:#6D3BE0}
+.t{font-size:31px;font-weight:700;margin-top:10px}
+.p{font-size:23px;line-height:1.42;margin-top:12px;color:#2b2b2b}
+.p b{font-weight:650}
+.g3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:26px}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:30px}
+.chip{display:inline-block;font-size:21px;font-weight:600;padding:7px 14px;border-radius:999px;background:#fff;border:1.5px solid #FFC2B0;margin:12px 8px 0 0}
+.b .chip{border-color:#BBA6F2;color:#4B22B5}
+
+/* ROUND2 */
+.f{position:relative;border-color:#1A1033}
+.f:before{content:"";position:absolute;left:0;right:0;top:0;height:16px;background:linear-gradient(90deg,#6D3BE0,#C13BE0 30%,#FF5E5B 55%,#FFB81F 78%,#00A99D)}
+h1{color:#1A1033}
+.band{width:100%;height:340px;object-fit:cover;border-radius:14px;display:block;margin-bottom:30px}
+.teal{background:#DFF6F3!important;border-left-color:#00A99D!important}.teal .k,.teal .n{color:#00877D!important}
+.gold{background:#FFF3D1!important;border-left-color:#FFB81F!important}.gold .k,.gold .n{color:#B86E00!important}
+
+.coral{background:#FFE9E2!important;border-left-color:#FF5E5B!important}.coral .k{color:#C2410C!important}

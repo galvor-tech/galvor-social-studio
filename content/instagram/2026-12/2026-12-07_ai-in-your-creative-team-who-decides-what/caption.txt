@@ -1,0 +1,13 @@
+Before you add AI to a creative team, write down which decisions stay with people.
+
+Most teams are comfortable with AI doing the reading: tagging ads, counting what repeats, flagging what is slowing down.
+
+The doubt starts when a tool changes spend or approves creative and cannot say why.
+
+So agree the split first. AI reads and suggests, with reasons. A named person decides anything that spends or goes live.
+
+That is how we built Galvor: it never touches the media budget.
+
+Save the questions on the last slide for your next vendor call.
+
+#aiinmarketing #creativestrategy #performancemarketing #d2cindia #KnowWhyYourAdsWin

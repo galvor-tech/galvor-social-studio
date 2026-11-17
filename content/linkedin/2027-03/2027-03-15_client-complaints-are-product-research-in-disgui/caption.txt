@@ -1,0 +1,24 @@
+Client complaints are product research in disguise.
+
+When I started in client servicing, I treated every complaint as a fire. Fix it, apologise, move on.
+
+Then I started writing them down. Not the fix. The complaint itself, in the client's words.
+
+After a few weeks, the list stopped looking like a list of problems. It looked like a list of patterns.
+
+"We didn't know the video was delayed" kept coming up. That wasn't a creator problem. It was a visibility problem: clients had no single place to see the status of every asset.
+
+"Why does this need another round?" kept coming up. That wasn't a quality problem. It was a feedback problem: must-fix and preference were mixed in the same notes.
+
+Each pattern became a change in how we work, and some went to our product team.
+
+What I do now:
+→ log every complaint the day it happens, in the client's words
+→ once a month, group them and look for the repeat
+→ ask: is this a person problem, a process problem or a product problem?
+
+Most of the time, it's process. Sometimes it's product. Rarely is it the person.
+
+What's a client complaint that changed how your team works?
+
+#ClientServicing #CreatorMarketing #D2C

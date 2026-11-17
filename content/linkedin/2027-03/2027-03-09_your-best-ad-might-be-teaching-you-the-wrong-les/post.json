@@ -1,0 +1,54 @@
+{
+  "id": "li-2027-03-09-your-best-ad-might-be-teaching-you-the-wrong-les",
+  "slug": "your-best-ad-might-be-teaching-you-the-wrong-les",
+  "platform": "linkedin",
+  "date": "2027-03-09",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Brand Memory / POV",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Your best ad might be teaching you the wrong lesson",
+  "hook": "Your best-performing ad might be teaching you the wrong lesson.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Year-end budgets: spend that teaches",
+  "caption": "Your best-performing ad might be teaching you the wrong lesson.\n\nEvery team has one. The ad that carried last quarter. Everyone points to it in planning: make more like that.\n\nSo the team copies what it can see. The colour. The creator. The format. The music.\n\nBut the ad didn't win because of what's easy to see. It won because of one or two things nobody wrote down. Maybe the buyer it spoke to. Maybe the first two seconds. Maybe the objection it answered halfway through.\n\nWe see this pattern across the brands we work with. In the new video ads Galvor analysed from May to September 2026, a proven message in a new look got 47% more first-month spend. A new message over a familiar first shot got 16% less.\n\nSame lesson, both directions: what worked was the message and the buyer, not the backdrop.\n\nBefore you brief ten copies of your best ad, ask one question: which part of it actually did the work? If the answer is \"all of it\", you haven't decoded it yet.\n\nA winning ad is a hypothesis that survived. Treat it like one.",
+  "first_comment": "",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#PerformanceMarketing",
+    "#D2CIndia"
+  ],
+  "alt_text": "Title card on a violet background: Your best ad might be teaching you the wrong lesson.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Planning season",
+        "headline": "Your best ad might be teaching you the *wrong lesson*.",
+        "sub": "Which part of it actually did the work?"
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Numbers from Decoded #3 (facts bank).\n[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:22",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-03-09 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:50",
+  "updated_at": "2026-11-11T01:04:22",
+  "topic_ref": "S14"
+}

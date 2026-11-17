@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-01-04-setting-client-expectations-when-ai-output-needs",
+  "slug": "setting-client-expectations-when-ai-output-needs",
+  "platform": "linkedin",
+  "date": "2027-01-04",
+  "time": "12:30",
+  "voice": "shrutik",
+  "pillar": "AI & the Team",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "AI output needs rounds: what to say on the first call",
+  "hook": "AI creative needs a few rounds. Say so on the first call.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "AI creative needs a few rounds. Say so on the first call.\nA client who expects a finished film in round one will read every later round as a failure.\n\nWith the first briefs of the year going out this week, here is how I set it up on that call. Each round gets a name and one job.\n\nRound one is direction. One question only: is this the right idea, look and voice? Small flaws are expected here and nobody lists them.\n\nRound two is accuracy. Product, pack, claim and on-screen text.\n\nRound three is polish. Timing, sound and subtitles.\n\nThen the rule that protects the dates. A note belongs to its round. A change of idea in round three sends us back to round one, and the go-live date moves with it. Said on day one, that is a plan. Said in week three, it sounds like an excuse.\n\nAfter the call, it goes in writing: the rounds, what each is for, and who replies by when.\n\nThis matters more with AI because round one arrives so fast. People then expect the final cut at the same speed.\n\nRounds stop feeling like rework when everyone was told they were coming.",
+  "first_comment": "More from the brief-to-live desk every Monday. Follow Galvor.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Text-only post, no image.",
+  "cta": "Follow Galvor (first comment)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Shrutik: that this three-round setup (direction, accuracy, polish) is what he tells clients on a first call for AI creative work, and that Galvor's delivery really runs in about three rounds. If the real number of rounds differs, change the post to match.\nReader: an agency or brand lead about to commission AI creative (De-risk). Shape: how-to script for one call. Hook shape: punchy plus context. Numbers used: none.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:18",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-04 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:18:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:18:43",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:28",
+  "updated_at": "2026-11-16T21:18:43",
+  "topic_ref": "Sh32",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

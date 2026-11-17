@@ -1,0 +1,134 @@
+{
+  "id": "ig-2027-02-03-reel-the-first-3-seconds-frame-by-frame",
+  "slug": "reel-the-first-3-seconds-frame-by-frame",
+  "platform": "instagram",
+  "date": "2027-02-03",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Ad Breakdown",
+  "job": "Educate",
+  "format": "reel",
+  "series": "",
+  "title": "Reel: the first three seconds, one second at a time",
+  "hook": "The first three seconds of your ad, one second at a time.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "The first three seconds of your ad, one second at a time.\n\nSecond 1: show something your running ads haven't shown.\nSecond 2: put the buyer or their problem on screen.\nSecond 3: give the reason to stay. Say what they will get by the end, in words on screen.\n\nWhy the opening gets this much care: in our analysis of new video ads launched May to September 2026, a new message over a familiar first shot got 16% less first-month spend.\n\nSave this for your next edit. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#adcreative",
+    "#metaads",
+    "#marketingtips",
+    "#d2cindia",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Reel cover in Galvor violet and gold reading: Your ad's first three seconds. The reel breaks the opening of a dummy ad into three seconds: a new picture, the buyer or their problem, and the reason to stay, with one number from Galvor's analysis: a new message over a familiar first shot got 16% less first-month spend. End card: follow @galvor.ai.",
+  "cta": "Save for your next edit; follow @galvor.ai",
+  "script": {
+    "duration": "40s",
+    "setup": "Idea: a video editor or creative strategist who puts the new idea in the middle of the ad learns what each of the first three seconds has to do. On-screen title: Your ad's first three seconds. Expectation set: a breakdown of an opening. The script beats it with a number from our analysis and a job for each second. Outline: familiar first shot costs spend (our finding); second one, a new picture; second two, the buyer or problem (second-best); second three, the reason to stay (best).",
+    "scenes": [
+      {
+        "time": "0–5s",
+        "visual": "A dummy ad plays on a phone with a three-second timer bar above it, split into three blocks.",
+        "voiceover": "The first three seconds of your ad, one second at a time.",
+        "on_screen": "Your ad's first three seconds"
+      },
+      {
+        "time": "5–9s",
+        "visual": "The opening is drawn as wrapping paper around a box labelled message.",
+        "voiceover": "The common view: the message matters, the opening is packaging.",
+        "on_screen": "Is the opening just packaging?"
+      },
+      {
+        "time": "9–13s",
+        "visual": "A new line of copy sits over a familiar-looking opening frame. A bar shrinks. Small source line: Galvor analysis, ads launched May–Sep 2026.",
+        "voiceover": "New message, familiar first shot: sixteen percent less first-month spend.",
+        "on_screen": "Familiar first shot: 16% less"
+      },
+      {
+        "time": "13–17s",
+        "visual": "The timer bar returns, its three blocks numbered.",
+        "voiceover": "So here's what each second has to do.",
+        "on_screen": "What each second does"
+      },
+      {
+        "time": "17–21s",
+        "visual": "Block one lights up. The opening frame changes to a clearly different picture.",
+        "voiceover": "Second one: show something your running ads haven't shown.",
+        "on_screen": "Second 1: a new picture"
+      },
+      {
+        "time": "21–25s",
+        "visual": "Block two lights up. A person, or a close-up of the problem, fills the frame.",
+        "voiceover": "Second two: put the buyer or their problem on screen.",
+        "on_screen": "Second 2: buyer or problem"
+      },
+      {
+        "time": "25–30s",
+        "visual": "Block three lights up and pulses.",
+        "voiceover": "Second three is the one most ads skip: the reason to stay.",
+        "on_screen": "Second 3: reason to stay"
+      },
+      {
+        "time": "30–35s",
+        "visual": "A short line of text appears on the ad itself, promising what the viewer will get.",
+        "voiceover": "Say what they'll get by the end. In words, on screen.",
+        "on_screen": "Say what they'll get"
+      },
+      {
+        "time": "35–40s",
+        "visual": "End card with the three blocks ticked and the Galvor logo. Chime.",
+        "voiceover": "Win three seconds, earn the rest. Follow @galvor.ai.",
+        "on_screen": "Win three seconds first"
+      }
+    ],
+    "music": "Light instrumental bed, low under the voice. Soft chime on the end card only.",
+    "notes": "AI voiceover over motion graphics. No presenter and no first person singular. Captions burned in for muted viewing. Use dummy ad tiles only, never a client account or name. Number: 16% less first-month spend for a new message over a familiar first shot, Galvor analysis of every new video ad launched May–Sep 2026 across brands we work with (Decoded #3). Show the source line on screen in scene 3. Use a dummy ad made for this reel, never a client's ad."
+  },
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Reel",
+        "headline": "Your ad's *first three seconds*",
+        "sub": "One second at a time.",
+        "play": "Watch the breakdown"
+      },
+      {
+        "layout": "cta",
+        "headline": "Win three seconds. *Then the message gets its chance.*",
+        "sub": "Save this for your next edit.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save this reel"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the topic and gave each second one job. Number used: 16% less first-month spend (Galvor analysis of ads launched May–Sep 2026). To confirm with Raj: 'the one most ads skip' in scene 7 is a view, not a measured finding; soften to 'the one that is easy to skip' if he prefers. Slide 1 is the cover, slide 2 the end card.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-03 19:00)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:01",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-120",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ig-2026-12-22-story-pack-year-end-this-or-that",
+  "slug": "story-pack-year-end-this-or-that",
+  "platform": "instagram",
+  "date": "2026-12-22",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Meme / Relatable",
+  "job": "Attract",
+  "format": "story",
+  "series": "",
+  "title": "Story pack: which year-end deck is yours?",
+  "hook": "There are two kinds of year-end marketing deck. Which one is on your screen?",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Story pack (no feed caption).\n\nA this-or-that for the last working week of the year. Frame 2 sets the two decks side by side. Frame 3 is the poll. Frame 4 gives the one slide worth adding.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Five vertical story frames. Frame 1: The year-end deck, which one is yours? Frame 2 compares Deck A (spend by month, ROAS by month, top ten ads, thank you) with Deck B (what we tested, what we learnt, what we stop doing, what we test first). Frame 3 is a poll asking which deck is on your screen. Frame 4 suggests adding a slide called three things our ads taught us. Frame 5: every ad should make the next one better.",
+  "cta": "Vote in the poll; share with whoever is building the deck",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "story",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Year-end edition",
+        "headline": "The year-end deck: *which one is yours?*",
+        "sub": "Tap to vote."
+      },
+      {
+        "layout": "compare",
+        "kicker": "This or that",
+        "headline": "Two kinds of *year-end deck*",
+        "left_title": "Deck A",
+        "left": [
+          "Spend by month",
+          "ROAS by month",
+          "Top ten ads",
+          "Thank you"
+        ],
+        "right_title": "Deck B",
+        "right": [
+          "What we tested",
+          "What we learnt",
+          "What we stop doing",
+          "What we test first"
+        ]
+      },
+      {
+        "layout": "poll",
+        "kicker": "Be honest",
+        "headline": "Which deck is *on your screen* right now?",
+        "options": [
+          "Deck A",
+          "Deck B",
+          "A, with one B slide",
+          "No deck yet"
+        ],
+        "sub": "Vote with the poll sticker."
+      },
+      {
+        "layout": "text",
+        "kicker": "One slide to add",
+        "headline": "\"Three things our ads *taught us*\"",
+        "body": "One line each, in plain words.\n\nIt is the slide your January plan can use."
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make the *next one* better.",
+        "sub": "Send this to whoever is building the deck.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Share this story"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Kept the this-or-that idea and narrowed it to one relatable choice: a deck of spend or a deck of lessons. Interactive ask: poll sticker on frame 3 with the four options as written. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:54:40",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-22 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:23:58",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:22:24",
+  "updated_at": "2026-11-16T21:23:58",
+  "topic_ref": "IG-102",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

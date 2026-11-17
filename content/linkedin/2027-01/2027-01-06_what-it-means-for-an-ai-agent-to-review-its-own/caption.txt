@@ -1,0 +1,18 @@
+'Our agent learns from its mistakes' should make you ask one thing.
+What did it write down before the mistake?
+
+Learning needs a record. Without one, an agent that changes its behaviour is only drifting. These are the four questions I would put to any vendor, and the standard we hold our own work to.
+
+1. Does each recommendation record what it expected? 'Scale this ad' is a guess until it says what should happen, and by when.
+
+2. Is it scored against what happened? A recommendation nobody scores is an opinion.
+
+3. When it was wrong, can it tell thin data from bad reasoning? An ad with too few orders teaches nothing. That miss should be flagged and left alone.
+
+4. Who approves a change to the rules? An agent that quietly rewrites itself is an agent nobody can audit. A person should see the miss first.
+
+None of this is clever. It is bookkeeping: a prediction, a result and a note on the gap, kept for every call.
+
+In a Monday review, that is what learning should look like. You open the record and see where the system was wrong.
+
+#AIinMarketing #MarketingAnalytics #BrandMemory

@@ -1,0 +1,132 @@
+{
+  "id": "li-2027-01-20-same-category-three-brands-three-hooks",
+  "slug": "same-category-three-brands-three-hooks",
+  "platform": "linkedin",
+  "date": "2027-01-20",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Attract",
+  "format": "carousel",
+  "series": "",
+  "title": "Same category, three hooks: a 20-minute Ad Library exercise",
+  "hook": "Line up three ads from your category. Read only the openings.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Line up three ads from your category. Read only the openings.\nWhat they share tells you where your next ad will blend in.\n\nThis is a 20-minute exercise with the public Meta Ad Library. I have shown it on a made-up set of three sunscreen ads, so no real brand is being judged.\n\nSort each opening into one of three lanes. It opens on a problem, on proof, or on a person. Then count.\n\nOne caution on what the count means. The library shows what a brand is running. It does not show what is selling. So a crowded lane is a fact about the feed.\n\nThe empty lane is a test worth running on your own ads.",
+  "first_comment": "Follow Galvor for more ways to read public ads without guessing at anyone's results.",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#AdCreative",
+    "#MetaAds"
+  ],
+  "alt_text": "Seven-slide carousel. Cover: Same category. Three hooks. Then: what to collect from the public Ad Library; the three lanes an opening can take (problem, proof, person); a made-up example of three sunscreen ads; what the count can and cannot tell you; the empty lane as your test brief; and a closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; try the exercise this week",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Hook side-by-side",
+        "headline": "Same category. *Three hooks.*",
+        "sub": "A 20-minute exercise with the public Ad Library."
+      },
+      {
+        "layout": "list",
+        "kicker": "The set-up",
+        "headline": "What to *collect*",
+        "items": [
+          "Three to five brands — in your category",
+          "Their newest video ads — from the public Ad Library",
+          "The first three seconds — and nothing after",
+          "One row per ad — in a sheet"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "The three lanes",
+        "headline": "Every opening picks *one*",
+        "items": [
+          "Problem — names what is wrong",
+          "Proof — shows a result or a test",
+          "Person — someone you would listen to"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Made-up example",
+        "headline": "Three *sunscreen* ads",
+        "body": "Ad one opens on a white cast in a selfie. Problem.\n\nAd two opens on a white mark on a dark sleeve. Problem.\n\nAd three opens on a dermatologist holding the tube. Person.\n\nNobody opens on proof."
+      },
+      {
+        "layout": "compare",
+        "kicker": "Stay honest",
+        "headline": "What the count *can tell you*",
+        "left_title": "It can",
+        "left": [
+          "What the feed looks like",
+          "Which lane is crowded",
+          "Which lane is empty"
+        ],
+        "right_title": "It cannot",
+        "right": [
+          "What is selling",
+          "What anyone spends",
+          "Why an ad is still live"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "The brief",
+        "headline": "The empty lane is *your test*",
+        "body": "In the example, proof is open. So the brief writes itself: open on a UV camera, or a wear test at the beach.\n\nSame product and same message, with a first shot the category is not using.\n\nThen let your own cost per order decide."
+      },
+      {
+        "layout": "cta",
+        "headline": "Read the openings. *Count the lanes.*",
+        "sub": "Try it on your category this week.",
+        "actions": [
+          "Follow Galvor",
+          "Save this exercise"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: the old draft said you had lined up three real sunscreen ads. That could not be verified, and naming or implying real brands is against the rules, so the example is now made up and labelled. If you want to run the exercise for real on a category and report only what is visible (no brand names, no results), the post can carry that instead.\nThe three lanes (problem, proof, person) are a simple sorting scheme written for this post. Confirm it does not clash with Decode's hook types, or swap in those names.\nHook shape: punchy plus context.\nNumbers: none.\nReader: a creative strategist who already browses the Ad Library and wants a way to turn it into a brief.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:53:56",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:19",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-20 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:56",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:40",
+  "updated_at": "2026-11-16T21:20:01",
+  "topic_ref": "R5",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

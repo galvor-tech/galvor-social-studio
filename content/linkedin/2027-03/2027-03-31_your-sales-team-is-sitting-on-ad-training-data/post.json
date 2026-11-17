@@ -1,0 +1,53 @@
+{
+  "id": "li-2027-03-31-your-sales-team-is-sitting-on-ad-training-data",
+  "slug": "your-sales-team-is-sitting-on-ad-training-data",
+  "platform": "linkedin",
+  "date": "2027-03-31",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Measurement",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Your sales team is sitting on ad-training data",
+  "hook": "Your sales team is sitting on ad-training data.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Year-end budgets: spend that teaches",
+  "caption": "Your sales team is sitting on ad-training data.\n\nMany of the accounts I've looked at optimise ads on what Meta can see: clicks, add-to-carts, purchases. For high-consideration products, a lot of the buying happens after that. A call, a WhatsApp chat, a demo, a second visit.\n\nThe people who know which leads were real sit in sales and support. They just never tell the ad system.\n\nThree things from the sales side I'd want feeding the ads:\n1. Which leads became customers. Not just how many leads came in.\n2. Why the ones who didn't buy said no. Price? Wrong product? Not the person the ad promised?\n3. What customers said in their own words on the call. Those lines often make better hooks than anything we'd write.\n\nThe first goes back to Meta as offline conversions, so it learns which people actually buy. The second and third go into the next brief.\n\nWhen this loop is missing, the ads keep finding more people like the ones who fill in forms, not the ones who pay.\n\nIf your sales team keeps a lead-quality sheet that nobody in marketing opens, start there.\n\nWhat does your sales team know about your ads that your dashboard doesn't?",
+  "first_comment": "",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#MetaAds",
+    "#MarketingAnalytics"
+  ],
+  "alt_text": "Quote card on a violet background: Your sales team knows which leads were real. Your ads don't.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "statement",
+        "headline": "Your sales team knows which leads were real. *Your ads don't.*",
+        "sub": "Feed it back: outcomes, objections, customers' own words."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "[16 Nov 2026] Media deleted; script awaits Suyash's decision before any media is made.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:23",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-03-31 09:00)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:19:19",
+  "updated_at": "2026-11-11T01:04:23",
+  "topic_ref": "R33"
+}

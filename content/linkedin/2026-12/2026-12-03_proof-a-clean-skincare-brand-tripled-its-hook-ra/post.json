@@ -1,0 +1,118 @@
+{
+  "id": "li-2026-12-03-proof-a-clean-skincare-brand-tripled-its-hook-ra",
+  "slug": "proof-a-clean-skincare-brand-tripled-its-hook-ra",
+  "platform": "linkedin",
+  "date": "2026-12-03",
+  "time": "09:00",
+  "voice": "company",
+  "pillar": "Proof / Case Study",
+  "job": "De-risk",
+  "format": "carousel",
+  "series": "",
+  "title": "Proof (beauty): 3× hook rate, and the hook audit anyone can copy",
+  "hook": "A skincare brand tripled its hook rate. We never touched the budget.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "A skincare brand tripled its hook rate. We never touched the budget.\nThe result is published. The first step of the method is something you can run this week without us.\n\nThe numbers for this clean skincare and serum D2C brand (anonymised, on galvor.ai): 3× hook rate, +112% RoAS and 30% less wasted spend.\n\nOne brand's numbers will not be yours. The method travels.\n\nThe slides show a hook audit for your own account: sort your last 20 ads by how they open, compare hook rate by group, and brief the next batch from what you find.\n\nEvery ad should make the next one better.",
+  "first_comment": "The published results and the method: https://galvor.ai/results/\n\nComment “decode” and we will decode your category, free.",
+  "hashtags": [
+    "#D2CIndia",
+    "#CreativeStrategy",
+    "#AdCreative"
+  ],
+  "alt_text": "Seven-slide Galvor carousel. Slide 1: a skincare brand tripled its hook rate, here is the audit to copy. Slide 2: 3× hook rate for an anonymised clean skincare and serum D2C brand. Slide 3: +112% RoAS with 30% less wasted spend. Slide 4: sort your last 20 ads by how they open. Slide 5: compare hook rate by group, where hook rate is three-second views divided by impressions. Slide 6: brief the next batch from the pattern and keep one or two ads for a new opening. Slide 7: follow Galvor, comment decode for a free category decode. Source: galvor.ai/results.",
+  "cta": "Direct: comment “decode” for a free category decode",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Proof · Beauty D2C",
+        "headline": "A skincare brand *tripled* its hook rate. Here is the audit to copy.",
+        "sub": "Anonymised client · results published on galvor.ai"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Hook rate",
+        "stat": "3×",
+        "headline": "hook rate for a clean skincare and serum *D2C brand*",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Return on ad spend",
+        "stat": "+112%",
+        "headline": "RoAS, with *30% less* wasted spend",
+        "sub": "We work on what goes into the ads. The media budget stays with the brand.",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "list",
+        "kicker": "Hook audit · Step 1",
+        "headline": "Sort your last 20 ads by *how they open*",
+        "items": [
+          "The problem, said out loud",
+          "The product in hand",
+          "A face talking to camera",
+          "The result shown first",
+          "Text on screen only"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Hook audit · Step 2",
+        "headline": "Compare *hook rate* by group",
+        "body": "Hook rate is three-second views divided by impressions.\n\nWork it out for each group, not each ad. One ad can be a fluke. A group of five that all hold attention is a pattern you can brief from."
+      },
+      {
+        "layout": "text",
+        "kicker": "Hook audit · Step 3",
+        "headline": "Brief the next batch from the *pattern*",
+        "body": "Make most of the next batch open the way your strongest group does.\n\nKeep one or two ads for an opening you have never tried, so the audit has something new to read in a fortnight."
+      },
+      {
+        "layout": "cta",
+        "headline": "Want this done across *50+ attributes*?",
+        "sub": "We will decode your category, free.",
+        "actions": [
+          "Follow Galvor",
+          "Comment “decode”",
+          "Results link in the first comment"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil: the period these published results cover, and that 'we never touched its media budget' is accurate for this client (the spec states it as Galvor's general rule). Do not add the client name. Hook shape: punchy plus context. Reader: a growth lead who distrusts vendor case studies. Proof plus a method to copy, so the post is useful even to a reader who never buys. Numbers: 3× hook rate, +112% RoAS, 30% less wasted spend (galvor.ai/results, anonymised beauty client); used only in this post. The 'last 20 ads' is a suggested sample size, not a statistic.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:53:08",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-03 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:21:50",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:16:07",
+  "updated_at": "2026-11-16T21:22:00",
+  "topic_ref": "CO-proof-beauty",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

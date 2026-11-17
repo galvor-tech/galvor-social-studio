@@ -1,0 +1,68 @@
+{
+  "id": "ig-2027-01-26-republic-day-greeting-2027",
+  "slug": "republic-day-greeting-2027",
+  "platform": "instagram",
+  "date": "2027-01-26",
+  "time": "11:00",
+  "voice": "company",
+  "pillar": "Festival / Culture",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Republic Day greeting 2027",
+  "hook": "Happy Republic Day from all of us at Galvor.",
+  "status": "draft",
+  "festival": "Republic Day",
+  "theme": "The learning loop",
+  "caption": "Happy Republic Day from all of us at Galvor.\n\nToday we remember the day India gave itself a Constitution, and the people who wrote down what kind of country this would be.\n\nWishing you a proud and peaceful 26th of January, a good view of the parade and a day off well spent.\n\nJai Hind.",
+  "first_comment": "",
+  "hashtags": [
+    "#RepublicDay",
+    "#RepublicDay2027",
+    "#JaiHind",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Festival card in Galvor violet and gold with a sparkle motif. It reads Happy Republic Day, then: proud of where we build, grateful for those who built before us. Below: Jai Hind, from all of us at Galvor.",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "festival",
+        "motif": "✨",
+        "kicker": "26 January 2027",
+        "greeting": "Happy Republic Day",
+        "headline": "Proud of where we build. *Grateful* to those who built before us.",
+        "sub": "Jai Hind, from all of us at Galvor."
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Greeting only, no sale or marketing tie-in. Sparkle motif because flag emoji do not render in the image template. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:20",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-01-26 11:00)"
+    },
+    {
+      "at": "2026-11-16T21:16:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:16:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:24:50",
+  "updated_at": "2026-11-16T21:16:53",
+  "topic_ref": "IG-131",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

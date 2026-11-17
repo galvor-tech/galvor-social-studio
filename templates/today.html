@@ -1,0 +1,115 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Today · Galvor Social Studio{% endblock %}
+{% block body %}
+<h1>Today</h1>
+<p class="sub">{{ today_str|d('%A, %d %B %Y') }}{% if theme %} · This month's theme: <b>{{ theme }}</b>{% endif %}</p>
+
+<div class="grid g4">
+  <div class="stat lav"><h5>To post today</h5><div class="v">{{ stats.today }}</div><p>{{ due_now|length }} due now · {{ later|length }} later today.</p></div>
+  <div class="stat {{ 'peach' if stats.missed else 'mint' }}"><h5>Missed</h5><div class="v">{{ stats.missed }}</div><p>Planned, not marked posted (last 3 weeks).</p></div>
+  <div class="stat blue"><h5>Ready ahead</h5><div class="v">
+    {% for k, b in buf.items() %}<span class="lvl-{{ b.level }}" title="{{ k }}">{{ 'LI' if k=='linkedin' else 'IG' }} {{ b.days }}d</span>{% if not loop.last %} · {% endif %}{% endfor %}</div>
+    <p>Days of approved posts queued. Aim for 7+.</p></div>
+  <div class="stat mint"><h5>Awaiting approval</h5><div class="v">{{ stats.review }}</div><p>{{ stats.published_month }} posted this month.</p></div>
+</div>
+
+<div class="panel" style="margin-top:16px">
+  <div class="panel-h lav"><h3>Your queue</h3><small>The order of work: read the script, choose it, media is made in the Claude terminal, then review and post</small></div>
+  <div class="grid g4" style="padding:14px 18px;gap:12px">
+    <a class="card" href="/scripts" style="padding:14px 16px;text-decoration:none;color:inherit"><b style="font-size:26px">{{ scripts_waiting }}</b><div><b>Scripts to read</b></div><div class="small muted">going out in the next 14 days</div></a>
+    <a class="card" href="/scripts#chosen" style="padding:14px 16px;text-decoration:none;color:inherit"><b style="font-size:26px">{{ plus.briefs }}</b><div><b>Waiting for media</b></div><div class="small muted">scripts you chose; ask the terminal to make them</div></a>
+    <a class="card" href="/references" style="padding:14px 16px;text-decoration:none;color:inherit"><b style="font-size:26px">{{ refs_to_read }}</b><div><b>References to read</b></div><div class="small muted">shared items with no deep dive yet</div></a>
+    <a class="card" href="/competitors" style="padding:14px 16px;text-decoration:none;color:inherit"><b style="font-size:26px">{{ plus.comp_days if plus.comp_days is not none else '—' }}</b><div><b>Days since competitor scan</b></div><div class="small muted">scan weekly; about ${{ '%.2f'|format(plus.comp_usd) }} each</div></a>
+  </div>
+  {% if plus.rewrites %}<p class="small" style="padding:0 18px 12px;margin:0">{{ plus.rewrites }} script(s) are waiting to be rewritten from your content in the Claude terminal.</p>{% endif %}
+</div>
+
+{% for k, b in buf.items() %}{% if b.level != 'ok' and b.next_unready %}
+<div class="flash {{ 'error' if b.level=='bad' else 'warn' }}">{{ 'LinkedIn' if k=='linkedin' else 'Instagram' }} has only <b>{{ b.days }} day(s)</b> of approved posts ready. Next one to get approved:
+  <a href="/post/{{ b.next_unready }}"><b>{{ b.next_unready_title }}</b></a> ({{ b.next_unready_date|d }}).</div>
+{% endif %}{% endfor %}
+
+{% if due_now %}
+<div class="panel">
+  <div class="panel-h peach"><h3>Post now</h3><span class="count">{{ due_now|length }}</span><small>Copy, post, then tap <b>Posted</b>. On your phone, use <b>Phone kit</b>.</small></div>
+  {% for p in due_now %}
+  {% set acts %}<button class="btn sm soft" onclick='copyText({{ ((p.caption or "") ~ ("\n\n" ~ (p.hashtags|join(" ")) if p.hashtags else ""))|tojson }}, "Caption copied")'>Copy caption</button>{% if p.first_comment %}<button class="btn sm" onclick='copyText({{ p.first_comment|tojson }}, "First comment copied")'>Copy 1st comment</button>{% endif %}<a class="btn sm" href="{{ kit_path(p) }}" target="_blank">Phone kit</a><a class="btn sm" href="/post/{{ p.id }}/download">Download</a><button class="btn sm primary" onclick="markPublished('{{ p.id }}')">Posted</button>{% endset %}
+  {{ m.row(p, true, acts) }}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if missed %}
+<div class="panel">
+  <div class="panel-h lav"><h3>Missed</h3><span class="count">{{ missed|length }}</span><small>Didn't go out on time. Already posted it? Tap <b>Posted</b>. Otherwise move it to the next free slot or skip it.</small></div>
+  {% for p in missed %}
+  {% set acts %}<button class="btn sm primary" onclick="markPublished('{{ p.id }}')">Posted</button><button class="btn sm soft" onclick="resched('{{ p.id }}')">Next free slot</button><button class="btn sm" onclick="setStatus('{{ p.id }}','skipped')">Skip</button>{% endset %}
+  {{ m.row(p, true, acts) }}
+  {% endfor %}
+</div>
+{% endif %}
+
+<div class="panel">
+  <div class="panel-h"><h3>Later today</h3><span class="count">{{ later|length }}</span><small>You'll get a reminder 30 minutes before, at post time, and again if it's missed.</small></div>
+  {% for p in later %}{% set acts %}<a class="btn sm" href="{{ kit_path(p) }}" target="_blank">Phone kit</a>{% endset %}{{ m.row(p, true, acts) }}{% else %}<div class="empty">Nothing else planned today.</div>{% endfor %}
+</div>
+
+{% if comments or just_live %}
+<div class="panel">
+  <div class="panel-h mint"><h3>Reply to comments</h3><span class="count">{{ comments|length }}</span><small>Replies in the first hour help a post reach more people.</small></div>
+  {% for c in comments %}
+  <div class="item cmt">
+    <div class="grow"><b>@{{ c.username }}</b> <span class="muted small">{{ (c.timestamp or '')[:16]|replace('T',' ') }}</span><div>{{ c.text }}</div>
+      <div class="row" style="margin-top:6px"><input class="in grow" id="r_{{ c.id }}" placeholder="Reply as @galvor.ai"><button class="btn sm primary" onclick="replyIg('{{ c.id }}')">Reply</button></div></div>
+  </div>
+  {% endfor %}
+  {% for p in just_live if p.platform=='linkedin' %}<div class="item"><div class="grow">{{ m.plat(p.platform) }} <b>{{ p.title }}</b> <span class="muted small">went live {{ (p.published_at or '')[11:16] }} — check comments on LinkedIn</span></div>{% if p.published_url %}<a class="btn sm" target="_blank" href="{{ p.published_url }}">Open post</a>{% endif %}</div>{% endfor %}
+  {% if not comments and not load_ig %}<div class="empty small">Instagram comments show here once Instagram is connected (Settings → Instagram).</div>{% endif %}
+</div>
+{% endif %}
+
+{% if goals %}
+<div class="panel">
+  <div class="panel-h blue"><h3>Goals</h3><small>Set in Settings → Goals.</small></div>
+  <div class="grid g3" style="padding:12px 16px">
+  {% for g in goals %}
+    <div><b>{{ g.label }}</b><div class="small muted">{{ g.current if g.current is not none else '—' }} of {{ g.target }} by {{ g.by|d('%d %b') }}</div>
+      <div class="meter"><i style="width:{{ g.pct }}%"></i></div>
+      <div class="small" style="margin-top:4px">{% if g.per_day is not none %}{% if g.per_day <= 0 %}<span class="lvl-ok">Target reached.</span>{% else %}Need <b>{{ g.per_day }}/day</b> for {{ g.days_left }} days.{% endif %}{% else %}<span class="muted">No data yet.</span>{% endif %}</div></div>
+  {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+<div class="panel">
+  <div class="panel-h lav"><h3>Fix before it's due</h3><span class="count">{{ attention|length }}</span><small>Next 14 days.</small></div>
+  {% for p, why in attention %}{{ m.row(p, true, '<span class="pill warn">' ~ why ~ '</span>') }}{% else %}<div class="empty">All clear for the next two weeks.</div>{% endfor %}
+</div>
+
+<div class="panel">
+  <div class="panel-h mint"><h3>Indian festivals — next 30 days</h3><span class="count">{{ upcoming_f|length }}</span><a class="btn sm" style="margin-left:auto" href="{{ url_for('festivals_page') }}">Full calendar</a></div>
+  {% for f in upcoming_f %}
+  <div class="item">
+    <div style="width:110px" class="muted small">{{ f.date|d }}</div>
+    <div class="grow"><b>{{ f.name }}</b> {% set h = f.holiday or 'none' %}<span class="pill hol-{{ h }}">{{ {'gazetted':'Gazetted holiday','restricted':'Restricted holiday','none':'Observance'}[h] }}</span>{% if f.confidence != 'confirmed' %} <span class="pill warn">{{ f.confidence|replace('_',' ') }}</span>{% endif %}<div class="d small muted">{{ f.notes[:160] }}</div></div>
+    <a class="btn sm soft" href="{{ url_for('new_post', platform='instagram', date=f.date, festival=f.name, format='image', pillar='Festival / Culture', time='11:00') }}">+ Instagram</a>
+    <a class="btn sm soft" href="{{ url_for('new_post', platform='linkedin', date=f.date, festival=f.name, format='image', pillar='Festival / Culture', voice='company', time='09:00') }}">+ LinkedIn</a>
+  </div>
+  {% else %}<div class="empty">No key dates in the next 30 days.</div>{% endfor %}
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+async function resched(id) {
+  const j = await api('/api/post/' + encodeURIComponent(id) + '/reschedule');
+  if (!j.ok) return toast(j.error || 'Failed', 5000);
+  toast(j.message, 3000); setTimeout(() => location.reload(), 900);
+}
+async function replyIg(cid) {
+  const el = document.getElementById('r_' + cid); const text = el.value.trim(); if (!text) return;
+  const j = await api('/api/ig/reply', { comment_id: cid, text });
+  if (!j.ok) return toast(j.reason || j.error || 'Reply failed', 6000);
+  toast('Replied ✓'); el.closest('.cmt').remove();
+}
+</script>
+{% endblock %}

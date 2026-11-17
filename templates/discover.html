@@ -1,0 +1,104 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Research · Galvor Social Studio{% endblock %}
+{% block body %}
+<div class="row"><h1 class="grow">Research</h1>
+  <button class="btn soft" onclick="makeIdeas()">Make ideas from ticked</button></div>
+<p class="sub">Nothing is searched until you ask. Type a keyword or topic, tick where to look, and run it; or tick saved sources below and scan just those.
+Spend today: <b>${{ '%.3f'|format(spend.today) }}</b> of ${{ '%.2f'|format(spend.cap) }}. Instagram searches today: <b>{{ spend.hiker_searches }}</b> of {{ spend.hiker_limit }}.
+{% if last %}Last search {{ (last.finished_at or last.started_at or '')[:16]|replace('T',' ') }} UTC · {{ last.seen }} posts{% if last.errors %} · <span class="lvl-warn">{{ last.errors|length }} source error(s)</span>{% endif %}.{% endif %}</p>
+
+<div class="panel">
+  <div class="panel-h lav"><h3>Search a keyword or topic</h3><small>Job ads, people looking for work and giveaways are left out of the results</small></div>
+  <div style="padding:14px 18px">
+    <input class="in" id="sq" style="width:100%;font-size:16px" placeholder="e.g. creative fatigue, UGC brief, Andromeda creative diversity" onkeydown="if(event.key==='Enter')runSearch()">
+    <div class="row" style="margin-top:12px;gap:16px;flex-wrap:wrap" id="skinds">
+      {% for k, l in search_kinds.items() %}
+      <label class="small" style="display:flex;gap:6px;align-items:center"><input type="checkbox" value="{{ k }}" data-usd="{{ unit[k] }}" onchange="est()" style="width:17px;height:17px"> {{ l }}</label>
+      {% endfor %}
+    </div>
+    <p class="small muted" style="margin:10px 0 0">Instagram hashtag uses your words joined into one tag. For an Instagram account type the handle; for LinkedIn paste the page or profile link.</p>
+    <div class="row" style="margin-top:12px;gap:12px"><button class="btn primary" id="searchBtn" onclick="runSearch()">Search</button><span class="small" id="sest">Tick where to look to see the cost.</span></div>
+  </div>
+</div>
+
+<details class="panel" style="padding:12px 16px" {{ 'open' if not items }}><summary><b>Saved sources</b> ({{ sources|length }}) · tick the ones to scan now</summary>
+  <table class="tbl" style="width:100%;margin-top:8px" id="srcs"><tr><th style="width:70px">Scan</th><th style="width:220px">Kind</th><th>Value</th><th style="width:80px">Cost</th><th style="width:50px"></th></tr>
+  {% for s in sources %}<tr data-id="{{ s.id }}"><td><input type="checkbox" class="spick" data-usd="{{ s.usd }}" onchange="est2()" style="width:17px;height:17px"></td><td><select class="in">{% for k, l in kinds.items() %}<option value="{{ k }}" {{ 'selected' if s.kind==k }}>{{ l }}</option>{% endfor %}</select></td><td><input class="in" value="{{ s.value }}" style="width:100%"></td><td class="small muted">${{ '%.3f'|format(s.usd) }}</td><td><button class="btn sm" onclick="this.closest('tr').remove()">✕</button></td></tr>{% endfor %}
+  </table>
+  <div class="row" style="margin-top:10px;gap:8px;flex-wrap:wrap"><button class="btn sm primary" id="scanBtn" onclick="scanPicked()">Scan ticked</button><span class="small" id="sest2">None ticked.</span>
+    <span class="grow"></span><button class="btn sm" onclick="addSrc()">+ Source</button><button class="btn sm" onclick="saveSrc()">Save the list</button></div>
+</details>
+
+<form class="row card" style="padding:10px 14px;gap:8px;flex-wrap:wrap">
+  <select class="in" name="source" onchange="this.form.submit()"><option value="">All results</option>{% for s in searches %}<option value="{{ s }}" {{ 'selected' if src==s }}>{{ s }}</option>{% endfor %}</select>
+  <select class="in" name="kind" onchange="this.form.submit()"><option value="">All places</option>{% for k, l in kinds.items() %}<option value="{{ k }}" {{ 'selected' if kind==k }}>{{ l }}</option>{% endfor %}</select>
+  <select class="in" name="sort" onchange="this.form.submit()">{% for v, l in [('score','Most relevant'),('engagement','Most engaged'),('recent','Newest')] %}<option value="{{ v }}" {{ 'selected' if sort==v }}>{{ l }}</option>{% endfor %}</select>
+  <input class="in grow" name="q" value="{{ q }}" placeholder="Filter what is already here">
+  <label class="small"><input type="checkbox" name="all" value="1" {{ 'checked' if not rel }} onchange="this.form.submit()"> show off-topic too</label>
+  <button class="btn sm">Filter</button>
+</form>
+
+<div class="panel">
+  {% for it in items %}
+  <div class="item" id="it_{{ it.id }}">
+    <input type="checkbox" class="pick" value="{{ it.id }}" style="width:18px;height:18px">
+    <div class="grow" style="min-width:0">
+      <div class="row" style="gap:6px;flex-wrap:wrap"><span class="pill ghost">{{ kinds.get(it.source_kind, it.source_kind) }}</span><span class="pill">{{ it.source }}</span>
+        {% if not it.relevant %}<span class="pill warn">off-topic?</span>{% endif %}{% if it.used_in_ideas %}<span class="pill s-approved">used in {{ it.used_in_ideas|length }} idea(s)</span>{% endif %}
+        <b>{{ it.author or '' }}</b> <span class="muted small">{{ (it.posted_at or '')[:10] }}</span></div>
+      <div class="d" style="margin-top:4px">{{ (it.title ~ ': ' if it.title else '') ~ (it.text or '')[:360] }}{% if (it.text or '')|length > 360 %}…{% endif %}</div>
+      <div class="small muted" style="margin-top:4px">{% if it.likes %}♥ {{ '{:,}'.format(it.likes|int) }} {% endif %}{% if it.comments %}· 💬 {{ '{:,}'.format(it.comments|int) }} {% endif %}{% if it.views %}· ▶ {{ '{:,}'.format(it.views|int) }} {% endif %}· relevance {{ '%.0f'|format((it.relevance or 0)*100) }}%</div>
+    </div>
+    <a class="btn sm" href="{{ it.url }}" target="_blank" rel="noopener">Open</a>
+    <button class="btn sm" onclick="hideIt('{{ it.id }}')">Hide</button>
+  </div>
+  {% else %}<div class="empty">Nothing here yet. Run a search above.</div>{% endfor %}
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+function sum(sel) { return [...document.querySelectorAll(sel + ':checked')].reduce((a, c) => a + parseFloat(c.dataset.usd || 0), 0); }
+function est() { const n = document.querySelectorAll('#skinds input:checked').length; document.getElementById('sest').textContent = n ? 'This search costs about $' + sum('#skinds input').toFixed(3) + '.' : 'Tick where to look to see the cost.'; }
+function est2() { const n = document.querySelectorAll('.spick:checked').length; document.getElementById('sest2').textContent = n ? n + ' ticked · about $' + sum('.spick').toFixed(3) : 'None ticked.'; }
+async function runSearch() {
+  const q = document.getElementById('sq').value.trim(), kinds = [...document.querySelectorAll('#skinds input:checked')].map(c => c.value);
+  if (!q) return toast('Type a keyword or topic first');
+  if (!kinds.length) return toast('Tick at least one place to search');
+  const b = document.getElementById('searchBtn'); b.disabled = true; b.textContent = 'Searching… (1 to 3 minutes)';
+  const j = await api('/api/discover/scan', {q, kinds});
+  b.disabled = false; b.textContent = 'Search';
+  if (!j.ok) return toast(j.error, 8000);
+  const errs = (j.scan.errors || []).map(e => e.source + ': ' + e.error).join(' · ');
+  toast(`Found ${j.scan.seen} posts (${j.scan.new} new) · $${(j.scan.cost_usd || 0).toFixed(3)}` + (errs ? ' · ' + errs : ''), 5000);
+  setTimeout(() => location.href = '/discover?source=' + encodeURIComponent(j.scan.source) + '&sort=score', 1300);
+}
+async function scanPicked() {
+  const ids = [...document.querySelectorAll('.spick:checked')].map(c => c.closest('tr').dataset.id).filter(Boolean);
+  if (!ids.length) return toast('Tick the saved sources to scan');
+  const b = document.getElementById('scanBtn'); b.disabled = true; b.textContent = 'Scanning… (1 to 3 minutes)';
+  const j = await api('/api/discover/scan', {ids});
+  b.disabled = false; b.textContent = 'Scan ticked';
+  if (!j.ok) return toast(j.error, 8000);
+  toast(`Found ${j.scan.seen} posts (${j.scan.new} new) · $${(j.scan.cost_usd || 0).toFixed(3)}`, 4000); setTimeout(() => location.href = '/discover?sort=recent', 1200);
+}
+async function hideIt(id) { await api('/api/discover/hide', {id, hidden: true}); document.getElementById('it_' + id).remove(); }
+async function makeIdeas() {
+  const ids = [...document.querySelectorAll('.pick:checked')].map(x => x.value);
+  if (!ids.length) return toast('Tick the posts to make ideas from');
+  toast(`Making ideas from ${ids.length} posts…`, 20000);
+  const j = await api('/api/ideas/generate', {item_ids: ids, n: 6});
+  if (!j.ok) return toast(j.error, 7000);
+  location.href = '/ideas';
+}
+function addSrc() {
+  const t = document.getElementById('srcs'), tr = t.rows[t.rows.length - 1].cloneNode(true);
+  tr.removeAttribute('data-id'); tr.querySelector('.spick').checked = false; tr.querySelector('input.in').value = ''; tr.cells[3].textContent = 'save first'; t.appendChild(tr);
+}
+async function saveSrc() {
+  const rows = [...document.querySelectorAll('#srcs tr')].slice(1).map(tr => ({id: tr.dataset.id || undefined, enabled: true,
+    kind: tr.querySelector('select').value, value: tr.querySelector('input.in').value.trim()})).filter(r => r.value);
+  const j = await api('/api/discover/sources', {sources: rows});
+  toast(j.ok ? 'List saved' : j.error, 4000); if (j.ok) setTimeout(() => location.reload(), 600);
+}
+</script>
+{% endblock %}

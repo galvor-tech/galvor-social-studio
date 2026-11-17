@@ -1,0 +1,40 @@
+{% extends "base.html" %}{% import "_macros.html" as m with context %}
+{% block title %}Indian festival calendar · Galvor Social Studio{% endblock %}
+{% block body %}{% import "_tabs.html" as tb with context %}
+{{ tb.playbook_tabs('festivals') }}
+<h1>Festival and marketing calendar</h1>
+<p class="sub">{{ total }} occasions from 19 Nov 2026 to Dec 2027. The choice of occasions and the “what sells” notes follow
+<a href="https://www.salesbond.in/blog/festival-marketing-calendar-india-2026" target="_blank" rel="noopener" style="color:var(--accent)">Salesbond's festival marketing calendar</a>.
+Festival dates are the Studio's own, checked against Drik Panchang plus a second source; <span class="pill warn">moon sighting</span> dates may shift by a day.</p>
+<div class="row" style="margin-bottom:8px">
+  <a class="btn sm {{ 'soft' if not hol }}" href="?religion={{ rel }}">All ({{ total }})</a>
+  {% for k, label in [('gazetted','Gazetted holidays'),('restricted','Restricted holidays'),('none','Observances')] %}
+  <a class="btn sm {{ 'soft' if hol==k }}" href="?holiday={{ k }}&religion={{ rel }}">{{ label }} ({{ counts.get(k, 0) }})</a>{% endfor %}
+</div>
+{% if religions %}<div class="row" style="margin-bottom:12px">
+  <a class="btn sm {{ 'soft' if not rel }}" href="?holiday={{ hol }}">All religions</a>
+  {% for r in religions %}<a class="btn sm {{ 'soft' if rel==r }}" href="?holiday={{ hol }}&religion={{ r }}">{{ r }}</a>{% endfor %}
+</div>{% endif %}
+{% for month, fs in groups.items() %}
+<div class="panel">
+  <div class="panel-h {{ 'mint' if month >= ts[:7] else 'plain' }}"><h3>{{ (month ~ '-01')|d('%B %Y') }}</h3><span class="count">{{ fs|length }}</span></div>
+  <table class="tbl">
+  {% for f in fs %}
+  <tr style="{{ 'opacity:.55' if f.date < ts }}">
+    <td style="width:120px"><b>{{ f.date|d }}</b>{% if f.end_date and f.end_date != f.date %}<div class="small muted">to {{ f.end_date|d }}</div>{% endif %}</td>
+    <td><b>{{ f.name }}</b> {% set h = f.holiday or 'none' %}<span class="pill hol-{{ h }}">{{ {'gazetted':'Gazetted holiday','restricted':'Restricted holiday','none':'Observance'}[h] }}</span>{% if f.religion %} <span class="pill ghost">{{ f.religion }}</span>{% endif %} <span class="pill ghost">{{ f.region }}</span>
+      {% if f.confidence != 'confirmed' %}<span class="pill warn">{{ f.confidence|replace('_',' ') }}</span>{% endif %}
+      {% if f.state_holidays %}<div class="small" style="margin-top:4px"><b>State holiday:</b> {{ f.state_holidays }}</div>{% endif %}
+      {% if f.use %}<div class="small" style="margin-top:4px"><span class="pill {{ 's-approved' if 'Campaign' in f.use else 'ghost' }}">{{ f.use }}</span> {{ f.why }}</div>{% endif %}
+      <div class="small muted" style="margin-top:4px">{{ f.notes }}</div>
+      <div class="small" style="margin-top:4px">{% for s in f.sources[:3] %}<a href="{{ s }}" target="_blank" style="color:var(--accent)">source {{ loop.index }}</a>{{ ' · ' if not loop.last }}{% endfor %}</div></td>
+    <td style="width:260px">
+      {% for p in posts_by_fest.get(f.date, []) if (p.festival or '').replace(',', ' ').split(' ')[0] in f.name %}<a href="/post/{{ p.id }}" class="small" style="display:block">{{ m.plat(p.platform) }} {{ m.status(p.status) }}</a>{% endfor %}
+      {% if f.date >= ts %}<div class="row" style="gap:6px;margin-top:6px"><a class="btn sm soft" href="{{ url_for('new_post', platform='instagram', date=f.date, festival=f.name, format='image', pillar='Festival / Culture', time='10:00') }}">+ IG</a><a class="btn sm soft" href="{{ url_for('new_post', platform='linkedin', date=f.date, festival=f.name, format='image', pillar='Festival / Culture', voice='company', time='10:00') }}">+ LinkedIn</a></div>{% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+  </table>
+</div>
+{% endfor %}
+{% endblock %}

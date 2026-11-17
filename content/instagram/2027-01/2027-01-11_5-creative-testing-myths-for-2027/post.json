@@ -1,0 +1,121 @@
+{
+  "id": "ig-2027-01-11-5-creative-testing-myths-for-2027",
+  "slug": "5-creative-testing-myths-for-2027",
+  "platform": "instagram",
+  "date": "2027-01-11",
+  "time": "19:00",
+  "voice": "company",
+  "pillar": "Myth vs Fact",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Five creative testing myths, and the fix for each",
+  "hook": "Five creative testing myths to leave in 2026, and what to do in place of each.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Five creative testing myths to leave in 2026, and what to do in place of each.\n\nA new script does not make a new ad. In our analysis, a new message over a familiar first shot got 16% less first-month spend.\n\nMore variations do not mean more learning. A test finds a winning part, and the ad around it will wear out. A clear no is worth paying for. And testing needs a fixed rhythm, or it waits for a free week that never comes.\n\nSave the last slide: five myths, five fixes. Follow @galvor.ai.",
+  "first_comment": "",
+  "hashtags": [
+    "#metaads",
+    "#adcreative",
+    "#creativestrategy",
+    "#marketingtips",
+    "#KnowWhyYourAdsWin"
+  ],
+  "alt_text": "Eight-slide carousel. Slide 1: five creative testing myths to leave in 2026. Slide 2: myth one, a new script makes a new ad; fact, a new message over a familiar first shot got 16% less first-month spend. Slide 3: myth two, more variations mean more learning. Slide 4: myth three, the test found our winning ad. Slide 5: myth four, a losing test is wasted money. Slide 6: myth five, we test when we have time. Slide 7: five myths and five fixes in one list. Slide 8: follow @galvor.ai.",
+  "cta": "Save the five fixes; follow @galvor.ai",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Myth vs fact",
+        "headline": "*5 creative testing myths* to leave in 2026",
+        "sub": "And what to do in place of each."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Myth 1: “A new script makes a new ad”",
+        "stat": "16%",
+        "headline": "less first-month spend for a *new message over a familiar first shot*",
+        "sub": "Fact: if the opening looks the same, change the opening.",
+        "source": "Source: Galvor analysis · new video ads launched May to Sep 2026"
+      },
+      {
+        "layout": "text",
+        "kicker": "Myth 2",
+        "headline": "“Test *more variations* and you learn more”",
+        "body": "Fact: if five things change between two ads, you cannot say which one mattered.\n\nChange one thing per test. You get fewer ads and clearer answers."
+      },
+      {
+        "layout": "text",
+        "kicker": "Myth 3",
+        "headline": "“The test found our *winning ad*”",
+        "body": "Fact: an ad wears out. What lasts is the part that made it work, such as the opening or the person on screen.\n\nName the part, then reuse it."
+      },
+      {
+        "layout": "text",
+        "kicker": "Myth 4",
+        "headline": "“A losing test is *wasted money*”",
+        "body": "Fact: a clear no stops you briefing the same idea again and again.\n\nIt is only wasted if nobody writes it down."
+      },
+      {
+        "layout": "text",
+        "kicker": "Myth 5",
+        "headline": "“We test *when we have time*”",
+        "body": "Fact: testing that waits for a free week does not happen.\n\nGive it a fixed rhythm. Ours is a loop that runs every two weeks."
+      },
+      {
+        "layout": "list",
+        "kicker": "Save this",
+        "headline": "Five myths, *five fixes*",
+        "items": [
+          "New script: change the first shot too",
+          "More variations: change one thing",
+          "Winning ad: name the winning part",
+          "Losing test: write down the no",
+          "When we have time: fix a rhythm"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Test less at once. *Learn more each time.*",
+        "sub": "Save the five fixes.",
+        "actions": [
+          "Follow @galvor.ai",
+          "Save the five fixes",
+          "Share with your creative team"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Reader: a performance marketer setting up the year's testing. One argument: most testing myths come from treating the ad, not its parts, as the thing being tested. Shape: myth and fact. Numbers used: 16% less first-month spend for a new message over a familiar first shot (facts bank, Decoded #3; only use in this group); the loop runs every two weeks (facts bank). Myths 2 to 5 are reasoning, not measured findings, and carry no numbers. Avoids the look-alike and slow-starter findings, which have their own posts on 23 Nov and 21 Dec. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:56:05",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-16T21:22:53",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:23:13",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:23:44",
+  "updated_at": "2026-11-16T21:23:13",
+  "topic_ref": "IG-117",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

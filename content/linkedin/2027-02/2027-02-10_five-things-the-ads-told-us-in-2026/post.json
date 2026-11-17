@@ -1,0 +1,133 @@
+{
+  "id": "li-2027-02-10-five-things-the-ads-told-us-in-2026",
+  "slug": "five-things-the-ads-told-us-in-2026",
+  "platform": "linkedin",
+  "date": "2027-02-10",
+  "time": "09:00",
+  "voice": "raj",
+  "pillar": "Decode Teardown",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "Five things our ad data showed in 2026, each with its number",
+  "hook": "Five things our ad data showed in 2026. Each with its number.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "Five things our ad data showed in 2026. Each with its number.\nAll five come from Galvor's analysis of ads launched from May to September across the brands we work with.\n\nThe short version: Meta's delivery now favours an ad that looks different from what you already run, and some ad styles need longer before you judge them.\n\nTwo limits. The analysis covers brands we work with, so treat each finding as a pattern to test in your own account. And four of the five are about spend and cost in the early weeks, which is delivery. Whether an ad sells over its life is a separate question.\n\nSwipe for the five.",
+  "first_comment": "Read Decoded #9 on galvor.ai",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#MetaAds",
+    "#D2C"
+  ],
+  "alt_text": "Eight-slide carousel. Cover: Five things the ads told us in 2026. Then five stat slides: new ads that looked like many running ads got 36 percent less first-month spend; a proven message in a new look got 47 percent more; six or more look-alikes launched within three days each got 48 percent less; some ad styles start 35 percent dearer per order in the first two months; one brand's creative diversity score went from 63 to 92 out of 100. Then four moves for this quarter and a closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; first comment points to Decoded #9 (2026 in Creative)",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "2026 in creative",
+        "headline": "Five things the ads *told us* in 2026",
+        "sub": "Each with its number and its source."
+      },
+      {
+        "layout": "stat",
+        "kicker": "One · Look-alikes",
+        "stat": "36%",
+        "headline": "less first-month spend for new ads that *looked like many running ads*",
+        "sub": "A new file is only new if it looks new.",
+        "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Two · New look",
+        "stat": "47%",
+        "headline": "more first-month spend for a *proven message in a new look*",
+        "sub": "Keep the message that sells. Change how it looks.",
+        "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Three · Batches",
+        "stat": "48%",
+        "headline": "less, each, for *six or more look-alikes* launched within three days",
+        "sub": "Launching more of the same did not help.",
+        "source": "Source: Galvor analysis · new video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Four · Slow starters",
+        "stat": "35%",
+        "headline": "dearer per order in the first two months, for *some ad styles*",
+        "sub": "They ended close to average over their life.",
+        "source": "Source: Galvor analysis · video ads launched May–Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Five · It can be fixed",
+        "stat": "63 → 92",
+        "headline": "One brand's *creative diversity score*, out of 100, within two months",
+        "sub": "After Galvor's recommended changes.",
+        "source": "Source: Galvor analysis · one brand, as reported in Decoded #3"
+      },
+      {
+        "layout": "list",
+        "kicker": "What to do with it",
+        "headline": "Four moves for *this quarter*",
+        "items": [
+          "Audit the look — line up your live first frames",
+          "Keep proven messages — reshoot them in a new look",
+          "Stop batch copies — fewer ads, more different",
+          "Judge later — some styles need weeks"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make *the next one better*.",
+        "sub": "The year in creative is in Decoded #9.",
+        "actions": [
+          "Follow Galvor",
+          "Read Decoded #9 on galvor.ai"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Raj: (1) the first comment and closing slide point to Decoded #9 (What a Year of Ads Taught Us: 2026 in Creative) because it matches the topic. The five numbers here are from Decoded #3. Check that #9 as published does not contradict them. If it carries newer numbers, they must be added to the facts bank before this post can use them. (2) Confirm the 35% finding and the 63 to 92 score sit in the same May-Sep 2026 analysis, so the source lines are right.\nHook shape: dense.\nNumbers, all from the facts bank (Decoded #3, Galvor analysis of new video ads launched May-Sep 2026): 36% less, 47% more, 48% less, 35% dearer per order, creative diversity score 63 to 92 out of 100. Each appears on one stat slide. None is in the caption.\nThe title says 2026 but the data window is May to September. The caption says so.\nReader: a head of performance planning the next quarter's creative.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:54:59",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-10 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:19:46",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:19:57",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:20:01",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:20",
+  "updated_at": "2026-11-16T21:20:01",
+  "topic_ref": "R50 (year edition)",
+  "script_decision": {
+    "choice": "pending"
+  }
+}
