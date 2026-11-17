@@ -3,7 +3,7 @@
   "slug": "ad-of-the-week-4-the-sale-ad-that-doesnt-open-wi",
   "platform": "linkedin",
   "date": "2027-01-27",
-  "time": "09:00",
+  "time": "12:30",
   "voice": "raj",
   "pillar": "Decode Teardown",
   "job": "Attract",
@@ -124,6 +124,10 @@
     {
       "at": "2026-11-16T21:20:01",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-17T23:54:05",
+      "action": "Re-timed to Wed 12:30: Decoded owns Wednesday morning (17 Nov 2026)"
     }
   ],
   "metrics": {},
@@ -131,7 +135,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:16:57",
-  "updated_at": "2026-11-16T21:20:01",
+  "updated_at": "2026-11-17T23:54:05",
   "topic_ref": "AotW-4",
   "script_decision": {
     "choice": "pending"

@@ -3,7 +3,7 @@
   "slug": "cpl-isnt-the-kpi-when-sales-rejects-half-the-lea",
   "platform": "linkedin",
   "date": "2026-12-09",
-  "time": "09:00",
+  "time": "12:30",
   "voice": "raj",
   "pillar": "Measurement",
   "job": "Educate",
@@ -47,6 +47,10 @@
     {
       "at": "2026-11-16T21:20:00",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-17T23:54:05",
+      "action": "Re-timed to Wed 12:30: Decoded owns Wednesday morning (17 Nov 2026)"
     }
   ],
   "metrics": {},
@@ -54,7 +58,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:15:24",
-  "updated_at": "2026-11-16T21:20:00",
+  "updated_at": "2026-11-17T23:54:05",
   "topic_ref": "R31 (D2C edition)",
   "script_decision": {
     "choice": "pending"

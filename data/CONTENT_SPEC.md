@@ -157,8 +157,11 @@ saved analysis; otherwise [DATA NEEDED]. No client names.
     byline can stay "By Raj Dhakad"; the team reposts it with their own line or comments in the first hour.
   - Same news, different angle: Sunil money/risk/CMO worries; Raj product and data; Shrutik marketing craft and behind the scenes.
   - Every personal post still closes with Follow Galvor / @galvor.ai (rule 14), so personal reach builds page followers.
-  - Weekly LinkedIn rhythm: Mon 12:30 Shrutik · Tue 09:00 Sunil · Wed 08:30 Decoded (page) · Wed 09:00 Raj ·
+  - Weekly LinkedIn rhythm: Mon 12:30 Shrutik · Tue 09:00 Sunil · Wed 08:30 Decoded (page) · Wed 12:30 Raj ·
     Thu 09:00 Sunil · Thu 12:30 page · Fri 09:00 Shrutik · Fri 12:30 page reshare. About three-quarters of reach from people.
+  - Spacing: one post per handle per day; 20+ hours between posts from the same handle; never two handles at the
+    same time on one day (3+ hours apart); nothing before 12:30 on Decoded Wednesdays; page festival greetings move to
+    12:30 when a person holds 09:00.
 - **First hour matters.** When anything goes live the Studio pings the rest of the team: one real comment (an
   opinion, a question, an example — never just "Great post") or a repost with a line of your own, within 60 minutes.
 - **Reply to every comment** within the first hour (the Studio reminds the poster 30 min after it goes live).

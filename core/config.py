@@ -119,7 +119,7 @@ SLOTS = {
     "linkedin": [
         (0, "12:30", "shrutik"),
         (1, "09:00", "sunil"),
-        (2, "09:00", "raj"),
+        (2, "12:30", "raj"),
         (3, "09:00", "sunil"),
         (3, "12:30", "company"),
         (4, "09:00", "shrutik"),
@@ -154,6 +154,9 @@ DISTRIBUTION = [
     "Every personal post still closes with Follow Galvor / @galvor.ai, so the founders' reach builds page followers.",
     "Same news, different angle per person: Sunil money and risk, Raj product and data, Shrutik marketing craft and behind the scenes.",
     "The other team members leave a real comment in the first hour; the author replies to every comment.",
+    "Spacing: one post per handle per day, at least 20 hours between two posts from the same handle, never two handles at the same time on the same day (stagger by 3+ hours).",
+    "Decoded morning is the page's: nothing else goes out on Wednesday before 12:30, so the whole team's first-hour comments go to the newsletter.",
+    "Festival greetings from the page take 12:30 when a team member already has the 09:00 slot that day.",
     "Weekly target: Sunil 2, Raj 1 (+ Decoded), Shrutik 2, Galvor page 3 (Decoded + 2). About three-quarters of reach should come from personal profiles.",
 ]
 
@@ -164,7 +167,7 @@ RHYTHM = {
         ("Mon", "12:30", "shrutik", "Shrutik — Brief to Live / client reality"),
         ("Tue", "09:00", "sunil", "Sunil — What I Heard in the Room (money, risk, CMO worries)"),
         ("Wed", "08:30", "company", "Decoded — LinkedIn newsletter from the Galvor page (+ email). Team comments/reposts in the first hour"),
-        ("Wed", "09:00", "raj", "Raj — Ad of the Week / building the engine"),
+        ("Wed", "12:30", "raj", "Raj — Ad of the Week / building the engine (after Decoded's first hour; Raj comments on Decoded first)"),
         ("Thu", "09:00", "sunil", "Sunil — his own take on the week's Galvor news or launch (link in first comment)"),
         ("Thu", "12:30", "company", "Galvor page — proof, product or launch with the link, 1-2 days after a team member covered it"),
         ("Fri", "09:00", "shrutik", "Shrutik — behind the scenes on a campaign / marketing craft"),
