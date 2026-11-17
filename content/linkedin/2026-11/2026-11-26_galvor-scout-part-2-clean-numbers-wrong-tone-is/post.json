@@ -1,0 +1,48 @@
+{
+  "platform": "linkedin",
+  "date": "2026-11-26",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Proof & Product",
+  "job": "De-risk",
+  "format": "text",
+  "series": "",
+  "title": "Galvor Scout, part 2: clean numbers, wrong tone is still a brand risk",
+  "hook": "A creator with clean numbers and the wrong tone is still a brand risk.",
+  "status": "draft",
+  "festival": null,
+  "caption": "A creator with clean numbers and the wrong tone is still a brand risk.\nMost shortlists only check the numbers.\n\nIn 8,673 creator checks with Galvor Scout, 66% of the creators we turned down missed something the brand had said it must have.\n\nThe reverse happens too. 38% of creators whose content looked like a strong fit were moved down once we read their engagement.\n\nAs a CMO, I would rather hear that before the contract than after the post goes live.\n\nFollow Galvor for what we keep learning from these checks.",
+  "first_comment": "How Galvor Scout reads creators against a brief: https://www.linkedin.com/feed/update/urn:li:activity:7527972347547369472",
+  "hashtags": [
+    "#InfluencerMarketing",
+    "#BrandSafety",
+    "#D2C"
+  ],
+  "alt_text": "",
+  "cta": "Follow Galvor",
+  "script": null,
+  "images": [],
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "notes": "Second Sunil post on Galvor Scout (first: Thu 19 Nov, filters vs trust). Built from the CMO-led brand-risk variant (17 Nov 2026). Numbers from Decoded #4 (facts bank section 4). Launch link in the first comment, not the body. Script only, no media until chosen.",
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "galvor-scout-part-2-clean-numbers-wrong-tone-is",
+  "theme": "From dashboards to decisions",
+  "id": "li-2026-11-26-galvor-scout-part-2-clean-numbers-wrong-tone-is",
+  "updated_at": "2026-11-17T23:49:59",
+  "created_at": "2026-11-17T23:49:59",
+  "approvals": [
+    {
+      "at": "2026-11-17T23:49:59",
+      "action": "Added: second Sunil Scout post (17 Nov 2026)"
+    }
+  ]
+}
