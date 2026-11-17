@@ -1,0 +1,50 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "date": "2027-01-08",
+  "pillar": "Client Lessons",
+  "job": "Educate",
+  "format": "text",
+  "topic_ref": "Sh46",
+  "title": "Client lessons I learnt twice, and the four-line log that stops it",
+  "caption": "Some client lessons I learnt twice last year.\nThe second time always cost more than the first.\n\nThe pattern was the same each time. A brand tells me something on a call. I fix it on that video. The note lives in my head or in one WhatsApp thread. A month later a new creator, or a new teammate, makes the same miss.\n\nSo this year I'm trying one habit. Every lesson gets written down the day I learn it, in one place the whole team can see.\n\nEach entry has four lines.\nWhat happened.\nWhat the brand actually wanted.\nWhere it goes next: the onboarding note for new teammates, the sales handoff, or a request to our product team.\nWho owns that change.\n\nThe third line matters most. A lesson in my notes gets learnt again by the next person. A lesson in the onboarding note reaches every new teammate on day one.\n\nGalvor is built on one idea for ads: every ad should make the next one better. I'm trying to hold client servicing to the same idea.\n\nFollow Galvor for more from the brief-to-live desk.",
+  "first_comment": "Where do client lessons live in your team today? Someone's head, a deck, a chat thread? Honest answers welcome.",
+  "hashtags": [
+    "#ClientServicing",
+    "#BrandManagement",
+    "#D2CIndia"
+  ],
+  "cta": "Follow Galvor (closing line)",
+  "notes": "CONFIRM WITH Shrutik: that he really did learn some client lessons twice in 2026 and is starting a shared lesson log in January (the post commits him to it). The four-line format is a proposal he should be happy to share.\nReader: agency and brand-side servicing leads. January theme The learning loop; ties to the core belief line. Numbers: none.\nAngle check: Monday 18 Jan (Sh24) turns repeated creative feedback into a brief rule. This post is about team memory (onboarding, sales handoff, product), and deliberately routes lessons away from the brief to avoid overlap.",
+  "hook": "Some client lessons I learnt twice last year.",
+  "poll": null,
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "client-lessons-i-learnt-twice-and-the-four-line",
+  "theme": "The learning loop",
+  "id": "li-2027-01-08-client-lessons-i-learnt-twice-and-the-four-line",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

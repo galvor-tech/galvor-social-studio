@@ -1,0 +1,49 @@
+{
+  "platform": "linkedin",
+  "date": "2027-02-25",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "In the Room",
+  "job": "Educate",
+  "format": "text",
+  "series": "What I Heard in the Room",
+  "title": "\"We need more creators\" is rarely the real problem",
+  "topic_ref": "S36",
+  "caption": "\"We need more creators\" is one of the most common asks I hear from D2C teams.\nIt's rarely the real problem.\n\nWhat I Heard in the Room, a pattern from the last few months.\n\nThe brand has worked with dozens of creators. A few did well. Most didn't. The conclusion is that they need a bigger pool.\n\nUsually they need a better filter.\n\nWhen we launched Galvor Scout in November, we'd already run 8,673 creator checks. 66% of the creators we turned down had missed something the brand said was a must-have.\n\nThose creators looked fine on reach and engagement. They just didn't fit the brief the brand had written.\n\nMore creators through the same filter means more of those misses, paid for one fee at a time.\n\nSo the first question I ask is about the brief. What does a creator have to be for this product, in plain words? Then we check every name against it.\n\nA shorter list of the right people beats a long list of maybes.\n\nFollow Galvor for more from the room.",
+  "first_comment": "Follow Galvor. How Galvor Scout reads creators against a brief: https://www.linkedin.com/feed/update/urn:li:activity:7527972347547369472",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#InfluencerMarketing",
+    "#D2CIndia"
+  ],
+  "cta": "Follow Galvor; Scout launch link in first comment",
+  "notes": "Proof season close and the one Scout callback for February. Reader: founders and brand heads who keep asking for more creators. Argument: the problem is the filter (the brief), not the pool. Topic bank S36, series What I Heard in the Room, framed as a pattern. Numbers: 8,673 creator checks and 66% of turned-down creators missed a stated must-have (facts bank, Decoded #4, Aug to early Nov 2026). Uses a different stat focus from the 19-20 Nov Scout posts. Scout launch link in first comment; personal-profile link rule says links hurt reach on personal posts, so Sunil can drop the link and keep only the follow line if preferred. Sunil to confirm the 'dozens of creators, a few did well' pattern rings true.",
+  "festival": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "hook": "\"We need more creators\" is one of the most common asks I hear from D2C teams.",
+  "script": null,
+  "status": "draft",
+  "theme": "Proof season: pilots & client stories",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "we-need-more-creators-is-rarely-the-real-problem",
+  "id": "li-2027-02-25-we-need-more-creators-is-rarely-the-real-problem",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

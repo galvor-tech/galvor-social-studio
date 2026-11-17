@@ -1,0 +1,109 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "Seven-slide carousel titled Edit or reshoot. Four slides each ask one question: is the message in the footage, is the product right on camera, can the opening be rebuilt from other takes, and would the brand approve it today. A comparison slide sorts problems into edit fixes and reshoot fixes, and the last slide asks readers to follow Galvor.",
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Creator ops",
+        "headline": "Edit or *reshoot*?",
+        "sub": "Four questions I ask before booking the creator again."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 1",
+        "headline": "Is the *message* in the footage?",
+        "body": "If the creator said the key line, the edit can move it, trim around it and add supers.\n\nIf the line was never said, no edit can create it. That needs a pickup shot or a voiceover."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 2",
+        "headline": "Is the *product* right on camera?",
+        "body": "Wrong variant, old pack, label hidden for the whole clip. These live in the footage.\n\nA product cutaway can sometimes cover it. If the product is in the creator's hand throughout, plan a reshoot."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 3",
+        "headline": "Can the *opening* be rebuilt?",
+        "body": "If there are spare takes, a weak hook is an edit: a stronger line, a tighter cut, a text super.\n\nIf every take opens the same weak way, it's a pickup."
+      },
+      {
+        "layout": "text",
+        "kicker": "Question 4",
+        "headline": "Would the *brand* approve it today?",
+        "body": "Sometimes the footage is fine and the brand has changed its mind about the setting, outfit or tone.\n\nThat's a reshoot, and a brief conversation first. Fix the brief before you book the day."
+      },
+      {
+        "layout": "compare",
+        "kicker": "The quick sort",
+        "headline": "Where the *problem* lives",
+        "left_title": "Edit",
+        "left": [
+          "Order and pacing",
+          "Supers and subtitles",
+          "Hook from spare takes",
+          "Music and sound"
+        ],
+        "right_title": "Reshoot",
+        "right": [
+          "Line never said",
+          "Wrong product on camera",
+          "Off-brief setting or outfit",
+          "Brand changed its mind"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Sort the problem *before* you book the day.",
+        "sub": "Save this for your next review.",
+        "actions": [
+          "Follow Galvor",
+          "Save for review day"
+        ]
+      }
+    ]
+  },
+  "date": "2027-01-29",
+  "pillar": "Creators & Testing",
+  "job": "Educate",
+  "format": "carousel",
+  "topic_ref": "Sh16",
+  "title": "Edit or reshoot? Four questions that decide it",
+  "caption": "Edit or reshoot? I used to answer that with my gut.\nNow I ask four questions in order, and the answer usually falls out.\n\nA reshoot costs a creator's day, a new date and sometimes the launch. An edit that can't reach the real problem costs a round, and then the reshoot anyway.\n\nThe questions sort a problem by where it lives. Words, order and pacing can usually be fixed in the edit. Anything that has to be on camera usually can't.\n\nSwipe for the four questions and what each answer points to.\n\nFollow Galvor for more from the brief-to-live desk.",
+  "first_comment": "The hardest call for me is question four, when the footage is fine and the brand has changed its mind. How do you handle that one?",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#AdCreative",
+    "#D2CIndia"
+  ],
+  "cta": "Save + Follow Galvor",
+  "notes": "CONFIRM WITH Shrutik: the four questions and their order reflect how he decides edit vs reshoot.\nReader: creative managers and agency producers reviewing creator cuts. January theme The learning loop (fixing the cause before booking a reshoot). Numbers: none.\nAngle check: Monday 28 Dec (Sh20) is about extra takes on shoot day; question 3 only mentions spare takes in passing and doesn't repeat that advice.",
+  "hook": "Edit or reshoot? I used to answer that with my gut.",
+  "poll": null,
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "edit-or-reshoot-four-questions-that-decide-it",
+  "theme": "The learning loop",
+  "id": "li-2027-01-29-edit-or-reshoot-four-questions-that-decide-it",
+  "updated_at": "2026-11-18T00:25:54",
+  "created_at": "2026-11-18T00:25:54",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:54",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

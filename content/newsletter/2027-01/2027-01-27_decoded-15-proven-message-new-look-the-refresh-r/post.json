@@ -1,0 +1,52 @@
+{
+  "platform": "newsletter",
+  "date": "2027-01-27",
+  "time": "08:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #15: Proven Message, New Look. The Refresh Rule That Got 47% More Spend",
+  "hook": "Proven Message, New Look. The Refresh Rule That Got 47% More Spend",
+  "status": "idea",
+  "festival": null,
+  "caption": "Decoded by Galvor, Issue #15: Proven Message, New Look. The Refresh Rule That Got 47% More Spend\n\nWhen an ad tires, most teams change everything at once: new script, new face, new first shot. Galvor's data points the other way. Keep what the ad says, change how it looks, and the new version gets a fairer start. This issue turns that into a refresh rule for every cycle of the learning loop.\n\nSubscribe to get it every Wednesday.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "notes": "Outline planned 18 Nov 2026 (why now: Closes the January learning-loop theme with the most practical decision in the loop: what to carry into the next ad. Teams are briefing their first post-January-sale refreshes and planning February gifting creative.). Posted from the Galvor page. Write with Decoded → Draft with AI, then fill every [DATA NEEDED].",
+  "newsletter": {
+    "issue": "15",
+    "markup": "---\nissue: 15\ntitle: Decoded #15: Proven Message, New Look. The Refresh Rule That Got 47% More Spend\ndek: When an ad tires, most teams change everything at once: new script, new face, new first shot. Galvor's data points the other way. Keep what the ad says, change how it looks, and the new version gets a fairer start. This issue turns that into a refresh rule for every cycle of the learning loop.\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: Plenty of Data, No Memory. Where Your Ad Learnings Go When the Agency Leaves\nprevious_url: https://galvor.ai/newsletters/decode/plenty-of-data-no-memory-where-your-ad-learnings/\n---\n\n## Key takeaways\n\n- [DATA NEEDED: takeaway 1]\n- [DATA NEEDED: takeaway 2]\n- [DATA NEEDED: takeaway 3]\n\n## Cold open\n\nMonday, 11:05 a.m. Sam's best ad of the quarter has tired, and the creative team has brought back five fresh concepts with five new messages. One junior designer has a sixth: the same line that sold, over a new first shot, a new cast and a kitchen instead of a studio.\n\n## Monday, 11:05 a.m.: Five New Messages and One New Look\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What Refreshing Usually Means: Change Everything and Hope\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What Galvor Measured: 47% More for a Proven Message in a New Look, 16% Less for the Reverse\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Why Delivery Rewards a New Look: Creative Diversity and How Meta Reads Look-Alikes\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Which Attributes Count as 'the Look': First Shot, Cast, Setting, Pacing\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The Refresh Rule: Keep, Change, Avoid, Measure\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The Shift for Marketers and Leaders: Five Moves for Your Next Refresh\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Next issue\n\nNext issue: The Six-Week Pilot That Proved Nothing. Proof season starts in February, and most pilots end with a tidy deck and no answer. Next week: what a pilot of any creative tool, including ours, should be set up to prove before it starts.\n\n## How we did this\n\nGalvor's data needed for this issue:\n- Proven message in a new look: 47% more first-month spend (Decoded #3, facts bank)\n- New message over a familiar first shot: 16% less (Decoded #3, facts bank)\n- New ads that looked like many running ads: 36% less first-month spend (facts bank)\n- Meta Creative diversity column: appeared late Aug 2026, most accounts by last week of Oct (facts bank, cite Meta source)\n- [DATA NEEDED] Raj: which look attributes (first shot, cast, setting, pacing) most often changed in the 'proven message, new look' group, from the May–Sep 2026 dataset\n\n## Sources\n\n- [DATA NEEDED: sources, one per line: Publisher (date), [title](url)]\n",
+    "url": "https://galvor.ai/newsletters/decode/proven-message-new-look-the-refresh-rule-that-go/",
+    "next_issue": "",
+    "subject_lines": [
+      "Proven Message, New Look. The Refresh Rule That Got 47% More Spend"
+    ],
+    "preview_text": "When an ad tires, most teams change everything at once: new script, new face, new first shot. Galvor's data points the other way. Keep what "
+  },
+  "slug": "decoded-15-proven-message-new-look-the-refresh-r",
+  "theme": "The learning loop",
+  "id": "nl-2027-01-27-decoded-15-proven-message-new-look-the-refresh-r",
+  "updated_at": "2026-11-18T00:25:55",
+  "created_at": "2026-11-18T00:25:55",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:55",
+      "action": "Planned: Decoded outline to Feb 2027 (18 Nov 2026)"
+    }
+  ]
+}

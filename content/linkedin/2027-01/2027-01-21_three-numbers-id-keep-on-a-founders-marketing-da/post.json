@@ -1,0 +1,116 @@
+{
+  "platform": "linkedin",
+  "date": "2027-01-21",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Measurement",
+  "job": "Educate",
+  "format": "carousel",
+  "title": "Three numbers I'd keep on a founder's marketing dashboard",
+  "topic_ref": "S8",
+  "caption": "Three numbers I'd keep on a founder's marketing dashboard.\nThe rest can live with the team.\n\nA founder's page should answer one question: is our marketing getting smarter, or only bigger?\n\nMost founder dashboards answer a different one. They show what happened last week, ad by ad, in more columns than anyone reads on a Monday.\n\nThe three I'd keep:\n\nCost per order by idea. Which openings, faces and messages bring orders cheaply, across all the ads that use them.\n\nShare of spend on new ideas. Too low and you stop learning. Too high and you never cash in on what you know.\n\nLearnings used. How many findings from the last fortnight made it into the next brief.\n\nCTR, CPM and the ad-by-ad ROAS ranking still matter. They belong in the team's review, where someone can act on them that day.\n\nSwipe for the full list, and what to ask your team every two weeks.\n\nFollow Galvor for more on reading marketing numbers as a founder.",
+  "first_comment": "Follow Galvor. Save this for your next monthly review.",
+  "hashtags": [
+    "#MarketingAnalytics",
+    "#D2CIndia",
+    "#FounderLessons"
+  ],
+  "alt_text": "Seven-slide carousel. Cover: three numbers I'd keep on a founder's marketing dashboard. Then: why a founder's page should ask whether marketing is getting smarter or only bigger; the three numbers (cost per order by idea, share of spend on new ideas, learnings used); a comparison of what sits on the founder's page and what stays with the team; a stat that one brand's creative diversity score went from 63 to 92 out of 100 two months after Galvor's recommended changes; three questions to ask the team every two weeks; and a closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; save",
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "For founders",
+        "headline": "Three numbers I'd keep on a founder's *marketing dashboard*",
+        "sub": "The rest can live with the team."
+      },
+      {
+        "layout": "text",
+        "kicker": "The one question",
+        "headline": "Getting *smarter*, or only bigger?",
+        "body": "A founder's page should answer one question.\n\nIs our marketing learning, or just spending more?\n\nMost dashboards answer something else: what happened last week, ad by ad."
+      },
+      {
+        "layout": "list",
+        "kicker": "Keep these three",
+        "headline": "The founder's *three*",
+        "items": [
+          "Cost per order by idea — which openings and messages sell",
+          "Share of spend on new ideas — enough to keep learning",
+          "Learnings used — findings that reached the next brief"
+        ]
+      },
+      {
+        "layout": "compare",
+        "kicker": "Where numbers live",
+        "headline": "Founder's page, *team's review*",
+        "left_title": "Founder's page",
+        "left": [
+          "Cost per order by idea",
+          "Share on new ideas",
+          "Learnings used"
+        ],
+        "right_title": "Team's review",
+        "right": [
+          "CTR and CPM",
+          "Ad-by-ad ROAS",
+          "Frequency, hook rate"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "Why idea share matters",
+        "stat": "63 → 92",
+        "headline": "one brand's creative diversity score, two months after *changes*",
+        "sub": "Out of 100, after Galvor's recommended changes.",
+        "source": "Source: Galvor analysis · anonymised brand · Decoded #3"
+      },
+      {
+        "layout": "list",
+        "kicker": "Every two weeks",
+        "headline": "Ask your team *three things*",
+        "items": [
+          "What did we learn — in one line per test",
+          "What are we doing about it — scale, cut, refresh, test",
+          "What will the next brief test — and why"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Smarter, then *bigger*.",
+        "sub": "Save this for your next monthly review.",
+        "actions": [
+          "Follow Galvor",
+          "Save for your review"
+        ]
+      }
+    ]
+  },
+  "notes": "Reader: founder who wants a short marketing view without the team's detail. Argument: the founder's dashboard should track whether marketing is learning; tactical metrics stay with the team. Topic bank S8 ('the 20 I'd remove' dropped as an invented count). Numbers: creative diversity score 63 -> 92 for one brand (facts bank, Decoded #3), on the stat slide only. Sunil to confirm the three numbers are the ones he'd actually recommend; 'learnings used' is a Galvor-style metric, so check it matches how Galvor reports. Placed on 21 Jan so it doesn't share a week with his other carousels (5 Jan, 26 Jan).",
+  "series": "",
+  "festival": null,
+  "hook": "Three numbers I'd keep on a founder's marketing dashboard.",
+  "script": null,
+  "status": "draft",
+  "theme": "The learning loop",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "three-numbers-id-keep-on-a-founders-marketing-da",
+  "id": "li-2027-01-21-three-numbers-id-keep-on-a-founders-marketing-da",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

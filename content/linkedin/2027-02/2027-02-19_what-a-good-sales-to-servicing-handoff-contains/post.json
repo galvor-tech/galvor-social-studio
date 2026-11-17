@@ -1,0 +1,112 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "Seven-slide carousel titled What a good sales handoff contains. Four list slides cover why the client bought, who decides, what success looks like in the pilot, and what the brand has already learnt; a slide gives the test of a good handoff; and the last slide asks readers to follow Galvor and comment handoff for the template.",
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Client servicing",
+        "headline": "What a good *sales handoff* contains",
+        "sub": "What I want in writing before my first call with a new brand."
+      },
+      {
+        "layout": "list",
+        "kicker": "Group 1",
+        "headline": "Why they *bought*",
+        "items": [
+          "The problem — in the client's words, from the sales call",
+          "The trigger — what made them act this month",
+          "The promise — exactly what sales said we'd deliver"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Group 2",
+        "headline": "Who *decides*",
+        "items": [
+          "Day-to-day contact — who I speak to every week",
+          "Approver — who says yes to creative",
+          "Hidden reviewers — founder, legal, a regional head"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Group 3",
+        "headline": "What *success* looks like",
+        "items": [
+          "Goal — the one result the pilot has to show",
+          "Date — when they'll judge it",
+          "Baseline — what they're comparing against"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Group 4",
+        "headline": "What they've *already learnt*",
+        "items": [
+          "Past winners — ads or creators that worked",
+          "Past misses — what they never want again",
+          "Must-haves — claims, words and visuals that are fixed"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "The test",
+        "headline": "Can I run the first call *without* sales?",
+        "body": "If yes, the handoff worked.\n\nIf I need to ask sales a few questions first, those questions belong in the template next time."
+      },
+      {
+        "layout": "cta",
+        "headline": "Write the handoff *before* the kickoff.",
+        "sub": "Save this for your next new client.",
+        "actions": [
+          "Follow Galvor",
+          "Comment 'handoff' for the template"
+        ]
+      }
+    ]
+  },
+  "date": "2027-02-19",
+  "pillar": "Client Lessons",
+  "job": "Educate",
+  "format": "carousel",
+  "topic_ref": "Sh43",
+  "title": "What a good sales-to-servicing handoff contains",
+  "caption": "The first call after a deal closes tells a client a lot about us.\nIf I ask them something they already told sales, we've started badly.\n\nThat's why the handoff from sales to client servicing matters so much in a pilot. It's the moment a promise turns into a plan.\n\nSince joining Galvor I've been building my own handoff checklist. Four groups of things I want in writing before my first call with a new brand: why they bought, who decides, what success looks like, and what they've already learnt.\n\nSwipe for the list. Comment \"handoff\" and I'll send you the template.\n\nFollow Galvor for more from the brief-to-live desk.",
+  "first_comment": "Agency and servicing folks: what's the one thing you wish sales always wrote down? I'll add the best answers to the template.",
+  "hashtags": [
+    "#ClientServicing",
+    "#AgencyLife",
+    "#D2CIndia"
+  ],
+  "cta": "Soft ask: comment 'handoff' for the template; Follow Galvor",
+  "notes": "CONFIRM WITH Shrutik: that he has (or will have) a handoff template to send to commenters, and that the four groups match what Galvor sales hands over. Soft ask used (rule 15, about 20% of posts).\nReader: agency owners and servicing leads; also signals to prospects that Galvor pilots start organised. February theme Proof season: pilots & client stories. Numbers: none.\nAngle check: Monday 22 Feb (Sh5) is his creative brief template carousel; this is a different template (sales handoff), but the two soft asks land in the same week, so consider moving one if that feels like too much.",
+  "hook": "The first call after a deal closes tells a client a lot about us.",
+  "poll": null,
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "what-a-good-sales-to-servicing-handoff-contains",
+  "theme": "Proof season: pilots & client stories",
+  "id": "li-2027-02-19-what-a-good-sales-to-servicing-handoff-contains",
+  "updated_at": "2026-11-18T00:25:54",
+  "created_at": "2026-11-18T00:25:54",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:54",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

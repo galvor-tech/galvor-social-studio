@@ -1,0 +1,50 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "date": "2026-12-11",
+  "pillar": "People / Team",
+  "job": "De-risk",
+  "format": "text",
+  "topic_ref": "Sh39",
+  "title": "How I explain to a client what AI can and can't do",
+  "caption": "The first AI question a client asks me is rarely about AI.\nIt's usually: will this still look like us?\n\nI'm still new here, so I've had to find a plain way to answer. Here's where I've landed.\n\nWhat our agents do well: read a lot of ads quickly, tag what's in them, draft scripts and versions, and flag things a tired reviewer might miss.\n\nWhat they can't do: know that the founder dislikes a certain shade of green, sense that a joke will land badly in one city, or decide what the brand stands for.\n\nSo I explain the work as a split. The agents do the reading and the first drafts. People on both sides do the deciding.\n\nThen I show the client exactly where they sit. Who approves the script. Who signs off the cut. Nothing goes live until a named person on their side says yes.\n\nThat part settles the room faster than any demo. Most of the worry I hear is about keeping control of the brand, and a named approver answers it.\n\nFollow Galvor if your team is working out the same split.",
+  "first_comment": "Agencies and brand teams: what's the AI question clients ask you most? Mine is the one in the first line.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#BrandManagement",
+    "#D2CIndia"
+  ],
+  "cta": "Follow Galvor (closing line)",
+  "notes": "CONFIRM WITH Shrutik: the opening question ('will this still look like us?') should be one he has really heard; swap in the real phrasing if different. CONFIRM WITH Raj: the 'what agents do well' list matches Decode / Scripts / Vira capabilities as sold today.\nReader: agency or brand manager who has to explain AI to a nervous client. December theme People + agents. Numbers: none.\nAngle check: Monday 4 Jan (Sh32) is about warning clients that AI output needs rounds; this one is about control and approvals, no overlap.",
+  "hook": "The first AI question a client asks me is rarely about AI.",
+  "poll": null,
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "how-i-explain-to-a-client-what-ai-can-and-cant-d",
+  "theme": "People + agents",
+  "id": "li-2026-12-11-how-i-explain-to-a-client-what-ai-can-and-cant-d",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

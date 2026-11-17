@@ -1,0 +1,59 @@
+{
+  "platform": "linkedin",
+  "date": "2027-02-11",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "In the Room",
+  "job": "De-risk",
+  "format": "poll",
+  "series": "What I Heard in the Room",
+  "title": "Poll: if a pilot could fix one thing, which would you pick?",
+  "topic_ref": "S32",
+  "poll": {
+    "question": "If an AI pilot could fix one problem for your marketing team, which would you pick?",
+    "options": [
+      "Knowing which ads to cut",
+      "Knowing what to make next",
+      "Faster reporting",
+      "Better creator shortlists"
+    ],
+    "duration": "1 week"
+  },
+  "caption": "If an AI pilot could fix one problem for your marketing team, which would you pick?\nOnly one. That's the hard part.\n\nWhat I Heard in the Room: the pilots that stall usually tried to prove everything at once.\n\nTen features in the demo, eight goals in the plan, and at the end nobody can say what changed.\n\nThe pilots that go well start with one problem that already hurts. Someone on the team can name it, and finance would notice if it got better.\n\nWe would rather solve one painful problem than demo ten features. It makes the pilot shorter, the result clearer and the decision easier for everyone in the room, including the people who weren't at the demo.\n\nSo, one pick. Vote below.\n\nIf your real answer isn't on the list, put it in the comments. Those are often the most useful ones.\n\nFollow Galvor for more on running pilots that end in a decision.",
+  "first_comment": "Follow Galvor for more on running pilots that end in a decision. I'll share what the votes say next week.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#CMO",
+    "#D2CIndia"
+  ],
+  "cta": "Vote + comment; Follow Galvor",
+  "notes": "Proof season. Reader: CMOs and heads of growth considering an AI pilot. Argument: pilots work when they target one painful problem. Topic bank S32; series What I Heard in the Room, framed as a pattern. Numbers: none. Options map to Galvor modules (Actions, Scripts/Brief, Decode reporting, Scout) without naming them. Doesn't repeat Sunil's 15 Dec post (pilot needs a business question): that one was about the question, this one is about scope. Sunil to post a follow-up with the result.",
+  "festival": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "hook": "If an AI pilot could fix one problem for your marketing team, which would you pick?",
+  "script": null,
+  "status": "draft",
+  "theme": "Proof season: pilots & client stories",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "poll-if-a-pilot-could-fix-one-thing-which-would",
+  "id": "li-2027-02-11-poll-if-a-pilot-could-fix-one-thing-which-would",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

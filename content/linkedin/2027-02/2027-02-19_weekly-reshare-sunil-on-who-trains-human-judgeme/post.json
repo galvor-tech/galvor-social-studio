@@ -1,0 +1,49 @@
+{
+  "platform": "linkedin",
+  "date": "2027-02-19",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Building Galvor",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Weekly reshare: Sunil on who trains human judgement when agents do the junior work",
+  "hook": "Agents are taking over the work junior marketers used to learn on.",
+  "caption": "Agents are taking over the work junior marketers used to learn on.\nSunil asked the question that follows from that this week, and it stayed with us.\n\nIf an agent writes the first draft of the report, sorts the creatives and suggests the next test, where does the next head of growth learn judgement?\n\nOur answer at Galvor is to make the agent show its thinking. Vira explains why it suggests a call, so the person reviewing it learns the reasoning along with the result. Every call a person overrules goes back into Brand Memory, so the team's judgement is recorded too.\n\nThat only works if someone senior reviews the calls and says why they disagree. Judgement gets trained in those reviews.\n\nSunil's post is below. Worth reading if you lead a team that is handing work to AI this year, and worth sending to whoever trains your juniors.\n\nFollow Galvor for a reshare of the team's best post every Friday.",
+  "first_comment": "Sunil's post: <paste the URL of Sunil's 16 Feb post> (add UTM if linking off LinkedIn)",
+  "hashtags": [
+    "#AIinMarketing",
+    "#GrowthMarketing",
+    "#D2CIndia"
+  ],
+  "alt_text": "Text-only reshare post, no image.",
+  "cta": "Follow Galvor; read Sunil's post",
+  "script": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "notes": "Friday best-of reshare (playbook section 9): reshare Sunil's Tue 16 Feb post ('Human judgement is the product. So who is training it?') with the page's own line, never a plain repost. CONFIRM before posting: that Sunil's post was the week's best performer (alternative: Shrutik's Mon 15 Feb 'no-surprise rule' post; rewrite if so). The Vira and Brand Memory lines describe product behaviour: CONFIRM WITH Raj that overrules are written back to Brand Memory as described. No numbers used. Script only, no media until chosen.",
+  "topic_ref": "",
+  "status": "draft",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "festival": null,
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "weekly-reshare-sunil-on-who-trains-human-judgeme",
+  "theme": "Proof season: pilots & client stories",
+  "id": "li-2027-02-19-weekly-reshare-sunil-on-who-trains-human-judgeme",
+  "updated_at": "2026-11-18T00:25:55",
+  "created_at": "2026-11-18T00:25:55",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:55",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

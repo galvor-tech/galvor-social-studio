@@ -1,0 +1,59 @@
+{
+  "platform": "linkedin",
+  "date": "2026-12-10",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "AI & the Team",
+  "job": "Attract",
+  "format": "poll",
+  "title": "Poll: who makes the call to cut an ad?",
+  "topic_ref": "S9",
+  "poll": {
+    "question": "When an ad stops working, who on your team makes the call to cut it?",
+    "options": [
+      "Media buyer",
+      "Head of growth or founder",
+      "Our agency",
+      "An AI agent, with sign-off"
+    ],
+    "duration": "1 week"
+  },
+  "caption": "When an ad stops working, who on your team makes the call to cut it?\nI'm asking because that answer is changing quickly.\n\nAgents can now spot a tired ad before anyone opens the dashboard. So the hard part is moving from finding the problem to owning the decision.\n\nThe teams that grow without adding headcount tend to draw that line clearly. The agent flags the ad and explains why. A named person decides, and writes down the reason.\n\nWhere the line is blurry, two things go wrong.\n\nAds run a week too long because nobody felt it was their call.\n\nOr slow starters get cut early because an alert looked scary. In Galvor's analysis of video ads launched May to September 2026, some ad styles started about 35% dearer per order in their first two months and ended close to average over their life.\n\nVote below. If the honest answer is \"nobody, really\", say so in the comments. That's the answer I'd most like to talk about.\n\nFollow Galvor for more on how teams and agents share decisions.",
+  "first_comment": "Follow Galvor for more on how teams and agents share decisions. Results and what we make of them next week.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#MetaAds",
+    "#GrowthMarketing"
+  ],
+  "cta": "Vote + comment; Follow Galvor",
+  "notes": "Reader: heads of growth and founders. Argument: as agents take over detection, the decision needs a named owner. Topic bank S9 (job becomes judgement). Numbers: 35% dearer per order in first two months for some ad styles (facts bank, Decoded #3 analysis). Different from Sunil's 24 Nov poll (AI agent moving 20% of budget): this one is about who owns the cut. Decoded #8 (9 Dec, Agents, Not Headcount) lands the day before, so the topic is warm. Sunil to post a short follow-up with results.",
+  "series": "",
+  "festival": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "hook": "When an ad stops working, who on your team makes the call to cut it?",
+  "script": null,
+  "status": "draft",
+  "theme": "People + agents",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "poll-who-makes-the-call-to-cut-an-ad",
+  "id": "li-2026-12-10-poll-who-makes-the-call-to-cut-an-ad",
+  "updated_at": "2026-11-18T00:25:52",
+  "created_at": "2026-11-18T00:25:52",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:52",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Which QC check would you hand to an AI agent first?
+We're working this out at Galvor right now, and I'd like to know where other teams draw the line.
+
+Before a video goes to a client, someone checks it. Subtitles against the audio. The logo and the product in frame. Every claim against what the brand approved. The CTA on the end card.
+
+Some of that is pattern work. A misspelt word, a missing logo, a frame where the pack faces the wrong way. A machine can stay patient with that in a way I can't at 11 pm.
+
+Some of it needs judgement. Does this line sound like the brand? Will this claim make the legal team nervous?
+
+My working rule so far: the agent flags, a person decides, and that person's name goes on the approval.
+
+Vote below. If you picked the last option, tell me why in the comments. I'd like to hear the case for keeping it all human.
+
+Follow Galvor for what we learn from it.
+
+#AIinMarketing #CreativeStrategy #D2CIndia

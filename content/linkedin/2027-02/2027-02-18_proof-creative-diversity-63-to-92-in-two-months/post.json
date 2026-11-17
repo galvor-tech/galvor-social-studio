@@ -1,0 +1,58 @@
+{
+  "platform": "linkedin",
+  "date": "2027-02-18",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Proof / Case Study",
+  "job": "Convert",
+  "format": "image",
+  "series": "",
+  "title": "Proof: creative diversity 63 to 92 in two months, and the first changes we recommend",
+  "hook": "One brand's creative diversity score went from 63 to 92, out of 100, in two months.",
+  "caption": "One brand's creative diversity score went from 63 to 92, out of 100, in two months.\nThat was the score two months after they made the changes we recommended.\n\nWhy the score matters now: Meta's 'Creative diversity' column started appearing in Ads Manager in late August 2026 and reached most accounts by the last week of October. Delivery notices when your ads look alike.\n\nOur own data shows what look-alikes cost. New ads that looked like many running ads got 36% less first-month spend.\n\nThe changes we usually recommend first:\n\nKeep the message that already sells, and give it a new first shot.\n\nChange the cast or the setting before rewriting the script.\n\nSpace launches out. Six look-alikes in one week compete with each other.\n\nThe score matters for what it buys: every new ad gets a fair chance to teach you something.\n\nWe'll read your account's creative diversity for free. Link in the first comment.\n\nFollow Galvor for more results from proof season.",
+  "first_comment": "Book a free creative diversity read of your account: https://talk.galvor.ai (add UTM)",
+  "hashtags": [
+    "#MetaAds",
+    "#CreativeStrategy",
+    "#D2C"
+  ],
+  "alt_text": "A single graphic. A large figure, 63 to 92, with the line: one brand's creative diversity score, out of 100, two months after Galvor's recommended changes. Source: Galvor analysis.",
+  "cta": "Direct ask: free creative diversity read via talk.galvor.ai (first comment); Follow Galvor",
+  "script": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "stat",
+        "kicker": "Proof season",
+        "stat": "63 → 92",
+        "headline": "creative diversity score, *two months* after our recommended changes",
+        "sub": "Out of 100. One brand, anonymised.",
+        "source": "Source: Galvor analysis · anonymised client, Decoded #3"
+      }
+    ]
+  },
+  "notes": "Theme: Proof season (Feb). Thursday proof post with the link; follows Decoded #18 (Wed 17 Feb) and Sunil's Tue 16 Feb post. Numbers: 63 -> 92 two months after Galvor's recommended changes; 36% less first-month spend for look-alikes; Meta Creative diversity column dates (all facts bank section 4). CONFIRM WITH Raj: which of the three listed changes this brand actually made; if different, keep the list as 'what we usually recommend' and don't tie it to the brand. The three changes are general recommendations drawn from Decoded #3, not results. This is one of the ~10% direct-ask posts. Script only, no media until chosen.",
+  "topic_ref": "",
+  "status": "draft",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "festival": null,
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "proof-creative-diversity-63-to-92-in-two-months",
+  "theme": "Proof season: pilots & client stories",
+  "id": "li-2027-02-18-proof-creative-diversity-63-to-92-in-two-months",
+  "updated_at": "2026-11-18T00:25:54",
+  "created_at": "2026-11-18T00:25:54",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:54",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

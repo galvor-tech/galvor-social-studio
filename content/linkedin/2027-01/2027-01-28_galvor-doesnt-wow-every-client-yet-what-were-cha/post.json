@@ -1,0 +1,49 @@
+{
+  "platform": "linkedin",
+  "date": "2027-01-28",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Building Galvor",
+  "job": "De-risk",
+  "format": "text",
+  "title": "Galvor doesn't wow every client yet. What we're changing",
+  "topic_ref": "S43",
+  "caption": "Galvor doesn't wow every client in its first month yet.\nI'd rather say that here than have someone find out in a pilot.\n\nWe ask brands to run a learning loop, so we run one on ourselves. Every fortnight we look at where clients got stuck.\n\nThe pattern I see most is the gap between a finding and an action.\n\nA team reads that a certain opening costs more per order. They agree. Then the next brief looks exactly like the last one.\n\nThe finding was right. It arrived as a fact when the team needed a decision.\n\nSo we're changing three things.\n\nEvery finding now ends in a call: scale, cut, refresh or test.\n\nEvery finding says how sure we are, so a signal doesn't get treated like proof.\n\nAnd the first fortnight ends with one brief written together, so the loop starts with something live.\n\nIt's unglamorous work. It is also the same thing we ask of every ad: make the next one better than the last.\n\nFollow Galvor for what we're learning as we build it.",
+  "first_comment": "Follow Galvor for more on how we build it, including what isn't working yet.",
+  "hashtags": [
+    "#StartupIndia",
+    "#AIinMarketing",
+    "#CreativeStrategy"
+  ],
+  "cta": "Follow Galvor",
+  "notes": "Learning-loop month, Galvor applying the loop to itself; honest de-risk post before February's proof season. Reader: CMOs and founders weighing a pilot, who trust vendors more when they admit gaps. Topic bank S43. Numbers: none. MUST CONFIRM WITH SUNIL: (1) that the finding-to-action gap is the real main reason clients stall; (2) that the three changes (every finding ends in a call; confidence labels; a joint first brief) are real or planned and can be said publicly. Replace any that aren't true. The confidence-label point lines up with the Galvor page post on 29 Jan (proven, signal or hunch), so Sunil goes first.",
+  "series": "",
+  "festival": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "hook": "Galvor doesn't wow every client in its first month yet.",
+  "script": null,
+  "status": "draft",
+  "theme": "The learning loop",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "galvor-doesnt-wow-every-client-yet-what-were-cha",
+  "id": "li-2027-01-28-galvor-doesnt-wow-every-client-yet-what-were-cha",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "platform": "linkedin",
+  "date": "2027-01-07",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Product / Demo",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "The learning loop, one cycle: Decode, Prove, Create, Run",
+  "hook": "Every two weeks, our loop asks one question of every ad that ran: what should the next ad keep?",
+  "caption": "Every two weeks, our loop asks one question of every ad that ran: what should the next ad keep?\nHere is one cycle, start to finish.\n\nDecode. Every ad gets tagged on 50+ attributes: hook, cast, pacing, setting, CTA.\n\nProve. Each attribute is priced against cost per order. A winning ad becomes a list of reasons you can brief again.\n\nCreate. The next briefs start from those reasons. Keep what earned its place. Change what didn't.\n\nRun. Scale, cut, shift. We move creative and never touch the media budget.\n\nThen the next cycle reads what the last one changed, and the brand's memory grows by one more round.\n\nIn one Run cycle (Cycle 14), cost per order came down 18%. A single cycle is a signal. Twenty-six of them a year is a habit.\n\nSwipe for the four steps and the question each one answers. Raj wrote up the full method in Decoded #12 yesterday.\n\nFollow Galvor for what each cycle teaches us.",
+  "first_comment": "The full fortnightly method, step by step, in Decoded #12: https://galvor.ai/newsletters/decode/ (add the #12 URL and UTM before posting)",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "alt_text": "Six-slide carousel. Cover: one cycle of the learning loop. A list of the four steps (Decode, Prove, Create, Run) and the question each answers. A text slide on what Decode tags. A comparison of a quarterly creative review with a fortnightly loop. A stat slide: cost per order down 18 percent in one Run cycle. A closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; first comment links Decoded #12",
+  "script": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "The learning loop",
+        "headline": "One cycle, *start to finish*",
+        "sub": "Every two weeks, one question: what should the next ad keep?"
+      },
+      {
+        "layout": "list",
+        "kicker": "Four steps",
+        "headline": "Each step answers *one question*",
+        "items": [
+          "Decode — what is actually in each ad?",
+          "Prove — which attributes earn their cost per order?",
+          "Create — what should the next brief keep and change?",
+          "Run — scale, cut or shift, without touching budget"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Decode",
+        "headline": "50+ attributes, *every ad*",
+        "body": "Hook, cast, pacing, setting, CTA, and more.\n\nA winning ad stops being a lucky file. It becomes a list of reasons the next brief can use."
+      },
+      {
+        "layout": "compare",
+        "kicker": "Rhythm",
+        "headline": "Quarterly review vs *fortnightly loop*",
+        "left_title": "Once a quarter",
+        "left": [
+          "Reviews ads already replaced",
+          "Lessons live in a deck",
+          "Next brief starts blank"
+        ],
+        "right_title": "Every two weeks",
+        "right": [
+          "Reviews ads still running",
+          "Lessons go into Brand Memory",
+          "Next brief starts from proof"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "One cycle",
+        "stat": "−18%",
+        "headline": "cost per order in a *single* Run cycle",
+        "sub": "Cycle 14. One cycle is a signal; the habit is the loop.",
+        "source": "Source: galvor.ai/results · anonymised client, Run Cycle 14"
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make *the next one* better.",
+        "sub": "Save this for your next creative review.",
+        "actions": [
+          "Follow Galvor",
+          "Read Decoded #12 on galvor.ai"
+        ]
+      }
+    ]
+  },
+  "notes": "Theme: The learning loop (Jan). Page follows Decoded #12 (Wed 6 Jan, 'The Learning Loop: How to Run a Fortnightly Creative Cycle') and Raj's Wed 12:30 post; this is the Thursday product post with the link. Numbers: 50+ attributes, every two weeks, -18% CPO (Cycle 14), all facts bank section 4. 'Twenty-six of them a year' is arithmetic from 'every two weeks', not a stat. Avoid repeating the 10 Dec page post (why every two weeks, four-part agenda): this one walks one cycle step by step. CONFIRM: the Decoded #12 URL slug, and add a UTM. Script only, no media until chosen.",
+  "topic_ref": "",
+  "status": "draft",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "festival": null,
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "the-learning-loop-one-cycle-decode-prove-create",
+  "theme": "The learning loop",
+  "id": "li-2027-01-07-the-learning-loop-one-cycle-decode-prove-create",
+  "updated_at": "2026-11-18T00:25:54",
+  "created_at": "2026-11-18T00:25:54",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:54",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

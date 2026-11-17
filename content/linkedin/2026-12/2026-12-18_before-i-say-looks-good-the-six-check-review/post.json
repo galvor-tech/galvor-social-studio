@@ -1,0 +1,110 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "Seven-slide carousel titled What I check before saying looks good. It lists six review checks in pairs: claims and product, CTA and on-screen words, sound and the brief; explains why claims are checked first; notes that a beautiful video can still fail the brief; and closes with a slide asking readers to follow Galvor.",
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Feedback & approvals",
+        "headline": "What I check before saying *looks good*",
+        "sub": "Six checks on every cut, before it reaches the client."
+      },
+      {
+        "layout": "list",
+        "kicker": "Checks 1 and 2",
+        "headline": "Claims and *product*",
+        "items": [
+          "Claims — every line matches what the brand approved",
+          "Proof — no 'best' or 'number one' without backup",
+          "Product — visible, right pack, right variant",
+          "Label — facing camera, readable on a phone"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Checks 3 and 4",
+        "headline": "CTA and *on-screen words*",
+        "items": [
+          "CTA — one ask, matching the offer that's live",
+          "End card — right price, right dates",
+          "Supers — spelling, brand name, product name",
+          "Subtitles — in sync, readable on a phone"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Checks 5 and 6",
+        "headline": "Sound and *the brief*",
+        "items": [
+          "Music — cleared for paid ads, not only organic",
+          "Voice — steady levels, no clipped words",
+          "Message — the one message the brief asked for",
+          "Must-haves — every stated must-have is in the cut"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "Why claims go first",
+        "headline": "The miss that *costs most*",
+        "body": "A wrong subtitle is a quick fix.\n\nA claim the brand never approved can get the ad pulled after it goes live.\n\nSo I check claims before anything I enjoy watching."
+      },
+      {
+        "layout": "statement",
+        "headline": "A beautiful video can still *fail the brief*.",
+        "sub": "Check the brief last, with fresh eyes."
+      },
+      {
+        "layout": "cta",
+        "headline": "Run the check *before* you say yes.",
+        "sub": "Save this for your next review day.",
+        "actions": [
+          "Follow Galvor",
+          "Save for review day"
+        ]
+      }
+    ]
+  },
+  "date": "2026-12-18",
+  "pillar": "Feedback & Approvals",
+  "job": "Educate",
+  "format": "carousel",
+  "topic_ref": "Sh26",
+  "title": "Before I say 'looks good': the six-check review",
+  "caption": "\"Looks good\" is the most expensive thing I can say too early.\nOnce I say it, the video goes to the client, and every miss after that is mine.\n\nSo before I say it, I run the same six checks on every cut.\n\nClaims go first, because those are the misses that come back from legal. Then the product, the CTA, the words on screen, the sound, and finally the brief itself.\n\nIt felt slow the first few times. After a few weeks it became habit, and it's the same list I'd want any agent to run before it reaches me.\n\nSwipe for the full check. Save it for your next review day.\n\nFollow Galvor for more from the brief-to-live desk.",
+  "first_comment": "What would you add as check seven? I'll update the list with the best ones.",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#BrandManagement",
+    "#AdCreative"
+  ],
+  "cta": "Save + Follow Galvor",
+  "notes": "CONFIRM WITH Shrutik: the six checks and the order (claims first, brief last) are his real review routine; adjust items to what he actually checks. The line about 'the same list I'd want any agent to run' ties to the December People + agents theme without claiming a product feature.\nReader: creative/brand manager or agency producer who signs off cuts. Numbers: none.\nAngle check: Monday 21 Dec (Sh33) is 'AI made it doesn't lower the bar'; this is the checklist itself. Sh27 ('a beautiful video can still fail the brief') used only as a slide line, not as topic_ref, so it stays available.",
+  "hook": "\"Looks good\" is the most expensive thing I can say too early.",
+  "poll": null,
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "before-i-say-looks-good-the-six-check-review",
+  "theme": "People + agents",
+  "id": "li-2026-12-18-before-i-say-looks-good-the-six-check-review",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

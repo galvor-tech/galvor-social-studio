@@ -1,0 +1,52 @@
+{
+  "platform": "newsletter",
+  "date": "2027-01-20",
+  "time": "08:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #14: Plenty of Data, No Memory. Where Your Ad Learnings Go When the Agency Leaves",
+  "hook": "Plenty of Data, No Memory. Where Your Ad Learnings Go When the Agency Leaves",
+  "status": "idea",
+  "festival": null,
+  "caption": "Decoded by Galvor, Issue #14: Plenty of Data, No Memory. Where Your Ad Learnings Go When the Agency Leaves\n\nMost D2C brands can pull two years of ad data in a minute and still can't say what they learned from it. The numbers stay in the account; the reasons live in people's heads and leave with them. This issue looks at why learning loops break at the handover, and what a brand memory has to hold to survive one.\n\nSubscribe to get it every Wednesday.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "notes": "Outline planned 18 Nov 2026 (why now: January is when agency contracts renew or change and new performance hires start; it is also the third issue of the learning-loop month, after #12 (the fortnightly cycle) and #13 (the budget case to finance), so this one covers what the loop has to remember between cycles.). Posted from the Galvor page. Write with Decoded → Draft with AI, then fill every [DATA NEEDED].",
+  "newsletter": {
+    "issue": "14",
+    "markup": "---\nissue: 14\ntitle: Decoded #14: Plenty of Data, No Memory. Where Your Ad Learnings Go When the Agency Leaves\ndek: Most D2C brands can pull two years of ad data in a minute and still can't say what they learned from it. The numbers stay in the account; the reasons live in people's heads and leave with them. This issue looks at why learning loops break at the handover, and what a brand memory has to hold to survive one.\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: Budget Season: Making the Case for Creative Spend to Finance\nprevious_url: https://galvor.ai/newsletters/decode/budget-season-making-the-case-for-creative-spend-to-finance/\n---\n\n## Key takeaways\n\n- [DATA NEEDED: takeaway 1]\n- [DATA NEEDED: takeaway 2]\n- [DATA NEEDED: takeaway 3]\n\n## Cold open\n\nMonday, 9:40 a.m. Sam's new agency has asked for 'the learnings so far', and the old agency's handover is a 46-slide deck with three winning ads and no reasons. The ad account still has every number from the last year; nobody can say which hook, cast or setting earned them.\n\n## Monday, 9:40 a.m.: The Handover Deck With No Reasons\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Plenty of Data, No Memory: Why the Ad Account Isn't a Record of What You Learned\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What Gets Lost at Every Handover: Hooks, Casts, Claims and the Tests Already Run\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What Galvor Saw: Brands Re-testing Ideas They Had Already Proven\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What a Brand Memory Has to Hold: The Attribute, the Price, the Date, the Confidence\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Proven, Signal or Hunch: Labelling Every Finding Before It Is Stored\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The Shift for Marketers and Leaders: Five Moves Before Your Next Agency Change\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Next issue\n\nNext issue: Proven Message, New Look. Our data says a proven message in a new look got 47% more first-month spend, and a new message over a familiar first shot got 16% less. Next week we turn that into a refresh rule your loop can follow every fortnight.\n\n## How we did this\n\nGalvor's data needed for this issue:\n- Decode tags 50+ attributes per ad (facts bank)\n- The loop runs every two weeks (facts bank)\n- [DATA NEEDED] Raj: across brands we work with, how often a new ad re-tested an attribute combination the brand had already run and priced (share of new ads that repeat a proven or failed combination), May–Dec 2026\n- [DATA NEEDED] Raj: for one anonymised brand with an agency or team change in 2026, how many priced attributes existed in Brand Memory at the handover\n\n## Sources\n\n- [DATA NEEDED: sources, one per line: Publisher (date), [title](url)]\n",
+    "url": "https://galvor.ai/newsletters/decode/plenty-of-data-no-memory-where-your-ad-learnings/",
+    "next_issue": "",
+    "subject_lines": [
+      "Plenty of Data, No Memory. Where Your Ad Learnings Go When the Agency Leaves"
+    ],
+    "preview_text": "Most D2C brands can pull two years of ad data in a minute and still can't say what they learned from it. The numbers stay in the account; th"
+  },
+  "slug": "decoded-14-plenty-of-data-no-memory-where-your-a",
+  "theme": "The learning loop",
+  "id": "nl-2027-01-20-decoded-14-plenty-of-data-no-memory-where-your-a",
+  "updated_at": "2026-11-18T00:25:55",
+  "created_at": "2026-11-18T00:25:55",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:55",
+      "action": "Planned: Decoded outline to Feb 2027 (18 Nov 2026)"
+    }
+  ]
+}

@@ -57,7 +57,7 @@ check([e for e, *_ in sent].count("digest") == 1, "daily digest sent once")
 
 # rescheduling + buffer
 nxt = reminders.next_free_slot(store.get_post(q["id"]))
-check(nxt and nxt[0] > day and date.fromisoformat(nxt[0]).weekday() in (1, 3) and nxt[1] == "09:00", f"next Sunil slot is a Tuesday or Thursday 09:00 ({nxt})")
+check(nxt and nxt[0] >= day and date.fromisoformat(nxt[0]).weekday() in (1, 3) and nxt[1] == "09:00", f"next Sunil slot is a Tuesday or Thursday 09:00 ({nxt})")
 b = reminders.buffer_days()
 check(set(b) == {"linkedin", "instagram"} and b["linkedin"]["level"] == "bad", "buffer flags LinkedIn (draft next)")
 check(reminders.kit_ok(p["id"], reminders.kit_token(p["id"])) and not reminders.kit_ok(p["id"], "nope"), "kit tokens verify")

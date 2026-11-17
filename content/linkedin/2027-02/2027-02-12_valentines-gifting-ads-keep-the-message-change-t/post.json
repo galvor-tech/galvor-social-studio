@@ -1,0 +1,58 @@
+{
+  "platform": "linkedin",
+  "date": "2027-02-12",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Decode Teardown",
+  "job": "Attract",
+  "format": "image",
+  "series": "",
+  "title": "Valentine's gifting ads: keep the message, change the look (47% vs 16%)",
+  "hook": "Valentine's week is when gifting brands launch the most new ads in the fewest days.",
+  "caption": "Valentine's week is when gifting brands launch the most new ads in the fewest days.\nOur data says how you change them matters more than how many you make.\n\nIn Galvor's analysis of video ads launched May to September 2026:\n\nA proven message in a new look got 47% more first-month spend.\n\nA new message over a familiar first shot got 16% less.\n\nFor gifting week, that suggests a simple rule. Keep the line that already sells, the one about delivery before the 14th or the gift they'll actually use. Change the first shot, the cast, the setting.\n\nThen watch the count. Six or more look-alikes launched within three days each got 48% less first-month spend. A rushed Valentine's batch often looks exactly like that.\n\nThis data covers May to September, so it says nothing specific about gifting season. Treat it as a pattern to test this week, and keep notes on what it teaches you for next February.\n\nFollow Galvor for a creative check before every big week.",
+  "first_comment": "The analysis behind these numbers, in Decoded #3: https://galvor.ai/newsletters/decode/creative-diversity-low-why-30-new-ads-wont-fix-it/ (add UTM)",
+  "hashtags": [
+    "#AdCreative",
+    "#D2CIndia",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "A single graphic. A large figure, 47 percent, with the line: more first-month spend when a proven message gets a new look. Below it: a new message over a familiar first shot got 16 percent less. Source: Galvor analysis of video ads launched May to September 2026.",
+  "cta": "Follow Galvor; first comment links Decoded #3",
+  "script": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "stat",
+        "kicker": "Valentine's week",
+        "stat": "47%",
+        "headline": "more first-month spend: *proven message*, new look",
+        "sub": "New message over a familiar first shot: 16% less. Keep the line, change the look.",
+        "source": "Source: Galvor analysis · video ads launched May–Sep 2026"
+      }
+    ]
+  },
+  "notes": "Friday data drop with a Valentine's gifting angle (allowed for 12 Feb). Numbers: 47% more, 16% less, 48% less for six+ look-alikes in three days (Decoded #3, facts bank section 4). The data is from May-Sep 2026, not a gifting season; the caption says so. The two example lines ('delivery before the 14th', 'the gift they'll actually use') are illustrative, not client copy. No festival greeting format: this is a data post, so pillar Decode Teardown. Script only, no media until chosen.",
+  "topic_ref": "",
+  "status": "draft",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "festival": null,
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "valentines-gifting-ads-keep-the-message-change-t",
+  "theme": "Proof season: pilots & client stories",
+  "id": "li-2027-02-12-valentines-gifting-ads-keep-the-message-change-t",
+  "updated_at": "2026-11-18T00:25:54",
+  "created_at": "2026-11-18T00:25:54",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:54",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

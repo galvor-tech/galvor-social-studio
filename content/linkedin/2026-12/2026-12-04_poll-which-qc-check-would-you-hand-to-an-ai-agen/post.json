@@ -1,0 +1,59 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "date": "2026-12-04",
+  "pillar": "Feedback & Approvals",
+  "job": "Attract",
+  "format": "poll",
+  "topic_ref": "Sh34",
+  "title": "Poll: which QC check would you hand to an AI agent first?",
+  "caption": "Which QC check would you hand to an AI agent first?\nWe're working this out at Galvor right now, and I'd like to know where other teams draw the line.\n\nBefore a video goes to a client, someone checks it. Subtitles against the audio. The logo and the product in frame. Every claim against what the brand approved. The CTA on the end card.\n\nSome of that is pattern work. A misspelt word, a missing logo, a frame where the pack faces the wrong way. A machine can stay patient with that in a way I can't at 11 pm.\n\nSome of it needs judgement. Does this line sound like the brand? Will this claim make the legal team nervous?\n\nMy working rule so far: the agent flags, a person decides, and that person's name goes on the approval.\n\nVote below. If you picked the last option, tell me why in the comments. I'd like to hear the case for keeping it all human.\n\nFollow Galvor for what we learn from it.",
+  "poll": {
+    "question": "Which QC check would you hand to an AI agent first?",
+    "options": [
+      "Subtitle spelling and sync",
+      "Logo and product in frame",
+      "Claims match the brief",
+      "None, humans check it all"
+    ],
+    "duration": "1 week"
+  },
+  "first_comment": "I'll share the results and what we decided once the poll closes. Follow Galvor so you see it.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#CreativeStrategy",
+    "#D2CIndia"
+  ],
+  "cta": "Vote + Follow Galvor",
+  "notes": "CONFIRM WITH Shrutik/Raj: that Galvor is actively working out which QC checks an agent runs (and that 'agent flags, person decides' is the real rule). If not, reword line 2 to 'I've been thinking about this a lot'.\nReader: creative/brand managers and agencies deciding how far to trust AI in review. December theme People + agents. Numbers: none (11 pm is a time, not a stat).\nAngle check: Monday 21 Dec (Sh33) argues 'AI made it' doesn't lower the QC bar; this poll asks which checks to delegate, so it sets that post up. Follow-up results post optional.",
+  "hook": "Which QC check would you hand to an AI agent first?",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "poll-which-qc-check-would-you-hand-to-an-ai-agen",
+  "theme": "People + agents",
+  "id": "li-2026-12-04-poll-which-qc-check-would-you-hand-to-an-ai-agen",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

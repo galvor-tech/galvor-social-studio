@@ -1,0 +1,118 @@
+{
+  "platform": "linkedin",
+  "date": "2027-02-25",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Proof / Case Study",
+  "job": "Convert",
+  "format": "carousel",
+  "series": "",
+  "title": "Proof season scorecard: fashion, beauty, wellness, and the attention number beside each RoAS gain",
+  "hook": "Three categories, three anonymised results, one thing in common.",
+  "caption": "Three categories, three anonymised results, one thing in common.\nEvery RoAS gain came with an attention number beside it.\n\nFashion, a premium linen and cotton brand: RoAS up 67%, hold rate up 25%.\n\nBeauty, a clean skincare and serum brand: RoAS up 112%, hook rate up 3×, wasted spend down 30%.\n\nWellness, an Ayurvedic supplements brand: RoAS up 91%, hold rate up 135%, and a 2.6× uplift against aspirational content.\n\nRoAS tells you that something worked. Hook rate and hold rate point to what worked: the opening that stopped people, the middle that kept them watching. That second part is what you can put in the next brief.\n\nSo when you judge a pilot, ask for both numbers. A RoAS gain with no clue about the cause is hard to repeat. An attention gain with a clear cause is something the team can build on.\n\nSwipe for the three results side by side. Raj breaks them down in Decoded #19.\n\nFollow Galvor for more results from proof season.",
+  "first_comment": "The full breakdown is in Decoded #19, and if you're planning a pilot, talk to us: https://talk.galvor.ai (add the Decoded #19 URL and UTMs before posting)",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#D2CIndia",
+    "#AdCreative"
+  ],
+  "alt_text": "Seven-slide carousel. Cover: three categories, one pattern. Stat slides for fashion (RoAS up 67 percent, hold rate up 25 percent), beauty (RoAS up 112 percent, hook rate up three times, 30 percent less wasted spend) and wellness (RoAS up 91 percent, hold rate up 135 percent). A comparison of what RoAS tells you and what hook and hold rate tell you. A list of what to ask for when judging a pilot. A closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; soft ask to talk about a pilot via talk.galvor.ai (first comment)",
+  "script": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Proof season",
+        "headline": "Three categories, *one pattern*",
+        "sub": "Every RoAS gain came with an attention number beside it."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Fashion",
+        "stat": "+67%",
+        "headline": "RoAS, with hold rate *up 25%*",
+        "sub": "A premium linen and cotton D2C brand.",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Beauty",
+        "stat": "+112%",
+        "headline": "RoAS, with hook rate *up 3×*",
+        "sub": "A clean skincare and serum D2C brand. 30% less wasted spend.",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "stat",
+        "kicker": "Wellness",
+        "stat": "+91%",
+        "headline": "RoAS, with hold rate *up 135%*",
+        "sub": "An Ayurvedic supplements D2C brand. 2.6× uplift vs aspirational content.",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "compare",
+        "kicker": "Read both",
+        "headline": "What each number *tells you*",
+        "left_title": "RoAS",
+        "left": [
+          "Something worked",
+          "Says little about why",
+          "Hard to brief again"
+        ],
+        "right_title": "Hook and hold rate",
+        "right": [
+          "The opening stopped people",
+          "The middle kept them",
+          "Goes into the next brief"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Judging a pilot",
+        "headline": "Ask for *both* numbers",
+        "items": [
+          "RoAS — did the money work harder?",
+          "Hook rate — did more people stop?",
+          "Hold rate — did they stay longer?",
+          "The why — which attributes moved each one?"
+        ]
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make *the next one* better.",
+        "sub": "Planning a pilot? Link in the first comment.",
+        "actions": [
+          "Follow Galvor",
+          "Read Decoded #19",
+          "Talk to us at talk.galvor.ai"
+        ]
+      }
+    ]
+  },
+  "notes": "Theme: Proof season (Feb), closing scorecard. Follows Decoded #19 (Wed 24 Feb, three categories) and Sunil's Tue 23 Feb year-in-review post. All numbers from galvor.ai results (anonymised, facts bank section 4); no client names. Beauty (3 Dec) and wellness (21 Jan) had their own page posts and fashion had 11 Feb; this is the side-by-side roll-up, so the angle is the attention number beside each RoAS gain, not any single story. Do not claim attention moved first or caused the RoAS gain: the caption says it 'points to' what worked. Soft ask (pilot). Add UTMs. Script only, no media until chosen.",
+  "topic_ref": "",
+  "status": "draft",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "festival": null,
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "proof-season-scorecard-fashion-beauty-wellness-a",
+  "theme": "Proof season: pilots & client stories",
+  "id": "li-2027-02-25-proof-season-scorecard-fashion-beauty-wellness-a",
+  "updated_at": "2026-11-18T00:25:55",
+  "created_at": "2026-11-18T00:25:55",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:55",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

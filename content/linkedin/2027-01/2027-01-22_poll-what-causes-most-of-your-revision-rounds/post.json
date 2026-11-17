@@ -1,0 +1,59 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "date": "2027-01-22",
+  "pillar": "Feedback & Approvals",
+  "job": "Attract",
+  "format": "poll",
+  "topic_ref": "Sh10",
+  "title": "Poll: what causes most of your revision rounds?",
+  "caption": "What causes most of your revision rounds?\nI'm keeping a tally this month, and I'd like to compare notes.\n\nEvery time a video goes back for another round, I write one line on why. If I know where rounds come from, I can fix the cause before the next brief goes out.\n\nMy early guess is that most rounds trace back to the first call. Something nobody asked about then comes up in round two.\n\nI might be wrong, and it probably differs between brands and agencies.\n\nVote for the one that costs your team the most. If it's something else, put it in the comments.\n\nI'll share what the tally shows once the month is done.\n\nFollow Galvor for more from the brief-to-live desk.",
+  "poll": {
+    "question": "What causes most of your revision rounds?",
+    "options": [
+      "A vague brief",
+      "Feedback with no specifics",
+      "A reviewer joins late",
+      "The offer changes late"
+    ],
+    "duration": "1 week"
+  },
+  "first_comment": "My one-line format for the tally: date, video, round number, cause. That's all it takes to see a pattern.",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#BrandManagement",
+    "#D2CIndia"
+  ],
+  "cta": "Vote + Follow Galvor",
+  "notes": "CONFIRM WITH Shrutik: that he will actually keep a revision-cause tally in January and share a follow-up (as patterns, no client numbers; any count must be his own tally and labelled as such). January theme The learning loop.\nReader: brand/creative managers and agency producers. Numbers: none.\nAngle check: Monday posts cover single causes (vague feedback Sh21, must-fix vs preference Sh22, repeat feedback Sh24); this poll asks the audience to rank causes and seeds a follow-up post.",
+  "hook": "What causes most of your revision rounds?",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "poll-what-causes-most-of-your-revision-rounds",
+  "theme": "The learning loop",
+  "id": "li-2027-01-22-poll-what-causes-most-of-your-revision-rounds",
+  "updated_at": "2026-11-18T00:25:54",
+  "created_at": "2026-11-18T00:25:54",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:54",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "platform": "newsletter",
+  "date": "2027-02-03",
+  "time": "08:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #16: The Six-Week Pilot That Proved Nothing",
+  "hook": "The Six-Week Pilot That Proved Nothing",
+  "status": "idea",
+  "festival": null,
+  "caption": "Decoded by Galvor, Issue #16: The Six-Week Pilot That Proved Nothing\n\nPilots are how D2C brands buy anything new in marketing, and most of them end the same way: good feelings, a deck, and no decision. This issue opens proof season with what a creative pilot should measure, what counts as a result, and the questions to settle before day one, whoever the vendor is.\n\nSubscribe to get it every Wednesday.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "notes": "Outline planned 18 Nov 2026 (why now: February is when brands decide which Q4 and January pilots to renew before the new financial year; opens Galvor's Feb 'Proof season' theme and sets up the client stories in #17 and #19.). Posted from the Galvor page. Write with Decoded → Draft with AI, then fill every [DATA NEEDED].",
+  "newsletter": {
+    "issue": "16",
+    "markup": "---\nissue: 16\ntitle: Decoded #16: The Six-Week Pilot That Proved Nothing\ndek: Pilots are how D2C brands buy anything new in marketing, and most of them end the same way: good feelings, a deck, and no decision. This issue opens proof season with what a creative pilot should measure, what counts as a result, and the questions to settle before day one, whoever the vendor is.\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: Proven Message, New Look. The Refresh Rule That Got 47% More Spend\nprevious_url: https://galvor.ai/newsletters/decode/proven-message-new-look-the-refresh-rule-that-go/\n---\n\n## Key takeaways\n\n- [DATA NEEDED: takeaway 1]\n- [DATA NEEDED: takeaway 2]\n- [DATA NEEDED: takeaway 3]\n\n## Cold open\n\nMonday, 4:30 p.m. Sam's six-week pilot with a creative tool has ended. The vendor's deck says 'engagement improved', the agency says the festive spike skewed everything, and finance asks the only question that matters: do we renew?\n\n## Monday, 4:30 p.m.: The Pilot Nobody Can Score\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Why Pilots Fail Even When the Product Works: No Baseline, No Owner, No Decision Date\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What a Creative Pilot Should Measure: RoAS, Plus the Attention Numbers That Explain It\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What Galvor Saw Across Its Own Pilots: Results in Three Categories (Anonymised)\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## How Galvor Runs a Pilot: Every Two Weeks, Never Touching the Media Budget\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The One-Page Pilot Brief: Baseline, Metric, Owner, Length, Decision\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The Shift for Marketers and Leaders: Five Moves Before You Sign Any Pilot\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Next issue\n\nNext issue: Same Budget, $3,800 Moved. The first full client story of proof season: a premium linen brand, one month of the loop, and RoAS up 67% without a bigger budget. Next week we show which calls moved the money and why hold rate was the number to watch.\n\n## How we did this\n\nGalvor's data needed for this issue:\n- Fashion: +67% RoAS, +25% hold rate; Beauty: +112% RoAS, 3× hook rate; Wellness: +91% RoAS, +135% hold rate (galvor.ai results, anonymised)\n- Loop runs every two weeks; Galvor never touches the media budget (facts bank / galvor.ai)\n- [DATA NEEDED] Raj/Sunil: length of those pilots and the baseline each result was measured against (needed for 'How we did this'); do not publish the results section without it\n\n## Sources\n\n- [DATA NEEDED: sources, one per line: Publisher (date), [title](url)]\n",
+    "url": "https://galvor.ai/newsletters/decode/the-six-week-pilot-that-proved-nothing/",
+    "next_issue": "",
+    "subject_lines": [
+      "The Six-Week Pilot That Proved Nothing"
+    ],
+    "preview_text": "Pilots are how D2C brands buy anything new in marketing, and most of them end the same way: good feelings, a deck, and no decision. This iss"
+  },
+  "slug": "decoded-16-the-six-week-pilot-that-proved-nothin",
+  "theme": "Proof season: pilots & client stories",
+  "id": "nl-2027-02-03-decoded-16-the-six-week-pilot-that-proved-nothin",
+  "updated_at": "2026-11-18T00:25:55",
+  "created_at": "2026-11-18T00:25:55",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:55",
+      "action": "Planned: Decoded outline to Feb 2027 (18 Nov 2026)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "date": "2027-02-12",
+  "pillar": "Creator Ops India",
+  "job": "De-risk",
+  "format": "text",
+  "topic_ref": "Sh14",
+  "title": "Valentine's gifting: check creator conflicts before the excitement",
+  "caption": "Two days before Valentine's Day is the worst time to find a creator conflict.\nThe gifting video is approved, and then someone spots the creator's post for a rival brand from last week.\n\nGifting season is crowded. Chocolate, jewellery, fragrance and skincare brands all brief creators in the same few weeks, and the same faces show up in many feeds.\n\nSo I check for conflicts at the shortlist, before anyone gets attached to a creator.\n\nScroll the last few weeks of posts for anyone in the same category.\n\nAsk the creator, in writing, what else they're running this month.\n\nCheck the brand's own list of competitors and categories it won't sit next to.\n\nIf the brand needs exclusivity, put the window in the agreement with dates.\n\nAsking a creator about other brands feels awkward. Pulling a live video two days before the big day feels much worse.\n\nIt's also why Galvor Scout reads creators against the brief. In 8,673 creator checks, 66% of the creators turned down missed a stated must-have.\n\nFollow Galvor for more from the brief-to-live desk.",
+  "first_comment": "Running gifting creators this week? The four checks above take about as long as one approval call.",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#InfluencerMarketing",
+    "#D2CIndia"
+  ],
+  "cta": "Follow Galvor (closing line)",
+  "notes": "CONFIRM WITH Shrutik: the four conflict checks reflect his process. The rival-brand scenario is illustrative, not a real client.\nNumbers: 8,673 creator checks and 66% of 2,586 turned-down creators missed a stated must-have (Decoded #4, Galvor Scout, Aug to early Nov 2026; facts bank section 4).\nReader: brand/creative managers running Valentine's gifting creators. Timing: Fri 12 Feb, two days before Valentine's Day. February theme Proof season (Scout proof point). Angle check: no Monday post covers conflicts or exclusivity.",
+  "hook": "Two days before Valentine's Day is the worst time to find a creator conflict.",
+  "poll": null,
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "valentines-gifting-check-creator-conflicts-befor",
+  "theme": "Proof season: pilots & client stories",
+  "id": "li-2027-02-12-valentines-gifting-check-creator-conflicts-befor",
+  "updated_at": "2026-11-18T00:25:54",
+  "created_at": "2026-11-18T00:25:54",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:54",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

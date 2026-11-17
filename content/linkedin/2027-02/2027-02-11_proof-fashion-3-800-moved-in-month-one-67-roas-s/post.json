@@ -1,0 +1,97 @@
+{
+  "platform": "linkedin",
+  "date": "2027-02-11",
+  "time": "12:30",
+  "voice": "company",
+  "pillar": "Proof / Case Study",
+  "job": "De-risk",
+  "format": "carousel",
+  "series": "",
+  "title": "Proof (fashion): $3,800 moved in month one, +67% RoAS, same budget",
+  "hook": "A premium linen brand moved $3,800 of its ad spend in the first month of working with us.",
+  "caption": "A premium linen brand moved $3,800 of its ad spend in the first month of working with us.\nThe budget stayed the same size. Where it went changed.\n\nThe results after that month: RoAS up 67%. Hold rate up 25%.\n\nReallocation sounds like a media buyer's call. Here it started on the creative side.\n\nThe loop decoded every running ad and priced each attribute against cost per order. Then each ad got a call: scale, cut or shift. The brand's team moved the $3,800 by those calls, away from ads carrying the expensive attributes and towards the ones that had earned their place.\n\nHold rate is the number we watch closest. It says people stayed with the ads longer, so the RoAS gain comes with a reason the next brief can repeat.\n\nOne brand, one category, one month. Read it as a strong signal, and copy the method before the number.\n\nSwipe for what moved and the three calls behind it. The full story is in Decoded #17.\n\nFollow Galvor for more results from proof season.",
+  "first_comment": "The full anonymised story is in Decoded #17, and the results page is here: https://galvor.ai/ (add the Decoded #17 URL, /results path and UTM before posting)",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#D2CIndia",
+    "#MetaAds"
+  ],
+  "alt_text": "Six-slide carousel. Cover: same budget, $3,800 moved. Stat: RoAS up 67 percent for a premium linen and cotton D2C brand. Stat: hold rate up 25 percent. A list of the three calls (scale, cut, shift). A text slide on what to copy from the result. A closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; first comment links Decoded #17 and galvor.ai results",
+  "script": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Proof season · Fashion",
+        "headline": "Same budget. *$3,800* moved.",
+        "sub": "What one month of the loop did for a premium linen brand."
+      },
+      {
+        "layout": "stat",
+        "kicker": "Month one",
+        "stat": "+67%",
+        "headline": "RoAS for a *premium linen* and cotton D2C brand",
+        "sub": "The total ad budget did not grow.",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "stat",
+        "kicker": "The why",
+        "stat": "+25%",
+        "headline": "hold rate: people *stayed longer* with the ads",
+        "sub": "The number that tells you what to brief again.",
+        "source": "Source: galvor.ai/results · anonymised client"
+      },
+      {
+        "layout": "list",
+        "kicker": "Three calls",
+        "headline": "Where the *$3,800* came from",
+        "items": [
+          "Scale — ads whose attributes beat cost per order",
+          "Cut — ads carrying attributes that cost more per order",
+          "Shift — spend moved towards proven attributes"
+        ]
+      },
+      {
+        "layout": "text",
+        "kicker": "What to copy",
+        "headline": "Copy the *method*, then the number",
+        "body": "One brand, one category, one month. A strong signal.\n\nThe repeatable part is the order: decode, price each attribute, then make the call."
+      },
+      {
+        "layout": "cta",
+        "headline": "Every ad should make *the next one* better.",
+        "sub": "The full story is in Decoded #17.",
+        "actions": [
+          "Follow Galvor",
+          "Read Decoded #17 on galvor.ai"
+        ]
+      }
+    ]
+  },
+  "notes": "Theme: Proof season (Feb). Follows Decoded #17 (Wed 10 Feb, the fashion story) and the team's posts earlier in the week. Numbers: +67% RoAS, +25% hold rate, $3,800 reallocated in month one (galvor.ai results, anonymised, facts bank section 4). Never name the client. CONFIRM WITH Raj/Sunil: that the brand's team (not Galvor) moved the $3,800 on Galvor's scale/cut/shift calls, and that the reallocation was within the same total budget; if not, rewrite lines 1-2. Currency is $ as on galvor.ai; keep it. Add UTM links. Script only, no media until chosen.",
+  "topic_ref": "",
+  "status": "draft",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "festival": null,
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "proof-fashion-3-800-moved-in-month-one-67-roas-s",
+  "theme": "Proof season: pilots & client stories",
+  "id": "li-2027-02-11-proof-fashion-3-800-moved-in-month-one-67-roas-s",
+  "updated_at": "2026-11-18T00:25:54",
+  "created_at": "2026-11-18T00:25:54",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:54",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

@@ -48,6 +48,10 @@
     {
       "at": "2026-11-17T23:33:48",
       "action": "Posted from the Galvor page, not Raj (17 Nov 2026)"
+    },
+    {
+      "at": "2026-11-18T00:25:56",
+      "action": "Next issue set to #14"
     }
   ],
   "metrics": {},
@@ -55,7 +59,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:25:20",
-  "updated_at": "2026-11-17T23:33:48",
+  "updated_at": "2026-11-18T00:25:56",
   "topic_ref": "NL-9",
   "newsletter": {
     "issue": 13,
@@ -118,7 +122,7 @@
         ]
       }
     ],
-    "next_issue": "",
+    "next_issue": "Plenty of Data, No Memory. Where Your Ad Learnings Go When the Agency Leaves",
     "repurpose": [
       "LinkedIn carousel (Sunil): \"Three numbers I'd keep on a founder's marketing dashboard, and the 20 I'd remove\" (topic S8).",
       "Instagram reel: \"How to pitch creative budget to your CFO in 30 seconds\".",

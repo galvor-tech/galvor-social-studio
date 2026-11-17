@@ -1,0 +1,50 @@
+{
+  "platform": "linkedin",
+  "time": "09:00",
+  "voice": "shrutik",
+  "series": "",
+  "status": "draft",
+  "festival": null,
+  "script": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "date": "2026-11-27",
+  "pillar": "Better Briefs",
+  "job": "Educate",
+  "format": "text",
+  "topic_ref": "Sh3",
+  "title": "Sale week: the offer changed after the shoot. What I do on day one",
+  "caption": "It's Black Friday. Somewhere, a brand just changed the offer on a video that's already been shot.\nI've learnt to treat that moment as a new brief.\n\nSale weeks do this. A flat discount becomes buy one get one. The end date moves. A new hero product walks in.\n\nThe temptation is to send the creator a one-line WhatsApp and hope.\n\nHere's what I do on day one.\n\nWrite down what changed in one line, and get the brand to reply \"yes, that's it\".\n\nList every asset the change touches. Supers, captions, voiceover, end card, thumbnail.\n\nSort them into two piles: what the edit can fix, and what needs the creator again.\n\nGive the creator a new due date before asking for the change. Nobody does good work against a deadline that quietly stayed the same.\n\nAsk who approves the new version. Mid-change is exactly when a new reviewer appears.\n\nIt takes an hour. It saves the round where the old offer sneaks back into the final cut.\n\nFollow Galvor for more from the brief-to-live desk.",
+  "first_comment": "What's the latest an offer has changed on you before a launch? Tell me in the comments, I'm collecting sale-week stories.",
+  "hashtags": [
+    "#CreatorMarketing",
+    "#BrandManagement",
+    "#D2CIndia"
+  ],
+  "cta": "Follow Galvor (closing line); comment prompt in first comment",
+  "notes": "CONFIRM WITH Shrutik: that these five day-one steps match how he handles a mid-campaign brief change, and whether he has a real (anonymised) sale-week example he can add in one line. The offer swap in the post is illustrative.\nReader: brand/creative manager or agency lead running sale-week creative. Argument: a changed offer is a new brief, and one hour of structure saves a round. Black Friday tie-in (27 Nov). Numbers used: none.\nAngle check: Monday posts cover vague feedback (Sh21) and WhatsApp habits (Sh11); this is brief changes mid-flight, no overlap.",
+  "hook": "It's Black Friday. Somewhere, a brand just changed the offer on a video that's already been shot.",
+  "poll": null,
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "sale-week-the-offer-changed-after-the-shoot-what",
+  "theme": "From dashboards to decisions",
+  "id": "li-2026-11-27-sale-week-the-offer-changed-after-the-shoot-what",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}

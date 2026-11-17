@@ -1,0 +1,110 @@
+{
+  "platform": "linkedin",
+  "date": "2027-02-04",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Proof / Case Study",
+  "job": "Educate",
+  "format": "carousel",
+  "title": "Paying twice for the same creative mistake",
+  "topic_ref": "S3",
+  "caption": "The most expensive creative mistake is the one you pay for twice.\nOnce when you make it, and again when the next batch repeats it.\n\nIt usually starts with a win. One ad works, so the next briefs ask for more like it. A week later the account has several near-copies fighting for the same people.\n\nGalvor looked at every new video ad launched May to September 2026 across the brands we work with.\n\nNew ads that looked like many running ads got 36% less first-month spend.\n\nWhen six or more look-alikes went live within three days, each got 48% less.\n\nThe way out kept the part that sold. A proven message in a new look got 47% more first-month spend. A new message over a familiar first shot got 16% less.\n\nFor one brand, the creative diversity score went from 63 to 92 out of 100 two months after the changes we recommended.\n\nSwipe for the pattern, the numbers and the one rule I'd give any team.\n\nFollow Galvor for more proof from the loop.",
+  "first_comment": "Follow Galvor. The full analysis is in Decoded #3, linked on our page.",
+  "hashtags": [
+    "#CreativeStrategy",
+    "#MetaAds",
+    "#D2CIndia"
+  ],
+  "alt_text": "Seven-slide carousel. Cover: paying twice for the same creative mistake. Then: how the mistake starts with one winning ad and a run of near-copies; a stat that look-alike new ads got 36 percent less first-month spend; a stat that six or more look-alikes launched within three days each got 48 percent less; a comparison of a proven message in a new look (47 percent more first-month spend) and a new message over a familiar first shot (16 percent less); a stat that one brand's creative diversity score went from 63 to 92 out of 100 two months after Galvor's recommended changes; and a closing slide asking readers to follow Galvor.",
+  "cta": "Follow Galvor; Decoded #3 via page",
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Proof season",
+        "headline": "Paying *twice* for the same creative mistake",
+        "sub": "What a year of ad launches shows, and the way out."
+      },
+      {
+        "layout": "text",
+        "kicker": "How it starts",
+        "headline": "One win, then *five copies*",
+        "body": "One ad works. The next briefs ask for more like it.\n\nA week later the account has near-copies fighting for the same people.\n\nYou paid for the first lesson. Now you pay for it again."
+      },
+      {
+        "layout": "stat",
+        "kicker": "The first bill",
+        "stat": "36%",
+        "headline": "less first-month spend for new ads that looked like *many running ads*",
+        "sub": "Every new video ad launched May–Sep 2026.",
+        "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+      },
+      {
+        "layout": "stat",
+        "kicker": "The second bill",
+        "stat": "48%",
+        "headline": "less each when six or more look-alikes launched within *three days*",
+        "sub": "First-month spend, per ad.",
+        "source": "Source: Galvor analysis · ads launched May–Sep 2026"
+      },
+      {
+        "layout": "compare",
+        "kicker": "The way out",
+        "headline": "Keep what *sold*, change the look",
+        "left_title": "Proven message, new look",
+        "left": [
+          "47% more first-month spend",
+          "Keeps the reason to buy"
+        ],
+        "right_title": "New message, old first shot",
+        "right": [
+          "16% less first-month spend",
+          "Looks like what's running"
+        ]
+      },
+      {
+        "layout": "stat",
+        "kicker": "One brand",
+        "stat": "63 → 92",
+        "headline": "creative diversity score, two months after *Galvor's recommended changes*",
+        "sub": "Out of 100.",
+        "source": "Source: Galvor analysis · anonymised brand · Decoded #3"
+      },
+      {
+        "layout": "cta",
+        "headline": "Pay for each lesson *once*.",
+        "sub": "Keep the message that sold. Change what people see first.",
+        "actions": [
+          "Follow Galvor",
+          "Read Decoded #3 on galvor.ai"
+        ]
+      }
+    ]
+  },
+  "notes": "Proof season opener. Reader: founder or CMO who has watched a winning ad get copied into the ground. Argument: look-alike launches make you pay twice; a proven message in a new look is the cheaper path. Topic bank S3, reframed: the facts bank has no single-brand 'year of ads' data, so the carousel uses the cross-brand Decoded #3 analysis plus the one-brand diversity score (63 -> 92). Numbers: 36%, 48%, 47%, 16%, 63 -> 92 (all facts bank, Decoded #3). Sunil to confirm he's comfortable with 'across the brands we work with' and that the 63 -> 92 brand may be referenced again (anonymised). Link to Decoded #3 belongs on the page, not here.",
+  "series": "",
+  "festival": null,
+  "hook": "The most expensive creative mistake is the one you pay for twice.",
+  "script": null,
+  "status": "draft",
+  "theme": "Proof season: pilots & client stories",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "paying-twice-for-the-same-creative-mistake",
+  "id": "li-2027-02-04-paying-twice-for-the-same-creative-mistake",
+  "updated_at": "2026-11-18T00:25:53",
+  "created_at": "2026-11-18T00:25:53",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:53",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    }
+  ]
+}
