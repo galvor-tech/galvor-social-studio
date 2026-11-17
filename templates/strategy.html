@@ -23,13 +23,19 @@
     <h4 style="margin-top:14px">Pillars</h4>
     <p class="small"><b>LinkedIn:</b> {{ PILLARS.linkedin|join(' · ') }}</p><p class="small"><b>Instagram:</b> {{ PILLARS.instagram|join(' · ') }}</p></div>
   <div class="card"><h4>Rules for every post</h4><ol class="small">{% for r in RULES %}<li>{{ r }}</li>{% endfor %}</ol></div>
+  <div class="card"><h4>Who posts first: people, then the page</h4>
+    <p class="small">Team profiles carry the reach, so they post first and the Galvor page follows. LinkedIn, 1 Aug to {{ REACH.as_of }}:</p>
+    <table class="tbl small"><tr><th></th><th>Galvor page</th><th>Sunil</th></tr>
+    {% for r in REACH.rows %}<tr><td>{{ r[0] }}</td><td>{{ r[1] }}</td><td><b>{{ r[2] }}</b></td></tr>{% endfor %}</table>
+    <p class="small muted">{{ REACH.example }} Raj and Shrutik: import their creator analytics on Results to compare.</p>
+    <ol class="small">{% for d in DISTRIBUTION %}<li>{{ d }}</li>{% endfor %}</ol></div>
   <div class="card"><h4>Distribution &amp; engagement playbook</h4><ul class="small">
     <li><b>Target list:</b> 100 named people per voice (Sunil → founders/CMOs, Raj → performance/growth leads, Shrutik → brand, creative and agency people).</li>
     <li><b>Connections:</b> 10–15 a day per person with a one-line personal note. No pitch.</li>
     <li><b>First hour:</b> the other three team members leave real comments; the author replies to everything; links go in the first comment.</li>
     <li><b>Comments before posts:</b> 20 thoughtful comments a week on target-audience posts.</li>
     <li><b>DMs:</b> only after someone engaged twice. Lead with something useful (a teardown, the brief template).</li>
-    <li><b>Company page:</b> reshares the best post every Friday and keeps an archive of proof.</li>
+    <li><b>Company page:</b> follows the team 1-2 days later with the link or report, reshares the best personal post every Friday and keeps an archive of proof.</li>
     <li><b>Reuse:</b> every Friday the best post of the week becomes a carousel, a reel or a newsletter section.</li>
     <li>No engagement pods or bought followers.</li></ul></div>
   <div class="card"><h4>Posts that answer sales objections</h4><table class="tbl small">

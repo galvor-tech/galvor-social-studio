@@ -30,7 +30,7 @@
     {% endfor %}
   </div>
   <div class="card">
-    <h4>Cadence by voice (LinkedIn)</h4><p class="muted small">Plan: Sunil 2/wk · Raj 2/wk · Shrutik 1→2/wk · company page reshares weekly</p>
+    <h4>Cadence by voice (LinkedIn)</h4><p class="muted small">Plan (personal first): Sunil 2/wk · Raj 1/wk + Decoded · Shrutik 2/wk · Galvor page 3/wk (Decoded, follow-up with the link, Friday reshare)</p>
     {% for v, n in voices.most_common() %}
     <div class="row small" style="margin-top:10px"><span style="width:140px">{{ m.vchip(v) }}</span><div class="bar grow"><i style="width:{{ (100*n/(voices.values()|max)) }}%"></i></div><b>{{ n }}</b></div>
     {% endfor %}

@@ -3,7 +3,7 @@
   "slug": "before-the-sale-decide-what-it-should-teach-you",
   "platform": "linkedin",
   "date": "2026-11-26",
-  "time": "09:00",
+  "time": "12:30",
   "voice": "company",
   "pillar": "Brand Memory / POV",
   "job": "Attract",
@@ -50,6 +50,10 @@
     {
       "at": "2026-11-16T21:22:00",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-17T23:22:02",
+      "action": "Re-slotted to Thu 12:30: personal-first rhythm (17 Nov 2026), Sunil now posts Thu 09:00"
     }
   ],
   "metrics": {},
@@ -57,7 +61,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-11T01:06:28",
-  "updated_at": "2026-11-16T21:22:00",
+  "updated_at": "2026-11-17T23:22:02",
   "topic_ref": "CO-OPEN-04",
   "script_decision": {
     "choice": "pending"

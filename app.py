@@ -25,7 +25,7 @@ sys.path.insert(0, str(ROOT))
 from core import ai, auth, notify, reminders, scheduler  # noqa: E402
 from core import team as teamlib  # noqa: E402
 from core.config import (BRAND, DATA, FORMATS, JOB_MIX, JOBS, MONTHLY_THEMES, PHRASES, PILLARS, PLATFORMS,  # noqa: E402
-                         POST_RULES, RHYTHM, SIZES, STATUS_LABEL, STATUSES, VOICES, load_env, load_settings,
+                         POST_RULES, REACH_FACTS, DISTRIBUTION, RHYTHM, SIZES, STATUS_LABEL, STATUSES, VOICES, load_env, load_settings,
                          save_settings)
 from core.lint import has_errors, lint_post  # noqa: E402
 from core.store import (all_posts, blank_post, delete_post, export_zip, folder_of, get_post, now_iso,  # noqa: E402
@@ -83,10 +83,21 @@ def gate():
             return render_template("message.html", title="Link expired", msg="Open this post from the studio or from the latest reminder."), 403
         g.user = {"name": "Phone", "email": "", "role": "editor"}
         return None
-    if not _is_local() and not _via_tunnel():
+    if os.getenv("STUDIO_IAP") == "1":
+        # Hosted on Cloud Run (cms.galvor.ai): Google IAP signs everyone in before the request reaches us
+        # and passes the email as "accounts.google.com:<email>". The Team list decides the role.
+        email = (request.headers.get("X-Goog-Authenticated-User-Email") or "").split(":")[-1]
+        member = teamlib.by_email(email)
+        if not member:
+            return render_template("message.html", title="Not on the team list",
+                                   msg=f"{email or 'This account'} isn't on the studio's Team list. Ask an admin to add you."), 403
+        g.user = member
+    elif not _is_local() and not _via_tunnel():
         # reached over Wi-Fi (phone access): only the kit is available without the tunnel + sign-in
         return render_template("message.html", title="Studio is private", msg="Open the post kit link from your reminder."), 403
-    if not auth.enabled():
+    if os.getenv("STUDIO_IAP") == "1":
+        pass                                  # g.user set from IAP above
+    elif not auth.enabled():
         if _via_tunnel():
             return render_template("message.html", title="Sign-in required",
                                    msg="This studio is being reached over the internet, but Google sign-in isn't on yet. "
@@ -944,7 +955,8 @@ def festivals_page():
 @app.route("/strategy")
 def strategy():
     return render_template("strategy.html", PHRASES=PHRASES, RULES=POST_RULES, RHYTHM=RHYTHM, THEMES=MONTHLY_THEMES,
-                           JOB_MIX=JOB_MIX, PILLARS=PILLARS)
+                           JOB_MIX=JOB_MIX, PILLARS=PILLARS, REACH=REACH_FACTS,
+                           DISTRIBUTION=DISTRIBUTION)
 
 
 @app.route("/brand")

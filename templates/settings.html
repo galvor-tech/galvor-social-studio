@@ -8,12 +8,12 @@
   <div class="card"><h4>Access: team sign-in</h4>
     <p class="small">Now: <b>{{ 'Google sign-in on: only people on the Team list can open the studio' if auth_on else 'Off: the studio only opens on this laptop' }}</b>.
       See <code>studio/TEAM_ACCESS.md</code> for the 15-minute setup (Google OAuth client + Cloudflare Tunnel).</p>
-    <label class="f">Studio web address <small>(base URL, e.g. https://studio.galvor.ai; used in sign-in and email links)</small></label>
-    <input class="in" name="base_url" value="{{ s.base_url }}" placeholder="https://studio.galvor.ai">
+    <label class="f">Studio web address <small>(base URL, e.g. https://cms.galvor.ai; used in sign-in and email links)</small></label>
+    <input class="in" name="base_url" value="{{ s.base_url }}" placeholder="https://cms.galvor.ai">
     <label class="f">Google OAuth client ID</label><input class="in" name="google_client_id" value="{{ s.google_client_id }}" placeholder="…apps.googleusercontent.com">
     <label class="f">Google OAuth client secret <small>{{ '(saved; leave blank to keep)' if s.google_client_secret else '' }}</small></label><input class="in" type="password" name="google_client_secret" autocomplete="new-password">
     <label class="f">Allowed email domains <small>(comma-separated)</small></label><input class="in" name="allowed_domains" value="{{ (s.allowed_domains or ['galvor.com'])|join(', ') }}">
-    <p class="small muted">Authorised redirect URIs to add in Google Cloud: <code>{{ (s.base_url or 'https://studio.galvor.ai')|trim('/') }}/auth/callback</code> and <code>http://localhost:5055/auth/callback</code></p>
+    <p class="small muted">Authorised redirect URIs to add in Google Cloud: <code>{{ (s.base_url or 'https://cms.galvor.ai')|trim('/') }}/auth/callback</code> and <code>http://localhost:5055/auth/callback</code></p>
     <label class="row" style="gap:8px;margin-top:10px"><input type="checkbox" name="auth_mode" value="google" {{ 'checked' if s.auth_mode=='google' }}> Require Google sign-in</label>
   </div>
   <div class="card"><h4>Notifications</h4>

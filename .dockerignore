@@ -1,0 +1,12 @@
+.git
+.env
+.env.*
+content
+content_archive
+data
+queue
+exports
+logs
+staging
+__pycache__
+*.pyc

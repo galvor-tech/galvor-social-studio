@@ -1,0 +1,48 @@
+{
+  "platform": "linkedin",
+  "date": "2026-11-19",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Proof & Product",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Galvor Scout, in Sunil’s words: filters show size, not trust",
+  "hook": "Filters show a CMO how big a creator’s audience is. They don’t show whether that audience trusts them.",
+  "status": "draft",
+  "festival": null,
+  "caption": "Filters show a CMO how big a creator’s audience is.\nThey don’t show whether that audience trusts them.\n\nIn 8,673 creator checks, 62% of creators with top engagement for their size still weren’t right for the brief.\n\nThat is the gap we built Galvor Scout for. It reads the reels and the comments against a brief written in plain words, so the team spends its time on the final call, not the first shortlist.\n\nFollow Galvor for what we keep learning from these checks.",
+  "first_comment": "The Galvor Scout launch post, with how it works: https://www.linkedin.com/feed/update/urn:li:activity:7527972347547369472",
+  "hashtags": [
+    "#InfluencerMarketing",
+    "#CreatorMarketing",
+    "#D2C"
+  ],
+  "alt_text": "",
+  "cta": "Follow Galvor",
+  "script": null,
+  "images": [],
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "notes": "Personal-first version of the Galvor page’s Scout launch (urn:li:activity:7527972347547369472): Sunil posts it as his own post, not a plain repost; launch link in the first comment. Numbers from Decoded #4 (facts bank §4). Variant 5 of the CMO-led set (17 Nov 2026). Swap options: budget question, board slide (40 vs 20 is an example, not data), team time, brand risk (66% missed a must-have), ROI angle. Script only, no media until chosen.",
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "galvor-scout-in-sunils-words-filters-show-size-n",
+  "theme": "From dashboards to decisions",
+  "id": "li-2026-11-19-galvor-scout-in-sunils-words-filters-show-size-n",
+  "updated_at": "2026-11-17T23:22:02",
+  "created_at": "2026-11-17T23:22:02",
+  "approvals": [
+    {
+      "at": "2026-11-17T23:22:02",
+      "action": "Added: Sunil personal-first Scout post (17 Nov 2026)"
+    }
+  ]
+}

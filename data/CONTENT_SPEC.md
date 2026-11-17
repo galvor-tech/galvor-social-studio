@@ -54,6 +54,10 @@ From *Decoded* #3 (Galvor analysis of every new video ad launched May–Sep 2026
   system, **+2.4%** conversions on Facebook since 2025; GEM reads **twice** as long a history per person, about
   **19%** more conversions since last year; GenRecs shortens (doesn't remove) the learning phase. The "Creative
   diversity" column started appearing late August 2026 and reached most accounts in the last week of October.
+From *Decoded* #4 (Galvor Scout, 8,673 creator checks, August to early November 2026):
+- **62%** of 1,018 creators with top engagement for their size still weren't right for the brief.
+- **38%** of 1,428 creators whose content looked like a strong fit were moved down on engagement.
+- **66%** of 2,586 creators turned down missed a stated must-have.
 From galvor.ai results (anonymised, publishable):
 - Fashion (premium linen & cotton D2C): **+67% RoAS**, **+25% hold rate**, **$3,800** reallocated in month one.
 - Beauty (clean skincare & serum D2C): **+112% RoAS**, **3× hook rate**, **30% less** wasted spend.
@@ -142,8 +146,17 @@ Length 1,900–2,500 words. No invented numbers: outside numbers only from linke
 saved analysis; otherwise [DATA NEEDED]. No client names.
 
 ## 9. Awareness playbook (the main goal: more views, impressions, comments and clicks on every handle)
-- **Personal profiles carry the reach.** Aug–Oct 2026 data: Sunil's posts reached a median ~2,000 people vs ~345 for the page (his export lists his top posts, so the real gap is smaller, but it is large). The
-  page's job is to reshare the week's best personal post (Fri 12:30) with its own line, not to compete.
+- **Personal profiles carry the reach, so people post first and the page follows** (agreed 17 Nov 2026). LinkedIn,
+  1 Aug–16 Nov 2026: Galvor page 26 posts, 9,839 impressions, median ~270 a post, 955 followers; Sunil 23 posts,
+  65,544 impressions, median ~1,914 a post, 2,505 followers. Same news on 8 Sep (HealthKart): page 877, Sunil 8,383.
+  - Team members post first, as their **own native post** in their own voice. Never a plain repost of a company post.
+  - The Galvor page follows **1–2 days later** (Thu 12:30) with the link, report, launch or carousel, and on Fri 12:30
+    reshares the week's best personal post with its own line.
+  - Links help reach on the company page and hurt it on personal profiles: story on the person, link on the page.
+  - Same news, different angle: Sunil money/risk/CMO worries; Raj product and data; Shrutik marketing craft and behind the scenes.
+  - Every personal post still closes with Follow Galvor / @galvor.ai (rule 14), so personal reach builds page followers.
+  - Weekly LinkedIn rhythm: Mon 12:30 Shrutik · Tue 09:00 Sunil · Wed 08:30 Decoded (page) · Wed 09:00 Raj ·
+    Thu 09:00 Sunil · Thu 12:30 page · Fri 09:00 Shrutik · Fri 12:30 page reshare. About three-quarters of reach from people.
 - **First hour matters.** When anything goes live the Studio pings the rest of the team: one real comment (an
   opinion, a question, an example — never just "Great post") or a repost with a line of your own, within 60 minutes.
 - **Reply to every comment** within the first hour (the Studio reminds the poster 30 min after it goes live).

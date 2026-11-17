@@ -3,7 +3,7 @@
   "anthropic_model": "claude-opus-5-5",
   "gemini_model": "",
   "chrome_path": "",
-  "public_base_url": "https://studio.galvor.ai",
+  "public_base_url": "https://cms.galvor.ai",
   "linkedin_access_token": "",
   "linkedin_org_urn": "",
   "linkedin_person_urns": {},
@@ -18,7 +18,7 @@
   "allowed_domains": [
     "galvor.com"
   ],
-  "base_url": "https://studio.galvor.ai",
+  "base_url": "https://cms.galvor.ai",
   "notify_email": true,
   "smtp_host": "smtp.gmail.com",
   "smtp_port": 587,
