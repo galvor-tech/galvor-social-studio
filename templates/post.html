@@ -46,7 +46,7 @@
 {% endif %}
 <div class="statusbar card" style="padding:12px 16px">
   <b class="small">Workflow</b>
-  {% if p.status in ['idea','draft','designed'] %}<button class="btn sm soft" onclick="saveAll().then(ok=>ok&&setStatus('{{ p.id }}','in_review'))" {{ 'disabled' if blocking }}>Send for review</button>{% endif %}
+  {% if p.status in ['idea','draft','designed'] %}<button class="btn sm soft" onclick="sendForReview('{{ p.id }}','{{ reviewers|map(attribute='email')|select|join(',') }}',saveAll)" {{ 'disabled' if blocking }}>Send for review</button>{% endif %}
   {% if p.status in ['idea','draft','designed'] %}<span class="small muted">Reviewer: {{ reviewers|map(attribute='name')|join(', ') }}</span>{% endif %}
   {% if p.status == 'in_review' %}<span class="small">Waiting on <b>{{ ((p.review or {}).reviewer_names or (reviewers|map(attribute='name')|list))|join(', ') }}</b>{% if (p.review or {}).requested_by_name %} · sent by {{ p.review.requested_by_name }}{% endif %}</span>
     {% if can_approve %}<button class="btn sm soft" onclick="setStatus('{{ p.id }}','approved')" {{ 'disabled' if blocking }}>Approve</button><button class="btn sm" onclick="var n=prompt('What needs changing?');if(n!==null)setStatus('{{ p.id }}','draft',{note:n})">Send back</button>{% endif %}{% endif %}

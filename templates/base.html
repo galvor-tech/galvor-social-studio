@@ -74,6 +74,21 @@
     <div class="ans" id="aska"></div>
   </div>
 </div>
+<div class="modal" id="reviewm" onclick="if(event.target===this)this.classList.remove('on')">
+  <div class="box" style="width:min(480px,92vw)">
+    <b>Send for review</b>
+    <div class="small muted" style="margin-top:4px">Pick who should review, edit and approve this. Each person gets an email with the post and a link.</div>
+    <div id="reviewlist" style="margin:14px 0;display:grid;gap:8px">
+      {% for m in PICKABLE %}<label class="row" style="gap:10px;cursor:pointer"><input type="checkbox" value="{{ m.email }}"><span><b>{{ m.name }}</b>{% if m.title %} <span class="muted small">· {{ m.title }}</span>{% endif %}<br><span class="muted small">{{ m.email }}</span></span></label>
+      {% else %}<span class="muted small">No one on the Team list has an email yet.</span>{% endfor %}
+    </div>
+    <textarea class="in" id="reviewnote" rows="2" style="width:100%" placeholder="Note to the approver (optional)"></textarea>
+    <div class="row" style="margin-top:12px;justify-content:flex-end;gap:8px">
+      <button class="btn sm" onclick="document.getElementById('reviewm').classList.remove('on')">Cancel</button>
+      <button class="btn sm primary" id="reviewgo">Send</button>
+    </div>
+  </div>
+</div>
 <div class="toast" id="toast"></div>
 <script src="{{ url_for('static', filename='js/app.js') }}"></script>
 {% block scripts %}{% endblock %}

@@ -35,7 +35,7 @@
   <div class="panel-h plain"><h3>Drafts coming up</h3><span class="count">{{ ready|length }}</span><small>Next 40 upcoming drafts.</small></div>
   {% for p in ready %}
   {% set ls = lint_summary(p) %}
-  {% set acts %}{% if ls.errors %}<span class="pill err">{{ ls.errors }} blocking</span>{% endif %}<span class="small muted">→ {{ reviewers_for(p)|map(attribute='name')|join(', ') }}</span><button class="btn sm" onclick="setStatus('{{ p.id }}','in_review')" {{ 'disabled' if ls.errors }}>Send for review</button>{% endset %}
+  {% set acts %}{% if ls.errors %}<span class="pill err">{{ ls.errors }} blocking</span>{% endif %}<span class="small muted">→ {{ reviewers_for(p)|map(attribute='name')|join(', ') }}</span><button class="btn sm" onclick="sendForReview('{{ p.id }}','{{ reviewers_for(p)|map(attribute='email')|select|join(',') }}')" {{ 'disabled' if ls.errors }}>Send for review</button>{% endset %}
   {{ m.row(p, true, acts) }}
   {% else %}<div class="empty">No drafts.</div>{% endfor %}
 </div>

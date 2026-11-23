@@ -98,11 +98,30 @@ def reviewers_for(post: dict) -> list[dict]:
     return out
 
 
+def assigned(post: dict) -> list[dict]:
+    """Who this post is waiting on: the people picked at "Send for review", else the routing rule."""
+    picked = (post.get("review") or {}).get("reviewers") or []
+    if post.get("status") == "in_review" and picked:
+        out = [m for m in (by_email(e) for e in picked) if m]
+        if out:
+            return out
+    return reviewers_for(post)
+
+
+def pickable() -> list[dict]:
+    """Team members who can be chosen as approver (active, with an email, not view-only)."""
+    return [m for m in load() if m.get("active", True) and m.get("email") and m.get("role") != "viewer"]
+
+
 def can_approve(user: dict, post: dict) -> bool:
     if not user:
         return False
     if user.get("role") == "admin":
         return True
+    picked = [e.lower() for e in ((post.get("review") or {}).get("reviewers") or [])]
+    if post.get("status") == "in_review" and picked:
+        # someone hand-picked as approver can review, edit and approve this post, whatever their role
+        return can_edit(user) and (user.get("email") or "").lower() in picked
     if user.get("role") != "approver":
         return False
     return any(r.get("email") and r.get("email") == user.get("email") for r in reviewers_for(post))

@@ -33,6 +33,21 @@ async function setStatus(id, status, extra) {
   setTimeout(() => location.reload(), j.message ? 1800 : 600);
   return true;
 }
+// "Send for review": pick approvers (pre-ticked with the routing rule's picks), add a note, send.
+function sendForReview(id, defaults, before) {
+  const m = document.getElementById('reviewm');
+  const want = (defaults || '').split(',').map(s => s.trim().toLowerCase()).filter(Boolean);
+  m.querySelectorAll('#reviewlist input').forEach(c => { c.checked = want.includes(c.value.toLowerCase()); });
+  document.getElementById('reviewnote').value = '';
+  document.getElementById('reviewgo').onclick = async () => {
+    const reviewers = [...m.querySelectorAll('#reviewlist input:checked')].map(c => c.value);
+    if (!reviewers.length) { toast('Pick at least one approver'); return; }
+    if (before && !(await before())) return;
+    m.classList.remove('on');
+    setStatus(id, 'in_review', { reviewers, note: document.getElementById('reviewnote').value });
+  };
+  m.classList.add('on');
+}
 async function markPublished(id) {
   const url = prompt('Paste the live post URL (optional):', '');
   if (url === null) return;
@@ -50,5 +65,5 @@ async function askGo(e) {
 document.addEventListener('keydown', (e) => {
   if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') { e.preventDefault(); const q = document.getElementById('q'); q && q.focus(); }
   if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'j') { e.preventDefault(); openAsk(); }
-  if (e.key === 'Escape') document.getElementById('askm').classList.remove('on');
+  if (e.key === 'Escape') { document.getElementById('askm').classList.remove('on'); const r = document.getElementById('reviewm'); r && r.classList.remove('on'); }
 });

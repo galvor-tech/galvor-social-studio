@@ -227,6 +227,8 @@ def inject():
     except Exception:
         pass
     return {
+        "PICKABLE": [{"email": m["email"], "name": m.get("name") or m["email"], "title": m.get("title", "")}
+                     for m in teamlib.pickable()],
         "BRAND": BRAND, "VOICES": VOICES, "STATUS_LABEL": STATUS_LABEL, "STATUSES": STATUSES,
         "nav_counts": {"review": review, "due": due, **counts},
         "voice_sel": voice_filter(), "ai_status": ai.status(), "today_str": today().isoformat(),
@@ -473,7 +475,7 @@ def post_page(pid):
     files = sorted(f.name for f in (folder_of(p) / "images").glob("*")) if (folder_of(p) / "images").exists() else []
     return render_template("post.html", p=p, issues=issues, fest=fest, files=files, PILLARS=PILLARS, FORMATS=FORMATS,
                            JOBS=JOBS, layouts=["cover", "statement", "text", "stat", "list", "compare", "poll", "festival", "cta"],
-                           sizes=list(SIZES), blocking=has_errors(issues), reviewers=teamlib.reviewers_for(p),
+                           sizes=list(SIZES), blocking=has_errors(issues), reviewers=teamlib.assigned(p),
                            can_approve=teamlib.can_approve(g.user, p), kit_url=reminders.kit_path(p),
                            hashtag_sets=hashtag_sets())
 
@@ -574,7 +576,7 @@ def api_status(pid):
         return jsonify(ok=False, error="Send the post for review before approving it."), 400
     sending_back = p.get("status") == "in_review" and new in ("draft", "designed")
     if (new == "approved" or sending_back) and not teamlib.can_approve(g.user, p):
-        names = ", ".join(r.get("name") for r in teamlib.reviewers_for(p))
+        names = ", ".join(r.get("name") for r in teamlib.assigned(p))
         return jsonify(ok=False, error=f"Only the assigned reviewer ({names}) or an admin can do this."), 403
     if new == "in_review" and not teamlib.can_edit(g.user):
         return jsonify(ok=False, error="You don't have edit rights."), 403
@@ -589,7 +591,15 @@ def api_status(pid):
     p.pop("due", None)
     reviewers = []
     if new == "in_review":
-        reviewers = teamlib.reviewers_for(p)
+        picked = data.get("reviewers")
+        if picked is not None:
+            ok_emails = {m["email"] for m in teamlib.pickable()}
+            reviewers = [teamlib.by_email(e) for e in picked if (e or "").strip().lower() in ok_emails]
+            reviewers = [r for r in reviewers if r]
+            if not reviewers:
+                return jsonify(ok=False, error="Pick at least one approver."), 400
+        else:
+            reviewers = teamlib.reviewers_for(p)
         p["review"] = {"requested_by": g.user.get("email", ""), "requested_by_name": actor(), "requested_at": now_iso(),
                        "reviewers": [r["email"] for r in reviewers if r.get("email")],
                        "reviewer_names": [r.get("name") for r in reviewers]}
@@ -605,9 +615,14 @@ def api_status(pid):
     notified = 0
     if new == "in_review":
         missing = [r.get("name") for r in reviewers if not r.get("email")]
-        notified = notify.send(reviewers, f"Review needed: {title}",
-                               f"{actor()} sent this for your sign-off.\nGoes out: {when}" + (f"\nNote: {note}" if note else ""),
-                               path, "review_requested")
+        words = (saved.get("caption") or saved.get("hook") or "").strip()
+        if len(words) > 1800:
+            words = words[:1800].rsplit(" ", 1)[0] + " …"
+        body = (f"{actor()} sent this to you to review, edit and approve.\nGoes out: {when}"
+                + (f"\nNote from {actor()}: {note}" if note else "")
+                + (f"\n\n---\n{words}\n---" if words else "")
+                + "\n\nOpen it to see the images, make edits, then click Approve or Send back.")
+        notified = notify.send(reviewers, f"Review needed: {title}", body, path, "review_requested")
         msg = "Sent to " + ", ".join(r.get("name") for r in reviewers)
         if missing:
             msg += f" (no email on file for {', '.join(missing)} — add it under Team)"
