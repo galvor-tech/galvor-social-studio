@@ -1,0 +1,28 @@
+Six look-alike ads went live in three days.
+Each one got 48% less spend.
+
+Sale weeks are when teams launch the most versions of the same ad, so this felt worth posting now.
+
+We took every new video ad the brands we work with launched from May to September and followed each one for its first 30 days. Then we grouped them by how they look and what they say, and compared each ad's first-month spend with the average new ad that month.
+
+Two things showed up.
+
+New ads that looked like lots of ads already running got 36% less spend. That held in 4 of the 5 months, so I'm fairly sure it isn't a one-off.
+
+And when six or more look-alikes went live within three days, each one got 48% less.
+
+What I can't tell you for sure is why. My best guess is Meta treats near-copies as roughly one ad, so they end up splitting one budget. Meta's own guidance says something close: iteration "should not replace true creative diversification". But we measured the result, not the reason.
+
+The result is the expensive part anyway. You pay to make six ads and they act like a lot fewer.
+
+If you're launching for Black Friday this week, this takes about 20 minutes:
+lay every planned ad out as thumbnails
+group the ones a stranger would call the same ad
+keep the best from each group, hold the rest back
+put the time you saved into one ad that actually looks different
+
+The full method and the chart are in Decoded #3, link in the comments.
+
+Follow Galvor for more from the data.
+
+#PerformanceMarketing #D2CIndia #CreativeStrategy

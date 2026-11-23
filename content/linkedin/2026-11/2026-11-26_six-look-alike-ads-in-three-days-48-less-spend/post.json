@@ -1,0 +1,68 @@
+{
+  "id": "li-2026-11-26-six-look-alike-ads-in-three-days-48-less-spend",
+  "slug": "six-look-alike-ads-in-three-days-48-less-spend",
+  "platform": "linkedin",
+  "date": "2026-11-26",
+  "time": "16:00",
+  "voice": "raj",
+  "pillar": "Creators & Testing",
+  "job": "Educate",
+  "format": "text",
+  "series": "",
+  "title": "Six look-alike ads in three days: 48% less spend each",
+  "hook": "Six look-alike ads went live in three days.\nEach one got 48% less spend.",
+  "status": "draft",
+  "festival": null,
+  "theme": "From dashboards to decisions",
+  "caption": "Six look-alike ads went live in three days.\nEach one got 48% less spend.\n\nSale weeks are when teams launch the most versions of the same ad, so this felt worth posting now.\n\nWe took every new video ad the brands we work with launched from May to September and followed each one for its first 30 days. Then we grouped them by how they look and what they say, and compared each ad's first-month spend with the average new ad that month.\n\nTwo things showed up.\n\nNew ads that looked like lots of ads already running got 36% less spend. That held in 4 of the 5 months, so I'm fairly sure it isn't a one-off.\n\nAnd when six or more look-alikes went live within three days, each one got 48% less.\n\nWhat I can't tell you for sure is why. My best guess is Meta treats near-copies as roughly one ad, so they end up splitting one budget. Meta's own guidance says something close: iteration \"should not replace true creative diversification\". But we measured the result, not the reason.\n\nThe result is the expensive part anyway. You pay to make six ads and they act like a lot fewer.\n\nIf you're launching for Black Friday this week, this takes about 20 minutes:\nlay every planned ad out as thumbnails\ngroup the ones a stranger would call the same ad\nkeep the best from each group, hold the rest back\nput the time you saved into one ad that actually looks different\n\nThe full method and the chart are in Decoded #3, link in the comments.\n\nFollow Galvor for more from the data.",
+  "first_comment": "Read Decoded #3 on galvor.ai",
+  "hashtags": [
+    "#PerformanceMarketing",
+    "#D2CIndia",
+    "#CreativeStrategy"
+  ],
+  "alt_text": "",
+  "cta": "Follow Galvor; first comment links Decoded #3",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: dense. Reader: a D2C growth lead planning the Black Friday launch list. Written as a standalone post that sums up the week's theme (from dashboards to decisions); it does not depend on any other post existing. Numbers: 48% less first-month spend each for six or more look-alikes within three days; 36% less for new ads that looked like many running ads (Galvor analysis, Decoded #3, ads launched May to Sep 2026). First use of both figures in this group. 'Near-copies share one budget' is marked as our reading, not a measured mechanism.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[23 Nov 2026] Moved from the Galvor page (2026-11-20 12:30) to Raj's handle at the user's request and rewritten in his voice (shows the method, admits the mechanism wasn't measured). Numbers and method are from Decoded #3: new video ads May-Sep 2026, first 30 days, vs the average new ad of the month; 36% held in 4 of 5 months. Meta quote is from Decoded #3's sources. Thu 26 Nov 16:00 keeps 3h+ from Sunil (09:00) and the page (12:30), and 20h+ after Raj's Wed 12:30 post.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:15",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-11-20 12:30)"
+    },
+    {
+      "at": "2026-11-16T21:21:50",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-16T21:22:00",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T23:12:22",
+      "action": "[23 Nov 2026] moved to Raj's handle, rewritten in his voice"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:14:57",
+  "updated_at": "2026-11-23T23:12:22",
+  "topic_ref": "Reshare-W2",
+  "script_decision": {
+    "choice": "pending"
+  },
+  "reminders": {
+    "pre": "2026-11-20T12:01:06",
+    "due": "2026-11-20T12:30:59",
+    "missed": "2026-11-20T14:30:09"
+  },
+  "due": "Missed — post, reschedule or skip"
+}
