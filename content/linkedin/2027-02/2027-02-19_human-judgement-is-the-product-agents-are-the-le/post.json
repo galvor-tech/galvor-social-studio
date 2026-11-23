@@ -1,0 +1,58 @@
+{
+  "id": "li-2027-02-19-human-judgement-is-the-product-agents-are-the-le",
+  "slug": "human-judgement-is-the-product-agents-are-the-le",
+  "platform": "linkedin",
+  "date": "2027-02-19",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "AI & the Team",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Human judgement is the product. So who is training it?",
+  "hook": "Agents are taking the work junior marketers used to learn on.",
+  "status": "draft",
+  "festival": null,
+  "theme": "Proof season: pilots & client stories",
+  "caption": "Agents are taking the work junior marketers used to learn on.\n\nSo judgement, which used to build up by itself, now has to be taught on purpose.\n\nPulling reports and tagging ads by hand was dull work. It was also how a new marketer saw hundreds of ads next to their numbers and slowly learned what good looks like. When an agent does that work, the senior people keep their judgement and the next group never forms theirs.\n\nTwo habits a team can start this week.\n\nCall first, then look. Before anyone opens the agent's recommendation, each person writes their own call on the ad in one line: scale, cut or test, and why. Then compare. The gaps are the lesson.\n\nReview one miss a fortnight. Take a decision that went wrong and trace what was known on the day it was made. The aim is to find the reasoning that failed, never to find a person to blame.\n\nBoth take under an hour, and neither needs a new tool.\n\nHuman judgement is the product. Agents are the leverage. Leverage on untrained judgement only gets a team to the wrong answer sooner.",
+  "first_comment": "Follow Galvor for more on how marketing teams work with agents.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#GrowthMarketing",
+    "#D2C"
+  ],
+  "alt_text": "",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Hook shape: punchy plus context. Reader: a CMO or head of growth with juniors on the team and agents doing the reporting. Argument: when agents do the routine work, teams must train judgement deliberately; two habits to do it. This is kept apart from the 8 Dec post (which is about what to hire for). No numbers used. Optional for Sunil: one line on how the Galvor team does this internally, if it does.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2027-02-16 09:00 to 2027-02-19 09:00.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:21",
+      "action": "Re-slotted to the Nov 2026 rhythm (2027-02-16 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:17:36",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:35:34",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2027-02-19 09:00"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:17:13",
+  "updated_at": "2026-11-23T22:35:34",
+  "topic_ref": "S30",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

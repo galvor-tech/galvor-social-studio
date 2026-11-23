@@ -1,0 +1,53 @@
+{
+  "platform": "linkedin",
+  "date": "2027-01-15",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Marketing Money",
+  "job": "Educate",
+  "format": "text",
+  "title": "Your CAC problem is often a creative problem",
+  "topic_ref": "S7",
+  "caption": "Your CAC problem is often a creative problem that looks like a media problem.\nJanuary budget reviews are where that mix-up gets expensive.\n\nWhen cost per order rises, the first fixes are usually media fixes. New audiences, new bid caps, a new agency brief on targeting.\n\nMeta's own direction makes that a weaker bet each quarter. By Meta's public statements, its Andromeda system scores over a billion ads a second, and the ad itself now does much of the work of finding the right people.\n\nSo when an account fills up with ads that look alike, the system has fewer real choices to work with.\n\nIn Galvor's analysis of new video ads launched May to September 2026, new ads that looked like many ads already running got 36% less first-month spend.\n\nOn your dashboard that shows up as rising CAC. Someone suggests changing the targeting. The fix was sitting in the brief.\n\nBefore you change the agency or the audience plan this quarter, ask the team one question.\n\nHow many genuinely different ads did we launch last month?\n\nFollow Galvor for more on what really moves your CAC.",
+  "first_comment": "Follow Galvor. Decoded #3 has the full look-alike analysis; link on our page.",
+  "hashtags": [
+    "#MetaAds",
+    "#PerformanceMarketing",
+    "#D2CIndia"
+  ],
+  "cta": "Follow Galvor",
+  "notes": "Learning-loop month opener. Reader: founder or CMO going into a Q1 budget review with a rising CAC. Argument: look-alike creative pushes up costs that get blamed on media. Topic bank S7. Numbers: Andromeda over a billion ads a second (Meta public statements as cited in Decoded #3); 36% less first-month spend for look-alike new ads (Galvor analysis, May-Sep 2026). 'The ad itself does much of the work of finding the right people' is a general reading of Meta's direction, not a statistic. Raj could add a first-hour comment with how Galvor measures 'look-alike'.\n[Plan 23 Nov 2026] Moved from 2027-01-07 09:00 to 2027-01-15 09:00.",
+  "series": "",
+  "festival": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "hook": "Your CAC problem is often a creative problem that looks like a media problem.",
+  "script": null,
+  "status": "draft",
+  "theme": "The learning loop",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "your-cac-problem-is-often-a-creative-problem",
+  "id": "li-2027-01-15-your-cac-problem-is-often-a-creative-problem",
+  "updated_at": "2026-11-23T22:35:33",
+  "created_at": "2026-11-18T00:25:52",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:52",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    },
+    {
+      "at": "2026-11-23T22:35:33",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2027-01-15 09:00"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "li-2026-12-16-a-pilot-without-a-business-question-is-just-a-lo",
+  "slug": "a-pilot-without-a-business-question-is-just-a-lo",
+  "platform": "linkedin",
+  "date": "2026-12-16",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "In the Room",
+  "job": "De-risk",
+  "format": "text",
+  "series": "What I Heard in the Room",
+  "title": "A pilot without a business question is just a longer demo",
+  "hook": "A pilot without a business question is just a longer demo.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "A pilot without a business question is just a longer demo.\n\nIt runs for six weeks, everyone finds it interesting, and nobody can say what to do next.\n\nThat is an avoidable way for a software pilot to die. So here is the one-page note I would want written before any pilot starts, including a pilot with Galvor.\n\nLine one: the question, in money terms. 'Which creative choices are raising our cost per order?' is a question. 'Let us see what the tool can do' is a tour.\n\nLine two: the decision the answer will change, and the name of the person who will make it. If no budget or brief moves either way, do not run the pilot.\n\nLine three: the result that would make us stop. Agree it on day one, while nobody has anything to defend.\n\nThen put the review date in the calendar before the kick-off.\n\nA vendor who resists that page is telling you something. A buyer who cannot fill it in is not ready yet, and it is kinder to say so early.\n\nThe page takes twenty minutes. It protects the six weeks.",
+  "first_comment": "Follow Galvor for more notes from the buying side of marketing software.",
+  "hashtags": [
+    "#D2C",
+    "#MarketingAnalytics",
+    "#AIinMarketing"
+  ],
+  "alt_text": "",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil: this is in the 'What I Heard in the Room' series but is written as a method, with no meeting or quote in it. If he has a real pilot conversation he is allowed to describe (anonymised), add two lines after the second paragraph. Also confirm he is happy to say Galvor pilots should start with this page. Hook shape: single-line bomb. Reader: a CMO or founder about to agree to a martech pilot. Argument: write the question, the decision and the stop rule before a pilot starts. No statistics; 'six weeks' and 'twenty minutes' are illustrative lengths, change them if Galvor pilots run to a different length.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2026-12-15 09:00 to 2026-12-16 09:00.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-15 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:17:35",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:35:33",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-16 09:00"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:20",
+  "updated_at": "2026-11-23T22:35:33",
+  "topic_ref": "S31",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "li-2027-01-22-page-repost-rank-ads-on-orders-that-stayed-not-o",
+  "slug": "page-repost-rank-ads-on-orders-that-stayed-not-o",
+  "platform": "linkedin",
+  "date": "2027-01-22",
+  "time": "16:00",
+  "voice": "company",
+  "pillar": "Measurement",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: Rank ads on orders that stayed, not orders placed",
+  "hook": "Raj on ranking ads by orders that stayed, not orders placed.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Raj on ranking ads by orders that stayed, not orders placed.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Raj's post 'Rank ads on orders that stayed, not orders placed' (2027-01-21 16:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:42",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:42",
+  "repost_of": {
+    "voice": "raj",
+    "date": "2027-01-21",
+    "time": "16:00",
+    "title": "Rank ads on orders that stayed, not orders placed"
+  }
+}

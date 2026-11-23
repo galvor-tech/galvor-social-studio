@@ -1,0 +1,53 @@
+{
+  "platform": "linkedin",
+  "date": "2026-12-04",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "AI & the Team",
+  "job": "Educate",
+  "format": "text",
+  "title": "When the weekly report stops eating Monday",
+  "topic_ref": "S27",
+  "caption": "Ask a performance team where Monday goes.\nMost of it goes into a report someone skims on Tuesday.\n\nThat is the part of the week agents are starting to take over. Pulling numbers, tagging every ad, lining up this fortnight against the last one.\n\nThe more interesting question for a founder is what the team does with the time it gets back.\n\nFrom what I see, it goes one of three ways.\n\nThe time fills up with more creatives. Same thinking, more volume.\n\nThe time goes into meetings about the report the agent wrote.\n\nOr the team spends it on judgement. Which ad to scale. Which to cut. What the next brief should test, and why.\n\nOnly the third one pays for itself, and it rarely happens on its own. Someone has to put the decisions on the calendar, the way the report used to be.\n\nAt Galvor we run that as a loop every two weeks: decode, prove, create, run. The agent does the reading. People make the calls and write down the reasons.\n\nFaster reporting is worth it when it buys better decisions.\n\nFollow Galvor for more on how people and agents split the work.",
+  "first_comment": "Follow Galvor for more on how people and agents are splitting marketing work.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#PerformanceMarketing",
+    "#D2CIndia"
+  ],
+  "cta": "Follow Galvor",
+  "notes": "Reader: a founder or CMO deciding what AI should change in the team's week. Argument: time saved on reporting only pays if it is moved to decisions. Topic bank S27, rewritten without the '10 minutes vs 2 days' figure because it isn't in the facts bank. Numbers: none ('every two weeks' is the Galvor loop from the facts bank). Sunil to confirm the 'three ways it goes' framing matches what he sees with teams. Doesn't overlap his 8 Dec post (agents vs headcount test) or 29 Dec (calls to keep away from AI).\n[Plan 23 Nov 2026] Moved from 2026-12-03 09:00 to 2026-12-04 09:00.",
+  "series": "",
+  "festival": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "hook": "Ask a performance team where Monday goes.",
+  "script": null,
+  "status": "draft",
+  "theme": "People + agents",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "when-the-weekly-report-stops-eating-monday",
+  "id": "li-2026-12-04-when-the-weekly-report-stops-eating-monday",
+  "updated_at": "2026-11-23T22:35:32",
+  "created_at": "2026-11-18T00:25:52",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:52",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    },
+    {
+      "at": "2026-11-23T22:35:32",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-04 09:00"
+    }
+  ]
+}

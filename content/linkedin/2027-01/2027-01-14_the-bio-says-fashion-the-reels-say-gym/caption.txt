@@ -1,0 +1,16 @@
+The bio says fashion.
+The last 30 reels are gym videos.
+
+A brand told us this about creators their agency suggested. Another got a creator recommended for "speaks Bihari" because a database said so. Nobody had watched a single video.
+
+Most creator tools work off metadata. Bio, category tags, follower count, maybe a guessed location. Quick, and often wrong.
+
+The only reliable way is to watch the videos. What do they talk about? Do they speak on camera? In which language? Who's in the comments?
+
+That used to be impossible at scale. Now AI watches around 20 recent videos per creator before anyone sees the shortlist.
+
+It still gets things wrong sometimes. But it's wrong about what they actually post, not about their bio.
+
+Follow Galvor for more of this.
+
+#CreatorMarketing #MarketingAnalytics #AIinMarketing

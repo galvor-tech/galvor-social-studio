@@ -1,0 +1,48 @@
+{
+  "id": "li-2026-12-18-page-repost-the-creator-for-your-android-launch",
+  "slug": "page-repost-the-creator-for-your-android-launch",
+  "platform": "linkedin",
+  "date": "2026-12-18",
+  "time": "16:00",
+  "voice": "company",
+  "pillar": "Creators & Testing",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: The creator for your Android launch loves their iPhone",
+  "hook": "Raj on checking creators for rival brands before you book them.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Raj on checking creators for rival brands before you book them.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Raj's post 'The creator for your Android launch loves their iPhone' (2026-12-17 16:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:43",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:43",
+  "repost_of": {
+    "voice": "raj",
+    "date": "2026-12-17",
+    "time": "16:00",
+    "title": "The creator for your Android launch loves their iPhone"
+  }
+}

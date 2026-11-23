@@ -1,0 +1,48 @@
+{
+  "id": "li-2026-12-11-page-repost-plan-on-the-sponsored-number-not-the",
+  "slug": "page-repost-plan-on-the-sponsored-number-not-the",
+  "platform": "linkedin",
+  "date": "2026-12-11",
+  "time": "16:00",
+  "voice": "company",
+  "pillar": "Creators & Testing",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: Plan on the sponsored number, not the average",
+  "hook": "Raj on the engagement number that should go into a creator plan.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Raj on the engagement number that should go into a creator plan.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Raj's post 'Plan on the sponsored number, not the average' (2026-12-10 16:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:43",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:43",
+  "repost_of": {
+    "voice": "raj",
+    "date": "2026-12-10",
+    "time": "16:00",
+    "title": "Plan on the sponsored number, not the average"
+  }
+}

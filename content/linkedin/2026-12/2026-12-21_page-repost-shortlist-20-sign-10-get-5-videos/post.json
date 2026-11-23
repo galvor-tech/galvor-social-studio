@@ -1,0 +1,48 @@
+{
+  "id": "li-2026-12-21-page-repost-shortlist-20-sign-10-get-5-videos",
+  "slug": "page-repost-shortlist-20-sign-10-get-5-videos",
+  "platform": "linkedin",
+  "date": "2026-12-21",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "In the Room",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: Shortlist 20, sign 10, get 5 videos",
+  "hook": "Sunil on the number nobody tracks in creator campaigns: usable videos.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Sunil on the number nobody tracks in creator campaigns: usable videos.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Sunil's post 'Shortlist 20, sign 10, get 5 videos' (2026-12-21 09:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:42",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:42",
+  "repost_of": {
+    "voice": "sunil",
+    "date": "2026-12-21",
+    "time": "09:00",
+    "title": "Shortlist 20, sign 10, get 5 videos"
+  }
+}

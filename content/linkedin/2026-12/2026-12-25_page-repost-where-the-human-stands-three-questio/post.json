@@ -1,0 +1,48 @@
+{
+  "id": "li-2026-12-25-page-repost-where-the-human-stands-three-questio",
+  "slug": "page-repost-where-the-human-stands-three-questio",
+  "platform": "linkedin",
+  "date": "2026-12-25",
+  "time": "16:00",
+  "voice": "company",
+  "pillar": "Building Galvor",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: Where the human stands: three questions before you trust an agent",
+  "hook": "Raj's three questions before you trust an AI agent with a decision.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Raj's three questions before you trust an AI agent with a decision.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Raj's post 'Where the human stands: three questions before you trust an agent' (2026-12-24 16:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:41",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:41",
+  "repost_of": {
+    "voice": "raj",
+    "date": "2026-12-24",
+    "time": "16:00",
+    "title": "Where the human stands: three questions before you trust an agent"
+  }
+}

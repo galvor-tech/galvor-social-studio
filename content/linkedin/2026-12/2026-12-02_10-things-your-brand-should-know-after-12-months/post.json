@@ -1,0 +1,130 @@
+{
+  "id": "li-2026-12-02-10-things-your-brand-should-know-after-12-months",
+  "slug": "10-things-your-brand-should-know-after-12-months",
+  "platform": "linkedin",
+  "date": "2026-12-02",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Brand Memory / POV",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "",
+  "title": "The memory test: ten questions after 12 months of ads",
+  "hook": "A year of ads is research you have already paid for.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "A year of ads is research you have already paid for.\n\nMost teams can quote last month's RoAS. Fewer can say why their strongest ad did well, or which ads they would never run again.\n\nHere is a test for your next review. Ten questions, laptops closed, 30 minutes. Each person writes their answers alone, then the room compares.\n\nSeven or more answers that everyone agrees on: your brand remembers. Fewer than that: the learning is sitting in the ad account and in one or two heads.\n\nThe ten questions are in the slides. The December review is a good time to run it, while the sale is still fresh.",
+  "first_comment": "Decoded #7 is out tomorrow on galvor.ai: The Sale Is Over. What Did Your Ads Learn?",
+  "hashtags": [
+    "#BrandMemory",
+    "#PerformanceMarketing",
+    "#D2CIndia"
+  ],
+  "alt_text": "Seven-slide carousel. A memory test for marketing teams: ten questions about a year of ads to answer without a dashboard, how to run the test in 30 minutes, and how to read the score.",
+  "cta": "Soft: save the ten questions; follow Galvor",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "The memory test",
+        "headline": "A year of ads. *Ten questions* your team should answer without a dashboard.",
+        "sub": "30 minutes in your next review."
+      },
+      {
+        "layout": "text",
+        "kicker": "How to run it",
+        "headline": "Laptops closed. *Write alone.* Then compare.",
+        "body": "Give everyone the ten questions on paper.\n\nTen minutes to write. Twenty to compare.\n\nAn answer counts only when the room agrees on it and someone can name the ads behind it."
+      },
+      {
+        "layout": "list",
+        "kicker": "Questions 1 to 5",
+        "headline": "What *worked*, and for whom",
+        "items": [
+          "Which opening shots held attention longest this year?",
+          "Which buyer was each of our strongest ads speaking to?",
+          "How many weeks does a strong ad last before it tires?",
+          "Which format suits which product in our range?",
+          "Which offer brought buyers back for a second order?"
+        ]
+      },
+      {
+        "layout": "list",
+        "kicker": "Questions 6 to 10",
+        "headline": "What to *stop*, and what comes next",
+        "items": [
+          "Which ads only did well during a sale?",
+          "What do creator videos do for us that studio shoots do not?",
+          "Which message have we repeated most, and is it still paying?",
+          "Which ads would we never run again, and why?",
+          "What is the first thing we test next quarter?"
+        ]
+      },
+      {
+        "layout": "compare",
+        "kicker": "Read your score",
+        "headline": "What the score *tells you*",
+        "left_title": "7 or more agreed",
+        "left": [
+          "Your brand remembers",
+          "Put the answers in every brief",
+          "Run the test again each quarter"
+        ],
+        "right_title": "Fewer than 7",
+        "right": [
+          "The learning lives in a few heads",
+          "It leaves when they leave",
+          "Start where the room disagreed"
+        ]
+      },
+      {
+        "layout": "statement",
+        "headline": "Plenty of data. *No memory.*",
+        "sub": "The questions your team disagrees on are your test plan for next quarter."
+      },
+      {
+        "layout": "cta",
+        "headline": "Take the ten questions into your *next review*",
+        "sub": "Save this post so you have them in the room.",
+        "actions": [
+          "Follow Galvor",
+          "Save the ten questions"
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "notes": "Hook shape: punchy plus context. Reader: a D2C founder or CMO running the December review after the sale season. Argument: test whether your team can recall what a year of ads taught it, without a dashboard. No statistics used; '30 minutes', 'ten questions' and 'seven' are the test's own rules. First comment points to Decoded #7, which goes out the day after this post (2 Dec), so it says 'out tomorrow'. If the post moves to 2 Dec or later, change it to 'Read Decoded #7 on galvor.ai'.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2026-12-01 09:00 to 2026-12-02 09:00.",
+  "approvals": [
+    {
+      "at": "2026-11-09T13:52:04",
+      "action": "CTA rule: closing call-to-action asks people to follow Galvor"
+    },
+    {
+      "at": "2026-11-11T01:04:16",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-01 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:17:35",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:35:32",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-02 09:00"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:14:58",
+  "updated_at": "2026-11-23T22:35:32",
+  "topic_ref": "S12",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

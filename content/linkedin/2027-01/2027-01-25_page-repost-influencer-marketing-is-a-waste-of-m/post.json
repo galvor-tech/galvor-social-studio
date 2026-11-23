@@ -1,0 +1,48 @@
+{
+  "id": "li-2027-01-25-page-repost-influencer-marketing-is-a-waste-of-m",
+  "slug": "page-repost-influencer-marketing-is-a-waste-of-m",
+  "platform": "linkedin",
+  "date": "2027-01-25",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "In the Room",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: \"Influencer marketing is a waste of money\"",
+  "hook": "Sunil takes the 'influencer marketing is a waste' argument seriously.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Sunil takes the 'influencer marketing is a waste' argument seriously.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Sunil's post '\"Influencer marketing is a waste of money\"' (2027-01-25 09:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:43",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:43",
+  "repost_of": {
+    "voice": "sunil",
+    "date": "2027-01-25",
+    "time": "09:00",
+    "title": "\"Influencer marketing is a waste of money\""
+  }
+}

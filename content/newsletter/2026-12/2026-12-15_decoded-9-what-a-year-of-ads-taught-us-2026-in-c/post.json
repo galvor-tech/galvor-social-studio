@@ -1,0 +1,141 @@
+{
+  "id": "nl-2026-12-15-decoded-9-what-a-year-of-ads-taught-us-2026-in-c",
+  "slug": "decoded-9-what-a-year-of-ads-taught-us-2026-in-c",
+  "platform": "newsletter",
+  "date": "2026-12-15",
+  "time": "08:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #8: What a Year of Ads Taught Us: 2026 in Creative",
+  "hook": "If you deleted every ad tomorrow, what would your brand still know?",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "If you deleted every ad your brand ran this year, what would you still know?\n\nFor most teams, the honest answer is: not much. The ads are in the account, the reports are in a folder, and the lessons are in someone's head.\n\nIn Issue #6 of Decoded, Raj looks back at 2026 in creative: the year Meta started reading ads instead of only ranking them, five lessons from the ads Galvor decoded, and five moves to make in the last two weeks of December so January doesn't start from zero.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "Cover image for Decoded by Galvor, Issue #6: What a year of ads taught us: 2026 in creative. White and gold text on a violet background with the Galvor logo at the top left.",
+  "cta": "Read and subscribe to Decoded",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": [
+      {
+        "layout": "cover",
+        "kicker": "Decoded · Issue #6",
+        "headline": "2026 in creative: what a *year of ads* taught us",
+        "sub": "Five lessons worth keeping before the calendar turns."
+      }
+    ]
+  },
+  "images": [
+    "slide_01.png"
+  ],
+  "notes": "Writer's brief: Skeleton — Raj to write in full. ~1,500 words when finished.\n\nWas planned as #6 (fortnightly). Now #9, Wednesday 2026-12-16. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.\n[Plan 23 Nov 2026] Moved from 2026-12-16 08:30 to 2026-12-15 08:30.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:58:27",
+      "action": "Decoded goes weekly: #6 → #9 on 2026-12-16"
+    },
+    {
+      "at": "2026-11-11T01:58:58",
+      "action": "Skeleton brief converted to Decoded markup"
+    },
+    {
+      "at": "2026-11-17T23:33:48",
+      "action": "Posted from the Galvor page, not Raj (17 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:35:35",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-15 08:30"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:25:14",
+  "updated_at": "2026-11-23T22:35:35",
+  "topic_ref": "NL-6",
+  "newsletter": {
+    "issue": 9,
+    "subject_lines": [
+      "What a year of ads taught us (2026 edition)",
+      "If you deleted every ad tomorrow, what would you know?",
+      "2026 in creative: five lessons worth keeping"
+    ],
+    "preview_text": "The platform year, five lessons from decoded ads, and what to do before January.",
+    "key_takeaways": [
+      "2026 was the year Meta started reading ads, not just ranking them.",
+      "The teams that improved fastest changed one attribute at a time and wrote down what they expected.",
+      "The most expensive mistake of the year was paying twice for the same lesson."
+    ],
+    "outline": [
+      {
+        "heading": "Monday, 9:40 a.m.",
+        "points": [
+          "Sam's year-end deck lists spend, not learning"
+        ]
+      },
+      {
+        "heading": "The platform year in one page",
+        "points": [
+          "Andromeda, GEM, GenRecs",
+          "The Creative diversity column"
+        ]
+      },
+      {
+        "heading": "Five lessons from the ads Galvor decoded",
+        "points": [
+          "False bangers",
+          "New buyers, not new looks",
+          "Beyond narrative",
+          "Three kinds of fatigue",
+          "Give new ads time"
+        ]
+      },
+      {
+        "heading": "What Galvor saw in the data",
+        "points": [
+          "Year-level attribute view (pending)",
+          "Festive vs rest of year (pending)"
+        ]
+      },
+      {
+        "heading": "Festive season, looked at honestly",
+        "points": [
+          "Gifting moments, regional language, offer-led hooks"
+        ]
+      },
+      {
+        "heading": "The shift for marketers and leaders",
+        "points": [
+          "Write 10 lessons on one page",
+          "Delete unread reports",
+          "Pick three attributes to test in January",
+          "Archive winners with reasons",
+          "One post-mortem question for 2027"
+        ]
+      }
+    ],
+    "next_issue": "The Year in Ten Lessons",
+    "repurpose": [
+      "LinkedIn carousel (Sunil): \"If you've run ads for 12 months, your brand should know these 10 things\" (topic S12).",
+      "Instagram reel: \"2026 in ads in 30 seconds\" — five lessons, one per beat.",
+      "Instagram carousel: \"5 creative lessons from 2026\" — one lesson per slide."
+    ],
+    "data_needed": [
+      "Year-level view across the brands we work with: the attribute that most often separated top-spending ads from the rest, by category (anonymised).",
+      "Festive season (Oct–Nov 2026) vs the rest of the year: did winning hooks change?",
+      "Any festive-season claim must be backed by our own data; otherwise describe it as a pattern to test."
+    ],
+    "draft_markdown": "# Decoded · Issue #6 — What a year of ads taught us: 2026 in creative\n*Skeleton — Raj to write in full. ~1,500 words when finished.*\n\n**Opening (Monday, 9:40 a.m.):** Sam's year-end review. The deck lists every campaign and every spend line. It doesn't list a single thing the brand learned. Sam asks: if we deleted all our ads tomorrow, what would we still know?\n\n**Key takeaways (draft):**\n1. 2026 was the year Meta started reading ads, not just ranking them (Andromeda, GEM, GenRecs — Issue #3).\n2. The teams that improved fastest changed one attribute at a time and wrote down what they expected.\n3. The most expensive mistake of the year was repeating a lesson already paid for.\n\n**Section 1 — The platform year in one page.** Recap Meta's three rebuilt layers and the Creative diversity column (started late August, most accounts by the last week of October). What changed for a D2C team in practice. Only Meta's public claims from the facts bank.\n\n**Section 2 — Five lessons from the ads Galvor decoded this year.** One lesson each from Issues #2–#5: false bangers (a high hook rate isn't a winner on its own); new buyers, not new looks (36% less for look-alikes; 47% more for a proven message in a new look); beyond narrative (attributes, not stories); fatigue has three causes; give new ads time (~35% dearer early, close to average over life).\n\n**Section 3 — What Galvor saw in the data.** [DATA NEEDED: year-level view across the brands we work with — attribute that most often separated top-spending ads from the rest, by category; anonymised.] [DATA NEEDED: festive season (Oct–Nov) vs rest of year — did winning hooks change?]\n\n**Section 4 — Festive season, looked at honestly.** What Diwali-period creative did differently in India this year: gifting moments, regional language, offer-led hooks. Use only patterns we can back up.\n\n**Section 5 — The shift for marketers and leaders: five moves for the last two weeks of December.** (1) Write your brand's 10 lessons of 2026 on one page. (2) Delete the reports nobody acted on. (3) Pick the three attributes you'll test first in January. (4) Archive winners with their reasons, not just their files. (5) Agree one question for every post-mortem in 2027: \"what did this ad teach us?\"\n\n**Close:** \"Every ad should make the next one better.\" A year is long enough to check whether that happened.\n\n**Next issue:** 2027 creative planning — build a test calendar, not a content calendar.\n",
+    "markup": "---\nissue: 9\ntitle: Decoded #9: What a Year of Ads Taught Us: 2026 in Creative\ndek: [DATA NEEDED: one-paragraph standfirst in Decoded style]\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: Agents, Not Headcount: What an AI Co-worker Should Decide\nprevious_url: https://galvor.ai/newsletters/decode/agents-not-headcount-what-an-ai-co-worker-should-decide/\n---\n\n## Key takeaways\n\n- 2026 was the year Meta started reading ads, not just ranking them (Andromeda, GEM, GenRecs — Issue #3).\n- The teams that improved fastest changed one attribute at a time and wrote down what they expected.\n- The most expensive mistake of the year was repeating a lesson already paid for.\n\n## Monday, 9:40 a.m.\n\n[DATA NEEDED: write the cold open (3 short paragraphs + an italic turn). Brief: Sam's year-end review. The deck lists every campaign and every spend line. It doesn't list a single thing the brand learned. Sam asks: if we deleted all our ads tomorrow, what would we still know?]\n\n## The platform year in one page\n\n[DATA NEEDED: write this section. Brief: Recap Meta's three rebuilt layers and the Creative diversity column (started late August, most accounts by the last week of October). What changed for a D2C team in practice. Only Meta's public claims from the facts bank.]\n\n## Five lessons from the ads Galvor decoded this year\n\n[DATA NEEDED: write this section. Brief: One lesson each from Issues #2–#5: false bangers (a high hook rate isn't a winner on its own); new buyers, not new looks (36% less for look-alikes; 47% more for a proven message in a new look); beyond narrative (attributes, not stories); fatigue has three causes; give new ads time (~35% dearer early, close to average over life).]\n\n## What Galvor saw in the data\n\n[DATA NEEDED: write this section. Brief: [DATA NEEDED: year-level view across the brands we work with — attribute that most often separated top-spending ads from the rest, by category; anonymised.] [DATA NEEDED: festive season (Oct–Nov) vs rest of year — did winning hooks change?]]\n\n## Festive season, looked at honestly\n\n[DATA NEEDED: write this section. Brief: What Diwali-period creative did differently in India this year: gifting moments, regional language, offer-led hooks. Use only patterns we can back up.]\n\n## The shift for marketers and leaders\n\nFive moves Galvor recommends, whatever tool you use.\n\n- **[DATA NEEDED: move 1].** One or two sentences.\n- **[DATA NEEDED: move 2].** One or two sentences.\n- **[DATA NEEDED: move 3].** One or two sentences.\n- **[DATA NEEDED: move 4].** One or two sentences.\n- **[DATA NEEDED: move 5].** One or two sentences.\n\n[DATA NEEDED: brief for the five moves: (1) Write your brand's 10 lessons of 2026 on one page. (2) Delete the reports nobody acted on. (3) Pick the three attributes you'll test first in January. (4) Archive winners with their reasons, not just their files. (5) Agree one question for every post-mortem in 2027: \"what did this ad teach us?\"]\n\n[DATA NEEDED: Close — \"Every ad should make the next one better.\" A year is long enough to check whether that happened.]\n\n## Next issue: The Year in Ten Lessons\n\nA short one for the holiday week: the ten ideas from this year of Decoded that held up, in one page you can forward to the person planning January.\n\n## CTA: Get a free five-layer audit from Galvor AI\n\nWe read every ad in your account for look, speaker, audience, stage and reason, score each layer, and send you the short list of new ads that would fill the gaps. [Talk to the founders](https://talk.galvor.ai) to book yours.\n\nbutton: Get a free audit | https://talk.galvor.ai\n\n## How we did this\n\nGalvor’s data: [DATA NEEDED: dataset, date range, number of ads/brands, definitions]\n\n## Sources\n\n- [DATA NEEDED: source for “Year-level view across the brands we work with: the attribute that mos”]\n- [DATA NEEDED: source for “Festive season (Oct–Nov 2026) vs the rest of the year: did winning hoo”]\n- [DATA NEEDED: source for “Any festive-season claim must be backed by our own data; otherwise des”]\n",
+    "url": "https://galvor.ai/newsletters/decode/what-a-year-of-ads-taught-us-2026-in-creative/",
+    "previous_studio_issue": 6
+  }
+}

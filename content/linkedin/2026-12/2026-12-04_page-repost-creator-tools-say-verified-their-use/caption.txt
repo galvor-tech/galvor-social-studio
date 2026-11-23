@@ -1,0 +1,1 @@
+Raj on why creator databases go stale, and what to ask your tool.

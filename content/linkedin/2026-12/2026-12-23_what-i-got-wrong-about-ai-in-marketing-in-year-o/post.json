@@ -1,0 +1,58 @@
+{
+  "id": "li-2026-12-23-what-i-got-wrong-about-ai-in-marketing-in-year-o",
+  "slug": "what-i-got-wrong-about-ai-in-marketing-in-year-o",
+  "platform": "linkedin",
+  "date": "2026-12-23",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "Building Galvor",
+  "job": "Attract",
+  "format": "text",
+  "series": "",
+  "title": "Why Galvor never touches the media budget",
+  "hook": "We built Galvor so it never touches your media budget.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "We built Galvor so it never touches your media budget.\n\nThis year many tools in our category went the other way and now launch and manage ads themselves. Here is why we have not.\n\nThe first reason is checking. When the same system recommends a move, makes the move and reports the result, nobody outside it can test the advice. We would rather give the reasoning to your team and let them argue with it.\n\nThe second is accountability. A founder answers for the marketing budget to a board and to a bank balance. That answer should not be 'the tool decided'.\n\nSo we stop at the recommendation: scale this, cut that, shift this much, and here is why. Your team or your agency moves the money.\n\nThis costs us something. A tool that acts looks faster in a demo than a tool that explains.\n\nI accept that trade. Speed is easy to buy. An explanation your team can check is harder to find, and it is what makes the next decision better.",
+  "first_comment": "Follow Galvor for how we build, and what we choose not to build.",
+  "hashtags": [
+    "#AIinMarketing",
+    "#PerformanceMarketing",
+    "#D2C"
+  ],
+  "alt_text": "",
+  "cta": "none",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "CONFIRM WITH Sunil: topic replaced. The old post ('What I got wrong about AI in marketing in year one') needs a real personal admission that only he can supply, so it was not written. This post takes Galvor's published line 'We never touch the media budget' and gives two reasons for it (checkable advice, accountability stays with the budget owner). He must confirm these are his reasons and that this is still the product position. If he does have a real year-one mistake to tell, that would be a stronger post for this slot. Hook shape: punchy plus context. Reader: a founder comparing AI ad tools. The line about other tools launching and managing ads is from public product pages; no competitor is named and no spend is stated. No numbers used. topic_ref left as S41.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2026-12-22 09:00 to 2026-12-23 09:00.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:04:17",
+      "action": "Re-slotted to the Nov 2026 rhythm (2026-12-22 09:00)"
+    },
+    {
+      "at": "2026-11-16T21:17:35",
+      "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:35:33",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-23 09:00"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-08T01:15:25",
+  "updated_at": "2026-11-23T22:35:33",
+  "topic_ref": "S41",
+  "script_decision": {
+    "choice": "pending"
+  }
+}

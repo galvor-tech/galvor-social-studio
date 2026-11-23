@@ -1,0 +1,56 @@
+{
+  "platform": "newsletter",
+  "date": "2027-01-26",
+  "time": "08:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #11: The Brief Is the Filter. Why 66% of Creator Rejections Came Down to One Line",
+  "hook": "The Brief Is the Filter. Why 66% of Creator Rejections Came Down to One Line",
+  "status": "idea",
+  "festival": null,
+  "caption": "Decoded by Galvor, Issue #18: The Brief Is the Filter. Why 66% of Creator Rejections Came Down to One Line\n\nDecoded #4 showed that clean creator numbers don't predict fit. Three months of Galvor Scout checks show where fit is actually decided: in the brief. Most creators we turned down missed a must-have the brand had written down. This issue is about writing must-haves that do the filtering for you.\n\nSubscribe to get it every Wednesday.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "notes": "Outline planned 18 Nov 2026 (why now: Brands are briefing creators for March launches and summer; proof season continues with how Galvor Scout is being used, three months after its November launch and Decoded #4.). Posted from the Galvor page. Write with Decoded → Draft with AI, then fill every [DATA NEEDED].\n[Plan 23 Nov 2026] Moved from 2027-02-17 08:30 to 2027-01-26 08:30.",
+  "newsletter": {
+    "issue": "18",
+    "markup": "---\nissue: 18\ntitle: Decoded #18: The Brief Is the Filter. Why 66% of Creator Rejections Came Down to One Line\ndek: Decoded #4 showed that clean creator numbers don't predict fit. Three months of Galvor Scout checks show where fit is actually decided: in the brief. Most creators we turned down missed a must-have the brand had written down. This issue is about writing must-haves that do the filtering for you.\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: Same Budget, $3,800 Moved. Inside a Linen Brand's First Month\nprevious_url: https://galvor.ai/newsletters/decode/same-budget-3-800-moved-inside-a-linen-brands-fi/\n---\n\n## Key takeaways\n\n- [DATA NEEDED: takeaway 1]\n- [DATA NEEDED: takeaway 2]\n- [DATA NEEDED: takeaway 3]\n\n## Cold open\n\nMonday, 2:15 p.m. Sam's creator brief for a summer launch says 'authentic, relatable, family-friendly', and the shortlist that comes back is four hundred creators who all qualify. Then legal adds one line, 'must not make medical claims', and half of Sam's favourites drop out.\n\n## Monday, 2:15 p.m.: Four Hundred Creators Who All Qualify\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What Decoded #4 Found, in One Paragraph: Engagement Is Not Fit\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Where Fit Is Decided: 66% of Rejections Missed a Stated Must-Have\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Strong-Looking Content, Weak Engagement: The 38% Moved Down\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Writing Must-Haves a Shortlist Can Check: Claims, Tone, Category, Audience\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## How Brands Use Galvor Scout: Brief in Plain Words, Reasons for Every Call\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The Shift for Marketers and Leaders: Five Moves for Your Next Creator Brief\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Next issue\n\nNext issue: Three Categories, One Pattern. Fashion, beauty and wellness results side by side, and why every RoAS gain came with an attention number beside it. Next week: how to read a pilot result so the next brief can repeat it.\n\n## How we did this\n\nGalvor's data needed for this issue:\n- 8,673 creator checks, Aug to early Nov 2026 (Decoded #4, facts bank)\n- 66% of 2,586 creators turned down missed a stated must-have (facts bank)\n- 38% of 1,428 creators whose content looked like a strong fit were moved down on engagement (facts bank)\n- 62% of 1,018 top-engagement creators still weren't right for the brief (facts bank)\n- [DATA NEEDED] Raj: refreshed Scout numbers through Jan 2027 if available, and the most common must-have types behind the 66% (claims, tone, category, audience); otherwise keep to the Aug–Nov dataset and say so\n\n## Sources\n\n- [DATA NEEDED: sources, one per line: Publisher (date), [title](url)]\n",
+    "url": "https://galvor.ai/newsletters/decode/the-brief-is-the-filter-why-66-of-creator-reject/",
+    "next_issue": "",
+    "subject_lines": [
+      "The Brief Is the Filter. Why 66% of Creator Rejections Came Down to One Line"
+    ],
+    "preview_text": "Decoded #4 showed that clean creator numbers don't predict fit. Three months of Galvor Scout checks show where fit is actually decided: in t"
+  },
+  "slug": "decoded-18-the-brief-is-the-filter-why-66-of-cre",
+  "theme": "Proof season: pilots & client stories",
+  "id": "nl-2027-01-26-decoded-18-the-brief-is-the-filter-why-66-of-cre",
+  "updated_at": "2026-11-23T22:35:35",
+  "created_at": "2026-11-18T00:25:55",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:55",
+      "action": "Planned: Decoded outline to Feb 2027 (18 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:35:35",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2027-01-26 08:30"
+    }
+  ]
+}

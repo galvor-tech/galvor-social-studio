@@ -116,25 +116,30 @@ POST_RULES = [
 # hours Instagram Insights / LinkedIn exports show once there are ~4 weeks of data (Results → Patterns).
 # (weekday 0=Mon, time, kind) — kind is a voice for LinkedIn, a format for Instagram.
 SLOTS = {
-    "linkedin": [
-        (0, "12:30", "shrutik"),
-        (1, "09:00", "sunil"),
-        (2, "12:30", "raj"),
-        (3, "09:00", "sunil"),
-        (3, "12:30", "company"),
-        (4, "09:00", "shrutik"),
-        (4, "12:30", "company"),
+    "linkedin": [                  # plan from 30 Nov 2026: Sunil 3, Raj 2, Shrutik 1; page reposts each ~4h later
+        (0, "09:00", "sunil"),
+        (0, "13:00", "company"),
+        (1, "12:30", "raj"),
+        (1, "16:30", "company"),
+        (2, "09:00", "sunil"),
+        (2, "13:00", "company"),
+        (3, "09:00", "shrutik"),
+        (3, "13:00", "company"),
+        (3, "16:00", "raj"),
+        (4, "09:00", "sunil"),
+        (4, "13:00", "company"),
+        (4, "16:00", "company"),
     ],
     "instagram": [
         (0, "19:00", "carousel"),
         (2, "19:00", "reel"),
         (4, "13:00", "carousel"),
-        (3, "13:00", "image"),     # was Saturday 11:00; posting is Monday to Friday only (16 Nov 2026)
+        (3, "13:00", "carousel"),  # "New on Instagram" weekly carousel from 3 Dec 2026 (was the single image)
         (1, "12:30", "story"),
     ],
     "festival_time": {"linkedin": "09:00", "instagram": "11:00"},
     "story_time": "12:30",
-    "newsletter": (2, "08:30"),   # Decoded: every Wednesday, LinkedIn newsletter from the Galvor page + email
+    "newsletter": (1, "08:30"),   # Decoded: fortnightly Tuesdays from 1 Dec 2026, Galvor page + email
 }
 
 # Who posts first, and why (shown on Strategy). Numbers from the Studio's LinkedIn imports, 1 Aug-16 Nov 2026.
@@ -146,32 +151,35 @@ REACH_FACTS = {
     "example": "Same news, 8 Sep 2026 (HealthKart partnership): 877 impressions on the Galvor page, 8,383 on Sunil's profile.",
 }
 DISTRIBUTION = [
-    "Personal profiles post first, as their own native post in their own voice. Never a plain repost of a company post (little reach).",
-    "The Galvor page follows 1-2 days later with the link, report, launch or carousel, or reshares the personal post with its own line.",
-    "Links never go in a personal post's body (they cut reach). Put them in the first comment, or point to the Galvor page post.",
-    "Links, Decoded, reports, launches and carousels belong on the Galvor page (links help reach there).",
-    "Decoded is always posted from the Galvor page (Wed 08:30), never from Raj's handle. Raj, Sunil and Shrutik repost it with their own line or comment in the first hour.",
+    "Personal profiles post first, as their own native post in their own voice: Sunil 3 a week, Raj 2, Shrutik 1.",
+    "The Galvor page reposts every personal post with its own short line, about 4 hours later, once the first hour of comments is done (Raj's Thursday post is reposted Friday 16:00).",
+    "Links never go in a personal post's body (they cut reach). Put them in the first comment.",
+    "Decoded goes out fortnightly on Tuesday at 08:30 from the Galvor page (next: 1 Dec 2026). Raj, Sunil and Shrutik repost it with their own line or comment in the first hour.",
     "Every personal post still closes with Follow Galvor / @galvor.ai, so the founders' reach builds page followers.",
-    "Same news, different angle per person: Sunil money and risk, Raj product and data, Shrutik marketing craft and behind the scenes.",
+    "Series: Sunil's Monday 'What I heard this week' (a real client problem, nobody named); Raj's Tuesday Brand Breakdown carousel (one non-client brand's public Meta ads); Shrutik's Thursday 'New on Instagram'.",
+    "Client stories never name the client, the people, or details that identify them. Brand Breakdowns never pick a Galvor client or any CRM account.",
     "The other team members leave a real comment in the first hour; the author replies to every comment.",
-    "Spacing: one post per handle per day, at least 20 hours between two posts from the same handle, never two handles at the same time on the same day (stagger by 3+ hours).",
-    "Decoded morning is the page's: nothing else goes out on Wednesday before 12:30, so the whole team's first-hour comments go to the newsletter.",
-    "Festival greetings from the page take 12:30 when a team member already has the 09:00 slot that day.",
-    "Weekly target: Sunil 2, Raj 1 (+ Decoded), Shrutik 2, Galvor page 3 (Decoded + 2). About three-quarters of reach should come from personal profiles.",
+    "Spacing: one post per person per day, two people at least 3 hours apart.",
+    "Holiday Fridays (25 Dec, 1 Jan): Sunil is off, the page posts the greeting at 12:30.",
 ]
 
 WEEKDAYS_ONLY = True   # nothing is planned for Saturday or Sunday
 
 RHYTHM = {
     "linkedin": [
-        ("Mon", "12:30", "shrutik", "Shrutik — Brief to Live / client reality"),
-        ("Tue", "09:00", "sunil", "Sunil — What I Heard in the Room (money, risk, CMO worries)"),
-        ("Wed", "08:30", "company", "Decoded — LinkedIn newsletter from the Galvor page (+ email). Team comments/reposts in the first hour"),
-        ("Wed", "12:30", "raj", "Raj — Ad of the Week / building the engine (after Decoded's first hour; Raj comments on Decoded first)"),
-        ("Thu", "09:00", "sunil", "Sunil — his own take on the week's Galvor news or launch (link in first comment)"),
-        ("Thu", "12:30", "company", "Galvor page — proof, product or launch with the link, 1-2 days after a team member covered it"),
-        ("Fri", "09:00", "shrutik", "Shrutik — behind the scenes on a campaign / marketing craft"),
-        ("Fri", "12:30", "company", "Galvor page — reshare the week's best personal post with its own line, or a carousel"),
+        ("Mon", "09:00", "sunil", "Sunil — What I heard this week: one real client problem, nobody named"),
+        ("Mon", "13:00", "company", "Galvor page — repost Sunil's post with its own line"),
+        ("Tue", "08:30", "company", "Decoded — fortnightly LinkedIn newsletter from the Galvor page (+ email)"),
+        ("Tue", "12:30", "raj", "Raj — Brand Breakdown carousel: one brand's public Meta ads, read in full"),
+        ("Tue", "16:30", "company", "Galvor page — repost Raj's Brand Breakdown"),
+        ("Wed", "09:00", "sunil", "Sunil — money, AI and the marketing team"),
+        ("Wed", "13:00", "company", "Galvor page — repost Sunil's post"),
+        ("Thu", "09:00", "shrutik", "Shrutik — New on Instagram this week"),
+        ("Thu", "13:00", "company", "Galvor page — repost Shrutik's post"),
+        ("Thu", "16:00", "raj", "Raj — creator data, measurement, how the AI works"),
+        ("Fri", "09:00", "sunil", "Sunil — Galvor's view, a poll or a lesson"),
+        ("Fri", "13:00", "company", "Galvor page — repost Sunil's post"),
+        ("Fri", "16:00", "company", "Galvor page — repost Raj's Thursday post"),
     ],
     "instagram": [
         ("Mon", "19:00", "company", "Carousel — framework / tip"),
@@ -179,7 +187,7 @@ RHYTHM = {
         ("Wed", "12:30", "company", "Story — Decoded is out (link in bio)"),
         ("Wed", "19:00", "company", "Reel — ad breakdown or behind the scenes"),
         ("Fri", "13:00", "company", "Carousel — data drop / myth vs fact"),
-        ("Thu", "13:00", "company", "Single image — meme, relatable, culture (reel when one is ready)"),
+        ("Thu", "13:00", "company", "Carousel — New on Instagram this week (mirrors Shrutik's LinkedIn post)"),
     ],
 }
 

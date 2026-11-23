@@ -1,0 +1,60 @@
+{
+  "id": "nl-2027-02-23-decoded-8-agents-not-headcount-what-an-ai-co-wor",
+  "slug": "decoded-8-agents-not-headcount-what-an-ai-co-wor",
+  "platform": "newsletter",
+  "date": "2027-02-23",
+  "time": "08:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #13: Agents, Not Headcount: What an AI Co-worker Should Decide",
+  "hook": "Agents, Not Headcount: What an AI Co-worker Should Decide",
+  "status": "idea",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Decoded by Galvor, Issue #8: Agents, Not Headcount: What an AI Co-worker Should Decide\n\nMarketing teams are asking for more people to move information around. Agents are good at exactly that. Here is where an AI co-worker helps, where it shouldn't decide, and how Vira shows its thinking.\n\nSubscribe to get it every Wednesday.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "Skeleton for a new weekly slot. Write it by hand, or use Decoded → Draft with AI, then fill every [DATA NEEDED].\n[Plan 23 Nov 2026] Moved from 2026-12-09 08:30 to 2027-02-23 08:30.",
+  "approvals": [
+    {
+      "at": "2026-11-11T01:58:27",
+      "action": "Created by the weekly Decoded re-plan"
+    },
+    {
+      "at": "2026-11-17T23:33:48",
+      "action": "Posted from the Galvor page, not Raj (17 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:35:35",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2027-02-23 08:30"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-11T01:58:27",
+  "updated_at": "2026-11-23T22:35:35",
+  "newsletter": {
+    "issue": 8,
+    "markup": "---\nissue: 8\ntitle: Decoded #8: Agents, Not Headcount: What an AI Co-worker Should Decide\ndek: Marketing teams are asking for more people to move information around. Agents are good at exactly that. Here is where an AI co-worker helps, where it shouldn't decide, and how Vira shows its thinking.\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: The Sale Is Over. What Did Your Ads Learn?\nprevious_url: https://galvor.ai/newsletters/decode/the-sale-is-over-what-did-your-ads-learn/\n---\n\n## Key takeaways\n\n- Most of a marketing team's week goes into moving information, not deciding.\n- Let agents prepare the decision; keep the judgement with people who own the result.\n- An AI co-worker you can't question is a black box with a login.\n\n## Monday, 9:40 a.m.\n\nSam, our growth lead from earlier issues, [DATA NEEDED: the cold-open scene — 3 short paragraphs].\n\n> [DATA NEEDED: one-line italic turn]\n\n## Where the week actually goes\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What should never be automated\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## How Vira shows its thinking\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The shift for marketers and leaders\n\nFive moves Galvor recommends, whatever tool you use.\n\n- **[DATA NEEDED: move 1].** One or two sentences.\n- **[DATA NEEDED: move 2].** One or two sentences.\n- **[DATA NEEDED: move 3].** One or two sentences.\n- **[DATA NEEDED: move 4].** One or two sentences.\n- **[DATA NEEDED: move 5].** One or two sentences.\n\n## Next issue: What a Year of Ads Taught Us: 2026 in Creative\n\n[DATA NEEDED: teaser]\n\n## CTA: Get a free five-layer audit from Galvor AI\n\nWe read every ad in your account for look, speaker, audience, stage and reason, score each layer, and send you the short list of new ads that would fill the gaps. [Talk to the founders](https://talk.galvor.ai) to book yours.\n\nbutton: Get a free audit | https://talk.galvor.ai\n\n## How we did this\n\nGalvor’s data: [DATA NEEDED: dataset, dates, definitions]\n\n## Sources\n\n- [DATA NEEDED: sources, one per line: Publisher (date), [title](url)]\n",
+    "url": "https://galvor.ai/newsletters/decode/agents-not-headcount-what-an-ai-co-worker-should-decide/",
+    "next_issue": "What a Year of Ads Taught Us: 2026 in Creative",
+    "subject_lines": [
+      "Agents, Not Headcount: What an AI Co-worker Should Decide"
+    ],
+    "preview_text": "Marketing teams are asking for more people to move information around. Agents are good at exactly that. Here is where an AI co-worker helps,"
+  }
+}

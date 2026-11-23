@@ -1,0 +1,48 @@
+{
+  "id": "li-2027-01-22-page-repost-ai-generated-vs-ai-informed-creative",
+  "slug": "page-repost-ai-generated-vs-ai-informed-creative",
+  "platform": "linkedin",
+  "date": "2027-01-22",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "AI & the Team",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: AI-generated vs AI-informed creative",
+  "hook": "Sunil on AI-generated vs AI-informed creative.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Sunil on AI-generated vs AI-informed creative.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Sunil's post 'AI-generated vs AI-informed creative' (2027-01-22 09:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:40",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:40",
+  "repost_of": {
+    "voice": "sunil",
+    "date": "2027-01-22",
+    "time": "09:00",
+    "title": "AI-generated vs AI-informed creative"
+  }
+}

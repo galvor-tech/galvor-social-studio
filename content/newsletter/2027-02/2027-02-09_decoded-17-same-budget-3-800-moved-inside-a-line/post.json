@@ -1,0 +1,56 @@
+{
+  "platform": "newsletter",
+  "date": "2027-02-09",
+  "time": "08:30",
+  "voice": "company",
+  "pillar": "Newsletter",
+  "job": "Educate",
+  "format": "issue",
+  "series": "Decoded",
+  "title": "Decoded #12: Same Budget, $3,800 Moved. Inside a Linen Brand's First Month",
+  "hook": "Same Budget, $3,800 Moved. Inside a Linen Brand's First Month",
+  "status": "idea",
+  "festival": null,
+  "caption": "Decoded by Galvor, Issue #17: Same Budget, $3,800 Moved. Inside a Linen Brand's First Month\n\nA premium linen and cotton D2C brand didn't spend more in its first month with Galvor. It spent differently: $3,800 moved between ads, and RoAS rose 67%. This issue walks through the calls behind that move, why hold rate rose with it, and which parts any brand can copy.\n\nSubscribe to get it every Wednesday.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "notes": "Outline planned 18 Nov 2026 (why now: The first client story of proof season, published the week the page runs the fashion proof carousel (Thu 11 Feb). Also lands as brands set budgets for spring and summer collections.). Posted from the Galvor page. Write with Decoded → Draft with AI, then fill every [DATA NEEDED].\n[Plan 23 Nov 2026] Moved from 2027-02-10 08:30 to 2027-02-09 08:30.",
+  "newsletter": {
+    "issue": "17",
+    "markup": "---\nissue: 17\ntitle: Decoded #17: Same Budget, $3,800 Moved. Inside a Linen Brand's First Month\ndek: A premium linen and cotton D2C brand didn't spend more in its first month with Galvor. It spent differently: $3,800 moved between ads, and RoAS rose 67%. This issue walks through the calls behind that move, why hold rate rose with it, and which parts any brand can copy.\nauthor: Raj Dhakad, Founding AI Engineer, Galvor AI\nprevious_title: The Six-Week Pilot That Proved Nothing\nprevious_url: https://galvor.ai/newsletters/decode/the-six-week-pilot-that-proved-nothing/\n---\n\n## Key takeaways\n\n- [DATA NEEDED: takeaway 1]\n- [DATA NEEDED: takeaway 2]\n- [DATA NEEDED: takeaway 3]\n\n## Cold open\n\nMonday, 10:20 a.m. Sam is in a review with a linen brand's founder who wants a bigger budget for the summer collection. Before anyone agrees a number, Sam asks a smaller question: of the money already running, which ads are earning their place?\n\n## Monday, 10:20 a.m.: More Budget, or Better Placed Budget?\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The Starting Point: What the Brand's Ads Looked Like Before the Loop (Anonymised)\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Decode and Prove: Pricing Each Attribute Against Cost per Order\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Scale, Cut, Shift: The Calls That Moved $3,800\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Why Hold Rate Rose 25%, and Why That Is the Number to Brief From\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## What Any Brand Can Copy, and What Was Specific to Linen\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## The Shift for Marketers and Leaders: Five Moves Before You Ask for More Budget\n\n[DATA NEEDED: section copy — link every outside number to its source like [this](https://example.com)]\n\n## Next issue\n\nNext issue: The Brief Is the Filter. In 8,673 creator checks, 66% of the creators we turned down missed something the brand had said it must have. Next week: how brands are using Galvor Scout to write must-haves that make creator shortlists hold up.\n\n## How we did this\n\nGalvor's data needed for this issue:\n- Fashion (premium linen & cotton D2C): +67% RoAS, +25% hold rate, $3,800 reallocated in month one (galvor.ai results, anonymised)\n- Decode tags 50+ attributes per ad (facts bank)\n- [DATA NEEDED] Raj: the anonymised attribute-level findings for this brand (which attributes were priced as expensive vs earning their place) and written permission to describe them without the brand name\n- [DATA NEEDED] Raj: confirm who moved the $3,800 (brand team on Galvor's calls) and that total budget stayed flat\n\n## Sources\n\n- [DATA NEEDED: sources, one per line: Publisher (date), [title](url)]\n",
+    "url": "https://galvor.ai/newsletters/decode/same-budget-3-800-moved-inside-a-linen-brands-fi/",
+    "next_issue": "",
+    "subject_lines": [
+      "Same Budget, $3,800 Moved. Inside a Linen Brand's First Month"
+    ],
+    "preview_text": "A premium linen and cotton D2C brand didn't spend more in its first month with Galvor. It spent differently: $3,800 moved between ads, and R"
+  },
+  "slug": "decoded-17-same-budget-3-800-moved-inside-a-line",
+  "theme": "Proof season: pilots & client stories",
+  "id": "nl-2027-02-09-decoded-17-same-budget-3-800-moved-inside-a-line",
+  "updated_at": "2026-11-23T22:35:35",
+  "created_at": "2026-11-18T00:25:55",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:55",
+      "action": "Planned: Decoded outline to Feb 2027 (18 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:35:35",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2027-02-09 08:30"
+    }
+  ]
+}

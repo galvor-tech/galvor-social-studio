@@ -1,0 +1,48 @@
+{
+  "id": "li-2026-12-09-page-repost-agents-not-headcount-the-two-column",
+  "slug": "page-repost-agents-not-headcount-the-two-column",
+  "platform": "linkedin",
+  "date": "2026-12-09",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "AI & the Team",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: Agents, not headcount: the two-column test before a hire",
+  "hook": "Sunil's two-column test before hiring for a marketing role.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Sunil's two-column test before hiring for a marketing role.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Sunil's post 'Agents, not headcount: the two-column test before a hire' (2026-12-09 09:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:40",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:40",
+  "repost_of": {
+    "voice": "sunil",
+    "date": "2026-12-09",
+    "time": "09:00",
+    "title": "Agents, not headcount: the two-column test before a hire"
+  }
+}

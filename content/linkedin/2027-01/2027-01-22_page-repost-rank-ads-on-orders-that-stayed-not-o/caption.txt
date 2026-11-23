@@ -1,0 +1,1 @@
+Raj on ranking ads by orders that stayed, not orders placed.

@@ -1,0 +1,48 @@
+{
+  "id": "li-2026-12-04-page-repost-when-the-weekly-report-stops-eating",
+  "slug": "page-repost-when-the-weekly-report-stops-eating",
+  "platform": "linkedin",
+  "date": "2026-12-04",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "AI & the Team",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: When the weekly report stops eating Monday",
+  "hook": "Sunil on what changed when the weekly report stopped eating Monday.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Sunil on what changed when the weekly report stopped eating Monday.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Sunil's post 'When the weekly report stops eating Monday' (2026-12-04 09:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:40",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:40",
+  "repost_of": {
+    "voice": "sunil",
+    "date": "2026-12-04",
+    "time": "09:00",
+    "title": "When the weekly report stops eating Monday"
+  }
+}

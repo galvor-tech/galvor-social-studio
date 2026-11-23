@@ -1,0 +1,48 @@
+{
+  "id": "li-2027-01-19-page-repost-brand-breakdown-8-wakefit-on-meta",
+  "slug": "page-repost-brand-breakdown-8-wakefit-on-meta",
+  "platform": "linkedin",
+  "date": "2027-01-19",
+  "time": "16:30",
+  "voice": "company",
+  "pillar": "Public Data",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: Brand Breakdown #8: Wakefit on Meta",
+  "hook": "Raj took apart Wakefit's Meta ads this week. Worth a scroll.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Raj took apart Wakefit's Meta ads this week. Worth a scroll.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Raj's post 'Brand Breakdown #8: Wakefit on Meta' (2027-01-19 12:30) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:44",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:44",
+  "repost_of": {
+    "voice": "raj",
+    "date": "2027-01-19",
+    "time": "12:30",
+    "title": "Brand Breakdown #8: Wakefit on Meta"
+  }
+}

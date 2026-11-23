@@ -1,0 +1,48 @@
+{
+  "id": "li-2026-12-16-page-repost-a-pilot-without-a-business-question",
+  "slug": "page-repost-a-pilot-without-a-business-question",
+  "platform": "linkedin",
+  "date": "2026-12-16",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "In the Room",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: A pilot without a business question is just a longer demo",
+  "hook": "Sunil on pilots that have no business question behind them.",
+  "status": "draft",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "Sunil on pilots that have no business question behind them.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Sunil's post 'A pilot without a business question is just a longer demo' (2026-12-16 09:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:40",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:40",
+  "repost_of": {
+    "voice": "sunil",
+    "date": "2026-12-16",
+    "time": "09:00",
+    "title": "A pilot without a business question is just a longer demo"
+  }
+}

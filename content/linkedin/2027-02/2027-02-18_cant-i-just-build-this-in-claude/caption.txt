@@ -1,0 +1,16 @@
+"Can't I just build this in Claude?"
+Honestly? Most of it, yes.
+
+We hear this a lot now. One brand had already connected their Meta ads to Claude before we met them. Another wrote a script in ChatGPT that beat ours. It did, we checked.
+
+So I don't think the answer is "no, you can't". A good prompt and an ads connector get you surprisingly far.
+
+What's harder is everything after that. Remembering what your last 2,000 ads taught you. Knowing which ones won because of the offer and which because of the creative. Not uploading company data somewhere you shouldn't.
+
+That's where we spend most of our time.
+
+If you're building it yourself, decide early where the memory lives. That's the bit that breaks first.
+
+Follow Galvor for more from the rooms we sit in.
+
+#CreatorMarketing #MarketingAnalytics #AIinMarketing

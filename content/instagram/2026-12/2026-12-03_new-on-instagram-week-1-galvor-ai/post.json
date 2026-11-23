@@ -1,0 +1,63 @@
+{
+  "id": "ig-2026-12-03-new-on-instagram-week-1-galvor-ai",
+  "slug": "new-on-instagram-week-1-galvor-ai",
+  "platform": "instagram",
+  "date": "2026-12-03",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Quick Tip",
+  "job": "Educate",
+  "format": "carousel",
+  "series": "New on Instagram",
+  "title": "New on Instagram, week 1 (@galvor.ai)",
+  "hook": "New on Instagram this week",
+  "status": "idea",
+  "festival": null,
+  "theme": "People + agents",
+  "caption": "New on Instagram this week: [change]. What it means for you: [one line]. Save this for later.\n\nFollow @galvor.ai for what's new every Thursday.",
+  "first_comment": "",
+  "hashtags": [
+    "#instagramupdates",
+    "#instagramtips",
+    "#creators"
+  ],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "portrait",
+    "slides": [
+      {
+        "layout": "cover",
+        "headline": "New on Instagram this week"
+      },
+      {
+        "layout": "text",
+        "headline": "What changed"
+      },
+      {
+        "layout": "text",
+        "headline": "What it means for brands and creators"
+      },
+      {
+        "layout": "cta",
+        "headline": "Follow @galvor.ai for the weekly update"
+      }
+    ]
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Instagram mirror of Shrutik's LinkedIn post the same morning. Same facts, shorter, made for saves and sends. Script first, media only after the script is chosen.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:38",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:38"
+}

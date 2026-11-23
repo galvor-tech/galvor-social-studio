@@ -1,0 +1,48 @@
+{
+  "id": "li-2027-01-14-page-repost-new-on-instagram-week-7",
+  "slug": "page-repost-new-on-instagram-week-7",
+  "platform": "linkedin",
+  "date": "2027-01-14",
+  "time": "13:00",
+  "voice": "company",
+  "pillar": "Creators & Testing",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: New on Instagram, week 7",
+  "hook": "Shrutik's weekly round-up of what changed on Instagram.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Shrutik's weekly round-up of what changed on Instagram.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Shrutik's post 'New on Instagram, week 7' (2027-01-14 09:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:45",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:45",
+  "repost_of": {
+    "voice": "shrutik",
+    "date": "2027-01-14",
+    "time": "09:00",
+    "title": "New on Instagram, week 7"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "li-2027-01-01-page-repost-four-questions-for-any-agent-that-le",
+  "slug": "page-repost-four-questions-for-any-agent-that-le",
+  "platform": "linkedin",
+  "date": "2027-01-01",
+  "time": "16:00",
+  "voice": "company",
+  "pillar": "Building Galvor",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: Four questions for any agent that 'learns from its mistakes'",
+  "hook": "Raj on agents that claim to 'learn from their mistakes'.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Raj on agents that claim to 'learn from their mistakes'.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Raj's post 'Four questions for any agent that 'learns from its mistakes'' (2026-12-31 16:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:41",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:41",
+  "repost_of": {
+    "voice": "raj",
+    "date": "2026-12-31",
+    "time": "16:00",
+    "title": "Four questions for any agent that 'learns from its mistakes'"
+  }
+}

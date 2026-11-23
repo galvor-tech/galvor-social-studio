@@ -1,0 +1,53 @@
+{
+  "platform": "linkedin",
+  "date": "2026-12-18",
+  "time": "09:00",
+  "voice": "sunil",
+  "pillar": "In the Room",
+  "job": "De-risk",
+  "format": "text",
+  "series": "What I Heard in the Room",
+  "title": "\"We already have an agency\" is a reason to keep talking",
+  "topic_ref": "S34",
+  "caption": "\"We already have an agency.\"\nFounders often say it in the first ten minutes, and I take it as a reason to keep talking.\n\nWhat I Heard in the Room, a pattern from this year.\n\nThe founder isn't asking me to replace anyone. They're telling me the work is covered and they don't want another vendor making more ads.\n\nFair. So I ask one question back.\n\nWhen your agency changes, what does the brand keep?\n\nUsually it's a shared drive full of files and a few people's instincts. The reasons one ad beat another tend to leave with the team that ran them.\n\nThat is the gap we built Galvor for. We sit alongside the agency, read every ad across 50+ attributes, and keep what worked and why in the brand's own memory.\n\nThe agency gets sharper briefs and a clear record of what to test next. The brand owns the learning, whoever runs the account next year.\n\nA good agency is a reason to make its work count twice.\n\nFollow Galvor for more from the room.",
+  "first_comment": "Follow Galvor for more from \"What I Heard in the Room\".",
+  "hashtags": [
+    "#D2CIndia",
+    "#MarketingAgency",
+    "#BrandMemory"
+  ],
+  "cta": "Follow Galvor",
+  "notes": "Reader: a founder or CMO who thinks an agency makes Galvor unnecessary. Argument: an agency makes the work; the brand needs to keep the learning. Topic bank S34, series What I Heard in the Room, framed as a recurring pattern, not a specific meeting. Numbers: 50+ attributes per ad (facts bank). Leaves the 'never touches the media budget' line for Sunil's 22 Dec post. Galvor page has a related post on 24 Dec (handover test): this one sets it up. Sunil to confirm 'in the first ten minutes' fits his experience; cut it if not.\n[Plan 23 Nov 2026] Moved from 2026-12-17 09:00 to 2026-12-18 09:00.",
+  "festival": null,
+  "alt_text": "",
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "hook": "\"We already have an agency.\"",
+  "script": null,
+  "status": "draft",
+  "theme": "People + agents",
+  "images": [],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "script_decision": {
+    "choice": "pending"
+  },
+  "slug": "we-already-have-an-agency-is-a-reason-to-keep-ta",
+  "id": "li-2026-12-18-we-already-have-an-agency-is-a-reason-to-keep-ta",
+  "updated_at": "2026-11-23T22:35:33",
+  "created_at": "2026-11-18T00:25:52",
+  "approvals": [
+    {
+      "at": "2026-11-18T00:25:52",
+      "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    },
+    {
+      "at": "2026-11-23T22:35:33",
+      "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-18 09:00"
+    }
+  ]
+}

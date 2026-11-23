@@ -1,0 +1,48 @@
+{
+  "id": "li-2027-01-08-page-repost-15-creators-great-awareness-2-sold",
+  "slug": "page-repost-15-creators-great-awareness-2-sold",
+  "platform": "linkedin",
+  "date": "2027-01-08",
+  "time": "16:00",
+  "voice": "company",
+  "pillar": "Measurement",
+  "job": "Attract",
+  "format": "text",
+  "series": "Page repost",
+  "title": "Page repost: 15 creators, great awareness, 2 sold",
+  "hook": "Raj on splitting 'the creator didn't work' into the part that broke.",
+  "status": "draft",
+  "festival": null,
+  "theme": "The learning loop",
+  "caption": "Raj on splitting 'the creator didn't work' into the part that broke.",
+  "first_comment": "",
+  "hashtags": [],
+  "alt_text": "",
+  "cta": "",
+  "script": null,
+  "poll": null,
+  "creative": {
+    "size": "feed",
+    "slides": []
+  },
+  "images": [],
+  "notes": "[Plan 23 Nov 2026] Repost Raj's post '15 creators, great awareness, 2 sold' (2027-01-07 16:00) from the Galvor page with this line, once the first hour of comments on the original is done. No link, no hashtags.",
+  "approvals": [
+    {
+      "at": "2026-11-23T22:35:43",
+      "action": "[Plan 23 Nov 2026] created"
+    }
+  ],
+  "metrics": {},
+  "published_url": "",
+  "published_at": "",
+  "publish_log": [],
+  "created_at": "2026-11-23T22:35:32",
+  "updated_at": "2026-11-23T22:35:43",
+  "repost_of": {
+    "voice": "raj",
+    "date": "2027-01-07",
+    "time": "16:00",
+    "title": "15 creators, great awareness, 2 sold"
+  }
+}
