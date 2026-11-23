@@ -45,11 +45,11 @@
       <div class="meta">
         <span title="Background scheduler"><i class="dot {{ 'ok' if hb.get('at') else 'warn' }}"></i> Scheduler {{ ('· ' ~ hb.get('at','')[11:16]) if hb.get('at') else 'starting' }}</span>
         <span title="AI copywriter"><i class="dot {{ 'ok' if ai_status.ready else 'warn' }}"></i> AI {{ ai_status.provider if ai_status.ready else 'not set' }}</span>
-        <span title="Sign-in"><i class="dot {{ 'ok' if auth_on else 'warn' }}"></i> {{ 'Team sign-in on' if auth_on else 'This laptop only' }}</span>
+        <span title="Sign-in"><i class="dot {{ 'ok' if auth_on else 'warn' }}"></i> {{ ('Google sign-in · ' ~ (me.email or '')) if iap else ('Team sign-in on' if auth_on else 'This laptop only') }}</span>
       </div>
       <a href="{{ url_for('notifications_page') }}" class="btn sm" title="Notifications" style="position:relative">🔔{% if unread %}<b style="position:absolute;top:-6px;right:-6px;background:#9F1D1D;color:#fff;border-radius:999px;font-size:11px;padding:0 6px">{{ unread }}</b>{% endif %}</a>
       <span class="small" title="{{ me.email }}"><b>{{ me.name or me.email }}</b> <span class="muted">· {{ me.role }}</span></span>
-      {% if auth_on %}<a class="btn sm" href="{{ url_for('logout') }}">Sign out</a>{% endif %}
+      {% if auth_on %}<a class="btn sm" href="{{ url_for('logout') }}" title="{{ 'Signs you out of the Studio; Google asks which account to use next time' if iap else 'Sign out' }}">{{ 'Sign out / switch account' if iap else 'Sign out' }}</a>{% endif %}
       <div class="seg">
         {% for v, label in [('all','All'),('sunil','Sunil'),('raj','Raj'),('shrutik','Shrutik'),('company','Company')] %}
         <form method="post" action="{{ url_for('set_voice', v=v) }}"><button class="{{ 'on' if voice_sel==v }}">{{ label }}</button></form>

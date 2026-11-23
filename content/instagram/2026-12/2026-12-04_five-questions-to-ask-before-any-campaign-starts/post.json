@@ -3,11 +3,11 @@
   "slug": "five-questions-to-ask-before-any-campaign-starts",
   "platform": "instagram",
   "date": "2026-12-04",
-  "time": "13:00",
+  "time": "19:00",
   "voice": "company",
   "pillar": "Quick Tip",
   "job": "Convert",
-  "format": "carousel",
+  "format": "reel",
   "series": "",
   "title": "Five decisions to make before a campaign goes live",
   "hook": "The best time to decide when to cut an ad is before it goes live.",
@@ -23,79 +23,71 @@
     "#marketingtips",
     "#KnowWhyYourAdsWin"
   ],
-  "alt_text": "Seven-slide carousel. Slide 1: five decisions to make before a campaign goes live. Slide 2: after launch everyone reads the numbers their own way. Slide 3: decide what you are testing and against what. Slide 4: decide the one number and how long it runs. Slide 5: decide what happens next if it wins or loses. Slide 6: a six-line pre-launch card to fill in per campaign. Slide 7: rules first, results second, follow @galvor.ai.",
+  "alt_text": "Reel: five decisions to agree before a campaign goes live.",
   "cta": "Save the pre-launch card; talk to us via link in bio",
-  "script": null,
+  "script": {
+    "duration": "35s",
+    "setup": "Voiceover over a simple card being filled in, one line per decision.",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "A blank 'pre-launch card'.",
+        "voiceover": "The best time to decide when to cut an ad is before it goes live.",
+        "on_screen": "Decide before launch"
+      },
+      {
+        "time": "4–10s",
+        "visual": "Two people pointing at the same chart, disagreeing.",
+        "voiceover": "After launch, everyone reads the numbers their own way and the review turns into a debate.",
+        "on_screen": "Or the review becomes a debate"
+      },
+      {
+        "time": "10–18s",
+        "visual": "Card lines fill in.",
+        "voiceover": "So agree five things first. What it's testing. What it's compared with.",
+        "on_screen": "1. Testing what  2. Against what"
+      },
+      {
+        "time": "18–25s",
+        "visual": "Next lines fill in.",
+        "voiceover": "The one number that judges it. How long before anyone judges.",
+        "on_screen": "3. Judged on  4. Judged after"
+      },
+      {
+        "time": "25–31s",
+        "visual": "Last line fills in.",
+        "voiceover": "And what happens if it wins, or loses.",
+        "on_screen": "5. Then what"
+      },
+      {
+        "time": "31–35s",
+        "visual": "The filled card.",
+        "voiceover": "Rules first. Results second.",
+        "on_screen": "Follow @galvor.ai"
+      }
+    ]
+  },
   "poll": null,
   "creative": {
-    "size": "feed",
+    "size": "story",
     "slides": [
       {
         "layout": "cover",
-        "kicker": "Quick tip",
-        "headline": "*5 decisions* to make before a campaign goes live",
+        "headline": "*5 decisions* before a campaign goes live",
         "sub": "Made after launch, they turn into arguments."
       },
       {
-        "layout": "text",
-        "kicker": "Why before",
-        "headline": "After launch, everyone *reads the numbers their way*",
-        "body": "One person wants to give it more time. Another wants it switched off today.\n\nRules agreed in advance settle that before the review begins."
-      },
-      {
-        "layout": "list",
-        "kicker": "Decisions 1 and 2",
-        "headline": "What are we *testing*, and against what?",
-        "items": [
-          "The one thing this ad changes: hook, cast, offer or look",
-          "The ad it will be compared with"
-        ]
-      },
-      {
-        "layout": "list",
-        "kicker": "Decisions 3 and 4",
-        "headline": "What counts as a *result*?",
-        "items": [
-          "The one number that decides, such as cost per order",
-          "How long it runs before anyone judges it"
-        ]
-      },
-      {
-        "layout": "list",
-        "kicker": "Decision 5",
-        "headline": "What happens *next*, either way?",
-        "items": [
-          "If it wins: what we scale and what we brief next",
-          "If it loses: what we cut and what we stop briefing"
-        ]
-      },
-      {
-        "layout": "list",
-        "kicker": "Save this",
-        "headline": "The *pre-launch card*, one per campaign",
-        "items": [
-          "We are testing:",
-          "Compared with:",
-          "Judged on:",
-          "Judged after:",
-          "If it wins, we:",
-          "If it loses, we:"
-        ]
-      },
-      {
         "layout": "cta",
-        "headline": "Rules first. *Results second.*",
-        "sub": "Want help setting these for your account? Link in bio.",
+        "headline": "Follow *@galvor.ai*",
+        "sub": "New reels every Mon, Wed and Fri.",
         "actions": [
-          "Follow @galvor.ai",
-          "Save the pre-launch card",
-          "Talk to us: link in bio"
+          "Follow @galvor.ai"
         ]
       }
     ]
   },
   "images": [],
-  "notes": "Job: Convert, so the closing ask is the link in bio. Reader: a head of growth who sits in weekly creative reviews. One argument: agree the scale and cut rules before launch so the review is a decision and not a debate. Shape: checklist ending in a fill-in card. No numbers used. Topic sharpened: the old 'five questions before any campaign starts' was a brief checklist and repeated the 18 Jan one-page brief; this version is about decision rules, the brief itself is left to 18 Jan.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Job: Convert, so the closing ask is the link in bio. Reader: a head of growth who sits in weekly creative reviews. One argument: agree the scale and cut rules before launch so the review is a decision and not a debate. Shape: checklist ending in a fill-in card. No numbers used. Topic sharpened: the old 'five questions before any campaign starts' was a brief checklist and repeated the 18 Jan one-page brief; this version is about decision rules, the brief itself is left to 18 Jan.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Week plan 23 Nov 2026] Friday is a reel day: carousel turned into a 35s reel script. Caption unchanged.",
   "approvals": [
     {
       "at": "2026-11-09T13:52:24",
@@ -112,6 +104,10 @@
     {
       "at": "2026-11-16T21:23:12",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T23:30:47",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -119,7 +115,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:20:40",
-  "updated_at": "2026-11-16T21:23:12",
+  "updated_at": "2026-11-23T23:30:47",
   "topic_ref": "IG-12",
   "script_decision": {
     "choice": "pending"

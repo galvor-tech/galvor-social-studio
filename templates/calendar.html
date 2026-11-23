@@ -8,6 +8,8 @@
     <form method="get"><input type="hidden" name="m" value="{{ cur_month }}"><button name="p" value="{{ k }}" class="{{ 'on' if plat==k }}">{{ label }}</button></form>
     {% endfor %}
   </div>
+  <button class="btn primary" onclick="planOpen()" title="Research the last 7 days and draft next week's scripts">✨ Plan for next week</button>
+  <a class="btn" href="{{ url_for('weekplan_page') }}" title="Past plans and their research">Plans</a>
   <a class="btn" href="?m={{ prev_m }}&p={{ plat }}">←</a><a class="btn" href="?p={{ plat }}">Today</a><a class="btn" href="?m={{ next_m }}&p={{ plat }}">→</a>
 </div>
 <p class="sub">{% if theme %}Theme: <b>{{ theme }}</b> · {% endif %}Click a day's <b>+</b> to add a post. Festival chips come from the verified Indian festival calendar.</p>
@@ -28,4 +30,57 @@
   </div>
   {% endfor %}{% endfor %}
 </div>
+<div class="modal" id="planm" onclick="if(event.target===this)this.classList.remove('on')">
+  <div class="box" style="width:min(620px,94vw)">
+    <div class="row"><b class="grow">Plan for next week</b><span class="muted small" id="planwk"></span></div>
+    <div id="planbody" style="margin-top:12px"><span class="spinner"></span> Working out the cost…</div>
+    <div class="row" style="justify-content:flex-end;gap:8px;margin-top:14px">
+      <button class="btn sm" onclick="document.getElementById('planm').classList.remove('on')">Close</button>
+      <button class="btn sm primary" id="plango" style="display:none" onclick="planRun()">Run the plan</button>
+    </div>
+  </div>
+</div>
+<script>
+function money(x){ return '$' + Number(x).toFixed(2); }
+async function planOpen(){
+  const m = document.getElementById('planm'), b = document.getElementById('planbody'), go = document.getElementById('plango');
+  m.classList.add('on'); go.style.display = 'none'; b.innerHTML = '<span class="spinner"></span> Working out the cost…';
+  const st = await (await fetch('/api/weekplan/status')).json();
+  if (st.state === 'running') { planPoll(); return; }
+  const e = await (await fetch('/api/weekplan/estimate')).json();
+  document.getElementById('planwk').textContent = e.week_start + ' to ' + e.week_end;
+  b.innerHTML = `<p style="margin:0 0 10px">The Studio will research the last 7 days of <b>LinkedIn, Instagram/Meta, AI and marketing news</b>
+    (up to ${e.searches} web searches and ${e.fetches} page reads), check it against your results, competitors, ideas, series and what already went out,
+    then write scripts for <b>${e.empty} empty slot${e.empty==1?'':'s'}</b> next week, plus the Galvor page reposts.
+    ${e.taken ? e.taken + ' slot(s) already have a post: they are kept, and the report says if news changes them.' : ''}
+    ${e.decoded ? '<br>Decoded that week: ' + e.decoded + '.' : ''}</p>
+    <div class="stat" style="margin:0 0 10px"><h5>Estimated cost</h5><div class="v">${money(e.low)} – ${money(e.high)}</div>
+    <p>${e.model}, effort high, plus $0.01 per web search. Based on ${e.basis}. The real cost is logged on the Costs page.</p></div>
+    <p class="small muted" style="margin:0">AI spend this month: ${money(e.ai_month)} of ${money(e.ai_cap)}.
+    ${e.over_cap ? '<b style="color:#9F1D1D">This run could pass the monthly limit; it stops if the limit is reached.</b>' : ''}
+    It takes about 5–10 minutes. You can close this box; the button shows progress when you come back.</p>
+    ${e.empty ? '' : '<p class="small"><b>Every slot next week already has a post.</b> Running it still gives you a fresh research report and notes on those posts.</p>'}`;
+  go.style.display = '';
+}
+async function planRun(){
+  document.getElementById('plango').style.display = 'none';
+  const r = await (await fetch('/api/weekplan/run', {method:'POST', headers:{'Content-Type':'application/json'}, body:'{}'})).json();
+  if (!r.ok) { document.getElementById('planbody').innerHTML = '<div class="flash err">' + (r.error || 'Could not start') + '</div>'; return; }
+  planPoll();
+}
+async function planPoll(){
+  const b = document.getElementById('planbody');
+  const st = await (await fetch('/api/weekplan/status')).json();
+  if (st.state === 'running') {
+    b.innerHTML = `<span class="spinner"></span> ${st.stage || 'Working…'}<p class="small muted">Started ${ (st.started_at||'').slice(11,16) }. Estimate ${money((st.estimate||[0])[0])} – ${money((st.estimate||[0,0])[1])}.</p>`;
+    setTimeout(planPoll, 5000); return;
+  }
+  if (st.state === 'done') {
+    b.innerHTML = `<div class="flash">${st.message}</div><p>Actual cost: <b>${money(st.usd)}</b> (${st.searches} web searches, ${(st.tokens||{}).in||0} tokens in, ${(st.tokens||{}).out||0} out).</p>
+      <a class="btn sm primary" href="${st.report}">Open the plan and research</a> <a class="btn sm" href="?">See the calendar</a>`;
+    return;
+  }
+  if (st.state === 'error') { b.innerHTML = '<div class="flash err">' + st.message + '</div>'; return; }
+}
+</script>
 {% endblock %}

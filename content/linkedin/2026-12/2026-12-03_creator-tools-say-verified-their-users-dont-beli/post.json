@@ -7,7 +7,7 @@
   "voice": "raj",
   "pillar": "Creators & Testing",
   "job": "Educate",
-  "format": "text",
+  "format": "image",
   "series": "",
   "title": "Creator tools say 'verified'. Their users don't believe it.",
   "hook": "Creator tools say the data is verified.\nThe marketers using them don't believe it.",
@@ -21,20 +21,31 @@
     "#MarketingAnalytics",
     "#AIinMarketing"
   ],
-  "alt_text": "",
+  "alt_text": "Quote card: Ask your creator tool when its data was last pulled.",
   "cta": "",
   "script": null,
   "poll": null,
   "creative": {
     "size": "feed",
-    "slides": []
+    "slides": [
+      {
+        "layout": "statement",
+        "kicker": "Creator data",
+        "headline": "Ask your creator tool *when its data was last pulled.*",
+        "sub": "Most store a snapshot. An audience can change a lot in six months."
+      }
+    ]
   },
   "images": [],
-  "notes": "[Plan 23 Nov 2026] Source (internal, never name in the post): Gulf electronics retailer (5 Aug 2026); a brand quoted on a US call (18 Aug).",
+  "notes": "[Plan 23 Nov 2026] Source (internal, never name in the post): Gulf electronics retailer (5 Aug 2026); a brand quoted on a US call (18 Aug).\n[Week plan 23 Nov 2026] Made an image post (one card). Caption unchanged.",
   "approvals": [
     {
       "at": "2026-11-23T22:35:36",
       "action": "[Plan 23 Nov 2026] created"
+    },
+    {
+      "at": "2026-11-23T23:30:46",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -42,5 +53,5 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-23T22:35:32",
-  "updated_at": "2026-11-23T22:35:36"
+  "updated_at": "2026-11-23T23:30:46"
 }

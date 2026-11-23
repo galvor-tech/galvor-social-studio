@@ -130,12 +130,13 @@ SLOTS = {
         (4, "13:00", "company"),
         (4, "16:00", "company"),
     ],
-    "instagram": [
-        (0, "19:00", "carousel"),
+    "instagram": [                 # from 24 Nov 2026: 3 reels (Mon/Wed/Fri) + 2 posts (Tue/Thu) a week
+        (0, "19:00", "reel"),
+        (1, "13:00", "image"),
         (2, "19:00", "reel"),
-        (4, "13:00", "carousel"),
-        (3, "13:00", "carousel"),  # "New on Instagram" weekly carousel from 3 Dec 2026 (was the single image)
-        (1, "12:30", "story"),
+        (3, "13:00", "carousel"),
+        (4, "19:00", "reel"),
+        (1, "10:00", "story"),
     ],
     "festival_time": {"linkedin": "09:00", "instagram": "11:00"},
     "story_time": "12:30",
@@ -182,12 +183,12 @@ RHYTHM = {
         ("Fri", "16:00", "company", "Galvor page — repost Raj's Thursday post"),
     ],
     "instagram": [
-        ("Mon", "19:00", "company", "Carousel — framework / tip"),
-        ("Tue", "12:30", "company", "Stories — poll, quiz, behind the scenes"),
+        ("Mon", "19:00", "company", "Reel — 25-40 s, one idea, cover + Follow @galvor.ai end card"),
+        ("Tue", "13:00", "company", "Image or carousel"),
         ("Tue", "10:00", "company", "Story — Decoded is out (link in bio), on Decoded Tuesdays (fortnightly)"),
-        ("Wed", "19:00", "company", "Reel — ad breakdown or behind the scenes"),
-        ("Fri", "13:00", "company", "Carousel — data drop / myth vs fact"),
+        ("Wed", "19:00", "company", "Reel"),
         ("Thu", "13:00", "company", "Carousel — New on Instagram this week (mirrors Shrutik's LinkedIn post)"),
+        ("Fri", "19:00", "company", "Reel"),
     ],
 }
 

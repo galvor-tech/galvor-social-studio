@@ -5,7 +5,54 @@
   "series": "",
   "status": "draft",
   "festival": null,
-  "script": null,
+  "script": {
+    "duration": "45s",
+    "setup": "Shrutik to camera at a desk, phone in hand with a WhatsApp chat open. One take, light cuts. A short on-screen line for each step.",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "Shrutik to camera, holding the phone up.",
+        "voiceover": "It's Black Friday, and a brand just changed the offer on a video we've already shot.",
+        "on_screen": "The offer changed after the shoot"
+      },
+      {
+        "time": "4–9s",
+        "visual": "Puts the phone down.",
+        "voiceover": "I don't send the creator a one-line WhatsApp anymore. I treat it like a new brief.",
+        "on_screen": "Treat it as a new brief"
+      },
+      {
+        "time": "9–16s",
+        "visual": "Typing one line in a notes app.",
+        "voiceover": "First I write what changed in one line, and get the brand to reply: yes, that's it.",
+        "on_screen": "1. One line. Brand says yes."
+      },
+      {
+        "time": "16–24s",
+        "visual": "Close-up of a list: supers, captions, voiceover, end card, thumbnail.",
+        "voiceover": "Then I list everything it touches. Supers, captions, voiceover, end card, thumbnail.",
+        "on_screen": "2. List every asset it touches"
+      },
+      {
+        "time": "24–31s",
+        "visual": "Two columns on paper: edit / reshoot.",
+        "voiceover": "Two piles. What the edit can fix, and what needs the creator again.",
+        "on_screen": "3. Edit fix or reshoot?"
+      },
+      {
+        "time": "31–39s",
+        "visual": "Back to camera.",
+        "voiceover": "New due date before I ask for the change. And I ask who approves it, because that's exactly when a new reviewer shows up.",
+        "on_screen": "4. New date  5. Who approves?"
+      },
+      {
+        "time": "39–45s",
+        "visual": "Shrutik to camera.",
+        "voiceover": "It takes an hour. It saves the round where the old offer sneaks back into the final cut.",
+        "on_screen": "Follow Galvor"
+      }
+    ]
+  },
   "alt_text": "",
   "creative": {
     "size": "feed",
@@ -14,7 +61,7 @@
   "date": "2026-11-27",
   "pillar": "Better Briefs",
   "job": "Educate",
-  "format": "text",
+  "format": "video",
   "topic_ref": "Sh3",
   "title": "Sale week: the offer changed after the shoot. What I do on day one",
   "caption": "It's Black Friday. Somewhere, a brand just changed the offer on a video that's already been shot.\nI've learnt to treat that moment as a new brief.\n\nSale weeks do this. A flat discount becomes buy one get one. The end date moves. A new hero product walks in.\n\nThe temptation is to send the creator a one-line WhatsApp and hope.\n\nHere's what I do on day one.\n\nWrite down what changed in one line, and get the brand to reply \"yes, that's it\".\n\nList every asset the change touches. Supers, captions, voiceover, end card, thumbnail.\n\nSort them into two piles: what the edit can fix, and what needs the creator again.\n\nGive the creator a new due date before asking for the change. Nobody does good work against a deadline that quietly stayed the same.\n\nAsk who approves the new version. Mid-change is exactly when a new reviewer appears.\n\nIt takes an hour. It saves the round where the old offer sneaks back into the final cut.\n\nFollow Galvor for more from the brief-to-live desk.",
@@ -25,7 +72,7 @@
     "#D2CIndia"
   ],
   "cta": "Follow Galvor (closing line); comment prompt in first comment",
-  "notes": "CONFIRM WITH Shrutik: that these five day-one steps match how he handles a mid-campaign brief change, and whether he has a real (anonymised) sale-week example he can add in one line. The offer swap in the post is illustrative.\nReader: brand/creative manager or agency lead running sale-week creative. Argument: a changed offer is a new brief, and one hour of structure saves a round. Black Friday tie-in (27 Nov). Numbers used: none.\nAngle check: Monday posts cover vague feedback (Sh21) and WhatsApp habits (Sh11); this is brief changes mid-flight, no overlap.",
+  "notes": "CONFIRM WITH Shrutik: that these five day-one steps match how he handles a mid-campaign brief change, and whether he has a real (anonymised) sale-week example he can add in one line. The offer swap in the post is illustrative.\nReader: brand/creative manager or agency lead running sale-week creative. Argument: a changed offer is a new brief, and one hour of structure saves a round. Black Friday tie-in (27 Nov). Numbers used: none.\nAngle check: Monday posts cover vague feedback (Sh21) and WhatsApp habits (Sh11); this is brief changes mid-flight, no overlap.\n[Week plan 23 Nov 2026] Text post made a talking-head video (script only, nothing filmed). Caption unchanged.",
   "hook": "It's Black Friday. Somewhere, a brand just changed the offer on a video that's already been shot.",
   "poll": null,
   "images": [],
@@ -39,12 +86,16 @@
   "slug": "sale-week-the-offer-changed-after-the-shoot-what",
   "theme": "From dashboards to decisions",
   "id": "li-2026-11-27-sale-week-the-offer-changed-after-the-shoot-what",
-  "updated_at": "2026-11-18T00:25:53",
+  "updated_at": "2026-11-23T23:30:46",
   "created_at": "2026-11-18T00:25:53",
   "approvals": [
     {
       "at": "2026-11-18T00:25:53",
       "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    },
+    {
+      "at": "2026-11-23T23:30:46",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ]
 }

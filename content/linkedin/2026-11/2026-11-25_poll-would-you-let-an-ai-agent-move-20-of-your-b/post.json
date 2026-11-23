@@ -1,8 +1,8 @@
 {
-  "id": "li-2026-11-24-poll-would-you-let-an-ai-agent-move-20-of-your-b",
+  "id": "li-2026-11-25-poll-would-you-let-an-ai-agent-move-20-of-your-b",
   "slug": "poll-would-you-let-an-ai-agent-move-20-of-your-b",
   "platform": "linkedin",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "time": "09:00",
   "voice": "sunil",
   "pillar": "AI & the Team",
@@ -45,7 +45,7 @@
     "slides": []
   },
   "images": [],
-  "notes": "Hook shape: the poll question itself opens the post (polls need the question first). Reader: a D2C founder or CMO who signs off budget moves. Argument: you can only delegate a budget decision whose rule you can write down. Numbers: 20% is the hypothetical in the poll question, not a statistic. The old opening ('a question I ask every CMO I meet') was removed because it could not be verified. LinkedIn polls cannot carry an image. Optional: screenshot the result on day 7 for a follow-up; nothing in this post promises one.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Hook shape: the poll question itself opens the post (polls need the question first). Reader: a D2C founder or CMO who signs off budget moves. Argument: you can only delegate a budget decision whose rule you can write down. Numbers: 20% is the hypothetical in the poll question, not a statistic. The old opening ('a question I ask every CMO I meet') was removed because it could not be verified. LinkedIn polls cannot carry an image. Optional: screenshot the result on day 7 for a follow-up; nothing in this post promises one.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Week plan 23 Nov 2026] Moved from Tue 24 to Wed 25 Nov (Sunil is the only LinkedIn post that day).",
   "approvals": [
     {
       "at": "2026-11-11T01:04:15",
@@ -62,6 +62,10 @@
     {
       "at": "2026-11-23T12:03:22",
       "action": "Shrutik Rathod: status → Draft"
+    },
+    {
+      "at": "2026-11-23T23:30:46",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -69,7 +73,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:14:55",
-  "updated_at": "2026-11-23T12:03:22",
+  "updated_at": "2026-11-23T23:30:46",
   "topic_ref": "S25",
   "script_decision": {
     "choice": "pending"

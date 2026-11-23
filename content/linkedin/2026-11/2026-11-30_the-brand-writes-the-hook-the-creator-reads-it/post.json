@@ -7,7 +7,7 @@
   "voice": "sunil",
   "pillar": "In the Room",
   "job": "Attract",
-  "format": "text",
+  "format": "video",
   "series": "What I heard this week",
   "title": "The brand writes the hook. The creator reads it.",
   "hook": "A Gulf marketer told us how creator videos get made.\nThe brand writes the hook. The creator reads it out.",
@@ -23,18 +23,69 @@
   ],
   "alt_text": "",
   "cta": "",
-  "script": null,
+  "script": {
+    "duration": "55s",
+    "setup": "Sunil to camera, seated, plain background. One take with two or three cuts. Short on-screen lines.",
+    "scenes": [
+      {
+        "time": "0–5s",
+        "visual": "Sunil to camera.",
+        "voiceover": "A marketer in the Gulf told us how creator videos really get made there.",
+        "on_screen": "Who writes the creator's hook?"
+      },
+      {
+        "time": "5–11s",
+        "visual": "Same, slight push in.",
+        "voiceover": "The brand writes the first three seconds. The creator reads them out.",
+        "on_screen": "The brand writes it. The creator reads it."
+      },
+      {
+        "time": "11–19s",
+        "visual": "Sunil to camera.",
+        "voiceover": "She wasn't complaining. Creators don't always know what to say about a phone or a blender, so the brand team writes the hook.",
+        "on_screen": ""
+      },
+      {
+        "time": "19–25s",
+        "visual": "Cut, closer.",
+        "voiceover": "Fine. But then we're paying creator rates for a voiceover.",
+        "on_screen": "Creator rates. Voiceover work."
+      },
+      {
+        "time": "25–34s",
+        "visual": "Sunil to camera.",
+        "voiceover": "And when the scripts come from a template or a generic AI tool, they all sound the same. Viewers can hear that.",
+        "on_screen": "Template scripts all sound the same"
+      },
+      {
+        "time": "34–47s",
+        "visual": "Sunil to camera.",
+        "voiceover": "What works better is a bit boring. Watch 20 of the creator's own videos first. Write the hook the way they already open. Keep the must-says to one or two lines.",
+        "on_screen": "Watch 20 of their videos first"
+      },
+      {
+        "time": "47–55s",
+        "visual": "Sunil to camera.",
+        "voiceover": "The brand still owns the message. The creator still sounds like themselves.",
+        "on_screen": "Follow Galvor"
+      }
+    ]
+  },
   "poll": null,
   "creative": {
     "size": "feed",
     "slides": []
   },
   "images": [],
-  "notes": "[Plan 23 Nov 2026] Source (internal, never name in the post): Gulf electronics retailer, calls 5 Aug and 6 Oct 2026 (also said of a Gulf hypermarket chain). Quotes are close paraphrases from the meeting transcript; check the wording reads natural before approving.",
+  "notes": "[Plan 23 Nov 2026] Source (internal, never name in the post): Gulf electronics retailer, calls 5 Aug and 6 Oct 2026 (also said of a Gulf hypermarket chain). Quotes are close paraphrases from the meeting transcript; check the wording reads natural before approving.\n[Week plan 23 Nov 2026] Made a talking-head video (script only). Caption unchanged.",
   "approvals": [
     {
       "at": "2026-11-23T22:35:36",
       "action": "[Plan 23 Nov 2026] created"
+    },
+    {
+      "at": "2026-11-23T23:30:46",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -42,5 +93,5 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-23T22:35:32",
-  "updated_at": "2026-11-23T22:35:36"
+  "updated_at": "2026-11-23T23:30:46"
 }

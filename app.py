@@ -233,7 +233,8 @@ def inject():
         "nav_counts": {"review": review, "due": due, **counts},
         "voice_sel": voice_filter(), "ai_status": ai.status(), "today_str": today().isoformat(),
         "hb": scheduler.heartbeat(), "endpoint": request.endpoint, "req_args": request.args,
-        "me": getattr(g, "user", None) or {}, "auth_on": auth.enabled(),
+        "me": getattr(g, "user", None) or {}, "auth_on": auth.enabled() or os.getenv("STUDIO_IAP") == "1",
+        "iap": os.getenv("STUDIO_IAP") == "1",
         "unread": notify.unread((getattr(g, "user", None) or {}).get("email", "")),
     }
 
@@ -1480,6 +1481,10 @@ def auth_callback():
 @app.route("/logout")
 def logout():
     session.clear()
+    if os.getenv("STUDIO_IAP") == "1":
+        # Google sign-in on cms.galvor.ai is Google's Identity-Aware Proxy: clearing its cookie signs you out of the
+        # Studio and shows Google's account picker next time (unless only one Google account is signed in).
+        return redirect("/?gcp-iap-mode=CLEAR_LOGIN_COOKIE")
     return redirect(url_for("login") if auth.enabled() else url_for("today_page"))
 
 

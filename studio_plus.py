@@ -332,6 +332,45 @@ def register(app):
                       note=f"entered by {_actor()}")
         return jsonify(ok=True)
 
+    # ------------------------------------------------------------ plan for next week (calendar button)
+    @app.get("/api/weekplan/estimate")
+    def api_weekplan_estimate():
+        from core import weekplan
+        return jsonify(ok=True, **weekplan.estimate())
+
+    @app.post("/api/weekplan/run")
+    def api_weekplan_run():
+        from core import weekplan
+        if not _can_edit():
+            return jsonify(ok=False, error="You need edit rights to plan the week."), 403
+        r = weekplan.start(_actor())
+        return jsonify(**r), (200 if r.get("ok") else 400)
+
+    @app.get("/api/weekplan/status")
+    def api_weekplan_status():
+        from core import weekplan
+        return jsonify(ok=True, **weekplan.status())
+
+    @app.route("/plan")
+    @app.route("/plan/<run_id>")
+    def weekplan_page(run_id=None):
+        import re as _re
+        import sys as _sys
+        from markupsafe import Markup
+        from core import weekplan
+        runs = weekplan.runs()
+        if not run_id and runs:
+            run_id = next((r["run"] for r in runs if r["has_report"]), None)
+        md = weekplan.report(run_id) if run_id else ""
+        html = ""
+        if md:
+            mod = _sys.modules.get("app") or _sys.modules.get("__main__")
+            html = str(mod._md(md))
+            html = _re.sub(r"\[([^\]]*)\]\((https?://[^)\s]+)\)", r'<a href="\2" target="_blank" rel="noopener">\1</a>', html)
+        costs = {e.get("run"): e for e in ledger.entries() if e.get("what") == weekplan.WHAT}
+        return render_template("plan.html", runs=runs, run_id=run_id, html=Markup(html), costs=costs,
+                               st=weekplan.status())
+
     # ------------------------------------------------------------ voices and prompts
     @app.route("/voices")
     def voices_page():

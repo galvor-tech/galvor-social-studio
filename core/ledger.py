@@ -200,5 +200,6 @@ def report() -> dict:
             "by_provider": roll("provider", month), "by_action": roll("what", month), "by_action_all": roll("what", es),
             "days": sorted(days.items(), reverse=True)[:31], "months": sorted(months.items(), reverse=True),
             "recent": sorted(es, key=lambda e: e.get("at", ""), reverse=True)[:60],
+            "plan_runs": sorted([e for e in es if e.get("what") == "Plan for next week"], key=lambda e: e.get("at", ""), reverse=True)[:30],
             "research_cap": cap(), "research_today": spent_today(),
             "ai_cap": ai_monthly_cap(), "ai_month": ai_spent_month(), "count": len(es)}

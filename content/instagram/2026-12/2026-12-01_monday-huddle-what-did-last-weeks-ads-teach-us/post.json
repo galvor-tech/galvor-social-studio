@@ -3,7 +3,7 @@
   "slug": "monday-huddle-what-did-last-weeks-ads-teach-us",
   "platform": "instagram",
   "date": "2026-12-01",
-  "time": "12:30",
+  "time": "13:00",
   "voice": "company",
   "pillar": "Team & Culture",
   "job": "Attract",
@@ -50,7 +50,7 @@
     ]
   },
   "images": [],
-  "notes": "CONFIRM WITH TEAM: the old script claimed a real Galvor huddle every Monday at 9:30 with a whiteboard. I could not verify that, so this version is advice to the reader and makes no claim about our own meetings. If the huddle is real, a line about it can be added back. Reader: a growth lead who runs the weekly ad review. Topic changed from a description of our meeting to a copyable agenda change. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-11-22 (Sun) to a weekday: posting is Monday to Friday only.",
+  "notes": "CONFIRM WITH TEAM: the old script claimed a real Galvor huddle every Monday at 9:30 with a whiteboard. I could not verify that, so this version is advice to the reader and makes no claim about our own meetings. If the huddle is real, a line about it can be added back. Reader: a growth lead who runs the weekly ad review. Topic changed from a description of our meeting to a copyable agenda change. No numbers used.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-11-22 (Sun) to a weekday: posting is Monday to Friday only.\n[Week plan 23 Nov 2026] Tuesday image post at 13:00.",
   "approvals": [
     {
       "at": "2026-11-16T21:16:45",
@@ -63,6 +63,10 @@
     {
       "at": "2026-11-16T21:48:12",
       "action": "Moved from 2026-11-22 11:00 to 2026-12-01 12:30: weekdays only"
+    },
+    {
+      "at": "2026-11-23T23:30:47",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -70,7 +74,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:20:38",
-  "updated_at": "2026-11-16T21:48:12",
+  "updated_at": "2026-11-23T23:30:47",
   "topic_ref": "IG-11",
   "script_decision": {
     "choice": "pending"

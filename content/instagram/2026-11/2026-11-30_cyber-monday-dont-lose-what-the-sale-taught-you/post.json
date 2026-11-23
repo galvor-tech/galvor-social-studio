@@ -7,7 +7,7 @@
   "voice": "company",
   "pillar": "Quick Tip",
   "job": "Educate",
-  "format": "carousel",
+  "format": "reel",
   "series": "",
   "title": "Cyber Monday: separate what the discount did from what the creative did",
   "hook": "A sale flatters every ad. Before you copy this weekend's winners, sort them.",
@@ -23,78 +23,65 @@
     "#performancemarketing",
     "#d2cindia"
   ],
-  "alt_text": "Eight-slide carousel. Slide 1: the sale flatters every ad, find the ones that really won. Slide 2: the trap of copying sale winners into January. Slide 3: sort every sale ad into three piles. Slides 4 to 6: what each pile means, your creative, your offer, and the clearest signal of what to drop. Slide 7: the post-sale sort in four lines. Slide 8: the sale ends tonight, keep what it taught you, follow @galvor.ai.",
+  "alt_text": "Reel: sort sale ads into three piles before briefing January.",
   "cta": "Save and do the sort this week",
-  "script": null,
+  "script": {
+    "duration": "33s",
+    "setup": "Talking head or voiceover over a leaderboard of sale ads being sorted into three piles.",
+    "scenes": [
+      {
+        "time": "0–4s",
+        "visual": "A sale leaderboard, all ads green.",
+        "voiceover": "The sale flatters every ad. Before you copy this weekend's winners, sort them.",
+        "on_screen": "Sale winners can lie"
+      },
+      {
+        "time": "4–10s",
+        "visual": "A big '-40%' sticker covers an average-looking ad.",
+        "voiceover": "With a big discount on screen, even weak ads sell. Brief January off that list and you might be copying the discount.",
+        "on_screen": "You might be copying the discount"
+      },
+      {
+        "time": "10–18s",
+        "visual": "Ads slide into three piles.",
+        "voiceover": "Three piles. Won before and during the sale. Won only during it. Lost even with the discount.",
+        "on_screen": "3 piles"
+      },
+      {
+        "time": "18–26s",
+        "visual": "Each pile gets a label.",
+        "voiceover": "The first pile is your creative. The second is your offer. The third tells you what to leave out.",
+        "on_screen": "Creative. Offer. Leave out."
+      },
+      {
+        "time": "26–33s",
+        "visual": "The three labels on one card.",
+        "voiceover": "Do it this week, while you still remember the details.",
+        "on_screen": "Save this. Follow @galvor.ai"
+      }
+    ]
+  },
   "poll": null,
   "creative": {
-    "size": "feed",
+    "size": "story",
     "slides": [
       {
         "layout": "cover",
-        "kicker": "Cyber Monday",
-        "headline": "The sale flatters every ad. Find the ones that *really* won.",
-        "sub": "A simple sort to do this week, before the details fade."
-      },
-      {
-        "layout": "text",
-        "kicker": "The trap",
-        "headline": "Sale winners get copied into *January*",
-        "body": "With a big discount on screen, weak ads sell too.\n\nIf you brief next month from the sale leaderboard, you may be copying the discount and calling it creative."
-      },
-      {
-        "layout": "list",
-        "kicker": "The sort",
-        "headline": "Put every sale ad in *one of three piles*",
-        "items": [
-          "Won before the sale and during it",
-          "Won only during the sale",
-          "Lost even with the discount"
-        ]
-      },
-      {
-        "layout": "text",
-        "kicker": "Pile 1",
-        "headline": "Won before and during: *this is your creative*",
-        "body": "These ads worked at full price and at sale price.\n\nNote what they share: the first shot, the person on screen, the claim. That is what to brief again."
-      },
-      {
-        "layout": "text",
-        "kicker": "Pile 2",
-        "headline": "Won only during: *this is your offer*",
-        "body": "The discount carried these.\n\nKeep them in a folder for the next sale. Test them at full price before you rely on them there."
-      },
-      {
-        "layout": "text",
-        "kicker": "Pile 3",
-        "headline": "Lost with a discount: *the clearest signal*",
-        "body": "If an ad could not sell at the best price of the year, the idea or the look is the problem.\n\nWrite down what these ads share and leave it out of the next brief."
-      },
-      {
-        "layout": "list",
-        "kicker": "Save this",
-        "headline": "The *post-sale sort* in four lines",
-        "items": [
-          "List every ad that ran in the sale",
-          "Mark how each did in the weeks before",
-          "Sort them into the three piles",
-          "Write one line per pile for the next brief"
-        ]
+        "headline": "The sale flatters every ad. *Sort them.*",
+        "sub": "Three piles, this week."
       },
       {
         "layout": "cta",
-        "headline": "The sale ends tonight. *Keep what it taught you.*",
-        "sub": "Save this and do the sort this week.",
+        "headline": "Follow *@galvor.ai*",
+        "sub": "New reels every Mon, Wed and Fri.",
         "actions": [
-          "Follow @galvor.ai",
-          "Save the sort",
-          "Share with your creative lead"
+          "Follow @galvor.ai"
         ]
       }
     ]
   },
   "images": [],
-  "notes": "Festival slot (Cyber Monday). Reader: a growth lead about to brief December and January creative off sale results. One argument: sale performance mixes the discount with the creative, so sort ads by how they did before and during the sale before copying any of them. This is a method that follows from reasoning, not a measured Galvor finding, and no numbers are used. Topic sharpened: old version was a general 'write down what the sale taught you'; this one gives the three-pile sort. First comment points to Decoded #7, which goes out Wednesday 2 Dec, two days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
+  "notes": "Festival slot (Cyber Monday). Reader: a growth lead about to brief December and January creative off sale results. One argument: sale performance mixes the discount with the creative, so sort ads by how they did before and during the sale before copying any of them. This is a method that follows from reasoning, not a measured Galvor finding, and no numbers are used. Topic sharpened: old version was a general 'write down what the sale taught you'; this one gives the three-pile sort. First comment points to Decoded #7, which goes out Wednesday 2 Dec, two days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.\n[Week plan 23 Nov 2026] Monday is a reel day: carousel turned into a 33s reel script. Caption unchanged.",
   "approvals": [
     {
       "at": "2026-11-09T13:52:42",
@@ -111,6 +98,10 @@
     {
       "at": "2026-11-23T22:54:38",
       "action": "[Decoded shift 23 Nov 2026]"
+    },
+    {
+      "at": "2026-11-23T23:30:46",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -118,7 +109,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:21:04",
-  "updated_at": "2026-11-23T22:54:38",
+  "updated_at": "2026-11-23T23:30:46",
   "topic_ref": "IG-18",
   "script_decision": {
     "choice": "pending"

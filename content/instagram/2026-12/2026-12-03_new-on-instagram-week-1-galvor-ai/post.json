@@ -9,49 +9,76 @@
   "job": "Educate",
   "format": "carousel",
   "series": "New on Instagram",
-  "title": "New on Instagram, week 1 (@galvor.ai)",
-  "hook": "New on Instagram this week",
-  "status": "idea",
+  "title": "New on Instagram: reach became views",
+  "hook": "Reach became views. Your creator benchmarks broke.",
+  "status": "draft",
   "festival": null,
   "theme": "People + agents",
-  "caption": "New on Instagram this week: [change]. What it means for you: [one line]. Save this for later.\n\nFollow @galvor.ai for what's new every Thursday.",
+  "caption": "Instagram stopped reporting reach the old way, and a lot of creator benchmarks broke quietly.\n\nA creator who used to show 300K reach doesn't show 300K viewers now. Views count every play, viewers are people. Neither is the old reach number.\n\nSo reset your benchmarks from posts made after the change, ask creators for viewers, and say so when you compare with last year.\n\nSave this for your next creator report.\n\nFollow @galvor.ai for what's new on Instagram every Thursday.",
   "first_comment": "",
   "hashtags": [
     "#instagramupdates",
     "#instagramtips",
     "#creators"
   ],
-  "alt_text": "",
+  "alt_text": "Four slides: reach became views; before vs now; three changes; follow @galvor.ai.",
   "cta": "",
   "script": null,
   "poll": null,
   "creative": {
-    "size": "portrait",
+    "size": "feed",
     "slides": [
       {
         "layout": "cover",
-        "headline": "New on Instagram this week"
+        "kicker": "New on Instagram",
+        "headline": "Reach became *views*. Your creator benchmarks broke.",
+        "sub": "What changed, and what I do with clients now."
       },
       {
-        "layout": "text",
-        "headline": "What changed"
+        "layout": "compare",
+        "kicker": "Same creator",
+        "headline": "Same creator, *different ruler*",
+        "left_title": "Before",
+        "left": [
+          "Judged on reach",
+          "One number per post"
+        ],
+        "right_title": "Now",
+        "right": [
+          "Views and viewers",
+          "Views count every play, viewers are people"
+        ]
       },
       {
-        "layout": "text",
-        "headline": "What it means for brands and creators"
+        "layout": "list",
+        "kicker": "What I do now",
+        "headline": "Three changes I've made",
+        "items": [
+          "Reset benchmarks from posts after the change",
+          "Ask creators for viewers, not only views",
+          "Say so when comparing with last year"
+        ]
       },
       {
         "layout": "cta",
-        "headline": "Follow @galvor.ai for the weekly update"
+        "headline": "New on Instagram, *every Thursday*",
+        "sub": "Save this for your next creator report.",
+        "actions": [
+          "Follow @galvor.ai"
+        ]
       }
     ]
   },
   "images": [],
-  "notes": "[Plan 23 Nov 2026] Instagram mirror of Shrutik's LinkedIn post the same morning. Same facts, shorter, made for saves and sends. Script first, media only after the script is chosen.",
+  "notes": "[Plan 23 Nov 2026] Instagram mirror of Shrutik's LinkedIn post the same morning. Same facts, shorter, made for saves and sends. Script first, media only after the script is chosen.\n[Week plan 23 Nov 2026] Written from Shrutik's LinkedIn post the same morning. Confirm the views/viewers wording against Instagram's Insights help page.",
   "approvals": [
     {
       "at": "2026-11-23T22:35:38",
       "action": "[Plan 23 Nov 2026] created"
+    },
+    {
+      "at": "2026-11-23T23:30:47",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -59,5 +86,5 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-23T22:35:32",
-  "updated_at": "2026-11-23T22:35:38"
+  "updated_at": "2026-11-23T23:30:47"
 }

@@ -3,11 +3,11 @@
   "slug": "black-friday-the-7-point-creative-check",
   "platform": "instagram",
   "date": "2026-11-27",
-  "time": "13:00",
+  "time": "19:00",
   "voice": "company",
   "pillar": "Quick Tip",
   "job": "Educate",
-  "format": "carousel",
+  "format": "reel",
   "series": "",
   "title": "Black Friday: the 7-point creative check",
   "hook": "Running Black Friday ads this weekend? Seven checks before you hit publish.",
@@ -23,79 +23,65 @@
     "#marketingtips",
     "#d2cindia"
   ],
-  "alt_text": "Six-slide carousel. Slide 1: seven checks before your Black Friday ads go live. Slide 2: three checks on the offer, first frame, sound off, end date. Slide 3: two checks on the click, the landing page and stock. Slide 4: two checks on learning, one clear difference per ad and a written expectation. Slide 5: all seven checks on one slide in two columns. Slide 6: good luck this weekend, follow @galvor.ai.",
+  "alt_text": "Reel: seven checks before Black Friday ads go live.",
   "cta": "Save the checklist; follow @galvor.ai",
-  "script": null,
+  "script": {
+    "duration": "28s",
+    "setup": "Phone screen recording of an ad about to be published, then quick text cards for each check. Fast cuts.",
+    "scenes": [
+      {
+        "time": "0–3s",
+        "visual": "Finger hovering over Publish on a sale ad.",
+        "voiceover": "Before your Black Friday ad goes live, seven checks.",
+        "on_screen": "7 checks before you publish"
+      },
+      {
+        "time": "3–9s",
+        "visual": "Ad frame with the offer, muted icon, end date.",
+        "voiceover": "Is the offer in the first frame? Does it read with the sound off? Is the end date on screen and in the caption?",
+        "on_screen": "Offer first. Sound off. End date."
+      },
+      {
+        "time": "9–15s",
+        "visual": "Ad next to its landing page, same price circled.",
+        "voiceover": "Does the page show the same price? Is the product in the ad actually in stock?",
+        "on_screen": "Same price. In stock."
+      },
+      {
+        "time": "15–22s",
+        "visual": "A grid of ads, one highlighted as different. A note: 'we expect…'",
+        "voiceover": "Does each ad have one clear difference from the rest? And did you write down what you expect before launch?",
+        "on_screen": "One difference. One prediction."
+      },
+      {
+        "time": "22–28s",
+        "visual": "All seven checks on one card.",
+        "voiceover": "Two minutes per ad. Save this for every sale.",
+        "on_screen": "Save this. Follow @galvor.ai"
+      }
+    ]
+  },
   "poll": null,
   "creative": {
-    "size": "feed",
+    "size": "story",
     "slides": [
       {
         "layout": "cover",
-        "kicker": "Black Friday",
-        "headline": "*7 checks* before your Black Friday ads go live",
-        "sub": "A couple of minutes per ad. Do it before you hit publish."
-      },
-      {
-        "layout": "list",
-        "kicker": "Checks 1 to 3: the offer",
-        "headline": "Can a stranger *get the offer* at a glance?",
-        "items": [
-          "Offer is in the first frame, not the last",
-          "Discount reads clearly with the sound off",
-          "End date is on screen and in the caption"
-        ]
-      },
-      {
-        "layout": "list",
-        "kicker": "Checks 4 and 5: the click",
-        "headline": "Does the page *keep the promise*?",
-        "items": [
-          "Landing page shows the same offer and price",
-          "The product in the ad is in stock"
-        ]
-      },
-      {
-        "layout": "list",
-        "kicker": "Checks 6 and 7: the learning",
-        "headline": "Will you know *why it worked*?",
-        "items": [
-          "Each ad has one clear difference from the rest",
-          "You wrote down what you expect before launch"
-        ]
-      },
-      {
-        "layout": "compare",
-        "kicker": "Save this",
-        "headline": "The *7-point* check on one slide",
-        "left_title": "The ad",
-        "left": [
-          "Offer in the first frame",
-          "Reads with sound off",
-          "End date shown",
-          "One clear difference per ad"
-        ],
-        "right_title": "Around the ad",
-        "right": [
-          "Page matches the offer",
-          "Stock checked",
-          "Expected result written down"
-        ]
+        "headline": "*7 checks* before your sale ads go live",
+        "sub": "Two minutes per ad."
       },
       {
         "layout": "cta",
-        "headline": "Have a good sale. *Check before you publish.*",
-        "sub": "Save this for every sale you run.",
+        "headline": "Follow *@galvor.ai*",
+        "sub": "New reels every Mon, Wed and Fri.",
         "actions": [
-          "Follow @galvor.ai",
-          "Save the checklist",
-          "Send it to your team"
+          "Follow @galvor.ai"
         ]
       }
     ]
   },
   "images": [],
-  "notes": "Festival slot (Black Friday): kept warm and brief. Reader: the marketer pressing publish on sale ads this weekend. One argument: seven small checks catch most avoidable sale-ad mistakes. Shape: checklist. No statistics used; '7' is the count of checks. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Festival slot (Black Friday): kept warm and brief. Reader: the marketer pressing publish on sale ads this weekend. One argument: seven small checks catch most avoidable sale-ad mistakes. Shape: checklist. No statistics used; '7' is the count of checks. Topic kept.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Week plan 23 Nov 2026] Friday is a reel day: carousel turned into a 28s reel script (same seven checks). Caption unchanged.",
   "approvals": [
     {
       "at": "2026-11-09T13:52:35",
@@ -112,6 +98,10 @@
     {
       "at": "2026-11-16T21:23:12",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T23:30:46",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -119,7 +109,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:20:56",
-  "updated_at": "2026-11-16T21:23:12",
+  "updated_at": "2026-11-23T23:30:46",
   "topic_ref": "IG-16",
   "script_decision": {
     "choice": "pending"

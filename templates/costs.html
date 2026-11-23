@@ -30,10 +30,23 @@
     <tr><th>Move</th><th>Times run</th><th>Average each</th><th>Total so far</th></tr>
     {% set seen = r.by_action_all|map(attribute='name')|list %}
     {% for a in r.by_action_all %}<tr><td>{{ a.name }}</td><td>{{ a.calls }}</td><td>${{ '%.4f'|format(a.avg) }}</td><td>${{ '%.2f'|format(a.usd) }}</td></tr>{% endfor %}
-    {% for name in ['Write a post script','Write a reel script','Rewrite a post','Reference deep dive','Decoded: write an issue','Ask the Studio'] if name not in seen %}
+    {% for name in ['Plan for next week','Write a post script','Write a reel script','Rewrite a post','Reference deep dive','Decoded: write an issue','Ask the Studio'] if name not in seen %}
     <tr><td>{{ name }}</td><td>0</td><td class="muted">No data yet</td><td>$0.00</td></tr>{% endfor %}
   </table>
   <p class="small muted" style="padding:10px 18px;margin:0">AI writing uses {{ model }}{% if prices.get(model) %}: ${{ prices[model].in }} per million words-in tokens, ${{ prices[model].out }} per million words-out tokens (Anthropic list price, checked 16 Nov 2026){% endif %}. The cost of each call is worked out from the token counts the service returns. Gemini text calls are logged with their token counts but priced at $0 because their rate is not in the table; check the Google bill for those.</p>
+</div>
+
+<div class="panel">
+  <div class="panel-h gold"><h3>Plan for next week</h3><small>The calendar button. Each run: web research (Claude with web search, $0.01 a search; reading pages has no extra fee) plus writing the week's scripts, priced from the tokens the API reports.</small></div>
+  <table class="tbl">
+    <tr><th>Run</th><th>Web searches</th><th>Tokens in / out</th><th>Cost</th><th></th></tr>
+    {% for e in r.plan_runs %}
+    <tr><td>{{ e.at[:16]|replace('T',' ') }}</td><td>{{ e.searches or 0 }}</td>
+        <td>{{ '{:,}'.format((e.tokens or {}).get('in', 0)) }} / {{ '{:,}'.format((e.tokens or {}).get('out', 0)) }}</td>
+        <td><b>${{ '%.2f'|format(e.usd) }}</b>{% if e.note and 'stopped' in e.note %} <span class="pill err">stopped</span>{% endif %}</td>
+        <td>{% if e.run %}<a href="{{ url_for('weekplan_page', run_id=e.run) }}">report</a>{% endif %}</td></tr>
+    {% else %}<tr><td colspan="5" class="muted">No runs yet. Before a run, the button shows an estimate (about $2–5 until there's history, then the average of your last runs).</td></tr>{% endfor %}
+  </table>
 </div>
 
 <div class="grid g2" style="gap:16px">

@@ -5,7 +5,7 @@
   "voice": "sunil",
   "pillar": "Brand Memory / POV",
   "job": "Attract",
-  "format": "text",
+  "format": "image",
   "title": "Black Friday eve: dashboards describe yesterday",
   "topic_ref": "S13",
   "caption": "Tomorrow your dashboards will fill up faster than on any other day this year.\nNone of them will tell you what to make on Monday.\n\nDashboards describe yesterday. A founder needs help deciding tomorrow.\n\nSale weekend is the most expensive data most D2C brands buy all year. Bigger budgets, more new creatives, more people refreshing the same screens.\n\nThen on Monday someone asks what worked.\n\nThe answer usually comes back as a list of ad names with a ROAS next to each. That tells you which ads did well. It doesn't tell you why, so it can't tell you what to repeat in December.\n\nThat is how a brand pays for the same weekend twice. Once in spend, and again when the next sale starts from zero.\n\nSo before Friday begins, I would put one question on Monday's agenda and give it an owner:\n\nWhat did this weekend teach us that we will use in the next brief?\n\nIf the answer is a list of ad names, keep asking.\n\nEvery ad should make the next one better. Sale weekend is when forgetting costs the most.\n\nFollow Galvor for more on turning ad data into decisions.",
@@ -16,13 +16,20 @@
     "#BlackFriday"
   ],
   "cta": "Follow Galvor",
-  "notes": "Reader: a D2C founder or CMO the day before Black Friday. Argument: sale-weekend data is expensive; without a 'why' it gets paid for twice. Topic bank S13 (dashboards describe yesterday), tied to Black Friday (27 Nov). Numbers: none. Pairs with the Galvor page post at 12:30 the same day ('Before the sale: three lines that turn it into a test'), which carries the how-to; Sunil's post stays on the money/risk angle so the two don't repeat. First comment promises the page post; drop that line if the page post moves. Sunil to confirm he is happy with 'most expensive data most D2C brands buy all year' as opinion.",
+  "notes": "Reader: a D2C founder or CMO the day before Black Friday. Argument: sale-weekend data is expensive; without a 'why' it gets paid for twice. Topic bank S13 (dashboards describe yesterday), tied to Black Friday (27 Nov). Numbers: none. Pairs with the Galvor page post at 12:30 the same day ('Before the sale: three lines that turn it into a test'), which carries the how-to; Sunil's post stays on the money/risk angle so the two don't repeat. First comment promises the page post; drop that line if the page post moves. Sunil to confirm he is happy with 'most expensive data most D2C brands buy all year' as opinion.\n[Week plan 23 Nov 2026] Text post made an image post (one quote card). Caption unchanged.",
   "series": "",
   "festival": null,
-  "alt_text": "",
+  "alt_text": "Quote card: Dashboards describe yesterday. Monday needs a decision. One question for Monday's agenda.",
   "creative": {
     "size": "feed",
-    "slides": []
+    "slides": [
+      {
+        "layout": "statement",
+        "kicker": "Black Friday eve",
+        "headline": "Dashboards describe yesterday. *Monday needs a decision.*",
+        "sub": "One question for Monday's agenda: what did this weekend teach us that we'll use in the next brief?"
+      }
+    ]
   },
   "hook": "Tomorrow your dashboards will fill up faster than on any other day this year.",
   "script": null,
@@ -38,12 +45,16 @@
   },
   "slug": "black-friday-eve-dashboards-describe-yesterday",
   "id": "li-2026-11-26-black-friday-eve-dashboards-describe-yesterday",
-  "updated_at": "2026-11-18T00:25:52",
+  "updated_at": "2026-11-23T23:30:46",
   "created_at": "2026-11-18T00:25:52",
   "approvals": [
     {
       "at": "2026-11-18T00:25:52",
       "action": "Planned: full calendar to Feb 2027 (18 Nov 2026), script only"
+    },
+    {
+      "at": "2026-11-23T23:30:46",
+      "action": "[Week plan 23 Nov 2026]"
     }
   ]
 }
