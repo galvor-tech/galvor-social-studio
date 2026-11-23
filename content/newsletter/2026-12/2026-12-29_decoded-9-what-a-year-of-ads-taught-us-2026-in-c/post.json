@@ -1,8 +1,8 @@
 {
-  "id": "nl-2026-12-15-decoded-9-what-a-year-of-ads-taught-us-2026-in-c",
+  "id": "nl-2026-12-29-decoded-9-what-a-year-of-ads-taught-us-2026-in-c",
   "slug": "decoded-9-what-a-year-of-ads-taught-us-2026-in-c",
   "platform": "newsletter",
-  "date": "2026-12-15",
+  "date": "2026-12-29",
   "time": "08:30",
   "voice": "company",
   "pillar": "Newsletter",
@@ -35,7 +35,7 @@
   "images": [
     "slide_01.png"
   ],
-  "notes": "Writer's brief: Skeleton — Raj to write in full. ~1,500 words when finished.\n\nWas planned as #6 (fortnightly). Now #9, Wednesday 2026-12-16. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.\n[Plan 23 Nov 2026] Moved from 2026-12-16 08:30 to 2026-12-15 08:30.",
+  "notes": "Writer's brief: Skeleton — Raj to write in full. ~1,500 words when finished.\n\nWas planned as #6 (fortnightly). Now #9, Wednesday 2026-12-16. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.\n[Plan 23 Nov 2026] Moved from 2026-12-16 08:30 to 2026-12-15 08:30.\n[Decoded shift 23 Nov 2026] was 2026-12-15 as 'Decoded #8: What a Year of Ads Taught Us'; now #8 on Tue 2026-12-29.",
   "approvals": [
     {
       "at": "2026-11-11T01:58:27",
@@ -52,6 +52,10 @@
     {
       "at": "2026-11-23T22:35:35",
       "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-15 08:30"
+    },
+    {
+      "at": "2026-11-23T22:54:37",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -59,7 +63,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:25:14",
-  "updated_at": "2026-11-23T22:35:35",
+  "updated_at": "2026-11-23T22:54:37",
   "topic_ref": "NL-6",
   "newsletter": {
     "issue": 9,

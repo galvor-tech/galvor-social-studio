@@ -127,7 +127,7 @@ Carousel recipe: slide 1 `cover` (hook) → 4–7 value slides (list/stat/compar
 ```
 `script` only for video/reel; `poll` only for poll. Use null otherwise.
 
-## 8. Decoded by Galvor — the newsletter (weekly, every Wednesday 08:30 IST)
+## 8. Decoded by Galvor — the newsletter (fortnightly, every other Tuesday 08:30 IST; #6 on 1 Dec 2026)
 Posted as a LinkedIn newsletter from the **Galvor page** and sent by email. Author line: "By Raj Dhakad, Founding AI
 Engineer, Galvor AI · Decoded by Galvor, Issue #N". The format is fixed — Issue #4 (11 Nov 2026) is the reference and the
 Studio's Decoded editor reproduces it exactly (tools/test_decoded.py). Every issue, in order:
@@ -157,11 +157,12 @@ saved analysis; otherwise [DATA NEEDED]. No client names.
     byline can stay "By Raj Dhakad"; the team reposts it with their own line or comments in the first hour.
   - Same news, different angle: Sunil money/risk/CMO worries; Raj product and data; Shrutik marketing craft and behind the scenes.
   - Every personal post still closes with Follow Galvor / @galvor.ai (rule 14), so personal reach builds page followers.
-  - Weekly LinkedIn rhythm: Mon 12:30 Shrutik · Tue 09:00 Sunil · Wed 08:30 Decoded (page) · Wed 12:30 Raj ·
-    Thu 09:00 Sunil · Thu 12:30 page · Fri 09:00 Shrutik · Fri 12:30 page reshare. About three-quarters of reach from people.
-  - Spacing: one post per handle per day; 20+ hours between posts from the same handle; never two handles at the
-    same time on one day (3+ hours apart); nothing before 12:30 on Decoded Wednesdays; page festival greetings move to
-    12:30 when a person holds 09:00.
+  - Weekly LinkedIn rhythm (from 30 Nov 2026): Mon 09:00 Sunil (What I heard this week) · Tue 08:30 Decoded
+    (page, fortnightly) · Tue 12:30 Raj (Brand Breakdown carousel) · Wed 09:00 Sunil · Thu 09:00 Shrutik (New on
+    Instagram) · Thu 16:00 Raj · Fri 09:00 Sunil. The Galvor page reposts every personal post with its own line
+    about 4 hours later (Raj's Thursday post on Friday 16:00).
+  - Spacing: one post per person per day; two people at least 3 hours apart; nothing else before 12:30 on Decoded
+    Tuesdays except the page's own Decoded post. Holiday Fridays (25 Dec, 1 Jan): Sunil off, page greeting 12:30.
 - **First hour matters.** When anything goes live the Studio pings the rest of the team: one real comment (an
   opinion, a question, an example — never just "Great post") or a repost with a line of your own, within 60 minutes.
 - **Reply to every comment** within the first hour (the Studio reminds the poster 30 min after it goes live).

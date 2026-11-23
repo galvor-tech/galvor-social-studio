@@ -15,14 +15,14 @@
   "festival": null,
   "theme": "From dashboards to decisions",
   "caption": "Tired ads and slow starters look the same on a cost chart.\nOne needs a new opening. The other needs you to leave it alone.\n\nBoth show a cost per order above your account average, so the cost column cannot separate them.\n\nHistory can. An ad can only be tired if it was once good.\n\nIn Galvor's analysis of video ads launched May to September 2026, some ad styles started about 35% dearer per order in their first two months and ended close to average over their life. Cut those in week one and you never see the second half.\n\nSwipe for the order I check things in, and the four calls it leads to.",
-  "first_comment": "Read Decoded #6 on galvor.ai",
+  "first_comment": "Decoded #6 goes deeper on creative fatigue. Out Tuesday 1 Dec on galvor.ai",
   "hashtags": [
     "#PerformanceMarketing",
     "#MetaAds",
     "#AdCreative"
   ],
   "alt_text": "Seven-slide carousel. Cover: Tired ad or slow starter? Then: fatigue needs a before; a comparison of a slow starter and a tired ad; four signals to read together (hook rate, frequency, hold rate, cost per order); a stat that some ad styles start 35 percent dearer per order in their first two months; the four calls (scale, refresh, cut, test); and a closing slide asking readers to follow Galvor.",
-  "cta": "Follow Galvor; first comment points to Decoded #6 (same day, same topic)",
+  "cta": "Follow Galvor; first comment points to Decoded #6 (out 1 Dec, same topic)",
   "script": null,
   "poll": null,
   "creative": {
@@ -93,13 +93,13 @@
         "sub": "Save this for your next weekly review.",
         "actions": [
           "Follow Galvor",
-          "Read Decoded #6 on galvor.ai"
+          "Decoded #6 lands 1 Dec on galvor.ai"
         ]
       }
     ]
   },
   "images": [],
-  "notes": "CONFIRM WITH Raj: the check order (hook rate, frequency, hold rate, cost per order) and the 'beat your average for a couple of weeks' test are written as your working method. Confirm they match how you actually read fatigue, or correct the order. A real anonymised example of a slow starter that was nearly cut would make slide 3 stronger.\nHook shape: punchy plus context.\nNumbers: 35% dearer per order in the first two months (Galvor analysis, video ads launched May-Sep 2026, facts bank). Used in the caption and on the stat slide.\nReader: a head of performance who decides each week which ads to pause.\nFirst comment points only to Decoded #6 (Creative Fatigue: When to Refresh, When to Cut), which goes out the same morning.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "CONFIRM WITH Raj: the check order (hook rate, frequency, hold rate, cost per order) and the 'beat your average for a couple of weeks' test are written as your working method. Confirm they match how you actually read fatigue, or correct the order. A real anonymised example of a slow starter that was nearly cut would make slide 3 stronger.\nHook shape: punchy plus context.\nNumbers: 35% dearer per order in the first two months (Galvor analysis, video ads launched May-Sep 2026, facts bank). Used in the caption and on the stat slide.\nReader: a head of performance who decides each week which ads to pause.\nFirst comment points only to Decoded #6 (Creative Fatigue: When to Refresh, When to Cut), which goes out the same morning.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-09T13:52:10",
@@ -124,6 +124,10 @@
     {
       "at": "2026-11-17T23:54:04",
       "action": "Re-timed to Wed 12:30: Decoded owns Wednesday morning (17 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:54:37",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -131,7 +135,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:15:06",
-  "updated_at": "2026-11-17T23:54:04",
+  "updated_at": "2026-11-23T22:54:37",
   "topic_ref": "R37",
   "script_decision": {
     "choice": "pending"

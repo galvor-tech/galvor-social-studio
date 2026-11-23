@@ -32,17 +32,33 @@
   "published_at": "",
   "publish_log": [],
   "script_decision": {
-    "choice": "pending"
+    "choice": "pending",
+    "by": "Shrutik Rathod",
+    "at": "2026-11-18T10:29:28"
   },
   "slug": "galvor-scout-in-sunils-words-filters-show-size-n",
   "theme": "From dashboards to decisions",
   "id": "li-2026-11-19-galvor-scout-in-sunils-words-filters-show-size-n",
-  "updated_at": "2026-11-17T23:22:02",
+  "updated_at": "2026-11-19T11:01:12",
   "created_at": "2026-11-17T23:22:02",
   "approvals": [
     {
       "at": "2026-11-17T23:22:02",
       "action": "Added: Sunil personal-first Scout post (17 Nov 2026)"
+    },
+    {
+      "at": "2026-11-18T10:16:48",
+      "action": "Shrutik Rathod: chose this script. Media can now be made."
+    },
+    {
+      "at": "2026-11-18T10:29:29",
+      "action": "Shrutik Rathod: script decision cleared"
     }
-  ]
+  ],
+  "reminders": {
+    "pre": "2026-11-19T08:30:32",
+    "due": "2026-11-19T09:00:29",
+    "missed": "2026-11-19T11:01:11"
+  },
+  "due": "Missed — post, reschedule or skip"
 }

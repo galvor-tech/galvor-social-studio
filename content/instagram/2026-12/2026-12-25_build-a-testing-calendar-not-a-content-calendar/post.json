@@ -15,7 +15,7 @@
   "festival": null,
   "theme": "People + agents",
   "caption": "A content calendar fills slots. A testing calendar answers questions. Plan 2027 around the second.\n\nStart with what you do not know yet: founder or creator on camera, price-led or problem-led opening.\n\nRank the questions by how much money the answer would move. Give each one a fortnight, change one thing, and put the decision date in the diary.\n\nSix questions fill a quarter, and each answer shapes the next brief.\n\nThe last slide shows one row of the calendar. Save it and build yours this week.",
-  "first_comment": "Decoded #11 goes deeper on this. Out Wednesday on galvor.ai.",
+  "first_comment": "Decoded #9 goes deeper on this. Out Tuesday 12 Jan on galvor.ai.",
   "hashtags": [
     "#creativestrategy",
     "#performancemarketing",
@@ -96,7 +96,7 @@
     ]
   },
   "images": [],
-  "notes": "Posts on 25 Dec; the slot has no festival flag, so no greeting is written in. Reader: a brand or growth lead building the 2027 plan. One argument: plan the year as a list of questions with decision dates. Shape: three-step how-to. No statistics used; the fortnight follows Galvor's published two-week loop, and six fortnights make a quarter. The example questions are illustrations. Topic kept. First comment points to Decoded #11, which goes out Wednesday 30 Dec, five days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Posts on 25 Dec; the slot has no festival flag, so no greeting is written in. Reader: a brand or growth lead building the 2027 plan. One argument: plan the year as a list of questions with decision dates. Shape: three-step how-to. No statistics used; the fortnight follows Galvor's published two-week loop, and six fortnights make a quarter. The example questions are illustrations. Topic kept. First comment points to Decoded #11, which goes out Wednesday 30 Dec, five days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-09T13:54:46",
@@ -113,6 +113,10 @@
     {
       "at": "2026-11-16T21:23:13",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:54:38",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -120,7 +124,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:22:37",
-  "updated_at": "2026-11-16T21:23:13",
+  "updated_at": "2026-11-23T22:54:38",
   "topic_ref": "IG-106",
   "script_decision": {
     "choice": "pending"

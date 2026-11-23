@@ -1,9 +1,9 @@
 {
-  "id": "ig-2026-11-25-story-pack-decoded-6-is-out",
+  "id": "ig-2026-12-01-story-pack-decoded-6-is-out",
   "slug": "story-pack-decoded-6-is-out",
   "platform": "instagram",
-  "date": "2026-11-25",
-  "time": "12:30",
+  "date": "2026-12-01",
+  "time": "10:00",
   "voice": "company",
   "pillar": "Newsletter",
   "job": "Attract",
@@ -63,7 +63,7 @@
     ]
   },
   "images": [],
-  "notes": "Interactive ask: poll sticker on frame 3 with the three options as written. Frame 4: link sticker to Decoded #6; update the bio link the same morning. No numbers used. To confirm before posting: the final issue still names the three kinds of fatigue and the ten-minute check (taken from the current draft outline of #6).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Interactive ask: poll sticker on frame 3 with the three options as written. Frame 4: link sticker to Decoded #6; update the bio link the same morning. No numbers used. To confirm before posting: the final issue still names the three kinds of fatigue and the ten-minute check (taken from the current draft outline of #6).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-11T01:04:16",
@@ -76,6 +76,10 @@
     {
       "at": "2026-11-16T21:23:57",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:54:37",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -83,7 +87,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:21:11",
-  "updated_at": "2026-11-16T21:23:57",
+  "updated_at": "2026-11-23T22:54:37",
   "topic_ref": "IG-19",
   "script_decision": {
     "choice": "pending"

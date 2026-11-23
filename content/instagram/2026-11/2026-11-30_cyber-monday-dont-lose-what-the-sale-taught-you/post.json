@@ -15,7 +15,7 @@
   "festival": "Cyber Monday",
   "theme": "From dashboards to decisions",
   "caption": "A sale flatters every ad. Before you copy this weekend's winners, sort them.\n\nWith a big discount on screen, weak ads sell too. Brief January from the sale leaderboard and you may be copying the discount.\n\nSort every sale ad into three piles: won before and during the sale, won only during it, lost even with the discount.\n\nThe first pile is your creative. The second is your offer. The third tells you what to leave out.\n\nSave this and do the sort this week, while you still remember the details.",
-  "first_comment": "Decoded #7 goes deeper on this. Out Wednesday on galvor.ai.",
+  "first_comment": "Decoded #7 goes deeper on this. Out Tuesday 15 Dec on galvor.ai.",
   "hashtags": [
     "#cybermonday",
     "#metaads",
@@ -94,7 +94,7 @@
     ]
   },
   "images": [],
-  "notes": "Festival slot (Cyber Monday). Reader: a growth lead about to brief December and January creative off sale results. One argument: sale performance mixes the discount with the creative, so sort ads by how they did before and during the sale before copying any of them. This is a method that follows from reasoning, not a measured Galvor finding, and no numbers are used. Topic sharpened: old version was a general 'write down what the sale taught you'; this one gives the three-pile sort. First comment points to Decoded #7, which goes out Wednesday 2 Dec, two days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Festival slot (Cyber Monday). Reader: a growth lead about to brief December and January creative off sale results. One argument: sale performance mixes the discount with the creative, so sort ads by how they did before and during the sale before copying any of them. This is a method that follows from reasoning, not a measured Galvor finding, and no numbers are used. Topic sharpened: old version was a general 'write down what the sale taught you'; this one gives the three-pile sort. First comment points to Decoded #7, which goes out Wednesday 2 Dec, two days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-09T13:52:42",
@@ -107,6 +107,10 @@
     {
       "at": "2026-11-16T21:23:12",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:54:38",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -114,7 +118,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:21:04",
-  "updated_at": "2026-11-16T21:23:12",
+  "updated_at": "2026-11-23T22:54:38",
   "topic_ref": "IG-18",
   "script_decision": {
     "choice": "pending"

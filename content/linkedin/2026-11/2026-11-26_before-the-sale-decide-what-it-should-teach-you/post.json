@@ -15,7 +15,7 @@
   "festival": null,
   "theme": "From dashboards to decisions",
   "caption": "The sale starts tomorrow. Decide today what it should teach you.\nMost sale reports say what sold. Few say what the brand learned about its ads.\n\nA sale is the biggest ad test most D2C brands run all year, and it usually runs without a question.\n\nPick one question before Black Friday goes live.\n\nFor example: at the same discount, does an ad that leads with the offer do better than an ad that leads with the product?\n\nThen write three lines:\n\nThe question, in one sentence.\nThe two ads that answer it, identical except for the one thing you are testing.\nWhat you will do in December if the first is ahead, and if the second is.\n\nOn Monday you will have revenue either way. These three lines add an answer you can brief from.",
-  "first_comment": "Decoded #7, out next Wednesday, covers what to do once the sale ends. Follow Galvor to get it.",
+  "first_comment": "Decoded #7, out Tuesday 15 Dec, covers what to do once the sale ends. Follow Galvor to get it.",
   "hashtags": [
     "#D2CIndia",
     "#PerformanceMarketing",
@@ -41,7 +41,7 @@
     ]
   },
   "images": [],
-  "notes": "Hook shape: punchy plus context. Reader: a D2C founder or growth lead the day before Black Friday. No numbers used. Decoded #7 (2 Dec) is the matching issue but is not out on this date, so the first comment points forward to it.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Hook shape: punchy plus context. Reader: a D2C founder or growth lead the day before Black Friday. No numbers used. Decoded #7 (2 Dec) is the matching issue but is not out on this date, so the first comment points forward to it.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-16T21:21:50",
@@ -54,6 +54,10 @@
     {
       "at": "2026-11-17T23:22:02",
       "action": "Re-slotted to Thu 12:30: personal-first rhythm (17 Nov 2026), Sunil now posts Thu 09:00"
+    },
+    {
+      "at": "2026-11-23T22:54:37",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -61,7 +65,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-11T01:06:28",
-  "updated_at": "2026-11-17T23:22:02",
+  "updated_at": "2026-11-23T22:54:37",
   "topic_ref": "CO-OPEN-04",
   "script_decision": {
     "choice": "pending"

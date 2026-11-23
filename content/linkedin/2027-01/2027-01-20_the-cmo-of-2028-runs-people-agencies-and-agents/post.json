@@ -15,14 +15,14 @@
   "festival": null,
   "theme": "The learning loop",
   "caption": "By 2028 a CMO will run people, agencies and agents together.\n\nToday most teams run them on separate calendars, and that is where the learning gets lost.\n\nThe in-house team has a Monday review. The agency sends a monthly deck. Creators work to a campaign plan. AI tools produce whenever someone asks. Each one learns something, and none of it reaches the others in time to matter.\n\nYou do not have to wait for 2028 to fix this. Put everyone on one two-week cycle.\n\nBefore the meeting, agents do the reading: what ran, what it cost per order, what looked different about the ads that did well.\n\nIn the meeting, people decide. What to scale, what to cut, what to test next.\n\nWithin two days, those decisions go into the briefs for the agency and the creators, in the same words.\n\nTwo weeks later the cycle opens with one question: what did the last one teach us?\n\nTwo weeks is long enough for an ad to show a result and short enough that the lesson is still usable.\n\nThe CMO's job in that system is to keep the rhythm, and to make sure nothing learned in one corner stays there.",
-  "first_comment": "Read Decoded #12 on galvor.ai",
+  "first_comment": "",
   "hashtags": [
     "#AIinMarketing",
     "#GrowthMarketing",
     "#D2CIndia"
   ],
   "alt_text": "",
-  "cta": "Read Decoded #12 (first comment)",
+  "cta": "Follow Galvor",
   "script": null,
   "poll": null,
   "creative": {
@@ -30,7 +30,7 @@
     "slides": []
   },
   "images": [],
-  "notes": "Hook shape: punchy plus context. Reader: a CMO or founder running an in-house team, an agency, creators and AI tools at once. Argument: put all of them on one two-week cycle with fixed roles (agents read, people decide, briefs carry the decisions). Numbers: none from the facts bank as statistics; 'two-week cycle' matches Galvor's published loop, which runs every two weeks. 2028 is a forecast and is written as Sunil's view. First comment points to Decoded #12 (6 Jan), the fortnightly creative cycle issue.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2027-01-12 09:00 to 2027-01-20 09:00.",
+  "notes": "Hook shape: punchy plus context. Reader: a CMO or founder running an in-house team, an agency, creators and AI tools at once. Argument: put all of them on one two-week cycle with fixed roles (agents read, people decide, briefs carry the decisions). Numbers: none from the facts bank as statistics; 'two-week cycle' matches Galvor's published loop, which runs every two weeks. 2028 is a forecast and is written as Sunil's view. First comment points to Decoded #12 (6 Jan), the fortnightly creative cycle issue.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2027-01-12 09:00 to 2027-01-20 09:00.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-11T01:04:19",
@@ -43,6 +43,10 @@
     {
       "at": "2026-11-23T22:35:33",
       "action": "[Plan 23 Nov 2026] re-slotted to 2027-01-20 09:00"
+    },
+    {
+      "at": "2026-11-23T22:54:39",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -50,7 +54,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:16:03",
-  "updated_at": "2026-11-23T22:35:33",
+  "updated_at": "2026-11-23T22:54:39",
   "topic_ref": "S24",
   "script_decision": {
     "choice": "pending"

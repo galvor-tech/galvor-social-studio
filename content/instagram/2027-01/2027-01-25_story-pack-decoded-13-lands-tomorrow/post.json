@@ -1,23 +1,23 @@
 {
-  "id": "ig-2027-01-12-story-pack-decoded-13-lands-tomorrow",
+  "id": "ig-2027-01-25-story-pack-decoded-13-lands-tomorrow",
   "slug": "story-pack-decoded-13-lands-tomorrow",
   "platform": "instagram",
-  "date": "2027-01-12",
+  "date": "2027-01-25",
   "time": "12:30",
   "voice": "company",
   "pillar": "Newsletter",
   "job": "Convert",
   "format": "story",
   "series": "",
-  "title": "Story pack: Decoded #13 lands tomorrow (Budget Season)",
+  "title": "Story pack: Decoded #10 lands tomorrow (Budget Season)",
   "hook": "Finance funds what it can measure. Creative usually arrives without a measure.",
   "status": "draft",
   "festival": null,
   "theme": "The learning loop",
-  "caption": "Story pack (no feed caption).\n\nTeases Decoded #13: Budget Season: Making the Case for Creative Spend to Finance, out tomorrow. Frame 2 says why it matters. Frame 3 lists the three numbers finance already understands. Frame 4 is the question box. Frame 5 asks people to subscribe so it reaches their inbox.",
+  "caption": "Story pack (no feed caption).\n\nTeases Decoded #10: Budget Season: Making the Case for Creative Spend to Finance, out tomorrow. Frame 2 says why it matters. Frame 3 lists the three numbers finance already understands. Frame 4 is the question box. Frame 5 asks people to subscribe so it reaches their inbox.",
   "first_comment": "",
   "hashtags": [],
-  "alt_text": "Five vertical story frames. Frame 1: Tomorrow, Decoded #13, Budget Season: Making the Case for Creative Spend to Finance. Frame 2: finance funds what it can measure. Frame 3 lists three numbers finance already understands: cost per order by creative attribute, spend that taught you nothing, and time to a new winner. Frame 4 asks what finance asks you about creative spend. Frame 5: get it in your inbox tomorrow, subscribe free.",
+  "alt_text": "Five vertical story frames. Frame 1: Tomorrow, Decoded #10, Budget Season: Making the Case for Creative Spend to Finance. Frame 2: finance funds what it can measure. Frame 3 lists three numbers finance already understands: cost per order by creative attribute, spend that taught you nothing, and time to a new winner. Frame 4 asks what finance asks you about creative spend. Frame 5: get it in your inbox tomorrow, subscribe free.",
   "cta": "Subscribe to Decoded with the link sticker",
   "script": null,
   "poll": null,
@@ -26,7 +26,7 @@
     "slides": [
       {
         "layout": "cover",
-        "kicker": "Tomorrow · Decoded #13",
+        "kicker": "Tomorrow · Decoded #10",
         "headline": "Budget Season: Making the Case for *Creative Spend* to Finance",
         "sub": "Lands Wednesday morning."
       },
@@ -64,7 +64,7 @@
     ]
   },
   "images": [],
-  "notes": "Interactive ask: question sticker on frame 4 ('What does finance ask you about creative spend?'). Frame 5: link sticker to the Decoded subscribe page. No numbers used. To confirm before posting: the final issue keeps the three numbers finance understands (taken from the current draft of #13). Useful replies to the question box can be passed to Raj and Sunil for the issue.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Interactive ask: question sticker on frame 4 ('What does finance ask you about creative spend?'). Frame 5: link sticker to the Decoded subscribe page. No numbers used. To confirm before posting: the final issue keeps the three numbers finance understands (taken from the current draft of #13). Useful replies to the question box can be passed to Raj and Sunil for the issue.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-09T13:57:47",
@@ -81,6 +81,10 @@
     {
       "at": "2026-11-16T21:23:58",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:54:38",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -88,7 +92,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:24:52",
-  "updated_at": "2026-11-16T21:23:58",
+  "updated_at": "2026-11-23T22:54:38",
   "topic_ref": "IG-132",
   "script_decision": {
     "choice": "pending"

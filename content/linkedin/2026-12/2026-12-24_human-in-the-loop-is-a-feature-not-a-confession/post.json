@@ -15,14 +15,14 @@
   "festival": null,
   "theme": "People + agents",
   "caption": "Our AI co-worker can recommend a budget move. It cannot make one.\nThat was a design choice, and I would make it again.\n\nThe fair doubt about any agent in a marketing team is simple: what happens when it is wrong?\n\nMy answer is to decide, before building anything, where a person stands. Three questions sort it.\n\nCan the mistake be undone for free? A wrong tag on an ad can. Let the system act, and review in bulk.\n\nDoes the mistake spend money? A budget shift does. The system shows its reasoning and a person approves. Galvor never touches the media budget.\n\nCould the mistake hurt the brand? A claim in a script could. A person reads it before it goes anywhere.\n\nThe engineering work is making that review quick: the recommendation, the evidence and the expected result in one place. Someone who can see why can say yes or no in a couple of minutes.\n\nIf you are evaluating an agent this quarter, ask the vendor to draw this map. Where does it act alone, and where does it wait?\n\nAn agent you can overrule is one you can let near real money.",
-  "first_comment": "Read Decoded #8 on galvor.ai",
+  "first_comment": "",
   "hashtags": [
     "#AIinMarketing",
     "#PerformanceMarketing",
     "#D2C"
   ],
   "alt_text": "",
-  "cta": "First comment points to Decoded #8 (Agents, Not Headcount)",
+  "cta": "Follow Galvor",
   "script": null,
   "poll": null,
   "creative": {
@@ -30,7 +30,7 @@
     "slides": []
   },
   "images": [],
-  "notes": "CONFIRM WITH Raj: the three tiers describe how Galvor places a person (tags reviewed in bulk; budget suggestions approved by a person; script claims read by a person before use). They come from the earlier draft and from 'we never touch the media budget' and 'Vira shows its thinking'. Confirm each tier matches the product today.\nHook shape: punchy plus context.\nNumbers: none.\nReader: a CMO or head of growth who is evaluating an agent product and worries about it acting on its own.\nThe old hook ('a feature, not a confession') was dropped because it only makes sense to people who build AI products. The argument is kept and turned into a map a buyer can ask any vendor for.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2026-12-23 12:30 to 2026-12-24 16:00.",
+  "notes": "CONFIRM WITH Raj: the three tiers describe how Galvor places a person (tags reviewed in bulk; budget suggestions approved by a person; script claims read by a person before use). They come from the earlier draft and from 'we never touch the media budget' and 'Vira shows its thinking'. Confirm each tier matches the product today.\nHook shape: punchy plus context.\nNumbers: none.\nReader: a CMO or head of growth who is evaluating an agent product and worries about it acting on its own.\nThe old hook ('a feature, not a confession') was dropped because it only makes sense to people who build AI products. The argument is kept and turned into a map a buyer can ask any vendor for.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2026-12-23 12:30 to 2026-12-24 16:00.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-11T01:04:17",
@@ -55,6 +55,10 @@
     {
       "at": "2026-11-23T22:35:34",
       "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-24 16:00"
+    },
+    {
+      "at": "2026-11-23T22:54:39",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -62,7 +66,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:15:41",
-  "updated_at": "2026-11-23T22:35:34",
+  "updated_at": "2026-11-23T22:54:39",
   "topic_ref": "R26",
   "script_decision": {
     "choice": "pending"

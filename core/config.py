@@ -184,7 +184,7 @@ RHYTHM = {
     "instagram": [
         ("Mon", "19:00", "company", "Carousel — framework / tip"),
         ("Tue", "12:30", "company", "Stories — poll, quiz, behind the scenes"),
-        ("Wed", "12:30", "company", "Story — Decoded is out (link in bio)"),
+        ("Tue", "10:00", "company", "Story — Decoded is out (link in bio), on Decoded Tuesdays (fortnightly)"),
         ("Wed", "19:00", "company", "Reel — ad breakdown or behind the scenes"),
         ("Fri", "13:00", "company", "Carousel — data drop / myth vs fact"),
         ("Thu", "13:00", "company", "Carousel — New on Instagram this week (mirrors Shrutik's LinkedIn post)"),

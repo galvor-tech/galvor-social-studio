@@ -4,14 +4,14 @@
 {{ tb.create_tabs('newsletter') }}
 <div class="row"><h1 class="grow">Decoded by Galvor</h1>
   <button class="btn soft" onclick="genIdeas()">Suggest issue ideas</button></div>
-<p class="sub">Every <b>Wednesday at 08:30</b>, posted as a LinkedIn newsletter from the Galvor page and sent by email. Every issue uses the
+<p class="sub">Every other <b>Tuesday at 08:30</b>, posted as a LinkedIn newsletter from the Galvor page and sent by email. Every issue uses the
 exact format of Issues #3–#4 (checked automatically), and export gives you the same email-ready HTML. Write by hand in the editor, or
 let the AI suggest ideas and a first draft; any number it can't prove is marked <code>[DATA NEEDED]</code> and blocks export.</p>
 
 <div class="panel">
   <div class="panel-h"><h3>Issues</h3><span class="count">{{ rows|length }}</span><small>Errors block export. [DATA NEEDED] markers count as errors.</small></div>
   <table class="tbl" style="width:100%">
-    <tr><th>#</th><th>Wednesday</th><th>Title</th><th>Status</th><th class="num">Words</th><th>Checks</th><th></th></tr>
+    <tr><th>#</th><th>Tuesday</th><th>Title</th><th>Status</th><th class="num">Words</th><th>Checks</th><th></th></tr>
     {% for r in rows %}
     <tr>
       <td><b>{{ r.n }}</b></td><td class="small">{{ r.p.date|d('%a %d %b') }}</td>
@@ -27,7 +27,7 @@ let the AI suggest ideas and a first draft; any number it can't prove is marked 
 
 <div class="panel">
   <div class="panel-h lav"><h3>Issue ideas</h3><span class="count">{{ ideas|length }}</span>
-    <small>From the topics planned so far, Discover and your facts bank. Pick one and drop it into an open Wednesday.</small></div>
+    <small>From the topics planned so far, Discover and your facts bank. Pick one and drop it into an open Tuesday.</small></div>
   <div class="row" style="padding:10px 16px;gap:8px"><input class="in grow" id="steer" placeholder="Optional steer, e.g. 'something on regional-language creative' or 'tie to Republic Day sales'"></div>
   <div class="grid g2" style="padding:0 16px 16px">
   {% for i in ideas %}

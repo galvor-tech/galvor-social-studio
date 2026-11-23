@@ -14,7 +14,7 @@
   "status": "draft",
   "festival": null,
   "theme": "From dashboards to decisions",
-  "caption": "Some ads look like losers for two months, then end up average.\nCut them in week two and you never find out which kind you had.\n\nWe looked at every new video ad launched between May and September 2026 across the brands we work with. Some ad styles started about 35% dearer per order in their first two months. Over their whole life they ended close to average.\n\nBefore you cut an ad on early cost per order, check three things:\n\n1. Have you run this style before? Look at how it behaved over its full run last time.\n2. Is the ad new, or a copy of something already live?\n3. Did you write down a review date before launch?\n\nAn early number is a first reading. Give the ad the time its style has needed before.",
+  "caption": "Some ads look like losers for two months, then end up average.\nCut them in week two and you never find out which kind you had.\n\nWe looked at every new video ad launched between May and September 2026 across the brands we work with. Some ad styles cost about 35% more per order in their first two months, then ended close to average over their full run.\n\nThe catch is that early on, a slow starter and a real loser look the same. Before you cut one, check:\n\n1. Have you run this style before? See how it did over its whole run last time, not just the first weeks.\n2. Is it actually new or close to an ad that's already live? A copy may never get going, so give the most time to ads that are really new.\n\nA slow start doesn't always mean a bad ad.\n\nFollow Galvor.ai for more of what we are learning from the data.\nhashtag#PerformanceMarketing hashtag#MetaAds hashtag#MarketingAnalytics",
   "first_comment": "Read Decoded #3 on galvor.ai",
   "hashtags": [
     "#PerformanceMarketing",
@@ -23,18 +23,28 @@
   ],
   "alt_text": "Stat card on a violet background: 35% dearer per order in the first two months, then close to average over the ad's life. Source: Galvor analysis of ads launched May to September 2026.",
   "cta": "none (Decoded #3 in first comment)",
-  "script": null,
-  "poll": null,
+  "script": {
+    "duration": "",
+    "music": "",
+    "setup": "",
+    "notes": "",
+    "scenes": []
+  },
+  "poll": {
+    "question": "",
+    "options": [],
+    "duration": "1 week"
+  },
   "creative": {
     "size": "feed",
     "slides": [
       {
-        "layout": "stat",
-        "kicker": "Early cost per order",
-        "stat": "35%",
         "headline": "dearer per order in the first *two months*, then close to average over the ad's life",
-        "sub": "Check how a style behaved over its full run before you cut it in week two.",
-        "source": "Source: Galvor analysis · ads launched May to Sep 2026"
+        "kicker": "Early cost per order",
+        "layout": "stat",
+        "source": "Source: Galvor analysis · ads launched May to Sep 2026",
+        "stat": "35%",
+        "sub": "Check how a style behaved over its full run before you cut it in week two."
       }
     ]
   },
@@ -52,6 +62,18 @@
     {
       "at": "2026-11-17T23:22:02",
       "action": "Re-slotted to Thu 12:30: personal-first rhythm (17 Nov 2026), Sunil now posts Thu 09:00"
+    },
+    {
+      "at": "2026-11-18T13:12:38",
+      "action": "Shrutik Rathod: asked for a new script from their own content (Claude terminal)"
+    },
+    {
+      "at": "2026-11-18T13:12:40",
+      "action": "Shrutik Rathod: asked for a new script from their own content (Claude terminal)"
+    },
+    {
+      "at": "2026-11-18T13:12:52",
+      "action": "Shrutik Rathod: chose this script. Media can now be made."
     }
   ],
   "metrics": {},
@@ -59,9 +81,17 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-11T01:06:26",
-  "updated_at": "2026-11-17T23:22:02",
+  "updated_at": "2026-11-19T14:30:14",
   "topic_ref": "CO-OPEN-03",
   "script_decision": {
-    "choice": "pending"
-  }
+    "choice": "use",
+    "by": "Shrutik Rathod",
+    "at": "2026-11-18T13:12:52"
+  },
+  "reminders": {
+    "pre": "2026-11-19T12:00:52",
+    "due": "2026-11-19T12:31:02",
+    "missed": "2026-11-19T14:30:14"
+  },
+  "due": "Missed — post, reschedule or skip"
 }

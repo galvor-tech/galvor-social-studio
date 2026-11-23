@@ -1,24 +1,24 @@
 {
-  "id": "ig-2026-12-30-story-pack-decoded-11-is-out",
+  "id": "ig-2027-01-12-story-pack-decoded-11-is-out",
   "slug": "story-pack-decoded-11-is-out",
   "platform": "instagram",
-  "date": "2026-12-30",
-  "time": "12:30",
+  "date": "2027-01-12",
+  "time": "10:00",
   "voice": "company",
   "pillar": "Newsletter",
   "job": "Educate",
   "format": "story",
   "series": "",
-  "title": "Story pack: Decoded #11 is out (Test Calendar)",
+  "title": "Story pack: Decoded #9 is out (Test Calendar)",
   "hook": "Your 2027 plan says what you will post. Does it say what you will know?",
   "status": "draft",
   "festival": null,
   "theme": "People + agents",
-  "caption": "Story pack (no feed caption).\n\nAnnounces Decoded #11: Build a Test Calendar, Not a Content Calendar. Frame 1 is the issue title. Frame 2 compares the two calendars. Frame 3 is the poll. Frame 4 sends people to the issue with a link sticker.",
+  "caption": "Story pack (no feed caption).\n\nAnnounces Decoded #9: Build a Test Calendar, Not a Content Calendar. Frame 1 is the issue title. Frame 2 compares the two calendars. Frame 3 is the poll. Frame 4 sends people to the issue with a link sticker.",
   "first_comment": "",
   "hashtags": [],
-  "alt_text": "Four vertical story frames. Frame 1: Decoded #11, Build a Test Calendar, Not a Content Calendar, out today. Frame 2 compares a content calendar (what will we post, themes by week, counted in posts) with a test calendar (what will we know, one question a fortnight, counted in answers). Frame 3 is a poll: does your 2027 plan have a question in it? Frame 4 asks people to read Decoded #11 free.",
-  "cta": "Tap the link sticker to read Decoded #11",
+  "alt_text": "Four vertical story frames. Frame 1: Decoded #9, Build a Test Calendar, Not a Content Calendar, out today. Frame 2 compares a content calendar (what will we post, themes by week, counted in posts) with a test calendar (what will we know, one question a fortnight, counted in answers). Frame 3 is a poll: does your 2027 plan have a question in it? Frame 4 asks people to read Decoded #9 free.",
+  "cta": "Tap the link sticker to read Decoded #9",
   "script": null,
   "poll": null,
   "creative": {
@@ -26,7 +26,7 @@
     "slides": [
       {
         "layout": "cover",
-        "kicker": "New issue · Decoded #11",
+        "kicker": "New issue · Decoded #9",
         "headline": "Build a *Test Calendar,* Not a Content Calendar",
         "sub": "Out today. Free to read."
       },
@@ -70,7 +70,7 @@
     ]
   },
   "images": [],
-  "notes": "Interactive ask: poll sticker on frame 3 with the three options as written. Frame 4: link sticker to Decoded #11; update the bio link the same morning. No numbers used. To confirm before posting: the final issue includes the one-page template (taken from the current draft of #11).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Interactive ask: poll sticker on frame 3 with the three options as written. Frame 4: link sticker to Decoded #9; update the bio link the same morning. No numbers used. To confirm before posting: the final issue includes the one-page template (taken from the current draft of #11).\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-09T13:54:54",
@@ -87,6 +87,10 @@
     {
       "at": "2026-11-16T21:23:58",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:54:38",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -94,7 +98,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:22:50",
-  "updated_at": "2026-11-16T21:23:58",
+  "updated_at": "2026-11-23T22:54:38",
   "topic_ref": "IG-107",
   "script_decision": {
     "choice": "pending"

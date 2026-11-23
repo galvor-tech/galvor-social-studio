@@ -1535,7 +1535,7 @@ def api_notify_test():
     return jsonify(ok=bool(n), message=f"Sent via {', '.join(channels)}. Email/webhook results appear in the delivery log in a few seconds.")
 
 
-# ---------------------------------------------------------------- Decoded (newsletter, every Wednesday)
+# ---------------------------------------------------------------- Decoded (newsletter, fortnightly Tuesdays)
 def _nl_post(pid):
     p = get_post(pid)
     if not p or p["platform"] != "newsletter":

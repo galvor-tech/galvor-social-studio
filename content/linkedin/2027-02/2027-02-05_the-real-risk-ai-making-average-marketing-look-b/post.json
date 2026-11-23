@@ -15,14 +15,14 @@
   "festival": null,
   "theme": "Proof season: pilots & client stories",
   "caption": "AI can make an average marketing team look very productive.\n\nThe output goes up. What the team knows about its buyers stays where it was.\n\nThis is the risk I would watch in 2027, more than any risk to jobs. If your weekly report counts creatives shipped, posts published and decks sent, AI will improve every line on it. The report will look better while the business stays the same.\n\nThe fix is one change to that report.\n\nRemove the line that counts what was made. Add a line that counts questions answered.\n\nA question is answered when a test ends in a decision: scale it, cut it, or change the brief. A test that ends in 'interesting' counts as zero.\n\nThen read the number every fortnight. A team that ships forty ads and answers one question has had a slow fortnight. A team that ships eight and answers four has had a good one.\n\nOutput is what you paid for. A decision is what you got for the money.\n\nCount the second one, and AI becomes useful for the right reason.",
-  "first_comment": "Read Decoded #11 on galvor.ai",
+  "first_comment": "Read Decoded #9 on galvor.ai",
   "hashtags": [
     "#AIinMarketing",
     "#PerformanceMarketing",
     "#D2CIndia"
   ],
   "alt_text": "",
-  "cta": "Read Decoded #11 (first comment)",
+  "cta": "Read Decoded #9 (first comment)",
   "script": null,
   "poll": null,
   "creative": {
@@ -30,7 +30,7 @@
     "slides": []
   },
   "images": [],
-  "notes": "Hook shape: single-line bomb. Reader: a founder or CMO who reads a weekly marketing report. Argument: replace the output count in the weekly report with a count of tests that ended in a decision. No statistics; 'forty ads and one question' and 'eight and four' are a made-up illustration of the scoring, clearly hypothetical, not results. The old hook used the 'the risk is not X, it is Y' shape and was rewritten. First comment points to Decoded #11 (30 Dec), the test calendar issue.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2027-02-02 09:00 to 2027-02-05 09:00.",
+  "notes": "Hook shape: single-line bomb. Reader: a founder or CMO who reads a weekly marketing report. Argument: replace the output count in the weekly report with a count of tests that ended in a decision. No statistics; 'forty ads and one question' and 'eight and four' are a made-up illustration of the scoring, clearly hypothetical, not results. The old hook used the 'the risk is not X, it is Y' shape and was rewritten. First comment points to Decoded #9 (30 Dec), the test calendar issue.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Plan 23 Nov 2026] Moved from 2027-02-02 09:00 to 2027-02-05 09:00.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-11T01:04:21",
@@ -43,6 +43,10 @@
     {
       "at": "2026-11-23T22:35:34",
       "action": "[Plan 23 Nov 2026] re-slotted to 2027-02-05 09:00"
+    },
+    {
+      "at": "2026-11-23T22:54:39",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -50,7 +54,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:16:49",
-  "updated_at": "2026-11-23T22:35:34",
+  "updated_at": "2026-11-23T22:54:39",
   "topic_ref": "S26",
   "script_decision": {
     "choice": "pending"

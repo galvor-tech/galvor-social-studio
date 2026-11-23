@@ -23,7 +23,13 @@
   ],
   "alt_text": "",
   "cta": "none (vote in the poll)",
-  "script": null,
+  "script": {
+    "duration": "",
+    "music": "",
+    "setup": "",
+    "notes": "",
+    "scenes": []
+  },
   "poll": {
     "question": "Would you let an AI agent move 20% of your ad budget without your sign-off?",
     "options": [
@@ -48,6 +54,14 @@
     {
       "at": "2026-11-16T21:17:35",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T09:47:57",
+      "action": "Shrutik Rathod: status → In review"
+    },
+    {
+      "at": "2026-11-23T12:03:22",
+      "action": "Shrutik Rathod: status → Draft"
     }
   ],
   "metrics": {},
@@ -55,9 +69,20 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:14:55",
-  "updated_at": "2026-11-16T21:17:35",
+  "updated_at": "2026-11-23T12:03:22",
   "topic_ref": "S25",
   "script_decision": {
     "choice": "pending"
+  },
+  "review": {
+    "requested_by": "shrutik@galvor.com",
+    "requested_by_name": "Shrutik Rathod",
+    "requested_at": "2026-11-23T09:47:56",
+    "reviewers": [
+      "sunil@galvor.com"
+    ],
+    "reviewer_names": [
+      "Sunil Humne"
+    ]
   }
 }

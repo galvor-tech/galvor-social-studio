@@ -15,7 +15,7 @@
   "festival": null,
   "theme": "From dashboards to decisions",
   "caption": "Sale week: every ad looks like a winner.\n\nThe week after is when you find out which ones were good and which ones were standing next to a big discount.\n\nBefore you crown anything from this week's numbers, do one small thing. Pick your top three sale ads and write down what each one had besides the offer: the first shot, the person, the message.\n\nThen watch those three at full price. The ones that still hold are your real learning from the sale.\n\nSave this for Monday. Follow @galvor.ai for more.",
-  "first_comment": "Decoded #7, The Sale Is Over. What Did Your Ads Learn?, is out on Wednesday on galvor.ai",
+  "first_comment": "Decoded #7, The Sale Is Over. What Did Your Ads Learn?, is out on Tue 15 Dec. Wednesday on galvor.ai",
   "hashtags": [
     "#performancemarketing",
     "#metaads",
@@ -38,7 +38,7 @@
     ]
   },
   "images": [],
-  "notes": "Reader: a performance marketer the morning after Black Friday week. Topic changed: the old line (which ad actually worked?) repeated the 21 Nov post. New argument: a discount flatters every ad, so recheck sale winners at full price. This is reasoning, not a Galvor data finding, and the caption does not present it as one. No numbers from the facts bank used. First comment points to Decoded #7, which goes out on 2 Dec, after this post; reword to \"Read Decoded #7 on galvor.ai\" if the post moves later.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-11-28 (Sat) to a weekday: posting is Monday to Friday only.",
+  "notes": "Reader: a performance marketer the morning after Black Friday week. Topic changed: the old line (which ad actually worked?) repeated the 21 Nov post. New argument: a discount flatters every ad, so recheck sale winners at full price. This is reasoning, not a Galvor data finding, and the caption does not present it as one. No numbers from the facts bank used. First comment points to Decoded #7, which goes out on 2 Dec, after this post; reword to \"Read Decoded #7 on galvor.ai\" if the post moves later.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[16 Nov 2026] Moved from 2026-11-28 (Sat) to a weekday: posting is Monday to Friday only.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-11T01:04:16",
@@ -55,6 +55,10 @@
     {
       "at": "2026-11-16T21:48:12",
       "action": "Moved from 2026-11-28 11:00 to 2026-11-26 13:00: weekdays only"
+    },
+    {
+      "at": "2026-11-23T22:54:38",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -62,7 +66,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:21:02",
-  "updated_at": "2026-11-16T21:48:12",
+  "updated_at": "2026-11-23T22:54:38",
   "topic_ref": "IG-17",
   "script_decision": {
     "choice": "pending"

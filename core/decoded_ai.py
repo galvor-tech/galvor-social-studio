@@ -84,7 +84,7 @@ def generate_ideas(n: int = 5, item_ids: list[str] | None = None, steer: str = "
     srcs = _sources(item_ids)
     past = "\n".join(f"#{r['issue']} ({r['date']}, {r['status']}): {r['title']}" for r in _issues())
     src_txt = "\n".join(f"[{s['id']}] {s['publisher']} {s['date']} — {s['title']} — {s['text'][:400]} ({s['url']})" for s in srcs)
-    prompt = f"""You plan issues of "Decoded by Galvor", a weekly newsletter (every Wednesday, from the Galvor LinkedIn page and by
+    prompt = f"""You plan issues of "Decoded by Galvor", a fortnightly newsletter (every other Tuesday, from the Galvor LinkedIn page and by
 email) for Indian D2C founders, CMOs, growth and creative leads. Galvor decodes why ads and creator videos work.
 Goal of the newsletter: awareness — issues people forward, comment on and click. Each issue: a contrarian, specific title
 in the house style (e.g. "Creative Diversity: Low. Why 30 New Ads Won't Fix It", "Fake Followers: 0%. Why Your Creator Still
@@ -329,7 +329,7 @@ Rules: no invented numbers (only numbers in the takeaways), no client names, no 
         story["creative"] = {"size": "story", "slides": [
             {"layout": "cover", "kicker": f"Decoded · Issue #{n}", "headline": short[:90], "sub": "Out now. Link in bio."},
             {"layout": "text", "kicker": "One thing from this issue", "headline": takeaways[0][:78], "body": ""},
-            {"layout": "cta", "headline": "Get Decoded every Wednesday", "sub": "Free. For D2C growth and creative teams.",
+            {"layout": "cta", "headline": "Get Decoded every other Tuesday", "sub": "Free. For D2C growth and creative teams.",
              "actions": ["Follow @galvor.ai", "Link in bio to subscribe"]}]}
         created.append(save_post(story, note=f"Promo pack for Decoded #{n}")["id"])
         car = blank_post("instagram", p["date"], voice="company", format="carousel", pillar="Newsletter", job="Educate",
@@ -340,7 +340,7 @@ Rules: no invented numbers (only numbers in the takeaways), no client names, no 
                          hashtags=["#performancemarketing", "#d2cindia", "#creativestrategy", "#KnowWhyYourAdsWin"])
         car["creative"] = {"size": "feed", "slides": [{"layout": "cover", "kicker": f"Decoded · Issue #{n}", "headline": short[:95], "sub": "Swipe for the three takeaways →"}] +
                            [{"layout": "text", "kicker": f"Takeaway {i}", "headline": t.split(".")[0][:78], "body": t[:300]} for i, t in enumerate(takeaways, 1)] +
-                           [{"layout": "cta", "headline": "Read the full issue free", "sub": "Decoded by Galvor, every Wednesday.",
+                           [{"layout": "cta", "headline": "Read the full issue free", "sub": "Decoded by Galvor, every other Tuesday.",
                              "actions": ["Follow @galvor.ai", "Save this", "Link in bio"]}]}
         slot = next_free_slot(car)
         from datetime import date as _d, timedelta as _td

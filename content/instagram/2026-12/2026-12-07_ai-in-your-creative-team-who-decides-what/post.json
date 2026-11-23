@@ -15,7 +15,7 @@
   "festival": null,
   "theme": "People + agents",
   "caption": "Before you add AI to a creative team, write down which decisions stay with people.\n\nMost teams are comfortable with AI doing the reading: tagging ads, counting what repeats, flagging what is slowing down.\n\nThe doubt starts when a tool changes spend or approves creative and cannot say why.\n\nSo agree the split first. AI reads and suggests, with reasons. A named person decides anything that spends or goes live.\n\nThat is how we built Galvor: it never touches the media budget.\n\nSave the questions on the last slide for your next vendor call.",
-  "first_comment": "Decoded #8 goes deeper on this. Out Wednesday on galvor.ai.",
+  "first_comment": "We write about this in Decoded, our newsletter. Link in bio.",
   "hashtags": [
     "#aiinmarketing",
     "#creativestrategy",
@@ -101,7 +101,7 @@
     ]
   },
   "images": [],
-  "notes": "Job: De-risk. The doubt answered: 'will an AI tool take decisions out of my team's hands?' Reader: a CMO or founder weighing an AI tool for the creative team. One argument: split reading from deciding and write the split down. One product mention, earned on slide 5, using only published lines (Vira shows its thinking; scale, cut, shift; we never touch the media budget). No numbers used. Topic kept. First comment points to Decoded #8, which goes out Wednesday 9 Dec, two days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.",
+  "notes": "Job: De-risk. The doubt answered: 'will an AI tool take decisions out of my team's hands?' Reader: a CMO or founder weighing an AI tool for the creative team. One argument: split reading from deciding and write the split down. One product mention, earned on slide 5, using only published lines (Vira shows its thinking; scale, cut, shift; we never touch the media budget). No numbers used. Topic kept. First comment points to Decoded #8, which goes out Wednesday 9 Dec, two days after this post.\n[Calendar rewrite 16 Nov 2026] Script rewritten with the new prompts. No media yet.\n[Decoded shift 23 Nov 2026] links/dates updated for the new Decoded schedule.",
   "approvals": [
     {
       "at": "2026-11-09T13:53:02",
@@ -114,6 +114,10 @@
     {
       "at": "2026-11-16T21:23:12",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T22:54:38",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -121,7 +125,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:21:26",
-  "updated_at": "2026-11-16T21:23:12",
+  "updated_at": "2026-11-23T22:54:38",
   "topic_ref": "IG-23",
   "script_decision": {
     "choice": "pending"

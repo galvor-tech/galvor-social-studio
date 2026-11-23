@@ -23,8 +23,18 @@
   ],
   "alt_text": "Text-only post, no image.",
   "cta": "Follow Galvor (first comment)",
-  "script": null,
-  "poll": null,
+  "script": {
+    "duration": "",
+    "music": "",
+    "setup": "",
+    "notes": "",
+    "scenes": []
+  },
+  "poll": {
+    "question": "",
+    "options": [],
+    "duration": "1 week"
+  },
   "creative": {
     "size": "feed",
     "slides": []
@@ -43,6 +53,14 @@
     {
       "at": "2026-11-16T21:18:43",
       "action": "Calendar rewrite: new script (16 Nov 2026)"
+    },
+    {
+      "at": "2026-11-23T12:02:20",
+      "action": "Shrutik Rathod: status → In review"
+    },
+    {
+      "at": "2026-11-23T12:03:03",
+      "action": "Shrutik Rathod: status → Draft"
     }
   ],
   "metrics": {},
@@ -50,9 +68,26 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:15:15",
-  "updated_at": "2026-11-16T21:18:43",
+  "updated_at": "2026-11-23T14:30:25",
   "topic_ref": "Sh21",
   "script_decision": {
     "choice": "pending"
-  }
+  },
+  "reminders": {
+    "pre": "2026-11-23T12:00:41",
+    "due": "2026-11-23T12:30:56",
+    "missed": "2026-11-23T14:30:25"
+  },
+  "review": {
+    "requested_by": "shrutik@galvor.com",
+    "requested_by_name": "Shrutik Rathod",
+    "requested_at": "2026-11-23T12:02:20",
+    "reviewers": [
+      "shrutik@galvor.com"
+    ],
+    "reviewer_names": [
+      "Shrutik Rathod"
+    ]
+  },
+  "due": "Missed — post, reschedule or skip"
 }

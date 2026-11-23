@@ -1,8 +1,8 @@
 {
-  "id": "nl-2027-01-12-decoded-13-budget-season-making-the-case-for-cre",
+  "id": "nl-2027-01-26-decoded-13-budget-season-making-the-case-for-cre",
   "slug": "decoded-13-budget-season-making-the-case-for-cre",
   "platform": "newsletter",
-  "date": "2027-01-12",
+  "date": "2027-01-26",
   "time": "08:30",
   "voice": "company",
   "pillar": "Newsletter",
@@ -35,7 +35,7 @@
   "images": [
     "slide_01.png"
   ],
-  "notes": "Writer's brief: Skeleton — Raj to write in full, with Sunil reviewing the finance framing. ~1,500 words when finished. Sends Wed 27 Jan (moved from Tue 26 for Republic Day), just before the Union Budget (expected 1 Feb) and FY-end planning.\n\nWas planned as #9 (fortnightly). Now #13, Wednesday 2027-01-13. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.\n[Plan 23 Nov 2026] Moved from 2027-01-13 08:30 to 2027-01-12 08:30.",
+  "notes": "Writer's brief: Skeleton — Raj to write in full, with Sunil reviewing the finance framing. ~1,500 words when finished. Sends Wed 27 Jan (moved from Tue 26 for Republic Day), just before the Union Budget (expected 1 Feb) and FY-end planning.\n\nWas planned as #9 (fortnightly). Now #13, Wednesday 2027-01-13. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.\n[Plan 23 Nov 2026] Moved from 2027-01-13 08:30 to 2027-01-12 08:30.\n[Decoded shift 23 Nov 2026] was 2027-01-12 as 'Decoded #10: Budget Season: Making the C'; now #10 on Tue 2027-01-26.",
   "approvals": [
     {
       "at": "2026-11-11T01:58:27",
@@ -56,6 +56,10 @@
     {
       "at": "2026-11-23T22:35:35",
       "action": "[Plan 23 Nov 2026] re-slotted to 2027-01-12 08:30"
+    },
+    {
+      "at": "2026-11-23T22:54:37",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -63,7 +67,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:25:20",
-  "updated_at": "2026-11-23T22:35:35",
+  "updated_at": "2026-11-23T22:54:37",
   "topic_ref": "NL-9",
   "newsletter": {
     "issue": 13,

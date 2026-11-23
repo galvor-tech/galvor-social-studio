@@ -1,8 +1,8 @@
 {
-  "id": "nl-2026-12-29-decoded-11-build-a-test-calendar-not-a-content-c",
+  "id": "nl-2027-01-12-decoded-11-build-a-test-calendar-not-a-content-c",
   "slug": "decoded-11-build-a-test-calendar-not-a-content-c",
   "platform": "newsletter",
-  "date": "2026-12-29",
+  "date": "2027-01-12",
   "time": "08:30",
   "voice": "company",
   "pillar": "Newsletter",
@@ -35,7 +35,7 @@
   "images": [
     "slide_01.png"
   ],
-  "notes": "Writer's brief: Skeleton — Raj to write in full. ~1,500 words when finished. Sends in the quiet week between Christmas and New Year: keep it practical and short to read.\n\nWas planned as #7 (fortnightly). Now #11, Wednesday 2026-12-30. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.\n[Plan 23 Nov 2026] Moved from 2026-12-30 08:30 to 2026-12-29 08:30.",
+  "notes": "Writer's brief: Skeleton — Raj to write in full. ~1,500 words when finished. Sends in the quiet week between Christmas and New Year: keep it practical and short to read.\n\nWas planned as #7 (fortnightly). Now #11, Wednesday 2026-12-30. Draft converted to Decoded markup — edit it in the Decoded editor; every [DATA NEEDED] must be filled before export.\n\nSending checklist: (1) Raj edits the draft in his own words; Sunil signs off any claim. (2) Every number traced to the facts bank or a fresh, saved analysis; remove all [DATA NEEDED] markers. (3) No client names without written permission. (4) Email goes out at 08:30 IST; LinkedIn newsletter at 09:00 IST with the cover image from this post. (5) Link the previous issue at the top. (6) Social promo slots (company page LinkedIn + Instagram) are already on the calendar — check they point to this issue's link. (7) Reply to every comment in the first hour.\n[Plan 23 Nov 2026] Moved from 2026-12-30 08:30 to 2026-12-29 08:30.\n[Decoded shift 23 Nov 2026] was 2026-12-29 as 'Decoded #9: Build a Test Calendar, Not a'; now #9 on Tue 2027-01-12.",
   "approvals": [
     {
       "at": "2026-11-11T01:58:27",
@@ -52,6 +52,10 @@
     {
       "at": "2026-11-23T22:35:35",
       "action": "[Plan 23 Nov 2026] re-slotted to 2026-12-29 08:30"
+    },
+    {
+      "at": "2026-11-23T22:54:37",
+      "action": "[Decoded shift 23 Nov 2026]"
     }
   ],
   "metrics": {},
@@ -59,7 +63,7 @@
   "published_at": "",
   "publish_log": [],
   "created_at": "2026-11-08T01:25:17",
-  "updated_at": "2026-11-23T22:35:35",
+  "updated_at": "2026-11-23T22:54:37",
   "topic_ref": "NL-7",
   "newsletter": {
     "issue": 11,
