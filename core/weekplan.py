@@ -146,6 +146,9 @@ def _context(monday: dt.date) -> str:
         parts.append("## Galvor content rules (house style, CTAs, hooks, voices)\n" + spec.read_text(encoding="utf-8")[:16000])
     parts.append("## Voices\n" + "\n\n".join(playbook.voice_block(k) for k in ("sunil", "raj", "shrutik", "company")))
     parts.append("## Distribution rules\n" + "\n".join("- " + d for d in DISTRIBUTION))
+    rp = DATA / "reel_playbook.md"
+    if rp.exists():
+        parts.append("## Instagram reel playbook (every reel script follows this)\n" + rp.read_text(encoding="utf-8")[:9000])
     series = _read(DATA / "series.json", {})
     if series:
         bb = series.get("brand_breakdown", {})
@@ -318,6 +321,9 @@ How to write them:
   script for the person (scenes with time, visual, voiceover, on_screen). Image = one slide. Carousel = 5-8 slides.
 - Instagram: reels on Mon, Wed, Fri (format "reel", 25-40 s script plus a cover slide and a CTA slide "Follow @galvor.ai");
   Tue and Thu are an image or carousel. Thursday mirrors Shrutik's "New on Instagram" post.
+- Reels follow the reel playbook in the context: hook, lock-in zone, body blocks with rehooks, CTA with an aligned
+  lead magnet (use "link in bio", no comment-for-DM yet), then Follow @galvor.ai. In script.setup name the bricks
+  (format, seed, text hook, visual hook, layout, lead magnet) and the ONE brick being tested this time.
 - Sunil's Monday post uses one of the client stories or angles (never add anything that could identify the client).
 - Raj's Tuesday post is the next Brand Breakdown brand in the queue: write it as status "idea" with the hook and slide
   outline, and say in "why" that the brand's public Meta Ad Library data must be pulled before it can be finished.

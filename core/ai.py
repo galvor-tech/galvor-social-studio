@@ -261,6 +261,11 @@ def rewrite(post: dict, instruction: str) -> dict:
     return new
 
 
+def _reel_playbook() -> str:
+    f = DATA / "reel_playbook.md"
+    return f.read_text(encoding="utf-8")[:9000] if f.exists() else ""
+
+
 def write_script(post: dict, instruction: str = "") -> dict:
     """Write (or rewrite) only the reel/video script from the post. Returns the new `script` dict;
     the caption and everything else stay as they are."""
@@ -270,7 +275,10 @@ def write_script(post: dict, instruction: str = "") -> dict:
     prompt = (f"{'Rewrite' if have else 'Write'} the scene-by-scene script for this {post.get('format') or 'reel'}, "
               f"spoken by {v['name']} ({v['role']}).\n{playbook.voice_block(post.get('voice') or 'company')}\n\n"
               f"{playbook.prompt('reel')}\n\n"
-              f"Instruction from the marketing lead: {instruction or '(none)'}\n"
+              + (("Reel playbook (follow it for Instagram reels; put the bricks and the one brick being tested "
+                  "in 'setup'):\n" + _reel_playbook() + "\n\n")
+                 if post.get("platform") == "instagram" or post.get("format") == "reel" else "")
+              + f"Instruction from the marketing lead: {instruction or '(none)'}\n"
               f"Post: {json.dumps(ctx, ensure_ascii=False)}\n"
               + (f"Current script: {json.dumps(post.get('script'), ensure_ascii=False)}\n" if have else "")
               + 'Return ONLY this JSON: {"script": {"duration": "...", "setup": "...", "scenes": '
